@@ -7,7 +7,7 @@ Na razie brak ostatecznie zatwierdzonej pełnej listy pakowania.
 ## Kandydaci do zabrania
 
 - Mały wentylator akumulatorowy USB-C.
-- Saszetki ORS, czyli doustnych soli nawadniających.
+- Saszetki ORS/DPN, czyli doustnego płynu nawadniającego do stosowania przy biegunce lub wymiotach; przykłady: ORSALIT dla dorosłych albo Gastrolit. Szczegóły i orientacyjne ceny są w pliku `zdrowie.md`.
 - Preparat do dezynfekcji rąk zawierający co najmniej 60% alkoholu.
 - Stałe leki w ilości wystarczającej na cały pobyt oraz rozsądny zapas na wypadek opóźnionego powrotu.
 - Indywidualnie dobrane leki przeciwbiegunkowe lub inne preparaty zalecone przez lekarza lub farmaceutę.
