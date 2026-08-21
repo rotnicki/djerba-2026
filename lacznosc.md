@@ -70,42 +70,142 @@ Tryb samolotowy nie powinien jednak być włączony przez cały pobyt, jeśli po
 6. Jeśli wskaźnik Wi-Fi Calling się nie pojawi, nie wykonywać zwykłego połączenia z założeniem, że zostanie ono rozliczone jak Wi-Fi Calling; użyć WhatsAppa.
 7. Po opuszczeniu hotelu wyłączyć tryb samolotowy, jeżeli ma działać podróżna eSIM z internetem.
 
-### Którzy polscy operatorzy oferują Wi-Fi Calling?
+### Operator, marka i rodzaj oferty — trzeba rozróżniać
 
 Stan sprawdzenia: 22 sierpnia 2026 r.
 
-Wszyscy czterej główni operatorzy infrastrukturalni w Polsce oferują Wi-Fi Calling / VoWiFi. Nie ma więc w tej grupie operatora, który tej technologii w ogóle nie oferuje. Trzeba jednak sprawdzać konkretną taryfę, urządzenie i zasady korzystania za granicą.
+Samo pytanie „jaki masz operator?” jest niewystarczające. Dwie osoby korzystające z tej samej infrastruktury mogą mieć inne zasady Wi-Fi Calling, jeżeli jedna ma główną markę operatora, a druga markę dodatkową, subskrypcję albo ofertę na kartę.
+
+Przed wyjazdem zbieramy więc od każdego uczestnika trzy informacje:
+
+1. dokładna marka, np. Orange, nju, Orange Flex, Play, Virgin Mobile, T-Mobile, Heyah, Red Bull MOBILE, Plus, Plush, Premium Mobile, Netia albo a2mobile;
+2. rodzaj oferty, np. abonament, subskrypcja albo na kartę;
+3. model telefonu.
+
+### Rodzina Orange
 
 #### Orange
 
 - Orange oferuje Wi-Fi Calling.
-- W zagranicznym Wi-Fi Calling występują ważne ograniczenia zależne od oferty.
-- Klienci Orange na kartę nie mogą korzystać z Wi-Fi Calling za granicą.
-- Orange Flex pozwala na Wi-Fi Calling w roamingu UE przy połączeniach do Polski; Tunezja nie jest w UE, więc na Dżerbie nie należy zakładać działania tej funkcji w Orange Flex.
-- Dla klasycznego abonamentu Orange Wi-Fi Calling za granicą jest przewidziane, o ile telefon i usługa są zgodne.
+- Klasyczny abonament Orange pozwala korzystać z Wi-Fi Calling za granicą przy zgodnym telefonie i aktywnej usłudze.
+- Orange na kartę obsługuje Wi-Fi Calling w Polsce, ale nie za granicą.
+
+#### Orange Flex
+
+- Orange Flex jest subskrypcją, a nie klasycznym abonamentem ani ofertą na kartę.
+- Wi-Fi Calling w Orange Flex za granicą jest ograniczone do roamingu UE przy połączeniach do Polski.
+- Tunezja nie jest w UE, dlatego na Dżerbie nie traktujemy Orange Flex jako rozwiązania do zwykłych rozmów przez Wi-Fi Calling.
+- Orange Flex może natomiast dostarczać pakiety danych w roamingu lub osobną podróżną eSIM Flex Travel; to inna usługa niż Wi-Fi Calling.
+
+#### nju mobile
+
+- nju korzysta z infrastruktury Orange, ale ma własne zasady ofertowe.
+- **nju abonament:** Wi-Fi Calling działa za granicą. Połączenia do Polski są rozliczane jak krajowe, a połączenia przychodzące przez Wi-Fi Calling są bezpłatne.
+- **nju subskrypcja:** Wi-Fi Calling działa za granicą, także poza UE. Połączenia wychodzące do Polski są bez dodatkowych opłat zgodnie z zasadami subskrypcji. Przy odbieraniu połączeń poza UE nju wymaga wcześniejszego aktywowania dowolnego odpowiedniego pakietu roamingowego.
+- **nju na kartę:** Wi-Fi Calling działa tylko w Polsce, więc na Dżerbie nie będzie rozwiązaniem do zwykłych rozmów telefonicznych.
+- nju samo zaleca za granicą włączenie trybu samolotowego, a następnie Wi-Fi, aby utrata zasięgu Wi-Fi nie spowodowała przejścia rozmowy na płatną sieć komórkową.
+
+### Rodzina Play
 
 #### Play
 
 - Play oferuje Wi-Fi Calling na kompatybilnych urządzeniach i taryfach.
-- Operator podaje, że przez Wi-Fi Calling można wykonywać i odbierać połączenia na terenie całego świata.
-- Połączenie wykonane przez Wi-Fi Calling z zagranicy na polski numer jest rozliczane tak, jak połączenie wykonywane z Polski do Polski, zgodnie z taryfą użytkownika.
+- Operator podaje, że usługa może działać za granicą; połączenia przez Wi-Fi Calling są wtedy traktowane zgodnie z zasadami opisanymi dla tej usługi, a nie jak zwykły roaming komórkowy.
+
+#### Virgin Mobile
+
+- Virgin Mobile należy do grupy Play; P4 przejęło 100% udziałów Virgin Mobile Polska.
+- Marka jest nadal aktywnie rozwijana — w 2026 r. Play wprowadzał nowe oferty Virgin Mobile.
+- Wi-Fi Calling jest dostępne w Virgin Mobile. Najpierw udostępniono je ofertom na kartę, a następnie również abonamentom.
+- Oficjalny regulamin Virgin Mobile wskazuje, że usługę świadczy P4 i że może ona działać przez dowolną sieć Wi-Fi przy spełnieniu warunków taryfy i urządzenia.
+- W praktyce Virgin Mobile należy traktować podobnie do Play, ale przed wyjazdem nadal sprawdzamy konkretną taryfę.
+
+#### Fakt Mobile
+
+- Fakt Mobile jest nadal aktywną ofertą na kartę działającą w zasięgu Play i obsługiwaną m.in. przez Play24.
+- W aktualnie przeszukanych oficjalnych materiałach Fakt Mobile nie znaleziono jednoznacznego, aktualnego potwierdzenia Wi-Fi Calling.
+- Dlatego dla uczestnika z Fakt Mobile nie zakładamy działania Wi-Fi Calling na Dżerbie bez indywidualnego potwierdzenia u operatora i testu na telefonie.
+
+#### Stare numery Red Bull MOBILE w systemie Play
+
+- W dokumentach i systemach Play nadal mogą występować starsze taryfy Red Bull MOBILE.
+- Obecna oferta Red Bull MOBILE jest jednak związana z T-Mobile. Dlatego przy numerze Red Bull MOBILE trzeba ustalić, czy jest to obecny system T-Mobile, czy starsza taryfa pozostająca w systemie Play.
+
+### Rodzina T-Mobile
 
 #### T-Mobile
 
 - T-Mobile oferuje VoWiFi w Polsce i za granicą.
-- Operator podaje, że korzystanie z VoWiFi za granicą nie wiąże się z dodatkową opłatą za samą usługę, a połączenia są rozliczane tak, jakby były wykonywane z Polski.
-- Na stronie T-Mobile usługa jest wskazana m.in. dla abonamentu, MIX, T-Mobile na kartę, Heyah na kartę, Heyah 01 i tuBiedronka, przy spełnieniu wymagań sprzętowych.
+- Połączenia przez VoWiFi za granicą są rozliczane tak, jakby były wykonywane z Polski.
+
+#### Heyah
+
+- Oficjalne warunki T-Mobile dla VoWiFi za granicą obejmują również klientów Heyah.
+- Strona T-Mobile wymienia m.in. Heyah na kartę oraz Heyah 01 wśród ofert z dostępem do VoWiFi, przy spełnieniu wymagań sprzętowych.
+- Część klientów systemu Heyah 01 została w 2026 r. przenoszona do Red Bull MOBILE, dlatego przy starszym numerze trzeba sprawdzić, w którym systemie faktycznie znajduje się obecnie.
+
+#### tuBiedronka
+
+- tuBiedronka jest objęta oficjalnymi warunkami T-Mobile dotyczącymi VoWiFi za granicą.
+- Przy zgodnym telefonie usługa może więc służyć do rozmów przez Wi-Fi także poza Polską.
+
+#### Red Bull MOBILE — obecna oferta
+
+- Obecny Red Bull MOBILE korzysta z infrastruktury T-Mobile, a usługę dostarcza T-Mobile.
+- VoWiFi jest aktywowane automatycznie na zgodnych urządzeniach.
+- Red Bull MOBILE opisuje korzystanie z VoWiFi za granicą i zaleca włączenie trybu samolotowego, a następnie Wi-Fi albo ustawienie Wi-Fi jako preferowanego sposobu połączenia.
+- Połączenie przez VoWiFi jest traktowane jak połączenie wychodzące z Polski; połączenia do polskich numerów są w tej ofercie rozliczane zgodnie z krajową taryfą.
+
+### Rodzina Plus / Grupa Polsat Plus
+
+Grupa Polsat Plus świadczy usługi mobilne pod marką Plus oraz m.in. markami Plush, Premium Mobile, Netia i a2mobile. Nie wszystkie te marki mają jednak identyczne zasady Wi-Fi Calling.
 
 #### Plus
 
 - Plus oferuje WiFi Calling+ w ofertach abonamentowych i na kartę.
-- Regulamin przewiduje działanie usługi przez Wi-Fi zarówno w Polsce, jak i za granicą.
-- Połączenie wykonane przez Wi-Fi Calling+ z zagranicy na polski numer jest rozliczane jak połączenie krajowe wykonywane w Polsce, zgodnie z taryfą.
-- Plus wskazuje również, że na iPhonie tryb samolotowy może wymusić preferowanie połączenia przez Wi-Fi; telefon powinien wtedy wskazywać użycie usługi, np. napisem „Wi-Fi Plus”.
+- Usługa działa w Polsce i za granicą, jeżeli sieć Wi-Fi jej nie blokuje.
+- Połączenia przez Wi-Fi Calling+ są rozliczane zgodnie z ofertą tak, jak połączenia wykonywane w Polsce.
 
-#### Mniejsi operatorzy i marki wirtualne
+#### Plush
 
-Nie tworzymy obecnie listy wszystkich operatorów wirtualnych (MVNO) z podziałem na „obsługuje / nie obsługuje”, ponieważ dostępność Wi-Fi Calling może zależeć od marki, sieci macierzystej, taryfy i konkretnego urządzenia, a warunki zmieniają się częściej niż u czterech głównych operatorów. Jeśli któryś uczestnik korzysta z innej marki, sprawdzamy ją indywidualnie przed wyjazdem.
+- Plush jest dodatkową marką Polkomtela / Plusa i nadal ma aktywne oferty abonamentowe oraz na kartę.
+- Aktualne cenniki Plush wskazują dostępność VoLTE i WiFi Calling+ w ofertach, ale szczegóły mogą zależeć od konkretnego planu.
+- Nie przenosimy automatycznie na każdą historyczną taryfę Plush wszystkich warunków obecnej oferty Plusa; przed wyjazdem sprawdzamy taryfę i wykonujemy test.
+
+#### Premium Mobile
+
+- Premium Mobile ma własny regulamin Wi-Fi Calling.
+- Aktualny regulamin jednoznacznie przewiduje korzystanie z Wi-Fi Calling przez dowolną odpowiednią sieć Wi-Fi na terenie Polski i za granicą.
+- Usługę należy aktywować przed wyjazdem; Premium Mobile nie gwarantuje poprawnej aktywacji usługi dopiero poza granicami kraju.
+
+#### Netia Mobile
+
+- Netia oferuje Wi-Fi Calling dla swojej telefonii mobilnej.
+- Netia podaje wprost, że Wi-Fi Calling działa na całym świecie, a usługi za granicą są rozliczane tak, jakby telefon znajdował się w Polsce.
+- Netia również zaleca za granicą włączenie trybu samolotowego i pozostawienie aktywnego Wi-Fi, aby mieć pewność, że rozmowa idzie przez Wi-Fi Calling.
+
+#### a2mobile
+
+- To istotny wyjątek: a2mobile **nie oferuje już Wi-Fi Calling**.
+- Operator oficjalnie zakończył świadczenie usługi WiFi Calling 29 lutego 2024 r.
+- Dlatego na Dżerbie dla numeru a2mobile nie planujemy zwykłych rozmów przez Wi-Fi Calling; pozostają WhatsApp i inne rozwiązania internetowe albo świadomie użyty roaming.
+
+#### wRodzinie
+
+- Marka wRodzinie nadal działa i korzysta z infrastruktury / roamingu Polkomtela.
+- W aktualnie przeszukanych oficjalnych materiałach nie znaleziono jednoznacznego potwierdzenia dostępności Wi-Fi Calling.
+- Dlatego podobnie jak przy Fakt Mobile nie zakładamy działania tej usługi bez indywidualnego potwierdzenia i testu.
+
+### Najważniejszy wniosek dla naszej grupy
+
+Nie tworzymy jednej zasady „Orange działa”, „Plus działa” albo „T-Mobile działa”. Dla Wi-Fi Calling liczą się jednocześnie marka, wariant oferty i telefon.
+
+Przykłady pokazujące, dlaczego to ważne:
+
+- Orange abonament — Wi-Fi Calling za granicą: tak; Orange na kartę — nie; Orange Flex na Dżerbie — nie; nju abonament i nju subskrypcja — tak; nju na kartę — nie.
+- T-Mobile, Heyah i tuBiedronka — VoWiFi za granicą jest przewidziane; obecny Red Bull MOBILE również je obsługuje.
+- Plus i część marek jego grupy obsługują Wi-Fi Calling za granicą, ale a2mobile zakończyło tę usługę całkowicie.
+- Virgin Mobile ma Wi-Fi Calling w systemie Play, natomiast przy Fakt Mobile nie mamy obecnie wystarczającego oficjalnego potwierdzenia.
 
 ### Kolejność korzystania z łączności
 
@@ -114,7 +214,7 @@ Nie tworzymy obecnie listy wszystkich operatorów wirtualnych (MVNO) z podziałe
 3. Komunikat do całej grupy → grupa WhatsApp.
 4. Rozmowa między uczestnikami → prywatna rozmowa lub połączenie WhatsApp.
 5. SMS-y potrzebne na polski numer → polska karta SIM pozostawiona aktywna.
-6. Zwykłe połączenie z polskiego numeru w hotelu → opcjonalnie Wi-Fi Calling po sprawdzeniu operatora i po potwierdzeniu na telefonie, że połączenie rzeczywiście będzie realizowane przez Wi-Fi.
+6. Zwykłe połączenie z polskiego numeru w hotelu → opcjonalnie Wi-Fi Calling po sprawdzeniu dokładnej marki, rodzaju oferty i telefonu oraz po potwierdzeniu na urządzeniu, że połączenie rzeczywiście będzie realizowane przez Wi-Fi.
 7. Zwykłe połączenia przez roaming komórkowy polskiego operatora → tylko świadomie albo awaryjnie.
 
 ### Awaryjny brak internetu
@@ -125,7 +225,7 @@ W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połącze
 
 ## Do sprawdzenia przed wyjazdem
 
-- Zebrać od uczestników informacje, z jakiego operatora i jakiej taryfy korzystają.
+- Zebrać od uczestników dokładną markę, rodzaj oferty i model telefonu — nie tylko nazwę sieci infrastrukturalnej.
 - Dla osób planujących używać Wi-Fi Calling potwierdzić zgodność taryfy i telefonu z usługą przed wyjazdem.
 - Wykonać w Polsce próbę Wi-Fi Calling: włączyć tryb samolotowy, ponownie włączyć Wi-Fi i sprawdzić, czy telefon pozwala wykonać połączenie przez Wi-Fi.
 - Cena pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
@@ -154,9 +254,24 @@ Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do gło
 - [Apple – korzystanie z Dual SIM z kartą eSIM](https://support.apple.com/pl-pl/109317)
 - [Apple – korzystanie z eSIM podczas podróży zagranicznych](https://support.apple.com/pl-pl/118227)
 - [Orange – dzwonienie przez Wi-Fi, zasady dla abonamentu, ofert na kartę i Orange Flex](https://www.orange.pl/poradnik/dzwonienie-przez-wi-fi-poznaj-wi-fi-calling/)
-- [Play – Wi-Fi Calling i VoLTE, działanie i rozliczanie połączeń za granicą](https://www.play.pl/uslugi/wifi-calling-volte)
+- [Orange Flex – oferta subskrypcyjna](https://flex.orange.pl/)
+- [Orange Flex – internet i pakiety roamingowe poza UE](https://flex.orange.pl/uslugi/roaming)
+- [nju mobile – Wi-Fi Calling, zasady dla abonamentu, subskrypcji i oferty na kartę](https://www.njumobile.pl/oferta/wificalling)
+- [Play – Wi-Fi Calling i VoLTE](https://www.play.pl/uslugi/wifi-calling-volte)
+- [Play – Virgin Mobile z Wi-Fi Calling](https://www.play.pl/play-expert/newsy/volte-i-wi-fi-calling-dostepne-w-virgin-mobile)
+- [Virgin Mobile – regulamin usługi Wi-Fi Calling](https://virginmobile.pl/media/documents/Regulamin_Us%C5%82ugi_Wi-Fi_Calling_wazny_od_1.03.2023.pdf)
+- [Play – aktualne oferty Virgin Mobile w 2026 r.](https://www.play.pl/play-expert/newsy/nowosci-w-virgin-mobile---2-numery-w-cenie-1-i-nowa-oferta-internetu-mobilnego)
+- [Fakt Mobile – aktualna oferta na kartę](https://faktmobile.pl/)
 - [T-Mobile – VoLTE i VoWiFi, działanie usługi w Polsce i za granicą](https://www.t-mobile.pl/c/volte-i-wifi)
-- [Plus – regulamin WiFi Calling+, działanie w Polsce i za granicą](https://api.plus.pl/tos/7ddf7bd96e7998cb7deb48bd5c0dc04e9d7050c1759c24615b21881036e5482b.pdf)
+- [T-Mobile – warunki oferty VoWiFi za granicą obejmujące T-Mobile, Heyah i tuBiedronka](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_0013737)
+- [Red Bull MOBILE – pomoc dotycząca VoWiFi za granicą](https://www.redbullmobile.pl/pomoc/)
+- [T-Mobile – informacje o przenoszeniu Heyah 01 do Red Bull MOBILE](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006492)
+- [Plus – Wi-Fi Calling+, działanie w Polsce i za granicą](https://www.plus.pl/blog/technologie/wi-fi-calling-co-to-jest)
+- [Grupa Polsat Plus – marki usług mobilnych: Plus, Plush, Premium Mobile, Netia i a2mobile](https://grupapolsatplus.pl/sites/default/files/documents/2025/cp_eng_fy2024.pdf)
+- [Premium Mobile – regulamin Wi-Fi Calling](https://premiummobile.pl/wp-content/uploads/2025/02/Regulamin-Uslugi-WiFi-Calling.pdf)
+- [Netia – Wi-Fi Calling, działanie na całym świecie i rozliczanie połączeń](https://www.netia.pl/pl/wifi-calling)
+- [a2mobile – komunikat o zakończeniu WiFi Calling 29 lutego 2024 r.](https://a2mobile.pl/documents/komunikaty/wifi_calling.pdf)
+- [wRodzinie – aktualna oferta i pomoc](https://wrodzinie.com.pl/pomoc)
 - [Revolut – pakiety eSIM dla Tunezji](https://www.revolut.com/pl-PL/esim/tunisia-esim/)
 - [Business News Tunisia – brak ogólnokrajowego wyłączenia internetu podczas egzaminów w Tunezji, 4 czerwca 2026](https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/)
 - [Tunisie Numérique – lokalne zakłócanie łączności w otoczeniu ośrodków egzaminacyjnych, 4 czerwca 2026](https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/)
