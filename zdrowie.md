@@ -6,13 +6,15 @@ Ten materiał ma charakter informacyjny dla uczestników wyjazdu. Nie zastępuje
 
 ## Skróty i nazwy używane w tym dokumencie
 
-- **CDC — Centers for Disease Control and Prevention**: amerykańska federalna instytucja zdrowia publicznego. Jej **Yellow Book 2026** jest specjalistycznym źródłem medycyny podróży dla personelu medycznego.
+- **CDC — Centers for Disease Control and Prevention**: amerykańska federalna instytucja zdrowia publicznego. Jej **Yellow Book 2026** jest specjalistycznym źródłem medycyny podróży.
 - **NIZP PZH–PIB — Narodowy Instytut Zdrowia Publicznego PZH – Państwowy Instytut Badawczy**.
 - **GIS — Główny Inspektorat Sanitarny**.
 - **WHO — World Health Organization (Światowa Organizacja Zdrowia)**.
 - **NFZ — Narodowy Fundusz Zdrowia**.
 - **WZW A — wirusowe zapalenie wątroby typu A**, wywoływane przez wirus HAV (hepatitis A virus).
-- **ORS — oral rehydration salts / oral rehydration solution**: doustne sole nawadniające / doustny płyn nawadniający o odpowiednio dobranej zawartości glukozy i elektrolitów.
+- **WZW B — wirusowe zapalenie wątroby typu B**, wywoływane przez wirus HBV (hepatitis B virus).
+- **ORS — oral rehydration salts / oral rehydration solution**: doustne sole nawadniające lub doustny płyn nawadniający, czyli preparat o odpowiednio dobranej zawartości glukozy i elektrolitów.
+- **DPN — doustny płyn nawadniający**: polski odpowiednik określenia ORS.
 - **ChPL — Charakterystyka Produktu Leczniczego**: oficjalny dokument dotyczący leku, zawierający m.in. wskazania, dawkowanie, przeciwwskazania i ostrzeżenia.
 
 ## Biegunka podróżnych, potocznie „zemsta faraona”
@@ -112,15 +114,18 @@ NIZP PZH–PIB wymienia **Tunezję** wśród krajów o pośredniej lub wysokiej 
 
 NIZP PZH–PIB podaje, że szczepionkę przed planowaną podróżą **optymalnie** należy podać co najmniej dwa tygodnie przed wyjazdem, ponieważ przeciwciała są wykrywane zwykle 12–15 dni po pierwszej dawce. Jednocześnie Instytut zaznacza, że istnieją dane uzasadniające szczepienie nawet bezpośrednio przed wyjazdem, ponieważ odporność zaczyna pojawiać się po kilku–kilkunastu dniach.
 
-Według NIZP PZH–PIB skuteczność mierzona poziomem przeciwciał wynosi około 95% po pierwszej dawce i 98–99% po dwóch dawkach. Szczepionki przeciw WZW A zawierają inaktywowany wirus HAV.
+Według NIZP PZH–PIB skuteczność mierzona poziomem przeciwciał wynosi około 95% po pierwszej dawce i 98–99% po dwóch dawkach. Szczepionki przeciw WZW A zawierają wirusa unieszkodliwionego tak, aby nie mógł wywołać WZW A.
 
-Dostępne w Polsce preparaty dla dorosłych obejmują m.in.:
+### Jakie szczepionki można spotkać
 
-- **Avaxim 160 U** — szczepionka monowalentna przeciw WZW A;
-- **Havrix Adult** — szczepionka monowalentna przeciw WZW A;
-- **Twinrix Adult** — szczepionka skojarzona przeciw WZW A i WZW B.
+Dla osoby, która chce zabezpieczyć się przed WZW A, najważniejsze jest rozróżnienie dwóch prostych wariantów:
 
-Szczepionki monowalentne wymagają standardowo dwóch dawek; druga dawka służy przede wszystkim uzyskaniu długotrwałej odporności i nie musi być podana przed samym wyjazdem. Szczepionka skojarzona przeciw WZW A i B ma standardowy schemat trzydawkowy 0–1–6 miesięcy.
+- **szczepionka tylko przeciw WZW A** — chroni przed jednym typem wirusowego zapalenia wątroby. Przykłady: **Avaxim 160 U** i **Havrix Adult**;
+- **szczepionka przeciw WZW A i WZW B jednocześnie** — jedna szczepionka buduje odporność przeciw obu chorobom. Przykład: **Twinrix Adult**.
+
+W dokumentacji medycznej pierwszą grupę można spotkać pod nazwą **szczepionki monowalentne**. To specjalistyczne określenie oznacza po prostu, że szczepionka chroni tutaj **tylko przed WZW A**. Twinrix określa się jako szczepionkę **skojarzoną**, czyli łączącą ochronę przeciw dwóm chorobom w jednym preparacie.
+
+Avaxim i Havrix wymagają standardowo dwóch dawek. Pierwsza jest najważniejsza przed podróżą, a druga — podawana później — służy przede wszystkim utrwaleniu długotrwałej ochrony. Twinrix przeciw WZW A i B ma standardowo trzy dawki podawane według schematu 0–1–6 miesięcy; istnieje również schemat przyspieszony przewidziany dla niektórych sytuacji. Wybór preparatu zależy m.in. od wcześniejszych szczepień i tego, czy dana osoba chce także ochrony przeciw WZW B.
 
 Źródła:
 
@@ -131,44 +136,61 @@ Szczepionki monowalentne wymagają standardowo dwóch dawek; druga dawka służy
 
 ## Jak załatwić szczepienie przeciw WZW A w Polsce w 2026 r.
 
-Dla osoby dorosłej nie musi to oznaczać wieloetapowej procedury. W aptece mającej umowę z NFZ i odpowiednio przeszkolonego farmaceutę można podczas jednej wizyty:
-
-1. przejść kwalifikację do szczepienia;
-2. otrzymać receptę wystawioną przez uprawnionego farmaceutę;
-3. zostać zaszczepionym;
-4. pozostać po szczepieniu około 15–20 minut na obserwacji.
+Dla osoby dorosłej nie musi to oznaczać wieloetapowej procedury. W aptece mającej umowę z NFZ i odpowiednio przeszkolonego farmaceutę można podczas jednej wizyty przejść kwalifikację, otrzymać receptę wystawioną przez uprawnionego farmaceutę i zostać zaszczepionym. Po szczepieniu pozostaje się zwykle około 15–20 minut na obserwacji.
 
 NFZ finansuje kwalifikację i wykonanie szczepienia w aptece. Odpłatność za samą szczepionkę zależy od preparatu i uprawnień refundacyjnych pacjenta.
 
-W praktyce szczepienie tego samego dnia jest więc możliwe, **jeżeli konkretna apteka ma szczepionkę na stanie i w danym czasie pracuje farmaceuta wykonujący szczepienia**. Przed wyjściem warto zadzwonić albo sprawdzić dostępność i możliwość umówienia szczepienia.
+Szczepienie tego samego dnia jest więc możliwe, **jeżeli konkretna apteka ma właściwy preparat na stanie i w danym czasie pracuje farmaceuta wykonujący takie szczepienia**. Dostępność jest zmienna i zależy od miejscowości, apteki i aktualnych dostaw, dlatego przed wyjściem warto sprawdzić stan preparatu i możliwość wykonania szczepienia.
+
+### Orientacyjny koszt szczepionki
+
+Ceny zmieniają się, dlatego poniższe wartości służą wyłącznie do planowania budżetu. Stan sprawdzenia: 22 sierpnia 2026 r.
+
+- **Avaxim 160 U**: około 170–286 zł za jedną dawkę;
+- **Havrix Adult**: około 209–371 zł za jedną dawkę;
+- **Twinrix Adult** przeciw WZW A i B: około 235–404 zł za jedną dawkę.
+
+Nie podajemy liczby aptek w konkretnej miejscowości, ponieważ materiał ma być przydatny dla całej grupy. Przed szczepieniem należy sprawdzić lokalną dostępność i aktualną cenę.
 
 Źródła:
 
 - [Narodowy Fundusz Zdrowia – szczepienia w aptekach w 2026 r.: lista szczepień, koszty i procedura](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/szczepienia-w-aptece-2026-pelna-lista-szczepien-dla-doroslych-finansowanych-przez-nfz%2C8892.html)
 - [Główny Inspektorat Farmaceutyczny i Główny Inspektorat Sanitarny – szczepienia zalecane w aptekach](https://www.gov.pl/web/gif/szczepienia-zalecane-w-aptekach---bezpieczna-i-wygodna-forma-profilaktyki)
-- [Pacjent.gov.pl – wyszukiwarka aptek wykonujących szczepienia](https://pacjent.gov.pl/aktualnosc/zaszczep-sie-w-aptece)
+- [Pacjent.gov.pl – informacje i wyszukiwarka aptek wykonujących szczepienia](https://pacjent.gov.pl/aktualnosc/zaszczep-sie-w-aptece)
+- [GdziePoLek – Avaxim 160 U: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/8208/avaxim-160-u-iniekcja/apteki)
+- [GdziePoLek – Havrix Adult: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/34436/havrix-adult-iniekcja/apteki/w-polsce)
+- [GdziePoLek – Twinrix Adult: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/80303/twinrix-adult-iniekcja/apteki)
 
-### Orientacyjne ceny i dostępność w Poznaniu
+## Doustne płyny nawadniające — co właściwie kupić
 
-Dane cenowe są zmienne i nie są źródłem klinicznym. Stan sprawdzenia: 22 sierpnia 2026 r. Według serwisu agregującego stany apteczne GdziePoLek:
+Przy biegunce nie chodzi o dowolny produkt reklamowany jako „elektrolity”. Najlepiej szukać w aptece **doustnego płynu nawadniającego (DPN/ORS)** przeznaczonego do uzupełniania wody i elektrolitów podczas biegunki lub wymiotów. Taki preparat zawiera odpowiednio dobrane ilości m.in. glukozy i sodu, dzięki czemu wspomaga wchłanianie wody w jelicie.
 
-- Avaxim 160 U: około 169,99–285,89 zł; preparat był wykazywany jako dostępny w około 30 aptekach w okolicy Poznania;
-- Havrix Adult: około 208,99–370,99 zł; dostępność była wykazywana w około 46 aptekach;
-- Twinrix Adult: około 234,99–403,99 zł; dostępność była wykazywana w około 42 aptekach.
+NIZP PZH–PIB podaje, że w polskich aptekach dostępne są bez recepty doustne płyny nawadniające zawierające glukozę i podstawowe elektrolity. Nie należy utożsamiać ich z każdą tabletką musującą z magnezem czy „elektrolitami dla sportowców”.
 
-To są **ceny orientacyjne**, które trzeba sprawdzić ponownie przed zakupem. Nie oznaczają, że każda wskazana apteka wykonuje dane szczepienie od ręki.
+### Przykłady dostępne w Polsce
 
-Źródła cen i dostępności:
+Poniższe produkty są **przykładami, a nie rankingiem**. Ceny są orientacyjne i mogą się różnić pomiędzy aptekami. Stan sprawdzenia: 22 sierpnia 2026 r.
 
-- [GdziePoLek – Avaxim 160 U: cena i dostępność w aptekach w Poznaniu](https://www.gdziepolek.pl/produkty/8208/avaxim-160-u-iniekcja/apteki/w-poznaniu)
-- [GdziePoLek – Havrix Adult: cena i dostępność w aptekach w Poznaniu](https://www.gdziepolek.pl/produkty/34436/havrix-adult-iniekcja/apteki/w-poznaniu)
-- [GdziePoLek – Twinrix Adult: cena i dostępność w aptekach w Poznaniu](https://www.gdziepolek.pl/produkty/80303/twinrix-adult-iniekcja/apteki/w-poznaniu)
+- **ORSALIT dla dorosłych, smak malinowo-cytrynowy** — żywność specjalnego przeznaczenia medycznego; opakowanie 10 saszetek. Jedną saszetkę rozpuszcza się w 200 ml wody zgodnie z instrukcją producenta. Cena opakowania wynosiła około **20–39 zł**.
+- **Gastrolit** — lek dostępny bez recepty do nawadniania doustnego; opakowanie 14 saszetek. Jedną saszetkę rozpuszcza się w 200 ml gorącej, przegotowanej wody i po ostudzeniu wypija zgodnie z ulotką. Cena opakowania wynosiła około **25–38 zł**.
+
+Przy zakupie można po prostu powiedzieć farmaceucie: **„Proszę o doustny płyn nawadniający ORS dla osoby dorosłej, do stosowania przy biegunce lub wymiotach.”**
+
+Nie należy dosypywać dodatkowego cukru ani soli do gotowego preparatu i należy zawsze rozpuszczać saszetkę w dokładnie takiej ilości wody, jaką podaje producent. Zbyt mała lub zbyt duża ilość wody zmienia stężenie roztworu.
+
+Źródła:
+
+- [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – dieta w ostrej biegunce: nawodnienie to priorytet](https://ncez.pzh.gov.pl/choroba-a-dieta/dieta-w-ostrej-biegunce-nawodnienie-to-priorytet/)
+- [BIOMED – ORSALIT dla dorosłych: przeznaczenie, skład i sposób przygotowania](https://biomed.pl/produkty/orsalit-o-smaku-malinowo-cytrynowym-dla-doroslych/)
+- [Rejestr Produktów Leczniczych – ulotka leku Gastrolit](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2601/leaflet)
+- [GdziePoLek – ORSALIT dla dorosłych: orientacyjna cena i dostępność w Polsce](https://www.gdziepolek.pl/produkty/57956/orsalit-dla-doroslych-proszek-do-wytworzenia-zawiesiny/apteki/w-polsce)
+- [GdziePoLek – Gastrolit: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/32013/gastrolit-proszek-do-wytworzenia-plynu/apteki)
 
 ## Co mieć w apteczce na wypadek biegunki
 
 Podstawą jest możliwość prawidłowego nawodnienia. Warto mieć:
 
-- saszetki ORS — doustnych soli nawadniających do przygotowania zgodnie z instrukcją;
+- saszetki ORS/DPN, np. jeden z preparatów opisanych wyżej;
 - środek do dezynfekcji rąk zawierający co najmniej 60% alkoholu;
 - stale przyjmowane leki w zapasie na cały pobyt i ewentualne opóźnienie powrotu;
 - indywidualnie dobrane leki przeciwbiegunkowe lub inne leki zalecone przez lekarza lub farmaceutę.
