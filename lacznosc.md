@@ -35,7 +35,7 @@ Między uczestnikami używamy przede wszystkim WhatsAppa. Zwykłych połączeń 
 
 - Korzystać z pakietu danych eSIM.
 - Revolut oferuje dla Tunezji pakiety eSIM z transmisją danych; dostępne są m.in. pakiety 1 GB na 7 dni oraz 3, 5, 10 i 20 GB na 30 dni.
-- eSIM Revolut służy do transmisji danych, a nie jako zamiennik polskiego numeru telefonu.
+- Podróżny pakiet danych Revolut służy do transmisji danych, a nie jako zamiennik polskiego numeru telefonu.
 - Rozmowy między uczestnikami oraz rozmowy z Polską prowadzić przez WhatsApp z wykorzystaniem danych z eSIM.
 
 ### Polska karta SIM
@@ -78,7 +78,7 @@ Samo pytanie „jaki masz operator?” jest niewystarczające. Dwie osoby korzys
 
 Przed wyjazdem zbieramy więc od każdego uczestnika trzy informacje:
 
-1. dokładna marka, np. Orange, nju, Orange Flex, Play, Virgin Mobile, T-Mobile, Heyah, Red Bull MOBILE, Plus, Plush, Premium Mobile, Netia albo a2mobile;
+1. dokładna marka, np. Orange, nju, Orange Flex, Play, Virgin Mobile, T-Mobile, Heyah, Red Bull MOBILE, Plus, Plush, Premium Mobile, Netia, a2mobile albo Revolut Mobile;
 2. rodzaj oferty, np. abonament, subskrypcja albo na kartę;
 3. model telefonu.
 
@@ -196,6 +196,61 @@ Grupa Polsat Plus świadczy usługi mobilne pod marką Plus oraz m.in. markami P
 - W aktualnie przeszukanych oficjalnych materiałach nie znaleziono jednoznacznego potwierdzenia dostępności Wi-Fi Calling.
 - Dlatego podobnie jak przy Fakt Mobile nie zakładamy działania tej usługi bez indywidualnego potwierdzenia i testu.
 
+### Revolut — trzy różne rzeczy, których nie należy mylić
+
+Stan sprawdzenia: 22 sierpnia 2026 r.
+
+Pod nazwą Revolut występują w tym temacie co najmniej trzy różne elementy:
+
+1. konto i płatne plany bankowe Revolut, np. Standard, Premium, Metal czy Ultra;
+2. **Revolut Mobile** — pełna usługa telefonii komórkowej z polskim numerem, świadczona przez 1GLOBAL i korzystająca w Polsce z sieci Play;
+3. **podróżne pakiety danych eSIM Revolut** — osobna usługa data-only, pozwalająca dokupić internet na konkretny kraj lub region, w tym Tunezję.
+
+#### Revolut Mobile w Polsce
+
+- Revolut Mobile to nie ten sam produkt co podróżna eSIM z internetem.
+- Usługa jest świadczona przez 1GLOBAL i działa w Polsce w sieci Play.
+- Revolut opisuje ją jako elastyczny, odnawiany co miesiąc plan prepaid/eSIM; potocznie można mówić o abonamencie lub subskrypcji, ale nie jest to klasyczny wielomiesięczny abonament postpaid.
+- Dostępne są obecnie plany 50 GB i 200 GB w Polsce oraz określone limity roamingowe w Europejskim Obszarze Gospodarczym (EOG).
+- Tunezja nie należy do EOG, więc pakiet roamingowy wliczony w Revolut Mobile **nie obejmuje normalnego internetu w Tunezji**.
+- Revolut podaje wprost, że gdy użytkownik jedzie do kraju nieobjętego planem, może dokupić kolejny pakiet danych w aplikacji; obecnie dodatki do Revolut Mobile obejmują wyłącznie dane.
+
+#### Co użytkownik Revolut Mobile ma w Tunezji bez dokupowania normalnego pakietu danych?
+
+Do 31 października 2026 r. działa promocyjna usługa **Dane do komunikatorów / Messaging Pass**:
+
+- jest dostępna bez dodatkowych kosztów dla aktywnych klientów Revolut Mobile;
+- obejmuje co najmniej 500 MB miesięcznie;
+- ma bardzo niską maksymalną prędkość — około 16 kb/s;
+- Tunezja znajduje się na oficjalnej liście krajów objętych promocją;
+- rozwiązanie jest przeznaczone przede wszystkim do komunikacji tekstowej i prostego ruchu w komunikatorach.
+
+Nie traktujemy Messaging Pass jako normalnego internetu wakacyjnego. Przy 16 kb/s nie planujemy na nim rozmów głosowych WhatsApp, przesyłania zdjęć, map, aktualizacji ani zwykłego przeglądania internetu. Może natomiast być awaryjnym kanałem do krótkich wiadomości tekstowych.
+
+#### Czy osoba z Revolut Mobile musi kupować osobny pakiet na Tunezję?
+
+- **Nie**, jeśli wystarczy jej bardzo ograniczony Messaging Pass do prostych wiadomości tekstowych.
+- **Tak**, jeśli chce mieć normalny internet mobilny na Dżerbie. Wtedy należy dokupić podróżny pakiet danych Revolut dla Tunezji albo wybrać inną podróżną/localną eSIM.
+- Podróżny pakiet danych Revolut dla Tunezji jest usługą data-only. Nie dodaje zwykłych minut ani SMS-ów do polskiego numeru Revolut Mobile.
+- WhatsApp może nadal pozostać zarejestrowany na polskim numerze Revolut Mobile, a sam ruch WhatsApp może iść przez dokupiony pakiet danych.
+
+#### Revolut Mobile a zwykłe połączenia i SMS-y na Dżerbie
+
+Oficjalna oferta Revolut Mobile gwarantuje pakiet głosowy, SMS i dane w Polsce oraz w określonym zakresie EOG. Tunezja jest poza tą strefą. Dlatego na potrzeby naszego wyjazdu **nie zakładamy, że polski numer Revolut Mobile będzie na Dżerbie normalnie działał do połączeń i SMS-ów jak klasyczny roaming**. Podróżny pakiet danych nie zmienia tego, ponieważ obecnie Revolut oferuje do planu Mobile tylko dodatki z transmisją danych.
+
+Jeżeli ktoś wykorzystuje numer Revolut Mobile do SMS-ów autoryzacyjnych, powinien przed wyjazdem sprawdzić w aplikacji i z pomocą operatora aktualne zasady odbierania SMS-ów w Tunezji i nie opierać całego uwierzytelniania wyłącznie na tym numerze.
+
+#### Revolut Mobile a Wi-Fi Calling
+
+Tu trzeba zachować szczególną ostrożność:
+
+- aktualna oficjalna strona Revolut Mobile nie wymienia Wi-Fi Calling / VoWiFi jako funkcji planu;
+- aktualny opis usługi 1GLOBAL dla polskiego Revolut Mobile opisuje połączenia głosowe przez profil eSIM i sieci komórkowe, ale nie wymienia Wi-Fi Calling;
+- na początku 2026 r. Revolut potwierdził w odpowiedzi reklamacyjnej klienta, że Wi-Fi Calling nie było standardową funkcją polskiego Revolut Mobile;
+- pojawiają się późniejsze nieoficjalne relacje użytkowników, że Wi-Fi Calling zaczęło działać na niektórych urządzeniach, ale nie ma obecnie oficjalnej gwarancji działania tej funkcji ani tym bardziej jej działania w Tunezji.
+
+Dlatego w naszej procedurze **Revolut Mobile traktujemy jako ofertę bez gwarantowanego Wi-Fi Calling**. Nie planujemy zwykłych rozmów z polskiego numeru Revolut Mobile na Dżerbie przez hotelowe Wi-Fi. Jeśli funkcja pojawi się na konkretnym telefonie, można ją testować, ale nie należy budować na niej podstawowego sposobu komunikacji grupy.
+
 ### Najważniejszy wniosek dla naszej grupy
 
 Nie tworzymy jednej zasady „Orange działa”, „Plus działa” albo „T-Mobile działa”. Dla Wi-Fi Calling liczą się jednocześnie marka, wariant oferty i telefon.
@@ -206,6 +261,7 @@ Przykłady pokazujące, dlaczego to ważne:
 - T-Mobile, Heyah i tuBiedronka — VoWiFi za granicą jest przewidziane; obecny Red Bull MOBILE również je obsługuje.
 - Plus i część marek jego grupy obsługują Wi-Fi Calling za granicą, ale a2mobile zakończyło tę usługę całkowicie.
 - Virgin Mobile ma Wi-Fi Calling w systemie Play, natomiast przy Fakt Mobile nie mamy obecnie wystarczającego oficjalnego potwierdzenia.
+- Revolut Mobile korzysta w Polsce z sieci Play, ale nie przejmujemy automatycznie zasad Wi-Fi Calling Play; usługę świadczy 1GLOBAL, a Wi-Fi Calling nie jest obecnie oficjalnie gwarantowaną funkcją polskiego Revolut Mobile.
 
 ### Kolejność korzystania z łączności
 
@@ -213,13 +269,14 @@ Przykłady pokazujące, dlaczego to ważne:
 2. Poza hotelem → eSIM z pakietem danych + WhatsApp.
 3. Komunikat do całej grupy → grupa WhatsApp.
 4. Rozmowa między uczestnikami → prywatna rozmowa lub połączenie WhatsApp.
-5. SMS-y potrzebne na polski numer → polska karta SIM pozostawiona aktywna.
+5. SMS-y potrzebne na polski numer → polska karta SIM pozostawiona aktywna, o ile operator zapewnia ich odbieranie w Tunezji.
 6. Zwykłe połączenie z polskiego numeru w hotelu → opcjonalnie Wi-Fi Calling po sprawdzeniu dokładnej marki, rodzaju oferty i telefonu oraz po potwierdzeniu na urządzeniu, że połączenie rzeczywiście będzie realizowane przez Wi-Fi.
-7. Zwykłe połączenia przez roaming komórkowy polskiego operatora → tylko świadomie albo awaryjnie.
+7. Dla Revolut Mobile → na Dżerbie podstawą ma być WhatsApp przez hotelowe Wi-Fi albo dokupiony pakiet danych; Wi-Fi Calling nie jest traktowane jako rozwiązanie gwarantowane.
+8. Zwykłe połączenia przez roaming komórkowy polskiego operatora → tylko świadomie albo awaryjnie.
 
 ### Awaryjny brak internetu
 
-WhatsApp wymaga działającego połączenia z internetem. Dlatego nie powinien być jedynym rozwiązaniem na sytuację awaryjną. Jeśli nie działa ani Wi-Fi, ani pakiet danych, zwykłe połączenie komórkowe z polskiej karty może zostać użyte awaryjnie mimo kosztów roamingowych. Warto również ustalić miejsca i godziny zbiórek tak, aby chwilowy brak łączności nie dezorganizował grupy.
+WhatsApp wymaga działającego połączenia z internetem. Dlatego nie powinien być jedynym rozwiązaniem na sytuację awaryjną. Jeśli nie działa ani Wi-Fi, ani pakiet danych, zwykłe połączenie komórkowe z polskiej karty może zostać użyte awaryjnie mimo kosztów roamingowych — ale tylko u operatora, który zapewnia roaming głosowy w Tunezji.
 
 W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połączenia głosowe i wideo. W 2026 r. nie wprowadzono ogólnokrajowej blokady internetu podczas egzaminów maturalnych, choć lokalnie stosowano zakłócanie łączności w bezpośrednim otoczeniu niektórych ośrodków egzaminacyjnych. Dlatego przyjmujemy WhatsApp jako kanał podstawowy, ale zachowujemy możliwość komunikacji awaryjnej.
 
@@ -228,6 +285,7 @@ W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połącze
 - Zebrać od uczestników dokładną markę, rodzaj oferty i model telefonu — nie tylko nazwę sieci infrastrukturalnej.
 - Dla osób planujących używać Wi-Fi Calling potwierdzić zgodność taryfy i telefonu z usługą przed wyjazdem.
 - Wykonać w Polsce próbę Wi-Fi Calling: włączyć tryb samolotowy, ponownie włączyć Wi-Fi i sprawdzić, czy telefon pozwala wykonać połączenie przez Wi-Fi.
+- Dla użytkowników Revolut Mobile ponownie sprawdzić tuż przed wyjazdem: zakres roamingu poza EOG, działanie Messaging Pass w Tunezji, odbieranie SMS-ów oraz status Wi-Fi Calling.
 - Cena pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
 - Cena zwykłych połączeń przychodzących i wychodzących w Tunezji.
 - Aktualna cena pakietów Revolut eSIM bezpośrednio przed zakupem.
@@ -238,12 +296,12 @@ W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połącze
 
 ## Ustawienia iPhone'a przed wyjazdem
 
-- Polska karta SIM: aktywna.
-- Roaming danych polskiej karty SIM: wyłączony.
+- Polska karta SIM: aktywna, jeżeli operator zapewnia potrzebne usługi w Tunezji.
+- Roaming danych polskiej karty SIM: wyłączony, chyba że świadomie korzystamy z pakietu roamingowego tej konkretnej karty.
 - eSIM podróżna: ustawiona jako karta do danych komórkowych.
 - Roaming danych dla eSIM podróżnej: włączony zgodnie z instrukcją dostawcy eSIM.
 - Przełączanie danych komórkowych: wyłączone.
-- Wi-Fi Calling na polskim numerze: włączyć jeszcze w Polsce, jeśli operator i taryfa je obsługują.
+- Wi-Fi Calling na polskim numerze: włączyć jeszcze w Polsce, jeśli operator i taryfa je obsługują; w Revolut Mobile nie traktujemy tej funkcji jako gwarantowanej.
 
 Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do głosu, a z innego do danych. Podczas podróży można więc pozostawić polski numer aktywny i jednocześnie wskazać podróżną eSIM jako linię danych komórkowych.
 
@@ -272,6 +330,11 @@ Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do gło
 - [Netia – Wi-Fi Calling, działanie na całym świecie i rozliczanie połączeń](https://www.netia.pl/pl/wifi-calling)
 - [a2mobile – komunikat o zakończeniu WiFi Calling 29 lutego 2024 r.](https://a2mobile.pl/documents/komunikaty/wifi_calling.pdf)
 - [wRodzinie – aktualna oferta i pomoc](https://wrodzinie.com.pl/pomoc)
+- [Revolut – polskie plany Revolut Mobile i zakres roamingu w EOG](https://www.revolut.com/pl-PL/mobile-plans/)
+- [Revolut – pomoc: zakres polskich planów Revolut Mobile i możliwość dokupienia danych poza strefą planu](https://help.revolut.com/pl-PL/help/revpoints/esim/question-what-are-mobile-plans/)
+- [1GLOBAL – opis usługi Revolut Mobile w Polsce](https://assets.1global.com/f/279938/x/9c86042a26/service-description-pl-061025.pdf)
+- [1GLOBAL – Dane do komunikatorów / Messaging Pass: warunki promocji i lista krajów obejmująca Tunezję](https://assets.1global.com/f/279938/x/2de995ec02/1global-promotional-feature-special-terms-pl-19-03-26.pdf)
+- [GSMonline – informacja o odpowiedzi Revoluta w sprawie braku gwarantowanego Wi-Fi Calling w polskim Revolut Mobile](https://gsmonline.pl/artykuly/revolut-mobile-nie-ma-roamingu-poza-unia-i-nie-ma-wi-fi-calling)
 - [Revolut – pakiety eSIM dla Tunezji](https://www.revolut.com/pl-PL/esim/tunisia-esim/)
 - [Business News Tunisia – brak ogólnokrajowego wyłączenia internetu podczas egzaminów w Tunezji, 4 czerwca 2026](https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/)
 - [Tunisie Numérique – lokalne zakłócanie łączności w otoczeniu ośrodków egzaminacyjnych, 4 czerwca 2026](https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/)
