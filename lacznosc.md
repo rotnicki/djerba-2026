@@ -85,9 +85,9 @@ Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do gło
 
 ## Źródła
 
-- Apple, używanie dwóch kart SIM na iPhonie: https://support.apple.com/pl-pl/guide/iphone/iph9c5776d3c/ios
-- Apple, korzystanie z Dual SIM z kartą eSIM: https://support.apple.com/pl-pl/109317
-- Apple, korzystanie z eSIM podczas podróży zagranicznych: https://support.apple.com/pl-pl/118227
-- Revolut, pakiety eSIM dla Tunezji: https://www.revolut.com/pl-PL/esim/tunisia-esim/
-- Business News Tunisia, informacja z 4 czerwca 2026 o braku ogólnokrajowego wyłączenia internetu podczas egzaminów: https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/
-- Tunisie Numérique, informacja z 4 czerwca 2026 o lokalnym zakłócaniu łączności w otoczeniu ośrodków egzaminacyjnych: https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/
+- [Apple – używanie dwóch kart SIM na iPhonie](https://support.apple.com/pl-pl/guide/iphone/iph9c5776d3c/ios)
+- [Apple – korzystanie z Dual SIM z kartą eSIM](https://support.apple.com/pl-pl/109317)
+- [Apple – korzystanie z eSIM podczas podróży zagranicznych](https://support.apple.com/pl-pl/118227)
+- [Revolut – pakiety eSIM dla Tunezji](https://www.revolut.com/pl-PL/esim/tunisia-esim/)
+- [Business News Tunisia – brak ogólnokrajowego wyłączenia internetu podczas egzaminów w Tunezji, 4 czerwca 2026](https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/)
+- [Tunisie Numérique – lokalne zakłócanie łączności w otoczeniu ośrodków egzaminacyjnych, 4 czerwca 2026](https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/)
