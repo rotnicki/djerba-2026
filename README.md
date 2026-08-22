@@ -7,7 +7,7 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 ## Struktura
 
 - [Praktyczne informacje](praktyczne.md)
-- [Zdrowie: biegunka podróżnych, WZW A, szczepienia i apteczka](zdrowie.md)
+- [Zdrowie: słońce, bezpieczeństwo w morzu, biegunka podróżnych, WZW A i apteczka](zdrowie.md)
 - [Pakowanie](pakowanie.md)
 - [Łączność](lacznosc.md)
 - [Pieniądze i płatności](pieniadze.md)
