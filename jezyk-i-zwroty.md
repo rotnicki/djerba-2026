@@ -65,12 +65,12 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 ### Powitania i grzeczność
 
-- **عسلامة — aslema** – wymowa po polsku: **aslema** – cześć / dzień dobry;
-- **السلام عليكم — salam alejkum** – wymowa po polsku: **salam alejkum** – tradycyjne powitanie „pokój z tobą / z wami”;
-- **وعليكم السلام — wa alejkum salam** – wymowa po polsku: **ua alejkum salam** – odpowiedź na „salam alejkum”;
-- **عيشك — 3aychek / aychek** – wymowa po polsku: **ajszek** – dziękuję; w tunezyjskim może również pełnić funkcję „proszę”;
-- **سامحني — samahni** – wymowa po polsku: **samahni** – przepraszam / proszę wybaczyć;
-- **بسلامة — beslema / bislama** – wymowa po polsku: **beslema** – do widzenia.
+- **عسلامة**{: lang="ar-TN" dir="rtl"} — 3aslema / aslema – wymowa po polsku: **aslema** – cześć / dzień dobry;
+- **السلام عليكم**{: lang="ar-TN" dir="rtl"} — salam alejkum – wymowa po polsku: **salam alejkum** – tradycyjne powitanie „pokój z tobą / z wami”;
+- **وعليكم السلام**{: lang="ar-TN" dir="rtl"} — wa alejkum salam – wymowa po polsku: **ua alejkum salam** – odpowiedź na „salam alejkum”;
+- **عيشك**{: lang="ar-TN" dir="rtl"} — 3aychek / aychek – wymowa po polsku: **ajszek** – dziękuję; w tunezyjskim może również pełnić funkcję „proszę”;
+- **سامحني**{: lang="ar-TN" dir="rtl"} — samahni – wymowa po polsku: **samahni** – przepraszam / proszę wybaczyć;
+- **بسلامة**{: lang="ar-TN" dir="rtl"} — beslema / bislama – wymowa po polsku: **beslema** – do widzenia.
 
 Źródła pomocnicze:
 
@@ -81,17 +81,17 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 ### Podstawowe odpowiedzi
 
-- **إي — ey** – wymowa po polsku: **ej** – tak, bardzo częste w mowie potocznej;
-- **لا — la** – wymowa po polsku: **la** – nie;
-- **ما نفهمش — ma nefhemch** – wymowa po polsku: **ma nefhemsz** – nie rozumiem;
-- **شوية — chwayya / chwaya** – wymowa po polsku: **szłajja** – trochę / odrobinę; w odpowiednim kontekście może pomóc poprosić, żeby coś robić wolniej.
+- **إي**{: lang="ar-TN" dir="rtl"} — ey – wymowa po polsku: **ej** – tak, bardzo częste w mowie potocznej;
+- **لا**{: lang="ar-TN" dir="rtl"} — la – wymowa po polsku: **la** – nie;
+- **ما نفهمش**{: lang="ar-TN" dir="rtl"} — ma nefhemch – wymowa po polsku: **ma nefhemsz** – nie rozumiem;
+- **شوية**{: lang="ar-TN" dir="rtl"} — chwayya / chwaya – wymowa po polsku: **szłajja** – trochę / odrobinę; w odpowiednim kontekście może pomóc poprosić, żeby coś robić wolniej.
 
 ### Zakupy
 
-- **قداش؟ — qaddech? / qaddesh?** – wymowa po polsku: **kaddesz?** – ile? / ile kosztuje?;
-- **غالي — ghali** – wymowa po polsku: w przybliżeniu **gali**, z pierwszą głoską wymawianą bardziej gardłowo – drogo / drogi;
-- **برشا — barcha** – wymowa po polsku: **barsza** – dużo / bardzo;
-- **ما نحبش — ma nhebch / ma n7ebch** – wymowa po polsku: **ma nhebsz** – nie chcę.
+- **قداش؟**{: lang="ar-TN" dir="rtl"} — qaddech? / qaddesh? – wymowa po polsku: **kaddesz?** – ile? / ile kosztuje?;
+- **غالي**{: lang="ar-TN" dir="rtl"} — ghali – wymowa po polsku: w przybliżeniu **gali**, z pierwszą głoską wymawianą bardziej gardłowo – drogo / drogi;
+- **برشا**{: lang="ar-TN" dir="rtl"} — barcha – wymowa po polsku: **barsza** – dużo / bardzo;
+- **ما نحبش**{: lang="ar-TN" dir="rtl"} — ma nhebch / ma n7ebch – wymowa po polsku: **ma nhebsz** – nie chcę.
 
 Nie należy martwić się niedoskonałą wymową. W tym zestawie ważniejsze są prosty komunikat, spokojny ton i możliwość rozpoznania słowa przez rozmówcę niż odtworzenie wszystkich arabskich głosek.
 
@@ -109,57 +109,63 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 ### Powitanie i podstawy
 
-- **Bonjour** – wymowa po polsku: **bążur** – dzień dobry;
-- **Bonsoir** – wymowa po polsku: **bąsłar** – dobry wieczór;
-- **Merci** – wymowa po polsku: **mersi** – dziękuję;
-- **S'il vous plaît** – wymowa po polsku: **sil wu ple** – proszę;
-- **Excusez-moi** – wymowa po polsku: **eksküze mua** – przepraszam;
-- **Au revoir** – wymowa po polsku: **o rewuar** – do widzenia.
+- **Bonjour**{: lang="fr"} – wymowa po polsku: **bążur** – dzień dobry;
+- **Bonsoir**{: lang="fr"} – wymowa po polsku: **bąsłar** – dobry wieczór;
+- **Merci**{: lang="fr"} – wymowa po polsku: **mersi** – dziękuję;
+- **S'il vous plaît**{: lang="fr"} – wymowa po polsku: **sil wu ple** – proszę;
+- **Excusez-moi**{: lang="fr"} – wymowa po polsku: **ekskize mua** – przepraszam;
+- **Au revoir**{: lang="fr"} – wymowa po polsku: **o rewuar** – do widzenia.
 
 ### Gdy czegoś nie rozumiemy
 
-- **Je ne comprends pas** – wymowa po polsku: **że ne kąprą pa** – nie rozumiem;
-- **Parlez-vous anglais ?** – wymowa po polsku: **parle wu ągle?** – czy mówi Pan/Pani po angielsku?;
-- **Parlez-vous français ?** – wymowa po polsku: **parle wu frąse?** – czy mówi Pan/Pani po francusku?;
-- **Pouvez-vous répéter ?** – wymowa po polsku: **puwe wu repete?** – czy może Pan/Pani powtórzyć?;
-- **Plus lentement, s'il vous plaît** – wymowa po polsku: **plü lątmą, sil wu ple** – wolniej, proszę.
+- **Je ne comprends pas**{: lang="fr"} – wymowa po polsku: **że ne kąprą pa** – nie rozumiem;
+- **Parlez-vous anglais ?**{: lang="fr"} – wymowa po polsku: **parle wu ągle?** – czy mówi Pan/Pani po angielsku?;
+- **Parlez-vous français ?**{: lang="fr"} – wymowa po polsku: **parle wu frąse?** – czy mówi Pan/Pani po francusku?;
+- **Pouvez-vous répéter ?**{: lang="fr"} – wymowa po polsku: **puwe wu repete?** – czy może Pan/Pani powtórzyć?;
+- **Plus lentement, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **pli lątmą, sil wu ple** – wolniej, proszę.
 
 ### Kierunek i transport
 
-- **Où est… ?** – wymowa po polsku: **u e…?** – gdzie jest…?;
-- **À gauche** – wymowa po polsku: **a gosz** – w lewo;
-- **À droite** – wymowa po polsku: **a druat** – w prawo;
-- **Tout droit** – wymowa po polsku: **tu drua** – prosto;
-- **Combien jusqu'à… ?** – wymowa po polsku: **kąbję żüska…?** – ile kosztuje przejazd do…?;
-- **Je veux aller à…** – wymowa po polsku: **że we ale a…** – chcę jechać do…;
-- **Arrêtez ici, s'il vous plaît** – wymowa po polsku: **arete isi, sil wu ple** – proszę zatrzymać się tutaj.
+- **Où est… ?**{: lang="fr"} – wymowa po polsku: **u e…?** – gdzie jest…?;
+- **À gauche**{: lang="fr"} – wymowa po polsku: **a gosz** – w lewo;
+- **À droite**{: lang="fr"} – wymowa po polsku: **a druat** – w prawo;
+- **Tout droit**{: lang="fr"} – wymowa po polsku: **tu drua** – prosto;
+- **Combien pour aller à… ?**{: lang="fr"} – wymowa po polsku: **kąbję pur ale a…?** – ile kosztuje przejazd do…?;
+- **Je veux aller à…**{: lang="fr"} – wymowa po polsku: **że we ale a…** – chcę jechać do…;
+- **Arrêtez ici, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **arete isi, sil wu ple** – proszę zatrzymać się tutaj.
 
 ### Zakupy i płatność
 
-- **Combien ça coûte ?** – wymowa po polsku: **kąbję sa kut?** – ile to kosztuje?;
-- **C'est trop cher** – wymowa po polsku: **se tro szer** – to za drogo;
-- **C'est le prix fixe ?** – wymowa po polsku: **se le pri fiks?** – czy to stała cena?;
-- **Je paie par carte** – wymowa po polsku: **że pe par kart** – płacę kartą;
-- **Je paie en espèces** – wymowa po polsku: **że pe ą espes** – płacę gotówką;
-- **Vous avez de la monnaie ?** – wymowa po polsku: **wu zawe de la mone?** – czy ma Pan/Pani drobne?;
-- **Je ne veux pas, merci** – wymowa po polsku: **że ne we pa, mersi** – nie chcę, dziękuję.
+- **Combien ça coûte ?**{: lang="fr"} – wymowa po polsku: **kąbję sa kut?** – ile to kosztuje?;
+- **C'est trop cher**{: lang="fr"} – wymowa po polsku: **se tro szer** – to za drogo;
+- **C'est un prix fixe ?**{: lang="fr"} – wymowa po polsku: **se ę pri fiks?** – czy to stała cena?;
+- **Je paie par carte**{: lang="fr"} – wymowa po polsku: **że pe par kart** – płacę kartą;
+- **Je paie en espèces**{: lang="fr"} – wymowa po polsku: **że pe ą espes** – płacę gotówką;
+- **Vous avez de la monnaie ?**{: lang="fr"} – wymowa po polsku: **wu zawe de la mone?** – czy ma Pan/Pani drobne?;
+- **Je ne veux pas, merci**{: lang="fr"} – wymowa po polsku: **że ne we pa, mersi** – nie chcę, dziękuję.
 
 ### Jedzenie i picie
 
-- **De l'eau, s'il vous plaît** – wymowa po polsku: **de lo, sil wu ple** – wodę, proszę;
-- **Sans glace** – wymowa po polsku: **są glas** – bez lodu;
-- **Sans alcool** – wymowa po polsku: **są zalkol** – bez alkoholu;
-- **L'addition, s'il vous plaît** – wymowa po polsku: **ladisją, sil wu ple** – rachunek, proszę;
-- **C'est épicé ?** – wymowa po polsku: **se epise?** – czy to jest ostre?;
-- **Sans…** – wymowa po polsku: **są…** – bez…
+- **De l'eau, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **de lo, sil wu ple** – wodę, proszę;
+- **Sans glace**{: lang="fr"} – wymowa po polsku: **są glas** – bez lodu;
+- **Sans alcool**{: lang="fr"} – wymowa po polsku: **są zalkol** – bez alkoholu;
+- **L'addition, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ladisją, sil wu ple** – rachunek, proszę;
+- **C'est épicé ?**{: lang="fr"} – wymowa po polsku: **se epise?** – czy to jest ostre?;
+- **Sans…**{: lang="fr"} – wymowa po polsku: **są…** – bez…
 
 ### Sytuacja awaryjna
 
-- **Aidez-moi, s'il vous plaît** – wymowa po polsku: **ede mua, sil wu ple** – proszę mi pomóc;
-- **J'ai besoin d'un médecin** – wymowa po polsku: w przybliżeniu **że bezłę dę medesę** – potrzebuję lekarza;
-- **Appelez la police** – wymowa po polsku: **aple la polis** – proszę wezwać policję;
-- **J'ai perdu…** – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…;
-- **Je suis avec un groupe** – wymowa po polsku: **że süi awek ę grup** – jestem z grupą.
+- **Aidez-moi, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ede mua, sil wu ple** – proszę mi pomóc;
+- **J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medesę** – potrzebuję lekarza;
+- **Appelez la police**{: lang="fr"} – wymowa po polsku: **aple la polis** – proszę wezwać policję;
+- **J'ai perdu…**{: lang="fr"} – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…;
+- **Je suis avec un groupe**{: lang="fr"} – wymowa po polsku: **że słi awek ę grup** – jestem z grupą.
+
+### Dostępność i pomoc w poruszaniu się
+
+- **Je suis aveugle**{: lang="fr"} – wymowa po polsku: **że słi awegl** – jestem osobą niewidomą;
+- **Donnez-moi votre bras, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **done mua wotr bra, sil wu ple** – proszę podać mi ramię;
+- **Prévenez-moi s'il y a une marche, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **prewene mua sil ja in marsz, sil wu ple** – proszę powiedzieć / ostrzec mnie, jeśli jest stopień.
 
 ## Angielski – kiedy wystarczy
 
@@ -177,47 +183,38 @@ Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamięt
 4. **beslema** – wymowa: **beslema** – do widzenia;
 5. **qaddech?** – wymowa: **kaddesz?** – ile?;
 6. **la** – wymowa: **la** – nie;
-7. **Bonjour** – wymowa: **bążur** – dzień dobry;
-8. **Merci** – wymowa: **mersi** – dziękuję;
-9. **Combien ça coûte ?** – wymowa: **kąbję sa kut?** – ile to kosztuje?;
-10. **Je ne comprends pas** – wymowa: **że ne kąprą pa** – nie rozumiem.
+7. **Bonjour**{: lang="fr"} – wymowa: **bążur** – dzień dobry;
+8. **Merci**{: lang="fr"} – wymowa: **mersi** – dziękuję;
+9. **Combien ça coûte ?**{: lang="fr"} – wymowa: **kąbję sa kut?** – ile to kosztuje?;
+10. **Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
 
-## Dostępność i przyszła publikacja na WWW
+## Dostępność i oznaczenia języka na WWW
 
-Materiał w Markdown pozostaje możliwie prosty i czytelny. Nie wstawiamy obecnie do każdego zwrotu surowych znaczników HTML tylko po to, aby oznaczyć zmianę języka.
+Materiał w Markdown pozostaje możliwie prosty i czytelny. Zmiany języka są już oznaczane bez wstawiania surowych znaczników HTML przy każdym zwrocie: wykorzystujemy atrybuty obsługiwane przez Kramdown.
 
-Przy konwersji materiału do HTML lub publikacji na stronie internetowej należy jednak programowo oznaczać język treści.
+Cała strona generowana przez Jekyll ma w layoucie główny język `lang="pl"`. W samym materiale oznaczamy lokalne zmiany języka tam, gdzie czytnik ekranu powinien przełączyć reguły wymowy.
 
-Zasady docelowe:
+Stosowane zasady:
 
 - cała polska strona: `lang="pl"`;
 - zwrot francuski: `lang="fr"`;
-- zwrot w tunezyjskim arabskim: preferowane `lang="ar-TN"`; jeżeli dane środowisko nie obsługuje wariantu regionalnego, co najmniej `lang="ar"`;
-- tekst arabski można dodatkowo oznaczyć `dir="rtl"`, gdy jest to potrzebne dla poprawnego kierunku pisma;
-- zwrot angielski: `lang="en"`;
-- **polska wymowa fonetyczna pozostaje w języku polskim** i nie może dziedziczyć oznaczenia `fr` ani `ar`, ponieważ czytnik ekranu powinien przeczytać ją zgodnie z polskimi regułami wymowy.
+- oryginalny zapis tunezyjskiego arabskiego: `lang="ar-TN"` oraz `dir="rtl"`;
+- zapis łaciński tunezyjskiego arabskiego i **polska wymowa fonetyczna pozostają w polskim kontekście językowym**, aby czytnik ekranu nie próbował czytać ich arabskim głosem;
+- ewentualny zwrot angielski powinien otrzymać `lang="en"`.
 
-Przykładowa docelowa struktura HTML:
+Przykładowa składnia używana bezpośrednio w Markdown:
 
-```html
-<p>
-  <span lang="fr">Bonjour</span>
-  – wymowa po polsku: <span lang="pl">bążur</span>
-  – dzień dobry
-</p>
+```markdown
+**Bonjour**{: lang="fr"} – wymowa po polsku: **bążur** – dzień dobry
 
-<p>
-  <span lang="ar-TN" dir="rtl">عسلامة</span>
-  – zapis łaciński: aslema
-  – wymowa po polsku: <span lang="pl">aslema</span>
-  – dzień dobry
-</p>
+**عسلامة**{: lang="ar-TN" dir="rtl"} — 3aslema / aslema – wymowa po polsku: **aslema** – dzień dobry
 ```
 
-Oznaczanie lokalnych zmian języka jest istotne dla czytników ekranu, ponieważ umożliwia technologii asystującej zastosowanie właściwych reguł wymowy. Wynika to z **WCAG 2.2, kryterium sukcesu 3.1.2 „Język części”, poziom AA**. Ustawienie głównego języka całej strony wynika z **kryterium 3.1.1 „Język strony”, poziom A**.
+Po przetworzeniu przez Kramdown atrybuty trafiają do wynikowego HTML. Oznaczanie lokalnych zmian języka jest istotne dla czytników ekranu, ponieważ umożliwia technologii asystującej zastosowanie właściwych reguł wymowy. Wynika to z **WCAG 2.2, kryterium sukcesu 3.1.2 „Język części”, poziom AA**. Ustawienie głównego języka całej strony wynika z **kryterium 3.1.1 „Język strony”, poziom A**.
 
 Źródła:
 
+- [Kramdown – składnia i atrybuty elementów](https://kramdown.gettalong.org/syntax.html)
 - [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.1: Language of Page](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)
 - [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.2: Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
 
@@ -231,14 +228,13 @@ Nie będziemy uczyć grupy:
 - zwrotów w tamazight wyłącznie dla efektu egzotycznego;
 - naukowej transkrypcji fonetycznej jako podstawowego sposobu zapisu.
 
-Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokazać miejscowej osobie albo poprawnie przedstawić na przyszłej stronie. Celem ściągi jest komunikacja, nie nauka językoznawstwa.
+Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokazać miejscowej osobie albo poprawnie przedstawić na stronie. Celem ściągi jest komunikacja, nie nauka językoznawstwa.
 
 ## Do sprawdzenia przed ostatecznym wydrukiem lub publikacją ściągi
 
 - czy hotel i lokalny przewodnik używają w praktyce angielskiego, francuskiego czy obu języków;
 - nazwy miejsc z planu wyjazdu w oficjalnej pisowni francuskiej i arabskiej;
 - uproszczoną polską wymowę nazw miejscowości, które grupa będzie najczęściej podawała taksówkarzom;
-- ewentualne zwroty dotyczące szczególnych potrzeb grupy, np. „osoba niewidoma”, „proszę podać ramię”, „proszę powiedzieć, gdzie jest stopień”;
 - przed wersją ostateczną odsłuchać kluczowe zwroty wypowiadane przez rodzimych użytkowników i w razie potrzeby skorygować polski zapis fonetyczny.
 
 ## Źródła
@@ -247,4 +243,5 @@ Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokaza
 - [Defense Language Institute Foreign Language Center – Tunisian Cultural Orientation](https://fieldsupport.dliflc.edu/products/tunisian/bw_co/tunisian.pdf)
 - [Defense Language Institute Foreign Language Center – Tunisian Headstart2](https://hs2.dliflc.edu/tunisian.html)
 - [Derja.Ninja – słownik tunezyjskiego arabskiego i zasady transliteracji](https://derja.ninja/)
+- [Francuski portal publiczny Mon Parcours Handicap – terminologia dotycząca osób niewidomych i słabowidzących](https://www.monparcourshandicap.gouv.fr/actualite/handicap-visuel-le-point-sur-les-chiens-guides)
 - [W3C WAI – WCAG 2.2, Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
