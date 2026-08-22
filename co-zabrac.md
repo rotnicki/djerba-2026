@@ -80,15 +80,57 @@ W przypadku Tunezji trzeba odróżnić zasady lotnicze od zasad celnych:
 - [Główny Inspektorat Farmaceutyczny – przewóz leków zawierających substancje kontrolowane](https://www.gov.pl/web/gif/substancje-kontrolowane-info-pacjenci2)
 - [Enter Air – płyny i leki](https://help.enterair.pl/faq-plyny-i-leki/)
 
+## Ubrania i obuwie
+
+Na przełomie sierpnia i września na Dżerbie należy przygotować się przede wszystkim na **wysoką temperaturę, silne słońce i ciepłe noce**. Wieloletnie dane klimatyczne dla stacji Djerba Mellita pokazują średnie maksymalne temperatury około 33,8°C w sierpniu i 31,3°C we wrześniu, ale możliwe są również wyraźnie gorętsze dni.
+
+Najlepiej sprawdzają się ubrania **lekkie, luźne, przewiewne i raczej jasne**. Nie ma potrzeby, aby cała odzież była wyłącznie bawełniana. **Bawełna i len są dobrym wyborem**, ale lekkie materiały techniczne i szybkoschnące również mogą dobrze sprawdzać się w upale, szczególnie jeśli mają oznaczenie ochrony przeciwsłonecznej UPF. Warto natomiast unikać grubych, ciężkich i słabo przewiewnych ubrań.
+
+Na tygodniowy pobyt warto zabrać orientacyjnie:
+
+- **4–6 lekkich T-shirtów lub innych przewiewnych koszulek**;
+- **2–3 pary krótkich spodni lub bermudów**;
+- **1–2 pary lekkich, luźnych długich spodni** – przydadzą się podczas wycieczek na południe i Saharę; przynajmniej jedna para przyda się panom również ze względu na bardziej formalny strój wymagany przy kolacji w hotelu;
+- **1–2 lekkie koszule lub koszulki z długim rękawem** – przede wszystkim jako ochrona przed słońcem podczas długich wycieczek;
+- **lekką chustę pustynną – arafatkę / kefiję / shemagh**, najlepiej przewiewną, np. bawełnianą, około 100–110 × 100–110 cm; przydatną szczególnie na Saharze do osłony głowy, karku i w razie potrzeby twarzy przed słońcem, wiatrem i piaskiem;
+- **kapelusz z szerokim rondem** lub inne dobre nakrycie głowy osłaniające twarz, uszy i kark;
+- **wygodne, rozchodzone kryte buty**, np. adidasy lub lekkie buty turystyczne – szczególnie na dalsze wycieczki, Saharę i miejsca o nierównym podłożu;
+- **lekkie sandały** do codziennego chodzenia;
+- **buty do wody** z gumową podeszwą, dobrze trzymające stopę – przydatne przy plaży Club Palm Azur, gdzie zejście do morza jest miejscami skaliste;
+- **co najmniej jeden, a wygodniej dwa stroje kąpielowe**;
+- zwykły zapas bielizny i skarpet na cały pobyt;
+- **jedną cienką dodatkową warstwę**, np. lekką bluzę lub koszulę – może przydać się w klimatyzowanym autokarze, samolocie lub podczas dłuższej wycieczki;
+- opcjonalnie **bardzo lekką składaną pelerynę przeciwdeszczową** – opady o tej porze nie są częste, ale są możliwe.
+
+### Na Saharę i południe Tunezji
+
+Przy wycieczce na Saharę szczególnie przydatny będzie zestaw: **lekka chusta / arafatka, lekkie długie spodnie, lekka koszula lub koszulka z długim rękawem oraz wygodne kryte buty**. Nie są to cztery formalne obowiązki, lecz praktyczne zalecenia wynikające z ochrony przed bardzo silnym słońcem, gorącem, wiatrem, piaskiem i nierównym podłożem.
+
+- **Chusta / arafatka / kefija / shemagh** – służy przede wszystkim do ochrony głowy, karku i twarzy przed słońcem, wiatrem i piaskiem. Nie jest wymagana z powodów religijnych. Jeśli ktoś nie ma arafatki, może wykorzystać inną dużą, lekką i przewiewną chustę, którą da się wygodnie owinąć.
+- **Długie spodnie** – najlepiej lekkie i luźne, a nie ciężkie dżinsy. Osłaniają skórę przed słońcem i piaskiem i są praktyczne przy dłuższej wycieczce lub przejażdżce na wielbłądzie.
+- **Długi rękaw** – warto mieć lekką, przewiewną koszulę lub koszulkę. Przy wielogodzinnej ekspozycji na słońce osłonięcie skóry jest dodatkową ochroną obok kremu z filtrem.
+- **Kryte buty** – mocno zalecane przy chodzeniu po nierównym terenie, kamienistych przystankach i podczas dłuższej wycieczki. Najlepiej sprawdzą się wygodne, wcześniej rozchodzone adidasy lub lekkie buty turystyczne. Nie ma podstaw, by traktować kryte obuwie jako formalny obowiązek na każdej pustynnej wycieczce, ale klapki nie są dobrym podstawowym obuwiem na taki dzień.
+
+W hotelu i strefie wypoczynkowej nie ma potrzeby stosowania tego zestawu przez cały czas. Zwykłe letnie ubrania, stroje kąpielowe i krótkie spodnie są odpowiednie do wypoczynku w kurorcie. Bardziej zakryty ubiór ma znaczenie przede wszystkim przy długiej ekspozycji na słońce, na południu Tunezji oraz przy odwiedzaniu miejsc religijnych i bardziej tradycyjnych miejscowości.
+
+Źródła:
+
+- [CDC Yellow Book 2026 – upał: lekka, luźna i przewiewna odzież](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/heat-and-cold-illness-in-travelers.html)
+- [CDC Yellow Book 2026 – ochrona przeciwsłoneczna, odzież i tkaniny UPF](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/sun-exposure-in-travelers.html)
+- [Infoclimat – normy klimatyczne 1991–2020 dla Djerba Mellita](https://www.infoclimat.fr/climatologie/normales-records/1991-2020/djerba-mellita/valeurs/60769.html)
+- [Grand Sahara Aventures – lokalny operator z Dżerby: wyposażenie i ubiór na pustyni](https://www.grand-sahara-aventures.com/en/zarzis-trek-7-jours-desert-tunisien)
+- [GOV.UK – Tunezja: ubiór w kurortach oraz w miejscach religijnych i bardziej tradycyjnych](https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security)
+- [Itaka – Club Palm Azur: opis plaży oraz informacja o stroju przy kolacji](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+
 ## Słońce i plaża
 
-- Kapelusz z szerokim rondem osłaniającym twarz, uszy i kark.
 - Krem przeciwsłoneczny SPF 50/50+ z ochroną UVA i UVB, najlepiej wodoodporny.
 - Okulary przeciwsłoneczne z ochroną UVA i UVB.
 - Balsam do ust z filtrem przeciwsłonecznym SPF 30+.
-- Lekka odzież osłaniająca skórę; przy dłuższym pływaniu można rozważyć koszulkę kąpielową z UPF 50.
+- Przy dłuższym pływaniu można rozważyć koszulkę kąpielową z UPF 50.
 - Lekki preparat łagodzący po oparzeniu, np. z D-pantenolem lub alantoiną.
-- Buty do wody z gumową podeszwą, dobrze trzymające stopę.
+
+Nakrycie głowy, lekka odzież osłaniająca skórę i buty do wody opisano wyżej w sekcji **Ubrania i obuwie**.
 
 ## Zdrowie i apteczka
 
