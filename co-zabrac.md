@@ -35,6 +35,37 @@ Enter Air zastrzega możliwość ograniczenia bagażu rejestrowanego na wybranyc
 - [Enter Air – Ogólne Warunki Przewozu, w tym bagaż podręczny i rejestrowany](https://fly.enterair.pl/wp-content/uploads/owp-regulations/Enter%20Air%20Og%C3%B3lne%20Warunki%20przewozu%20marzec%202024.pdf)
 - [Coral Travel – Warunki Imprez Turystycznych: limit bagażu zależy od przewoźnika](https://www.coraltravel.pl/dokumenty/)
 
+### Jeśli bagaż nie przyleci lub jest uszkodzony
+
+Jeżeli po przylocie bagażu rejestrowanego **nie ma na taśmie, jest uszkodzony albo brakuje części jego zawartości**, nie należy opuszczać strefy przylotów bez zgłoszenia problemu.
+
+1. Zgłoś się do **Lost & Found / biura reklamacji bagażowych** właściwego dla danego rejsu.
+2. Poproś o sporządzenie **PIR – Property Irregularity Report** i zachowaj jego kopię lub numer referencyjny.
+3. Zachowaj **kartę pokładową oraz kwit / odcinek zawieszki bagażowej**.
+4. W przypadku uszkodzenia zrób zdjęcia walizki i uszkodzeń, najlepiej jeszcze przed opuszczeniem lotniska.
+5. Przy opóźnieniu bagażu podaj w PIR prawidłowy adres pobytu oraz dane kontaktowe i ustal z obsługą, w jaki sposób bagaż zostanie później przekazany lub odebrany.
+6. Jeżeli w czasie oczekiwania trzeba kupić rzeczy pierwszej potrzeby, zachowaj rachunki.
+
+**PIR nie jest reklamacją do linii lotniczej.** Po zgłoszeniu problemu na lotnisku trzeba osobno przeprowadzić procedurę reklamacyjną u przewoźnika.
+
+Dla naszych lotów Enter Air:
+
+- **uszkodzenie bagażu lub braki w zawartości** – reklamację należy złożyć niezwłocznie, najpóźniej w ciągu **7 dni od odebrania bagażu**;
+- **opóźnienie dostarczenia bagażu** – reklamację należy złożyć w ciągu **21 dni od dnia otrzymania bagażu**;
+- bagaż nieodnaleziony w ciągu **21 dni od dnia, w którym powinien zostać dostarczony**, Enter Air uznaje za zaginiony.
+
+Reklamację do Enter Air można złożyć przez formularz przewoźnika lub pocztą elektroniczną. Do reklamacji warto dołączyć PIR, kartę pokładową, kwit bagażowy, fotografie szkody oraz – jeśli dotyczy – rachunki za niezbędne zakupy.
+
+Przy opóźnieniu bagażu warto mieć w bagażu podręcznym podstawowe rzeczy potrzebne przez pierwszą dobę; lista znajduje się poniżej.
+
+Źródła:
+
+- [Enter Air – Ogólne Warunki Przewozu, reklamacje i odpowiedzialność za bagaż](https://fly.enterair.pl/wp-content/uploads/owp-regulations/Enter%20Air%20Og%C3%B3lne%20Warunki%20przewozu%20marzec%202024.pdf)
+- [Enter Air – centrum pomocy](https://help.enterair.pl/)
+- [Coral Travel – aktualne dokumenty i Warunki Imprez Turystycznych](https://www.coraltravel.pl/dokumenty/)
+- [Europejskie Centrum Konsumenckie – uszkodzony lub zaginiony bagaż lotniczy](https://konsument.gov.pl/uszkodzony-zaginiony-bagaz-lotniczy/)
+- [Katowice Airport – prawa pasażera i reklamacja bagażu](https://www.katowice-airport.com/pl/dla-pasazera/przed-podroza/prawa-pasazera)
+
 ## Co powinno być w bagażu podręcznym
 
 - dokumenty podróży, pieniądze i inne rzeczy wartościowe;
