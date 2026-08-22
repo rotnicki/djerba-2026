@@ -8,7 +8,7 @@ Informacje zależne od czasu, przepisów albo bieżącego funkcjonowania usług 
 
 ## Telefony alarmowe i pomoc konsularna
 
-Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na Dżerbie. **Wybiera się je jako krótkie numery alarmowe bez prefiksu kraju +216**, czyli np. 190, 197 lub 198, a nie +216 190. Prefiks +216 stosujemy natomiast przy zwykłych tunezyjskich numerach telefonu, takich jak numer hotelu czy Ambasady RP.
+Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na Dżerbie. **Wybiera się je jako krótkie numery alarmowe bez prefiksu kraju +216**, czyli np. 190, 197 lub 198, a nie +216 190. Prefiks +216 stosuje się natomiast przy zwykłych tunezyjskich numerach telefonu, takich jak numer hotelu czy Ambasady RP.
 
 Do połączenia z lokalnym numerem alarmowym potrzebna jest działająca usługa głosowa w sieci komórkowej. Sama podróżna eSIM przeznaczona wyłącznie do transmisji danych nie zapewnia zwykłych połączeń telefonicznych. W nagłej sytuacji najpierw należy kontaktować się z właściwą miejscową służbą. Ambasada nie zastępuje pogotowia, policji ani straży pożarnej.
 
@@ -22,11 +22,11 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 ### Kontakty do zapisania w telefonie
 
-Przygotowaliśmy jedną paczkę kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur. Po pobraniu można zaimportować wszystkie kontakty do telefonu za jednym razem.
+Dostępna jest jedna paczka kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur. Po pobraniu można zaimportować wszystkie kontakty do telefonu za jednym razem.
 
-[ Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel ](assets/dzerba-2026-kontakty.vcf)
+[Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel](assets/dzerba-2026-kontakty.vcf)
 
-Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny również z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze. Na stronie nadal używamy poprawnej polskiej nazwy **Dżerba**.
+Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze.
 
 W kontaktach numery alarmowe są zapisane bez prefiksu +216, natomiast zwykłe numery Ambasady RP i hotelu — w pełnym formacie międzynarodowym +216. Pole kategorii vCard ma wartość **Dżerba**, ale nie należy traktować go jako gwarancji automatycznego utworzenia osobnej listy kontaktów na iPhonie; najpewniejszym sposobem znalezienia całego zestawu jest wpisanie **Djerba** w wyszukiwarce Kontaktów.
 
