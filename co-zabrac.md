@@ -131,7 +131,7 @@ W przypadku Tunezji trzeba odróżnić zasady lotnicze od zasad celnych:
 Źródła:
 
 - [Tunezyjska służba celna – zasady wwozu leków na własny użytek](https://www.douane.gov.tn/medicaments/)
-- [Tunezyjska służba celna – towary zabronione i wymagające szczególnych zezwoleń](https://www.douane.gov.tn/avez-vous-quelwecos-a-declarer/)
+- [Tunezyjska służba celna – towary zabronione i wymagające szczególnych zezwoleń](https://www.douane.gov.tn/avez-vous-quelque-chose-a-declarer/)
 - [Urząd Lotnictwa Cywilnego – przewóz leków i produktów medycznych w bagażu](https://bezpiecznybagaz.ulc.gov.pl/dg-search?cat=18)
 - [Główny Inspektorat Farmaceutyczny – przewóz leków zawierających substancje kontrolowane](https://www.gov.pl/web/gif/substancje-kontrolowane-info-pacjenci2)
 - [Enter Air – płyny i leki](https://help.enterair.pl/faq-plyny-i-leki/)
