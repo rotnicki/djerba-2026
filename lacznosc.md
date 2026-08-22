@@ -52,7 +52,7 @@ Stan sprawdzenia: 22 sierpnia 2026 r.
 
 Wi-Fi Calling, nazywane też VoWiFi, pozwala wykonywać i odbierać zwykłe połączenia telefoniczne z polskiego numeru przez sieć Wi-Fi zamiast przez lokalną sieć komórkową. Nie jest to WhatsApp: rozmowa jest realizowana jako usługa operatora i rozliczana według zasad tego operatora.
 
-#### Czy sposób z trybem samolotowym jest prawidłowy?
+#### Tryb samolotowy jako zabezpieczenie przed roamingiem
 
 Tak. Na iPhonie po włączeniu trybu samolotowego sieć komórkowa zostaje wyłączona. Wi-Fi można następnie ręcznie włączyć ponownie. W takiej konfiguracji telefon nie loguje się do tunezyjskiej sieci komórkowej, ale może korzystać z internetu przez Wi-Fi i — jeżeli operator oraz taryfa na to pozwalają — z Wi-Fi Calling.
 
