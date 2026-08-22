@@ -13,13 +13,63 @@ Punktem odniesienia jest pobyt 18-osobowej grupy w **Club Palm Azur w Aghir** w 
 
 [Google Maps – Club Palm Azur na Dżerbie](https://www.google.com/maps/search/?api=1&query=Club+Palm+Azur+Djerba)
 
+## Szybki wybór dla naszej grupy
+
+To nie jest jeszcze ostateczny ranking. Ocena ma pomóc wybrać, o co pytać i co negocjować.
+
+### Jeśli chcemy naprawdę poznać Dżerbę
+
+Najbardziej sensowny jest objazd obejmujący **Guellalę + El Ghribę + Djerbahood + Houmt Souk**. Dobrze, jeśli program łączy opowieść o wyspie, kontakt z lokalnymi miejscami i **rozsądnie zaplanowany czas na targ lub zakupy**, zamiast traktować te elementy jako wzajemnie konkurencyjne.
+
+Dla naszej grupy szczególnie warto negocjować możliwość **dotykowego poznania gliny i ceramiki w Guellali**, słownego opisu kilku murali Djerbahood oraz – jeśli grupa chce – czasu na spokojne poznanie i zakup lokalnych produktów.
+
+### Jeśli chcemy najpełniejszego jednodniowego doświadczenia Sahary
+
+Do wyboru są co najmniej dwa różne modele:
+
+**Ksar Ghilane (oaza na Saharze)** – gorące źródło, oaza, wydmy, często Matmata i Toujane. Dobre połączenie krajobrazu, przestrzeni i doświadczeń sensorycznych.
+
+**Douz (wydmy i brama Sahary)** – łatwy dostęp do klasycznych piaszczystych wydm, wielbłądów i tradycji nomadów; u Timura łączone z Matmatą i Sidi Idriss.
+
+Nie wybieramy między nimi tylko na podstawie 55 vs 60 EUR.
+
+### Jeśli interesują nas „Gwiezdne wojny” albo kultura południa
+
+Najbardziej wartościowe punkty to:
+
+- **Ksar Hadada** – potwierdzona lokacja „Mrocznego widma”;
+- **Hotel Sidi Idriss** – potwierdzone wnętrza domu rodziny Larsów;
+- **Matmata** – same domy troglodytyczne i region filmowy;
+- Tataouine i Chenini – przede wszystkim kultura, ksary i krajobraz, a nie „park Star Wars”.
+
+### Jeśli chcemy czegoś lekkiego
+
+Djerba Explore albo rejs Ras Rmel wymagają mniej „wyprawowego” nastawienia niż całodniowe południe. Rejs we wrześniu traktujemy jednak jako morze, plażę i animacje, a nie wyprawę na flamingi.
+
+### Jeśli chcemy nocy na pustyni
+
+Wariant 2-dniowy ma sens tylko wtedy, gdy grupa świadomie chce oddać prawie dwie doby z tygodniowego pobytu. Jego przewagą nad jednodniówką jest **wieczór, noc, ognisko i poranek na pustyni**, a nie samo odhaczenie większej liczby punktów.
+
+## Przed zakupem wycieczki sprawdź
+
+1. **Aktualne ceny Coral** i pełne programy na tydzień naszego pobytu.
+2. **Wrześniowe dni wyjazdów Timura/Tawma** po zakończeniu letniego rozkładu z katalogu.
+3. **Formalny organizator Anety/Cesara**.
+4. Oferty grupowe dla dokładnie 18 osób – zamiast mnożenia ceny katalogowej razy 18.
+5. Polski przewodnik/pilot i sposób prowadzenia grupy niewidomych i słabowidzących.
+6. Dokładna lista punktów programu – szczególnie przy słowach „Sahara”, „słone jezioro” i „Star Wars”.
+7. Wszystkie opłaty dodatkowe.
+8. **Przejrzystość części zakupowej:** które przystanki handlowe są w programie, ile trwają, czy są obowiązkowe i czy zakupy są całkowicie dobrowolne.
+9. Warunki rezygnacji i sposób płatności.
+10. Pogoda i temperatura na południu w dniu konkretnej wycieczki.
+
 ## Jak korzystać z przewodnika
 
 Nazwy miejsc w południowej Tunezji łatwo pomylić. Dlatego każde ważniejsze miejsce ma **stałą krótką etykietę**, która będzie powtarzana także przy programach wycieczek. Przykład: **Matmata – podziemne domy + Gwiezdne wojny**.
 
 Nie należy porównywać wycieczek wyłącznie po nazwie i cenie. Dwie oferty nazwane „Sahara 1 dzień” mogą prowadzić w zupełnie inne miejsca. Szczególnie ważne jest rozróżnienie **Ksar Ghilane** i **Douz**.
 
-Przy odległościach podajemy przede wszystkim **skalę dojazdu**, a nie pozornie precyzyjny czas. Czas przejazdu zależy od trasy, przystanków, liczby odbieranych hoteli, rodzaju pojazdu i programu. Dla dalszych miejsc pomocniczo korzystamy m.in. z oficjalnych danych tunezyjskiej turystyki dotyczących odległości od Dżerby.
+Przy odległościach podajemy przede wszystkim **skalę dojazdu**, a nie pozornie precyzyjny czas. Czas przejazdu zależy od trasy, przystanków, liczby odbieranych hoteli, rodzaju pojazdu i programu. Dla dalszych miejsc pomocniczo korzystamy m.in. z oficjalnych danych tunezyjskiej turysty dotyczących odległości od Dżerby.
 
 Zakupy, targi, perfumerie, olejarnie i sklepy z lokalnymi wyrobami traktujemy jako **pełnoprawny element części wycieczek**, a nie z założenia jako stratę czasu. Mogą być interesujące także dla osób niewidomych i słabowidzących – przez zapachy, faktury, możliwość dotykania wyrobów, rozmowy ze sprzedawcami i poznawanie lokalnych produktów. Przy porównywaniu ofert zwracamy natomiast uwagę na **swobodę wyboru**: czym innym jest czas przeznaczony na dobrowolne zakupy, a czym innym obowiązkowy punkt sprzedażowy z presją zakupową albo zajmujący nieproporcjonalnie dużą część programu.
 
@@ -55,25 +105,39 @@ To przede wszystkim rejs, plaża, obiad i animacje. W naszym terminie **nie nale
 
 [SeePlaces/ITAKA – Wyspa Flamingów, aktualny program i informacja o sezonie flamingów](https://itaka-lt.seeplaces.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/)
 
-### Zasady źródeł
+## Bezpieczeństwo, ubezpieczenie i odpowiedzialność przed zakupem wycieczki
 
-Informacje o historii i znaczeniu miejsc sprawdzamy przede wszystkim w źródłach takich jak UNESCO, **Office National du Tourisme Tunisien – ONTT (Tunezyjski Narodowy Urząd Turystyki)**, oficjalne strony obiektów oraz źródła specjalistyczne.
+Przed wyborem wycieczki trzeba sprawdzić nie tylko program i cenę, lecz również **kto formalnie jest organizatorem, jak przebiega dokładna trasa oraz czy planowane aktywności są objęte naszym ubezpieczeniem**.
 
-Wikipedia może być użytecznym źródłem pomocniczym i punktem wyjścia do dalszej weryfikacji, ale przy ważniejszych twierdzeniach nie powinna być jedynym źródłem.
+### Quady, wielbłądy i sporty wysokiego ryzyka
 
-Google Maps służy w tym dokumencie przede wszystkim jako **mapa i pomoc nawigacyjna**, a nie jako źródło historii miejsca.
+Aktualne Warunki Ubezpieczenia Podróży dla klientów Coral Travel (ERGO, nr 10.39.001) zaliczają do **sportów wysokiego ryzyka** m.in. jazdę na quadach oraz dosiadanie i jazdę na zwierzętach wierzchowych i pociągowych. Oznacza to, że dotyczy to również typowej turystycznej przejażdżki na wielbłądzie.
 
-Tripadvisor, opinie Google i relacje podróżników są użyteczne przede wszystkim do oceny praktycznej wizyty i reputacji organizatora. Pojedynczej opinii nie traktujemy jako dowodu ogólnej reguły.
+W sprawdzonej umowie dla naszego wyjazdu widnieje wariant **TRAVEL – BASIC**. Wariant Basic nie obejmuje standardowo następstw uprawiania sportów wysokiego ryzyka. Odpowiednie rozszerzenie można dokupić za dodatkową składką.
 
-Materiały biur podróży są dobrym źródłem tego, **co konkretny sprzedawca deklaruje w programie i za jaką cenę**, ale nie są automatycznie najlepszym źródłem wiedzy historycznej o odwiedzanych miejscach.
+**Praktyczna zasada dla naszej grupy:** przed wykupieniem quada, przejażdżki na wielbłądzie lub innej aktywności zakwalifikowanej jako sport wysokiego ryzyka trzeba upewnić się, że konkretna osoba ma odpowiednie rozszerzenie ubezpieczenia. Nie zakładamy, że sam fakt kupienia aktywności podczas wycieczki automatycznie zapewnia ochronę z podstawowej polisy.
 
-Część programów pochodzi z materiałów przekazanych bezpośrednio grupie: katalogu „Djerba z Timurem” oraz wiadomości z ofertą Anety Borowskiej i Cesara. Są one oznaczone jako **materiał otrzymany**. Aktualność i szczegóły trzeba ponownie potwierdzić przed zakupem.
+Przy quadach trzeba dodatkowo sprawdzić odpowiedzialność za szkody wyrządzone innym osobom lub w mieniu. Ogólne warunki ubezpieczenia zawierają osobne wyłączenia dotyczące odpowiedzialności cywilnej związanej z użytkowaniem lub prowadzeniem pojazdów mechanicznych. Dlatego warto sprawdzić również ubezpieczenie operatora i pojazdu oraz zasady odpowiedzialności uczestnika.
 
-Ceny, terminy, oceny i dostępność są danymi zmiennymi. Wszystkie ceny w tej wersji sprawdzono lub otrzymano najpóźniej 22 sierpnia 2026 r.
+### Coral Travel a lokalny organizator wycieczki
 
-### Słownik pojęć, które będą się powtarzać
+Wycieczki fakultatywne przedstawiane przez przedstawiciela Coral Travel / lokalnego partnera są według Warunków Imprez Turystycznych oferowane przez kontrahenta posiadającego wymagane licencje i ubezpieczenia. Ewentualne problemy dotyczące takiej wycieczki należy zgłaszać jej organizatorowi na miejscu.
 
-#### Ksar i ghorfa – co znaczą te słowa
+Jeżeli natomiast uczestnik **sam zawiera odrębną umowę z miejscowym usługodawcą**, a dana usługa nie jest częścią umowy zawartej z Coral Travel, Coral Travel nie odpowiada za niewykonanie lub nieprawidłowe wykonanie tej usługi.
+
+Przed wpłatą za lokalną wycieczkę ustalamy więc: pełną nazwę formalnego organizatora, możliwość sprawdzenia jego licencji, zasady płatności i anulowania, posiadane ubezpieczenie oraz podmiot odpowiedzialny za transport i dodatkowe aktywności.
+
+### Trasy na południe i komunikaty MSZ/Odyseusza
+
+Przy wyjazdach na południe Tunezji, m.in. w kierunku Tataouine, Ksar Ghilane, Douz lub Tozeur, przed zakupem i ponownie bezpośrednio przed wycieczką należy sprawdzić aktualny profil Tunezji w Odyseuszu/MSZ.
+
+Aktualne ostrzeżenia zwracają szczególną uwagę na Saharę, obszary pustynne i rejony przy granicach z Libią i Algierią. W polskich zaleceniach istotne jest rozróżnienie między obszarami przygranicznymi i pustynnymi a ustalonymi szlakami turystycznymi.
+
+Dlatego sama nazwa „Sahara” nie wystarcza do oceny bezpieczeństwa. Przed wyborem programu prosimy organizatora o dokładną trasę i sprawdzamy ją z aktualnymi komunikatami MSZ/Odyseusza. Nie planujemy samodzielnych wypraw terenowych ani nieuzgodnionych zjazdów z turystycznej trasy w kierunku obszarów przygranicznych.
+
+## Słownik pojęć, które będą się powtarzać
+
+### Ksar i ghorfa – co znaczą te słowa
 
 **Ksar** to ufortyfikowany zbiorowy spichlerz lub zespół takich zabudowań, charakterystyczny dla południa Tunezji. Liczba mnoga to **ksour**. Poszczególne sklepione komory magazynowe nazywają się **ghorfa/ghorfas**.
 
@@ -81,11 +145,11 @@ ONTT opisuje ksary jako dawne punkty, w których półkoczownicze społeczności
 
 [ONTT / Discover Tunisia – ksary i ghorfy południowej Tunezji](https://www.discovertunisia.com/en/discover/around-tataouine)
 
-#### Amazigh / Berberowie
+### Amazigh / Berberowie
 
 W ofertach turystycznych najczęściej spotkamy słowo **Berberowie**. Współcześnie często używa się również określenia **Amazigh**, będącego własną nazwą rdzennych ludów Afryki Północnej. W tym materiale obie nazwy mogą pojawiać się razem, aby zachować zgodność z programami biur i jednocześnie objaśnić terminologię.
 
-#### Troglodyci – dlaczego to słowo brzmi znajomo
+### Troglodyci – dlaczego to słowo brzmi znajomo
 
 W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w ziemi i miękkiej skale. Wielki słownik języka polskiego PAN podaje, że pierwotne znaczenie słowa „troglodyta” to człowiek mieszkający w jaskini; pochodzi ono przez łacinę od greckiego słowa oznaczającego jaskiniowca. Dzisiejsze żartobliwe lub obraźliwe znaczenia są późniejszym rozwinięciem tego określenia.
 
@@ -400,36 +464,6 @@ Z Dżerby jest to sensowny element przede wszystkim **wycieczki co najmniej 2-dn
 [Galaxy Tours – mapa potwierdzonych tunezyjskich lokacji „Gwiezdnych wojen”](https://galaxytours.com/starwars-locations-tunisia-map/)
 
 [Google Maps – Tozeur](https://www.google.com/maps/search/?api=1&query=Tozeur+Tunisia)
-
-## Bezpieczeństwo, ubezpieczenie i odpowiedzialność przed zakupem wycieczki
-
-Przed wyborem wycieczki trzeba sprawdzić nie tylko program i cenę, lecz również **kto formalnie jest organizatorem, jak przebiega dokładna trasa oraz czy planowane aktywności są objęte naszym ubezpieczeniem**.
-
-### Quady, wielbłądy i sporty wysokiego ryzyka
-
-Aktualne Warunki Ubezpieczenia Podróży dla klientów Coral Travel (ERGO, nr 10.39.001) zaliczają do **sportów wysokiego ryzyka** m.in. jazdę na quadach oraz dosiadanie i jazdę na zwierzętach wierzchowych i pociągowych. Oznacza to, że dotyczy to również typowej turystycznej przejażdżki na wielbłądzie.
-
-W sprawdzonej umowie dla naszego wyjazdu widnieje wariant **TRAVEL – BASIC**. Wariant Basic nie obejmuje standardowo następstw uprawiania sportów wysokiego ryzyka. Odpowiednie rozszerzenie można dokupić za dodatkową składką.
-
-**Praktyczna zasada dla naszej grupy:** przed wykupieniem quada, przejażdżki na wielbłądzie lub innej aktywności zakwalifikowanej jako sport wysokiego ryzyka trzeba upewnić się, że konkretna osoba ma odpowiednie rozszerzenie ubezpieczenia. Nie zakładamy, że sam fakt kupienia aktywności podczas wycieczki automatycznie zapewnia ochronę z podstawowej polisy.
-
-Przy quadach trzeba dodatkowo sprawdzić odpowiedzialność za szkody wyrządzone innym osobom lub w mieniu. Ogólne warunki ubezpieczenia zawierają osobne wyłączenia dotyczące odpowiedzialności cywilnej związanej z użytkowaniem lub prowadzeniem pojazdów mechanicznych. Dlatego warto sprawdzić również ubezpieczenie operatora i pojazdu oraz zasady odpowiedzialności uczestnika.
-
-### Coral Travel a lokalny organizator wycieczki
-
-Wycieczki fakultatywne przedstawiane przez przedstawiciela Coral Travel / lokalnego partnera są według Warunków Imprez Turystycznych oferowane przez kontrahenta posiadającego wymagane licencje i ubezpieczenia. Ewentualne problemy dotyczące takiej wycieczki należy zgłaszać jej organizatorowi na miejscu.
-
-Jeżeli natomiast uczestnik **sam zawiera odrębną umowę z miejscowym usługodawcą**, a dana usługa nie jest częścią umowy zawartej z Coral Travel, Coral Travel nie odpowiada za niewykonanie lub nieprawidłowe wykonanie tej usługi.
-
-Przed wpłatą za lokalną wycieczkę ustalamy więc: pełną nazwę formalnego organizatora, możliwość sprawdzenia jego licencji, zasady płatności i anulowania, posiadane ubezpieczenie oraz podmiot odpowiedzialny za transport i dodatkowe aktywności.
-
-### Trasy na południe i komunikaty MSZ/Odyseusza
-
-Przy wyjazdach na południe Tunezji, m.in. w kierunku Tataouine, Ksar Ghilane, Douz lub Tozeur, przed zakupem i ponownie bezpośrednio przed wycieczką należy sprawdzić aktualny profil Tunezji w Odyseuszu/MSZ.
-
-Aktualne ostrzeżenia zwracają szczególną uwagę na Saharę, obszary pustynne i rejony przy granicach z Libią i Algierią. W polskich zaleceniach istotne jest rozróżnienie między obszarami przygranicznymi i pustynnymi a ustalonymi szlakami turystycznymi.
-
-Dlatego sama nazwa „Sahara” nie wystarcza do oceny bezpieczeństwa. Przed wyborem programu prosimy organizatora o dokładną trasę i sprawdzamy ją z aktualnymi komunikatami MSZ/Odyseusza. Nie planujemy samodzielnych wypraw terenowych ani nieuzgodnionych zjazdów z turystycznej trasy w kierunku obszarów przygranicznych.
 
 ## Programy wycieczek – porównujemy zawartość, nie tylko nazwę
 
@@ -823,43 +857,6 @@ Przy lokalnym biurze warto sprawdzać, czy występuje w rejestrze ONTT i w jakie
 
 [ONTT / Discover Tunisia – oficjalny katalog biur podróży, hoteli i restauracji](https://www.discovertunisia.com/en/tourist_information)
 
-### Co wydaje się najciekawsze dla naszej grupy
-
-To nie jest jeszcze ostateczny ranking. Ocena ma pomóc wybrać, o co pytać i co negocjować.
-
-#### Jeśli chcemy naprawdę poznać Dżerbę
-
-Najbardziej sensowny jest objazd obejmujący **Guellalę + El Ghribę + Djerbahood + Houmt Souk**. Dobrze, jeśli program łączy opowieść o wyspie, kontakt z lokalnymi miejscami i **rozsądnie zaplanowany czas na targ lub zakupy**, zamiast traktować te elementy jako wzajemnie konkurencyjne.
-
-Dla naszej grupy szczególnie warto negocjować możliwość **dotykowego poznania gliny i ceramiki w Guellali**, słownego opisu kilku murali Djerbahood oraz – jeśli grupa chce – czasu na spokojne poznanie i zakup lokalnych produktów.
-
-#### Jeśli chcemy najpełniejszego jednodniowego doświadczenia Sahary
-
-Do wyboru są co najmniej dwa różne modele:
-
-**Ksar Ghilane (oaza na Saharze)** – gorące źródło, oaza, wydmy, często Matmata i Toujane. Dobre połączenie krajobrazu, przestrzeni i doświadczeń sensorycznych.
-
-**Douz (wydmy i brama Sahary)** – łatwy dostęp do klasycznych piaszczystych wydm, wielbłądów i tradycji nomadów; u Timura łączone z Matmatą i Sidi Idriss.
-
-Nie wybieramy między nimi tylko na podstawie 55 vs 60 EUR.
-
-#### Jeśli interesują nas „Gwiezdne wojny” albo kultura południa
-
-Najbardziej wartościowe punkty to:
-
-- **Ksar Hadada** – potwierdzona lokacja „Mrocznego widma”;
-- **Hotel Sidi Idriss** – potwierdzone wnętrza domu rodziny Larsów;
-- **Matmata** – same domy troglodytyczne i region filmowy;
-- Tataouine i Chenini – przede wszystkim kultura, ksary i krajobraz, a nie „park Star Wars”.
-
-#### Jeśli chcemy czegoś lekkiego
-
-Djerba Explore albo rejs Ras Rmel wymagają mniej „wyprawowego” nastawienia niż całodniowe południe. Rejs we wrześniu traktujemy jednak jako morze, plażę i animacje, a nie wyprawę na flamingi.
-
-#### Jeśli chcemy nocy na pustyni
-
-Wariant 2-dniowy ma sens tylko wtedy, gdy grupa świadomie chce oddać prawie dwie doby z tygodniowego pobytu. Jego przewagą nad jednodniówką jest **wieczór, noc, ognisko i poranek na pustyni**, a nie samo odhaczenie większej liczby punktów.
-
 ## Jak zorganizować wycieczki dla naszej grupy
 
 ### Dostępność i sposób prowadzenia naszej grupy
@@ -942,19 +939,6 @@ Przed wpłatą trzeba ustalić:
 - zasady anulowania;
 - które punkty handlowe są w programie, ile trwają i czy zakupy są dobrowolne.
 
-### Najważniejsze rzeczy do sprawdzenia tuż przed decyzją
-
-1. **Aktualne ceny Coral** i pełne programy na tydzień naszego pobytu.
-2. **Wrześniowe dni wyjazdów Timura/Tawma** po zakończeniu letniego rozkładu z katalogu.
-3. **Formalny organizator Anety/Cesara**.
-4. Oferty grupowe dla dokładnie 18 osób – zamiast mnożenia ceny katalogowej razy 18.
-5. Polski przewodnik/pilot i sposób prowadzenia grupy niewidomych i słabowidzących.
-6. Dokładna lista punktów programu – szczególnie przy słowach „Sahara”, „słone jezioro” i „Star Wars”.
-7. Wszystkie opłaty dodatkowe.
-8. **Przejrzystość części zakupowej:** które przystanki handlowe są w programie, ile trwają, czy są obowiązkowe i czy zakupy są całkowicie dobrowolne.
-9. Warunki rezygnacji i sposób płatności.
-10. Pogoda i temperatura na południu w dniu konkretnej wycieczki.
-
 ## Źródła i mapy
 
 ### Mapy
@@ -968,6 +952,22 @@ Przy tworzeniu własnych map należy zachować atrybucję **© OpenStreetMap con
 [OpenStreetMap – zasady praw autorskich i atrybucji](https://www.openstreetmap.org/copyright)
 
 [Geofabrik – aktualne dane OpenStreetMap dla Tunezji do lokalnego renderowania map](https://download.geofabrik.de/africa/tunisia.html)
+
+### Zasady źródeł
+
+Informacje o historii i znaczeniu miejsc sprawdzamy przede wszystkim w źródłach takich jak UNESCO, **Office National du Tourisme Tunisien – ONTT (Tunezyjski Narodowy Urząd Turystyki)**, oficjalne strony obiektów oraz źródła specjalistyczne.
+
+Wikipedia może być użytecznym źródłem pomocniczym i punktem wyjścia do dalszej weryfikacji, ale przy ważniejszych twierdzeniach nie powinna być jedynym źródłem.
+
+Google Maps służy w tym dokumencie przede wszystkim jako **mapa i pomoc nawigacyjna**, a nie jako źródło historii miejsca.
+
+Tripadvisor, opinie Google i relacje podróżników są użyteczne przede wszystkim do oceny praktycznej wizyty i reputacji organizatora. Pojedynczej opinii nie traktujemy jako dowodu ogólnej reguły.
+
+Materiały biur podróży są dobrym źródłem tego, **co konkretny sprzedawca deklaruje w programie i za jaką cenę**, ale nie są automatycznie najlepszym źródłem wiedzy historycznej o odwiedzanych miejscach.
+
+Część programów pochodzi z materiałów przekazanych bezpośrednio grupie: katalogu „Djerba z Timurem” oraz wiadomości z ofertą Anety Borowskiej i Cesara. Są one oznaczone jako **materiał otrzymany**. Aktualność i szczegóły trzeba ponownie potwierdzić przed zakupem.
+
+Ceny, terminy, oceny i dostępność są danymi zmiennymi. Wszystkie ceny w tej wersji sprawdzono lub otrzymano najpóźniej 22 sierpnia 2026 r.
 
 ### Źródła przekrojowe
 
