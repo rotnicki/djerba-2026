@@ -6,6 +6,44 @@ Ten materiał zbiera zasady komunikacji grupy oraz praktyczne informacje o inter
 
 Oferty operatorów, banków i dostawców eSIM mogą się szybko zmieniać. Informacje oznaczone datą sprawdzenia należy ponownie zweryfikować bezpośrednio przed wyjazdem, szczególnie ceny pakietów, zasady roamingu i dostępność Wi-Fi Calling dla konkretnej taryfy oraz telefonu.
 
+## Plan łączności dla naszej grupy
+
+1. **W hotelu:** hotelowe Wi-Fi + WhatsApp.
+2. **Poza hotelem:** podróżna eSIM z pakietem danych + WhatsApp.
+3. **WhatsApp pozostaje na polskim numerze** — nie zmieniamy numeru konta po uruchomieniu podróżnej eSIM lub lokalnej karty SIM.
+4. **Polski roaming danych pozostaje wyłączony**, chyba że ktoś świadomie korzysta z konkretnego pakietu roamingowego swojego operatora.
+5. **Automatyczne przełączanie danych między kartami pozostaje wyłączone**, żeby telefon nie przeszedł przypadkowo na płatny roaming polskiej karty.
+6. Dobrze, aby **w każdym pokoju przynajmniej jedna osoba miała działający mobilny internet niezależny od hotelowego Wi-Fi**.
+7. Zwykłe połączenie z polskiego numeru w hotelu można wykonywać opcjonalnie przez **Wi-Fi Calling**, ale dopiero po sprawdzeniu dokładnej marki, rodzaju oferty i telefonu oraz po potwierdzeniu na urządzeniu, że połączenie rzeczywiście będzie realizowane przez Wi-Fi.
+8. **Zwykłe połączenia przez roaming komórkowy polskiego operatora** traktujemy jako rozwiązanie świadome albo awaryjne.
+
+## Przygotowanie telefonu przed wyjazdem
+
+### Lista kontroli przed wyjazdem
+
+- Zebrać od uczestników dokładną markę, rodzaj oferty i model telefonu — nie tylko nazwę sieci infrastrukturalnej.
+- Dla osób planujących używać Wi-Fi Calling potwierdzić zgodność taryfy i telefonu z usługą przed wyjazdem.
+- Wykonać w Polsce próbę Wi-Fi Calling: włączyć tryb samolotowy, ponownie włączyć Wi-Fi i sprawdzić, czy telefon pozwala wykonać połączenie przez Wi-Fi.
+- Dla użytkowników Revolut Mobile ponownie sprawdzić tuż przed wyjazdem: zakres roamingu poza EOG, działanie Messaging Pass w Tunezji, odbieranie SMS-ów oraz status Wi-Fi Calling.
+- Porównać aktualne ceny i zasady ważności podróżnych eSIM dla Tunezji w Revolut, PKO BP, Banku Millennium, Erste i — jeśli ktoś korzysta — N26.
+- Sprawdzić cenę pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
+- Sprawdzić cenę zwykłych połączeń przychodzących i wychodzących w Tunezji u konkretnego operatora.
+- Dobrać pakiet danych na tydzień; wstępnie rozważyć 3–5 GB przy założeniu częstego korzystania z hotelowego Wi-Fi.
+- Po przyjeździe sprawdzić jakość i zasięg hotelowego Wi-Fi.
+- Jeżeli potrzebny będzie większy pakiet danych, porównać podróżną eSIM z lokalną tunezyjską kartą SIM.
+- Przed wyjazdem wykonać próbne połączenie WhatsApp między uczestnikami i sprawdzić grupę WhatsApp.
+
+### Ustawienia iPhone'a przed wyjazdem
+
+- Polska karta SIM: aktywna, jeżeli operator zapewnia potrzebne usługi w Tunezji.
+- Roaming danych polskiej karty SIM: wyłączony, chyba że świadomie korzystamy z pakietu roamingowego tej konkretnej karty.
+- eSIM podróżna: ustawiona jako karta do danych komórkowych po przyjeździe do Tunezji, zgodnie z zasadami dostawcy.
+- Roaming danych dla eSIM podróżnej: włączony zgodnie z instrukcją dostawcy eSIM.
+- Przełączanie danych komórkowych: wyłączone.
+- Wi-Fi Calling na polskim numerze: włączyć jeszcze w Polsce, jeśli operator i taryfa je obsługują; w Revolut Mobile nie traktujemy tej funkcji jako gwarantowanej.
+
+Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do głosu, a z innego do danych. Podczas podróży można więc pozostawić polski numer aktywny i jednocześnie wskazać podróżną eSIM jako linię danych komórkowych.
+
 ## Jak będziemy się komunikować
 
 ### Zasada podstawowa
@@ -67,6 +105,25 @@ W praktyce trzeba rozróżnić cztery czynności:
 
 Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **od którego dokładnie momentu dany dostawca liczy okres ważności pakietu**.
 
+### Zalecana procedura przed wyjazdem
+
+1. Sprawdzić, czy telefon obsługuje eSIM i nie ma blokady operatora uniemożliwiającej instalację innych profili.
+2. Wybrać ofertę dla Tunezji i przed zapłatą sprawdzić liczbę GB, czas ważności oraz **moment rozpoczęcia tego czasu**.
+3. Zainstalować profil eSIM jeszcze w Polsce, korzystając ze stabilnego internetu. Wyjątkiem nie jest sam kraj docelowy, tylko ewentualna specyficzna instrukcja dostawcy.
+4. Dla wygody nazwać nową linię w telefonie np. „Tunezja” albo nazwą dostawcy.
+5. Polska karta SIM pozostaje kartą do polskiego numeru, ale jej roaming danych pozostaje wyłączony.
+6. Po przyjeździe na Dżerbę ustawić podróżną eSIM jako kartę do danych komórkowych i włączyć **roaming danych dla podróżnej eSIM** zgodnie z instrukcją dostawcy.
+7. Automatyczne przełączanie danych między kartami pozostawić wyłączone, żeby telefon nie przeszedł przypadkowo na płatny roaming polskiej karty.
+8. Jeśli internet nie pojawi się po kilku minutach, sprawdzić w aplikacji status pakietu i operatora, a następnie przełączyć tryb samolotowy albo ponownie uruchomić telefon.
+
+### Najważniejsza różnica do zapamiętania
+
+- **PKO BP:** kupić i zainstalować można wcześniej; po przyjeździe włączenie roamingu danych i połączenie z lokalną siecią uruchamia usługę.
+- **Bank Millennium:** kupić i zainstalować wcześniej; korzystanie zaczyna się po połączeniu z siecią w kraju docelowym.
+- **Erste:** przygotować wcześniej; na aktywację jest 6 miesięcy, a po przyjeździe łączymy się z siecią docelową.
+- **N26:** można skonfigurować wcześniej; pakiet aktywuje się dopiero po połączeniu z siecią w kraju docelowym.
+- **Revolut:** uważać na termin — ważność pakietu zaczyna biec już od zakupu / gotowości pierwszej eSIM, dlatego nie kupować go dużo za wcześnie.
+
 ### PKO Bank Polski — IKO i iPKO
 
 - To aktualna, stała usługa eSIM dostępna w IKO i iPKO; dostawcą transmisji danych jest Fonia Telecom, a w procesie uczestniczy Autopay.
@@ -127,25 +184,6 @@ W publicznie dostępnych materiałach na 22 sierpnia 2026 r. potwierdziliśmy bi
 - N26.
 
 Nie tworzymy zamkniętej listy banków „bez eSIM”, ponieważ oferta szybko się rozwija. Jeśli uczestnik korzysta z innego banku i widzi w jego aplikacji usługę eSIM, sprawdzamy konkretną ofertę, dostawcę oraz moment rozpoczęcia ważności pakietu.
-
-### Zalecana procedura przed wyjazdem
-
-1. Sprawdzić, czy telefon obsługuje eSIM i nie ma blokady operatora uniemożliwiającej instalację innych profili.
-2. Wybrać ofertę dla Tunezji i przed zapłatą sprawdzić liczbę GB, czas ważności oraz **moment rozpoczęcia tego czasu**.
-3. Zainstalować profil eSIM jeszcze w Polsce, korzystając ze stabilnego internetu. Wyjątkiem nie jest sam kraj docelowy, tylko ewentualna specyficzna instrukcja dostawcy.
-4. Dla wygody nazwać nową linię w telefonie np. „Tunezja” albo nazwą dostawcy.
-5. Polska karta SIM pozostaje kartą do polskiego numeru, ale jej roaming danych pozostaje wyłączony.
-6. Po przyjeździe na Dżerbę ustawić podróżną eSIM jako kartę do danych komórkowych i włączyć **roaming danych dla podróżnej eSIM** zgodnie z instrukcją dostawcy.
-7. Automatyczne przełączanie danych między kartami pozostawić wyłączone, żeby telefon nie przeszedł przypadkowo na płatny roaming polskiej karty.
-8. Jeśli internet nie pojawi się po kilku minutach, sprawdzić w aplikacji status pakietu i operatora, a następnie przełączyć tryb samolotowy albo ponownie uruchomić telefon.
-
-### Najważniejsza różnica do zapamiętania
-
-- **PKO BP:** kupić i zainstalować można wcześniej; po przyjeździe włączenie roamingu danych i połączenie z lokalną siecią uruchamia usługę.
-- **Bank Millennium:** kupić i zainstalować wcześniej; korzystanie zaczyna się po połączeniu z siecią w kraju docelowym.
-- **Erste:** przygotować wcześniej; na aktywację jest 6 miesięcy, a po przyjeździe łączymy się z siecią docelową.
-- **N26:** można skonfigurować wcześniej; pakiet aktywuje się dopiero po połączeniu z siecią w kraju docelowym.
-- **Revolut:** uważać na termin — ważność pakietu zaczyna biec już od zakupu / gotowości pierwszej eSIM, dlatego nie kupować go dużo za wcześnie.
 
 ## Polska karta SIM i Wi-Fi Calling
 
@@ -374,47 +412,11 @@ Przykłady pokazujące, dlaczego to ważne:
 - Virgin Mobile ma Wi-Fi Calling w systemie Play, natomiast przy Fakt Mobile nie mamy obecnie wystarczającego oficjalnego potwierdzenia.
 - Revolut Mobile korzysta w Polsce z sieci Play, ale nie przejmujemy automatycznie zasad Wi-Fi Calling Play; usługę świadczy 1GLOBAL, a Wi-Fi Calling nie jest obecnie oficjalnie gwarantowaną funkcją polskiego Revolut Mobile.
 
-## Kolejność korzystania z łączności
-
-1. Hotel → hotelowe Wi-Fi + WhatsApp.
-2. Poza hotelem → podróżna eSIM z pakietem danych + WhatsApp.
-3. Komunikat do całej grupy → grupa WhatsApp.
-4. Rozmowa między uczestnikami → prywatna rozmowa lub połączenie WhatsApp.
-5. SMS-y potrzebne na polski numer → polska karta SIM pozostawiona aktywna, o ile operator zapewnia ich odbieranie w Tunezji.
-6. Zwykłe połączenie z polskiego numeru w hotelu → opcjonalnie Wi-Fi Calling po sprawdzeniu dokładnej marki, rodzaju oferty i telefonu oraz po potwierdzeniu na urządzeniu, że połączenie rzeczywiście będzie realizowane przez Wi-Fi.
-7. Dla Revolut Mobile → na Dżerbie podstawą ma być WhatsApp przez hotelowe Wi-Fi albo dokupiony pakiet danych; Wi-Fi Calling nie jest traktowane jako rozwiązanie gwarantowane.
-8. Zwykłe połączenia przez roaming komórkowy polskiego operatora → tylko świadomie albo awaryjnie.
-
 ## Awaryjny brak internetu
 
 WhatsApp wymaga działającego połączenia z internetem. Dlatego nie powinien być jedynym rozwiązaniem na sytuację awaryjną. Jeśli nie działa ani Wi-Fi, ani pakiet danych, zwykłe połączenie komórkowe z polskiej karty może zostać użyte awaryjnie mimo kosztów roamingowych — ale tylko u operatora, który zapewnia roaming głosowy w Tunezji.
 
 W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połączenia głosowe i wideo. W 2026 r. nie wprowadzono ogólnokrajowej blokady internetu podczas egzaminów maturalnych, choć lokalnie stosowano zakłócanie łączności w bezpośrednim otoczeniu niektórych ośrodków egzaminacyjnych. Dlatego przyjmujemy WhatsApp jako kanał podstawowy, ale zachowujemy możliwość komunikacji awaryjnej.
-
-## Przed wyjazdem — lista kontroli
-
-- Zebrać od uczestników dokładną markę, rodzaj oferty i model telefonu — nie tylko nazwę sieci infrastrukturalnej.
-- Dla osób planujących używać Wi-Fi Calling potwierdzić zgodność taryfy i telefonu z usługą przed wyjazdem.
-- Wykonać w Polsce próbę Wi-Fi Calling: włączyć tryb samolotowy, ponownie włączyć Wi-Fi i sprawdzić, czy telefon pozwala wykonać połączenie przez Wi-Fi.
-- Dla użytkowników Revolut Mobile ponownie sprawdzić tuż przed wyjazdem: zakres roamingu poza EOG, działanie Messaging Pass w Tunezji, odbieranie SMS-ów oraz status Wi-Fi Calling.
-- Porównać aktualne ceny i zasady ważności podróżnych eSIM dla Tunezji w Revolut, PKO BP, Banku Millennium, Erste i — jeśli ktoś korzysta — N26.
-- Sprawdzić cenę pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
-- Sprawdzić cenę zwykłych połączeń przychodzących i wychodzących w Tunezji u konkretnego operatora.
-- Dobrać pakiet danych na tydzień; wstępnie rozważyć 3–5 GB przy założeniu częstego korzystania z hotelowego Wi-Fi.
-- Po przyjeździe sprawdzić jakość i zasięg hotelowego Wi-Fi.
-- Jeżeli potrzebny będzie większy pakiet danych, porównać podróżną eSIM z lokalną tunezyjską kartą SIM.
-- Przed wyjazdem wykonać próbne połączenie WhatsApp między uczestnikami i sprawdzić grupę WhatsApp.
-
-## Ustawienia iPhone'a przed wyjazdem
-
-- Polska karta SIM: aktywna, jeżeli operator zapewnia potrzebne usługi w Tunezji.
-- Roaming danych polskiej karty SIM: wyłączony, chyba że świadomie korzystamy z pakietu roamingowego tej konkretnej karty.
-- eSIM podróżna: ustawiona jako karta do danych komórkowych po przyjeździe do Tunezji, zgodnie z zasadami dostawcy.
-- Roaming danych dla eSIM podróżnej: włączony zgodnie z instrukcją dostawcy eSIM.
-- Przełączanie danych komórkowych: wyłączone.
-- Wi-Fi Calling na polskim numerze: włączyć jeszcze w Polsce, jeśli operator i taryfa je obsługują; w Revolut Mobile nie traktujemy tej funkcji jako gwarantowanej.
-
-Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do głosu, a z innego do danych. Podczas podróży można więc pozostawić polski numer aktywny i jednocześnie wskazać podróżną eSIM jako linię danych komórkowych.
 
 ## Źródła
 
