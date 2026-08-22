@@ -23,10 +23,15 @@ Szczegółowe uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpiecze�
 - **Doustny płyn nawadniający ORS/DPN** — warto kupić saszetki przeznaczone do nawadniania przy biegunce lub wymiotach, a nie dowolne „elektrolity”. Przykłady: **ORSALIT dla dorosłych** (około 20–39 zł za 10 saszetek) albo **Gastrolit** (około 25–38 zł za 14 saszetek). Ceny sprawdzone 22 sierpnia 2026 r.
 - **Preparat do dezynfekcji rąk** — co najmniej 60% alkoholu.
 - **Enterol 250 mg — produkt leczniczy zawierający *Saccharomyces boulardii* CNCM I-745** — tylko jako opcjonalny zakup po indywidualnej decyzji. Nie traktujemy go jako obowiązkowej ochrony przed biegunką podróżnych ani nie przyjmujemy grupowego schematu stosowania.
-- **Lek przeciwbiegunkowy** — ewentualnie indywidualnie dobrany po konsultacji z lekarzem lub farmaceutą; nie wpisujemy jednego obowiązkowego preparatu dla całej grupy.
+- **Loperamid, np. Stoperan 2 mg** — warto rozważyć jako lek awaryjny do **objawowego leczenia niekrwawej biegunki**, zwłaszcza gdy częste wypróżnienia utrudniają podróż. Nie jest to lek profilaktyczny i nie zastępuje ORS/DPN ani leczenia przyczyny. **Nie należy stosować go samodzielnie przy biegunce z krwią lub gorączką**; trzeba też uwzględnić przeciwwskazania z ulotki/ChPL i własny stan zdrowia.
 - **Leki przyjmowane stale** — przed wyjazdem trzeba sprawdzić, czy zapas wystarczy na cały pobyt i ewentualne opóźnienie powrotu. To nie jest wspólny zakup grupowy.
 
-Szczegóły dotyczące ORS/DPN, Enterolu, leków przeciwbiegunkowych, przeciwwskazań i zasad samoleczenia: [Zdrowie – biegunka podróżnych, nawodnienie i apteczka](zdrowie.md).
+Szczegóły dotyczące ORS/DPN, Enterolu, loperamidu/Stoperanu, przeciwwskazań i zasad samoleczenia: [Zdrowie – biegunka podróżnych, nawodnienie i apteczka](zdrowie.md).
+
+Źródła dotyczące loperamidu/Stoperanu:
+
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
+- [CDC Yellow Book 2026 – loperamid w leczeniu biegunki podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 
 Informacje o szczepieniu przeciw WZW A znajdują się w dziale [Zdrowie – wirusowe zapalenie wątroby typu A i szczepienie](zdrowie.md). Szczepienia nie traktujemy tutaj jako zwykłego zakupu produktu.
 
