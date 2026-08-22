@@ -2,7 +2,7 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Wersja robocza: 0.1.
+Wersja robocza: 0.2.
 
 Ten plik ma dwa główne cele:
 
@@ -13,7 +13,7 @@ Punktem odniesienia jest pobyt 18-osobowej grupy w **Club Palm Azur w Aghir** w 
 
 [Google Maps – Club Palm Azur na Dżerbie](https://www.google.com/maps/search/?api=1&query=Club+Palm+Azur+Djerba)
 
-## Jak korzystać z tego pliku
+## Jak korzystać z przewodnika
 
 Nazwy miejsc w południowej Tunezji łatwo pomylić. Dlatego każde ważniejsze miejsce ma **stałą krótką etykietę**, która będzie powtarzana także przy programach wycieczek. Przykład: **Matmata – podziemne domy + Gwiezdne wojny**.
 
@@ -21,7 +21,39 @@ Nie należy porównywać wycieczek wyłącznie po nazwie i cenie. Dwie oferty na
 
 Przy odległościach podajemy przede wszystkim **skalę dojazdu**, a nie pozornie precyzyjny czas. Czas przejazdu zależy od trasy, przystanków, liczby odbieranych hoteli, rodzaju pojazdu i programu. Dla dalszych miejsc pomocniczo korzystamy m.in. z oficjalnych danych tunezyjskiej turystyki dotyczących odległości od Dżerby.
 
-## Zasady źródeł
+### Najkrótsza orientacja – jakie są główne rodzaje wycieczek
+
+#### Poznanie samej Dżerby
+
+Najczęściej łączy **Houmt Souk**, **Djerbahood**, **El Ghribę** i **Guellalę**, czasem także fort, muzeum, groblę rzymską, olejarnię albo punkty handlowe. To dobry pierwszy wyjazd, jeśli chcemy wiedzieć, gdzie właściwie spędzamy wakacje.
+
+#### Djerba Explore
+
+Półdniowa atrakcja łącząca muzeum sztuki, rekonstrukcję tradycyjnego życia na Dżerbie i dużą farmę krokodyli. Jest stosunkowo blisko hotelowej części wyspy.
+
+#### Tataouine, Chenini i ksary
+
+To przede wszystkim **skaliste południe, kultura Amazigh/Berberów, górskie osady oraz dawne ufortyfikowane spichlerze**, a dopiero dodatkowo skojarzenia z filmami „Gwiezdne wojny”.
+
+#### Sahara przez Ksar Ghilane
+
+Oaza, palmy, gorące źródło, wydmy, opcjonalne quady lub wielbłądy. Często łączona z Matmatą i Toujane. Daje inne doświadczenie niż wyjazd do Douz.
+
+#### Sahara przez Douz
+
+Douz leży przy piaszczystej części Sahary i jest tradycyjnie nazywane bramą pustyni. Programy często łączą Douz z Matmatą, słonym jeziorem i przejażdżką na wielbłądzie lub quadzie.
+
+#### Sahara 2 dni
+
+Może oznaczać bardzo różne trasy: Ksar Ghilane z noclegiem w obozie albo dłuższą pętlę przez Douz, Chott el-Jerid, Tozeur i górskie oazy. Przed porównaniem ceny trzeba porównać program punkt po punkcie.
+
+#### Rejs na Ras Rmel, nazywane „Wyspą Flamingów”
+
+To przede wszystkim rejs, plaża, obiad i animacje. W naszym terminie **nie należy wybierać go z myślą o flamingach**: aktualna oferta SeePlaces podaje, że szansa na obserwowanie flamingów dotyczy głównie okresu od listopada do marca.
+
+[SeePlaces/ITAKA – Wyspa Flamingów, aktualny program i informacja o sezonie flamingów](https://itaka-lt.seeplaces.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/)
+
+### Zasady źródeł
 
 Informacje o historii i znaczeniu miejsc sprawdzamy przede wszystkim w źródłach takich jak UNESCO, **Office National du Tourisme Tunisien – ONTT (Tunezyjski Narodowy Urząd Turystyki)**, oficjalne strony obiektów oraz źródła specjalistyczne.
 
@@ -37,43 +69,31 @@ Część programów pochodzi z materiałów przekazanych bezpośrednio grupie: k
 
 Ceny, terminy, oceny i dostępność są danymi zmiennymi. Wszystkie ceny w tej wersji sprawdzono lub otrzymano najpóźniej 22 sierpnia 2026 r.
 
-## Najkrótsza orientacja – jakie są główne rodzaje wycieczek
+### Słownik pojęć, które będą się powtarzać
 
-### Poznanie samej Dżerby
+#### Ksar i ghorfa – co znaczą te słowa
 
-Najczęściej łączy **Houmt Souk**, **Djerbahood**, **El Ghribę** i **Guellalę**, czasem także fort, muzeum, groblę rzymską, olejarnię albo punkty handlowe. To dobry pierwszy wyjazd, jeśli chcemy wiedzieć, gdzie właściwie spędzamy wakacje.
+**Ksar** to ufortyfikowany zbiorowy spichlerz lub zespół takich zabudowań, charakterystyczny dla południa Tunezji. Liczba mnoga to **ksour**. Poszczególne sklepione komory magazynowe nazywają się **ghorfa/ghorfas**.
 
-### Djerba Explore
+ONTT opisuje ksary jako dawne punkty, w których półkoczownicze społeczności przechowywały plony poza zasięgiem rabusiów. Wiele z nich przypomina wielopiętrowy „ul” otaczający dziedziniec.
 
-Półdniowa atrakcja łącząca muzeum sztuki, rekonstrukcję tradycyjnego życia na Dżerbie i dużą farmę krokodyli. Jest stosunkowo blisko hotelowej części wyspy.
+[ONTT / Discover Tunisia – ksary i ghorfy południowej Tunezji](https://www.discovertunisia.com/en/discover/around-tataouine)
 
-### Tataouine, Chenini i ksary
+#### Amazigh / Berberowie
 
-To przede wszystkim **skaliste południe, kultura Amazigh/Berberów, górskie osady oraz dawne ufortyfikowane spichlerze**, a dopiero dodatkowo skojarzenia z filmami „Gwiezdne wojny”.
+W ofertach turystycznych najczęściej spotkamy słowo **Berberowie**. Współcześnie często używa się również określenia **Amazigh**, będącego własną nazwą rdzennych ludów Afryki Północnej. W tym pliku obie nazwy mogą pojawiać się razem, aby zachować zgodność z programami biur i jednocześnie objaśnić terminologię.
 
-### Sahara przez Ksar Ghilane
+#### Troglodyci – dlaczego to słowo brzmi znajomo
 
-Oaza, palmy, gorące źródło, wydmy, opcjonalne quady lub wielbłądy. Często łączona z Matmatą i Toujane. Daje inne doświadczenie niż wyjazd do Douz.
+W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w ziemi i miękkiej skale. Wielki słownik języka polskiego PAN podaje, że pierwotne znaczenie słowa „troglodyta” to człowiek mieszkający w jaskini; pochodzi ono przez łacinę od greckiego słowa oznaczającego jaskiniowca. Dzisiejsze żartobliwe lub obraźliwe znaczenia są późniejszym rozwinięciem tego określenia.
 
-### Sahara przez Douz
+[Wielki słownik języka polskiego PAN – „troglodyta”, znaczenie pierwotne i pochodzenie](https://wsjp.pl/haslo/podglad/58076/troglodyta/5182815/czlowiek-pierwotny)
 
-Douz leży przy piaszczystej części Sahary i jest tradycyjnie nazywane bramą pustyni. Programy często łączą Douz z Matmatą, słonym jeziorem i przejażdżką na wielbłądzie lub quadzie.
+## Atlas miejsc
 
-### Sahara 2 dni
+### Dżerba
 
-Może oznaczać bardzo różne trasy: Ksar Ghilane z noclegiem w obozie albo dłuższą pętlę przez Douz, Chott el-Jerid, Tozeur i górskie oazy. Przed porównaniem ceny trzeba porównać program punkt po punkcie.
-
-### Rejs na Ras Rmel, nazywane „Wyspą Flamingów”
-
-To przede wszystkim rejs, plaża, obiad i animacje. W naszym terminie **nie należy wybierać go z myślą o flamingach**: aktualna oferta SeePlaces podaje, że szansa na obserwowanie flamingów dotyczy głównie okresu od listopada do marca.
-
-[SeePlaces/ITAKA – Wyspa Flamingów, aktualny program i informacja o sezonie flamingów](https://itaka-lt.seeplaces.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/)
-
----
-
-# Miejsca – co to właściwie jest
-
-## Dżerba jako całość – wyspa z własnym systemem osadnictwa
+#### Dżerba jako całość – wyspa z własnym systemem osadnictwa
 
 **Etykieta:** Dżerba – wyspa kultury, religii i rozproszonej zabudowy.
 
@@ -85,7 +105,7 @@ Dżerba nie jest tylko strefą hotelową. W 2023 r. UNESCO wpisało na Listę Ś
 
 [ONTT / Discover Tunisia – co warto zobaczyć na Dżerbie](https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis)
 
-## Houmt Souk i Borj Ghazi Mustapha – główne miasto, bazar i fort
+#### Houmt Souk i Borj Ghazi Mustapha – główne miasto, bazar i fort
 
 **Etykieta:** Houmt Souk – główne miasto i bazar Dżerby.
 
@@ -105,7 +125,7 @@ Dla osoby niewidomej sam „czas wolny na zakupy” może być mało wartościow
 
 **Występuje m.in. w programach:** Coral „Wokół wyspy Djerba”, Timur/Tawma – objazd wyspy, Aneta/Cesar – objazd wyspy, EXIM – „Dookoła wyspy”, Rainbow – objazd Dżerby.
 
-## Erriadh i Djerbahood – murale w starej miejscowości
+#### Erriadh i Djerbahood – murale w starej miejscowości
 
 **Etykieta:** Djerbahood – murale w starej wiosce.
 
@@ -121,7 +141,7 @@ Dla osób niewidomych jest to jedna z bardziej wizualnych atrakcji. Wartość ro
 
 **Występuje m.in. w programach:** Timur/Tawma, Aneta/Cesar, EXIM, Rainbow, część ofert ITAKI/SeePlaces.
 
-## El Ghriba – zabytkowa synagoga
+#### El Ghriba – zabytkowa synagoga
 
 **Etykieta:** El Ghriba – zabytkowa synagoga.
 
@@ -139,7 +159,7 @@ W materiałach turystycznych często pojawia się mocniejsze określenie „najs
 
 **Dla naszej grupy:** sens miejsca wynika głównie z historii społeczności i religii, dlatego dobry komentarz przewodnika jest ważniejszy niż sam wygląd wnętrza.
 
-## Guellala – ceramika i tradycje Dżerby
+#### Guellala – ceramika i tradycje Dżerby
 
 **Etykieta:** Guellala – ceramika i tradycje Dżerby.
 
@@ -155,7 +175,7 @@ To może być **jedno z najbardziej wartościowych miejsc dla osoby niewidomej**
 
 **Występuje m.in. w programach:** Coral, Timur/Tawma, Aneta/Cesar, EXIM, Rainbow, ITAKA/SeePlaces.
 
-## Djerba Explore – krokodyle, muzeum i tradycyjna posiadłość
+#### Djerba Explore – krokodyle, muzeum i tradycyjna posiadłość
 
 **Etykieta:** Djerba Explore – krokodyle i muzeum.
 
@@ -177,17 +197,7 @@ Oficjalna strona w 2026 r. podaje otwarcie części muzealnej, dziedzictwa i kro
 
 [TUI – Djerba Explore z odbiorem z hotelu, informacje o dostępności ruchowej](https://www.tui.pl/atrakcje/djerba/djerba-explore-park-tickets-with-hotel-pick-up-479067)
 
-## El Kantara – grobla łącząca wyspę z kontynentem
-
-**Etykieta:** El Kantara – grobla z Dżerby na kontynent.
-
-Grobla jest częścią wielu wycieczek jadących na południe. ONTT wyjaśnia, że połączenie wyspy z kontynentem ma starożytne korzenie i jest dziś powszechnie nazywane „drogą rzymską”. Najczęściej nie jest to główny cel wyjazdu, tylko krótki punkt lub przejazd.
-
-[ONTT / Discover Tunisia – starożytna droga łącząca Dżerbę z kontynentem](https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis)
-
-[Google Maps – El Kantara / Roman Causeway](https://www.google.com/maps/search/?api=1&query=Roman+Causeway+Djerba+El+Kantara)
-
-## Ras Rmel – rejs i plaża, marketingowo „Wyspa Flamingów”
+#### Ras Rmel – rejs i plaża, marketingowo „Wyspa Flamingów”
 
 **Etykieta:** Ras Rmel – rejs i plaża.
 
@@ -199,33 +209,21 @@ Ważne dla naszego terminu: aktualna oferta SeePlaces/ITAKA podaje, że flamingi
 
 [Google Maps – Ras Rmel](https://www.google.com/maps/search/?api=1&query=Ras+Rmel+Djerba)
 
----
+### Wyjazd z Dżerby na kontynent
 
-# Południe Tunezji – pojęcia, które pomagają zrozumieć programy
+#### El Kantara – grobla łącząca wyspę z kontynentem
 
-## Ksar i ghorfa – co znaczą te słowa
+**Etykieta:** El Kantara – grobla z Dżerby na kontynent.
 
-**Ksar** to ufortyfikowany zbiorowy spichlerz lub zespół takich zabudowań, charakterystyczny dla południa Tunezji. Liczba mnoga to **ksour**. Poszczególne sklepione komory magazynowe nazywają się **ghorfa/ghorfas**.
+Grobla jest częścią wielu wycieczek jadących na południe. ONTT wyjaśnia, że połączenie wyspy z kontynentem ma starożytne korzenie i jest dziś powszechnie nazywane „drogą rzymską”. Najczęściej nie jest to główny cel wyjazdu, tylko krótki punkt lub przejazd.
 
-ONTT opisuje ksary jako dawne punkty, w których półkoczownicze społeczności przechowywały plony poza zasięgiem rabusiów. Wiele z nich przypomina wielopiętrowy „ul” otaczający dziedziniec.
+[ONTT / Discover Tunisia – starożytna droga łącząca Dżerbę z kontynentem](https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis)
 
-[ONTT / Discover Tunisia – ksary i ghorfy południowej Tunezji](https://www.discovertunisia.com/en/discover/around-tataouine)
+[Google Maps – El Kantara / Roman Causeway](https://www.google.com/maps/search/?api=1&query=Roman+Causeway+Djerba+El+Kantara)
 
-## Amazigh / Berberowie
+### Południe Tunezji – Medenine, Tataouine i góry Dahar
 
-W ofertach turystycznych najczęściej spotkamy słowo **Berberowie**. Współcześnie często używa się również określenia **Amazigh**, będącego własną nazwą rdzennych ludów Afryki Północnej. W tym pliku obie nazwy mogą pojawiać się razem, aby zachować zgodność z programami biur i jednocześnie objaśnić terminologię.
-
-## Troglodyci – dlaczego to słowo brzmi znajomo
-
-W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w ziemi i miękkiej skale. Wielki słownik języka polskiego PAN podaje, że pierwotne znaczenie słowa „troglodyta” to człowiek mieszkający w jaskini; pochodzi ono przez łacinę od greckiego słowa oznaczającego jaskiniowca. Dzisiejsze żartobliwe lub obraźliwe znaczenia są późniejszym rozwinięciem tego określenia.
-
-[Wielki słownik języka polskiego PAN – „troglodyta”, znaczenie pierwotne i pochodzenie](https://wsjp.pl/haslo/podglad/58076/troglodyta/5182815/czlowiek-pierwotny)
-
----
-
-# Miejsca na kontynencie i Saharze
-
-## Medenine – lokalne miasto i dawne spichlerze
+#### Medenine – lokalne miasto i dawne spichlerze
 
 **Etykieta:** Medenine – lokalne miasto i dawne spichlerze.
 
@@ -237,7 +235,7 @@ Medenine jest normalnym regionalnym miastem, a nie kurortem. Region Medenine i T
 
 [Google Maps – Medenine](https://www.google.com/maps/search/?api=1&query=Medenine+Tunisia)
 
-## Tataouine – miasto i kraina ksarów
+#### Tataouine – miasto i kraina ksarów
 
 **Etykieta:** Tataouine – miasto i kraina ksarów.
 
@@ -245,7 +243,7 @@ Medenine jest normalnym regionalnym miastem, a nie kurortem. Region Medenine i T
 
 Tataouine jest bazą do poznawania skalistego południa: ksarów, gór Dahar, Chenini i Douiret. Samo miasto jest mniej ważne niż otaczający region.
 
-### Ciekawostka – skąd Tatooine w „Gwiezdnych wojnach”
+##### Ciekawostka – skąd Tatooine w „Gwiezdnych wojnach”
 
 Dla osób niezorientowanych: **„Star Wars” to polskie „Gwiezdne wojny”** – seria filmów George’a Lucasa. Nazwa fikcyjnej pustynnej planety **Tatooine** została zainspirowana tunezyjską nazwą Tataouine. Nie oznacza to jednak, że każda atrakcja w mieście Tataouine była planem filmowym.
 
@@ -257,7 +255,7 @@ Specjalistyczny serwis dokumentujący tunezyjskie lokacje filmowe wskazuje, że 
 
 [Google Maps – Tataouine](https://www.google.com/maps/search/?api=1&query=Tataouine+Tunisia)
 
-## Chenini – berberyjska wioska w górach
+#### Chenini – berberyjska wioska w górach
 
 **Etykieta:** Chenini – berberyjska wioska w górach.
 
@@ -273,7 +271,7 @@ Chenini jest starą górską osadą Amazigh/Berberów. ONTT opisuje ghorfy na sz
 
 [Google Maps – Chenini](https://www.google.com/maps/search/?api=1&query=Chenini+Tataouine+Tunisia)
 
-## Ksar Hadada – spichlerze + Gwiezdne wojny
+#### Ksar Hadada – spichlerze + Gwiezdne wojny
 
 **Etykieta:** Ksar Hadada – spichlerze + Gwiezdne wojny.
 
@@ -289,7 +287,7 @@ To dobry przykład miejsca, które ma wartość nawet dla kogoś nieznającego f
 
 **Występuje m.in. w programach:** Aneta/Cesar „Wyspa plus ląd” i Sahara 2 dni; część ofert TUI.
 
-## Ksar Ouled Soltane – piękny ksar, ale uwaga na legendę filmową
+#### Ksar Ouled Soltane – piękny ksar, ale uwaga na legendę filmową
 
 **Etykieta:** Ksar Ouled Soltane – efektowny wielopiętrowy spichlerz.
 
@@ -305,7 +303,17 @@ Tu występuje jednak **spór źródłowy**. Szczegółowe badanie harmonogramów
 
 [Google Maps – Ksar Ouled Soltane](https://www.google.com/maps/search/?api=1&query=Ksar+Ouled+Soltane+Tunisia)
 
-## Matmata – podziemne domy + Gwiezdne wojny
+#### Toujane – górska wioska berberyjska
+
+**Etykieta:** Toujane – górska wioska berberyjska.
+
+Toujane jest przystankiem w górach Dahar i pojawia się często w trasach łączących Matmatę z Ksar Ghilane. Jest przede wszystkim okazją do zobaczenia górskiego krajobrazu i tradycyjnej zabudowy; zwykle nie jest głównym celem całej wycieczki.
+
+[Google Maps – Toujane](https://www.google.com/maps/search/?api=1&query=Toujane+Tunisia)
+
+**Występuje m.in. w programach:** Rainbow „Wrota Sahary”, Aneta/Cesar – Sahara 1 dzień i 2 dni.
+
+#### Matmata – podziemne domy + Gwiezdne wojny
 
 **Etykieta:** Matmata – podziemne domy + Gwiezdne wojny.
 
@@ -319,7 +327,7 @@ Dla osób niewidomych Matmata może być ciekawsza, niż wynika ze zdjęć: zmie
 
 [Google Maps – Matmata](https://www.google.com/maps/search/?api=1&query=Matmata+Tunisia)
 
-## Hotel Sidi Idriss – wnętrze domu Luke’a z „Gwiezdnych wojen”
+##### Hotel Sidi Idriss – wnętrze domu Luke’a z „Gwiezdnych wojen”
 
 **Etykieta:** Sidi Idriss – podziemny hotel i prawdziwy plan „Gwiezdnych wojen”.
 
@@ -333,17 +341,9 @@ W programie Rainbow wejście do części filmowej jest obecnie opcjonalne i kosz
 
 [Google Maps – Hotel Sidi Driss / Idriss w Matmacie](https://www.google.com/maps/search/?api=1&query=Hotel+Sidi+Driss+Matmata)
 
-## Toujane – górska wioska berberyjska
+### Sahara – dwa główne kierunki
 
-**Etykieta:** Toujane – górska wioska berberyjska.
-
-Toujane jest przystankiem w górach Dahar i pojawia się często w trasach łączących Matmatę z Ksar Ghilane. Jest przede wszystkim okazją do zobaczenia górskiego krajobrazu i tradycyjnej zabudowy; zwykle nie jest głównym celem całej wycieczki.
-
-[Google Maps – Toujane](https://www.google.com/maps/search/?api=1&query=Toujane+Tunisia)
-
-**Występuje m.in. w programach:** Rainbow „Wrota Sahary”, Aneta/Cesar – Sahara 1 dzień i 2 dni.
-
-## Ksar Ghilane – oaza na Saharze
+#### Ksar Ghilane – oaza na Saharze
 
 **Etykieta:** Ksar Ghilane – oaza na Saharze.
 
@@ -357,7 +357,7 @@ Dla naszej grupy ma dużą wartość sensoryczną: piasek, wiatr, przestrzeń, c
 
 [Google Maps – Ksar Ghilane](https://www.google.com/maps/search/?api=1&query=Ksar+Ghilane+Tunisia)
 
-## Douz – wydmy i brama Sahary
+#### Douz – wydmy i brama Sahary
 
 **Etykieta:** Douz – wydmy i brama Sahary.
 
@@ -371,7 +371,9 @@ To **nie jest to samo co Ksar Ghilane**. Jeśli dwie wycieczki mają etykietę �
 
 [Google Maps – Douz](https://www.google.com/maps/search/?api=1&query=Douz+Tunisia)
 
-## Chott el-Jerid – wielkie słone jezioro
+### Daleka Sahara – przede wszystkim programy 2-dniowe
+
+#### Chott el-Jerid – wielkie słone jezioro
 
 **Etykieta:** Chott el-Jerid – wielka równina soli.
 
@@ -383,7 +385,7 @@ Uwaga: folderowe określenie **„słone jezioro” nie zawsze oznacza Chott el-
 
 [Google Maps – Chott el-Jerid](https://www.google.com/maps/search/?api=1&query=Chott+el+Jerid+Tunisia)
 
-## Tozeur i górskie oazy – daleka Sahara
+#### Tozeur i górskie oazy – daleka Sahara
 
 **Etykieta:** Tozeur – oazy, palmy i zachodnia część tunezyjskiej Sahary.
 
@@ -397,13 +399,11 @@ Z Dżerby jest to sensowny element przede wszystkim **wycieczki co najmniej 2-dn
 
 [Google Maps – Tozeur](https://www.google.com/maps/search/?api=1&query=Tozeur+Tunisia)
 
----
+## Programy wycieczek – porównujemy zawartość, nie tylko nazwę
 
-# Programy wycieczek – porównujemy zawartość, nie tylko nazwę
+### Objazd samej Dżerby
 
-## Objazd samej Dżerby
-
-### Coral Travel – „Wokół wyspy Djerba”
+#### Coral Travel – „Wokół wyspy Djerba”
 
 **Cena:** brak aktualnej publicznej ceny – do sprawdzenia u rezydenta po przyjeździe.
 
@@ -413,7 +413,7 @@ Katalog Coral Travel „Afryka 2026” zapowiada m.in. muzeum etnograficzne, El 
 
 **Do ustalenia na miejscu:** dokładne punkty programu, cena, dni, język przewodnika, lokalny kontrahent oraz możliwość oferty dla 18 osób.
 
-### Djerba z Timurem / Tawma Travel – objazd wyspy
+#### Djerba z Timurem / Tawma Travel – objazd wyspy
 
 **Źródło:** materiał katalogowy otrzymany przez grupę.
 
@@ -438,7 +438,7 @@ Formalnym partnerem wskazanym w katalogu jest **Tawma Travel**. ONTT w rejestrze
 
 W Tripadvisor Tawma ma obecnie 5/5 przy 24 opiniach. Szczególnie istotna dla nas jest relacja z 2025 r. o obsłużeniu transferu **60-osobowej grupy**, a także opis prywatnej półdniowej trasy Guellala–El Ghriba–Djerbahood–Houmt Souk. To nie jest gwarancja jakości przyszłej usługi, ale potwierdza doświadczenie z większą grupą i układaniem programu.
 
-### Aneta Borowska / Cesar – objazd wyspy
+#### Aneta Borowska / Cesar – objazd wyspy
 
 **Źródło:** oferta przekazana grupie prywatnie przez Agatę.
 
@@ -448,7 +448,7 @@ W Tripadvisor Tawma ma obecnie 5/5 przy 24 opiniach. Szczególnie istotna dla na
 
 Program i cena mieszczą się w typowym rynku. **Nie ustaliliśmy jednak jeszcze formalnej nazwy tunezyjskiego biura/organizatora ani licencji**, dlatego przed wpłatą dla całej grupy trzeba o to zapytać.
 
-### EXIM Tours / lokalny kontrahent – „Dookoła wyspy”
+#### EXIM Tours / lokalny kontrahent – „Dookoła wyspy”
 
 **Cena orientacyjna:** około 40 EUR dorosły, 20 EUR dziecko 2–12 lat.
 
@@ -458,7 +458,7 @@ EXIM wyraźnie zaznacza, że wycieczki przygotowuje **lokalny kontrahent**, a ce
 
 [EXIM Tours – Djerba, aktualne programy i orientacyjne ceny fakultetów](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-### Rainbow – „Objazd wyspy” i wariant „2w1”
+#### Rainbow – „Objazd wyspy” i wariant „2w1”
 
 **Cena aktualnie od:** 199 zł za sam objazd; 279 zł za objazd + Djerba Explore.
 
@@ -470,13 +470,13 @@ Rainbow daje ważną korzyść porównawczą: publikuje szczegółowy program, c
 
 Rainbow podaje, że te fakultety można kupić również wtedy, gdy główny wyjazd został kupiony w innym biurze.
 
-### Wniosek dla objazdu Dżerby
+#### Wniosek dla objazdu Dżerby
 
 Ceny 30 EUR u Timura/Tawma i Anety/Cesara są atrakcyjne, ale nie wszystkie programy są identyczne. Dla naszej grupy ważniejsze od perfumerii i czasu zakupowego mogą być **dobry komentarz przewodnika oraz możliwość bardziej sensorycznego poznania ceramiki w Guellali**. Przy zapytaniu grupowym warto poprosić o ograniczenie obowiązkowych punktów sprzedażowych na rzecz zwiedzania.
 
-## Djerba Explore – porównanie
+### Djerba Explore – porównanie
 
-### Timur/Tawma – Djerba Explore + shopping
+#### Timur/Tawma – Djerba Explore + shopping
 
 **Źródło:** otrzymany katalog.
 
@@ -484,7 +484,7 @@ Ceny 30 EUR u Timura/Tawma i Anety/Cesara są atrakcyjne, ale nie wszystkie prog
 
 Program: Djerba Explore (krokodyle i muzeum) oraz około 60 minut na zakupy. W katalogu: środa/sobota, około 14:00–17:30. Transfer i bilety mają być w cenie.
 
-### EXIM – Djerba Explore
+#### EXIM – Djerba Explore
 
 **Cena orientacyjna dla hoteli Dżerby:** około 30 EUR dorosły, 15 EUR dziecko.
 
@@ -492,19 +492,19 @@ Program: skansen/tradycyjna zabudowa, muzeum Lalla Hadria i farma krokodyli.
 
 [EXIM – Djerba Explore i cena](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-### Rainbow – Djerba Explore
+#### Rainbow – Djerba Explore
 
 **Cena aktualnie od:** 129 zł.
 
 [Rainbow – Djerba, lista fakultetów i ceny](https://r.pl/wycieczki-fakultatywne/kierunki/tunezja/djerba)
 
-### ITAKA / SeePlaces – Djerba Explore
+#### ITAKA / SeePlaces – Djerba Explore
 
 **Cena aktualnie od:** 137,79 zł; około 4 godziny.
 
 [ITAKA – aktualne wycieczki lokalne z Dżerby](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/wycieczki-lokalne/)
 
-### TUI – dwa różne warianty
+#### TUI – dwa różne warianty
 
 TUI sprzedaje kilka produktów różnych organizatorów. Nie należy traktować ich jako jednej „wycieczki TUI”.
 
@@ -516,13 +516,13 @@ Wariant Depart Travel Services: odbiór i powrót do hotelu, bilet, bez przewodn
 
 [TUI – Djerba Explore, organizator Depart Travel Services](https://www.tui.pl/atrakcje/djerba/djerba-explore-park-tickets-with-hotel-pick-up-479067)
 
-### Wniosek dla Djerba Explore
+#### Wniosek dla Djerba Explore
 
 To jedna z atrakcji, przy której **warto porównać cenę fakultetu z prostym samodzielnym dojazdem**, ponieważ park znajduje się na samej Dżerbie. Dla 18 osób może się jednak okazać, że grupowy transfer i bilety dają wygodę wartą niewielkiej dopłaty. Do sprawdzenia: cena grupowa oraz ewentualne ulgi dla osób z niepełnosprawnościami bez opierania się na pojedynczych relacjach internetowych.
 
-## Sahara 1 dzień – Ksar Ghilane i Matmata
+### Sahara 1 dzień – Ksar Ghilane i Matmata
 
-### Aneta/Cesar – Sahara 1 dzień
+#### Aneta/Cesar – Sahara 1 dzień
 
 **Źródło:** oferta przekazana prywatnie.
 
@@ -532,7 +532,7 @@ Program w otrzymanej wiadomości obejmuje góry Dahar, Toujane, domy troglodytó
 
 Planowany odbiór około 6:00, powrót około 18:00–18:30.
 
-### Rainbow – „Wrota Sahary”
+#### Rainbow – „Wrota Sahary”
 
 **Cena aktualnie:** od 339 zł.
 
@@ -546,7 +546,7 @@ W cenie: odbiór z hotelu, transport, polskojęzyczny pilot i lokalny przewodnik
 
 Na 22 sierpnia 2026 r. wycieczka ma ocenę około 5,6/6 i ponad 200 opublikowanych opinii uczestników. Jest to jeden z najlepszych publicznych benchmarków jakości dla podobnej trasy.
 
-### EXIM – Ksar Ghilane
+#### EXIM – Ksar Ghilane
 
 **Cena orientacyjna:** około 70 EUR.
 
@@ -554,13 +554,13 @@ Program łączy Ksar Ghilane i Matmatę; obiad w cenie, quady dodatkowo około 2
 
 [EXIM – Ksar Ghilane, aktualny opis i orientacyjna cena](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-### ITAKA / SeePlaces – Ksar Ghilane i Matmata
+#### ITAKA / SeePlaces – Ksar Ghilane i Matmata
 
 **Cena aktualnie od:** 287,57 zł; czas około 10 godzin.
 
 [ITAKA – Ksar Ghilane i Matmata na liście wycieczek lokalnych z Dżerby](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/wycieczki-lokalne/)
 
-### TUI / Depart Travel Services – Ksar Ghilane i Matmata
+#### TUI / Depart Travel Services – Ksar Ghilane i Matmata
 
 **Cena aktualnie od:** 326 zł; około 11–12 godzin.
 
@@ -568,13 +568,13 @@ Program obejmuje przejazd przez groblę, Ksar Ghilane, gorące źródło, możli
 
 [TUI – Ksar Ghilane i Matmata, organizator Depart Travel Services](https://www.tui.pl/atrakcje/djerba/ksar-ghilane-and-matmata-full-day-tour-from-djerba-or-zarzis-488766)
 
-### Wniosek dla Ksar Ghilane
+#### Wniosek dla Ksar Ghilane
 
 W tym wariancie różnica ceny nie mówi wszystkiego. Dla naszej grupy szczególnie cenny jest **polski/polskojęzyczny przewodnik**, możliwość wolniejszego tempa i dokładnego opisu. Jeśli Aneta/Cesar potwierdzą Ksar Ghilane w programie, cena 60 EUR jest konkurencyjna; przed wpłatą trzeba jednak ustalić formalnego organizatora.
 
-## Sahara 1 dzień – Douz i Matmata
+### Sahara 1 dzień – Douz i Matmata
 
-### Timur/Tawma – Douz, Matmata, „Gwiezdne wojny”, słone jezioro
+#### Timur/Tawma – Douz, Matmata, „Gwiezdne wojny”, słone jezioro
 
 **Źródło:** katalog otrzymany przez grupę.
 
@@ -596,9 +596,9 @@ Cena i program wyglądają atrakcyjnie, ale jest to **inna Sahara niż Ksar Ghil
 
 Katalog podaje w sezonie do 31 sierpnia określone dni wyjazdów. Nasz pobyt zaczyna się na granicy tego rozkładu, dlatego **wrześniowe dni trzeba potwierdzić**.
 
-## Tataouine, Chenini i ksary
+### Tataouine, Chenini i ksary
 
-### ITAKA / SeePlaces
+#### ITAKA / SeePlaces
 
 **Cena aktualnie od:** 227,66 zł; około 9 godzin.
 
@@ -606,7 +606,7 @@ Nazwa produktu: „Tataouine i Chenini – śladami Berberów i Gwiezdnych wojen
 
 [ITAKA – aktualna oferta wycieczek lokalnych z Dżerby](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/wycieczki-lokalne/)
 
-### TUI / Depart Travel Services
+#### TUI / Depart Travel Services
 
 **Cena aktualnie od:** 257 zł.
 
@@ -616,7 +616,7 @@ Program: Tataouine, około godziny z lokalnym przewodnikiem w Chenini, lunch, Ks
 
 **Uwaga o „Gwiezdnych wojnach”:** strona TUI przypisuje Ksar Ouled Soltane zdjęcia do „Mrocznego widma”, ale specjalistyczna analiza dokumentów produkcyjnych Galaxy Tours temu zaprzecza. Ksar sam w sobie jest wart zobaczenia jako autentyczny spichlerz, lecz nie będziemy sprzedawać go grupie jako pewnego planu filmowego.
 
-### Aneta/Cesar – „Wyspa plus ląd”
+#### Aneta/Cesar – „Wyspa plus ląd”
 
 **Cena:** 55 EUR dorosły; dzieci do 11 lat 40 EUR; w cenie obiad i napoje do obiadu.
 
@@ -633,9 +633,9 @@ To nie jest klasyczne Tataouine–Chenini. Program łączy część Dżerby z ko
 
 To interesująca hybryda, jeśli grupa chce połączyć Dżerbę z krótkim wejściem na południe, ale **nie zastępuje Chenini**.
 
-## Sahara 2 dni – programy są szczególnie różne
+### Sahara 2 dni – programy są szczególnie różne
 
-### Aneta/Cesar – Ksar Ghilane z noclegiem w namiotach
+#### Aneta/Cesar – Ksar Ghilane z noclegiem w namiotach
 
 **Cena:** 115 EUR dorosły; dzieci do 11 lat 75 EUR.
 
@@ -643,7 +643,7 @@ To interesująca hybryda, jeśli grupa chce połączyć Dżerbę z krótkim wej�
 
 To jest program nastawiony na **doświadczenie nocy na pustyni**. Przed zakupem dla grupy trzeba potwierdzić standard obozu, liczbę łóżek, sanitariaty, posiłki, przewodnika i formalnego organizatora.
 
-### EXIM – Douz, Chott el-Jerid, Tozeur/Chebika
+#### EXIM – Douz, Chott el-Jerid, Tozeur/Chebika
 
 **Cena orientacyjna:** około 125 EUR dorosły, 80 EUR dziecko.
 
@@ -655,7 +655,7 @@ To zupełnie inny produkt niż nocleg w Ksar Ghilane: więcej kilometrów i regi
 
 [EXIM – Sahara 2 dni, aktualny program i orientacyjna cena](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-### ITAKA / SeePlaces – dwa warianty 2-dniowe
+#### ITAKA / SeePlaces – dwa warianty 2-dniowe
 
 Na 22 sierpnia 2026 r. ITAKA pokazuje m.in.:
 
@@ -666,9 +666,9 @@ Nie należy porównywać tych cen bez wejścia w pełny program konkretnego term
 
 [ITAKA – dwudniowe wycieczki z Dżerby](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/wycieczki-lokalne/)
 
-## Ksar Ghilane o zachodzie słońca
+### Ksar Ghilane o zachodzie słońca
 
-### Aneta/Cesar – osobna wycieczka
+#### Aneta/Cesar – osobna wycieczka
 
 **Cena:** 60 EUR dorosły, 40 EUR dziecko do 12 lat.
 
@@ -678,9 +678,9 @@ To jest **osobny piąty program**, a nie dalszy ciąg dwudniowej Sahary.
 
 Przed porównaniem trzeba doprecyzować dokładną nazwę ksaru w Metameur oraz organizatora.
 
-## Rejs na Ras Rmel / „Wyspę Flamingów”
+### Rejs na Ras Rmel / „Wyspę Flamingów”
 
-### EXIM
+#### EXIM
 
 **Cena orientacyjna:** około 35 EUR dorosły i 18 EUR dziecko dla hoteli Dżerby.
 
@@ -688,35 +688,33 @@ Program: transfer do portu Houmt Souk, rejs, animacje, Ras Rmel, plaża, obiad i
 
 [EXIM – statek piracki](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-### ITAKA / SeePlaces
+#### ITAKA / SeePlaces
 
 **Cena aktualnie od:** 137,79 zł; około 8 godzin; transfer, rejs i obiad w cenie, napoje dodatkowo. W publicznym kalendarzu widoczne są m.in. **31 sierpnia, 1 września i 7 września 2026 r.**
 
 [SeePlaces/ITAKA – rejs na „Wyspę Flamingów”](https://itaka-lt.seeplaces.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/)
 
-### Rainbow
+#### Rainbow
 
 **Cena aktualnie od:** 189 zł.
 
 [Rainbow – oferta z Dżerby, w tym „Wyspa Flamingów”](https://r.pl/wycieczki-fakultatywne/kierunki/tunezja/djerba)
 
-### Hello Djerba
+#### Hello Djerba
 
 Na stronie Hello Djerba rejs jest obecnie wyceniony na około 70 EUR / około 302 zł według automatycznego przeliczenia strony. To wyraźnie więcej niż część ofert zbiorowych. Przed oceną trzeba porównać dokładną długość, transport i świadczenia.
 
 [Hello Djerba – strona bieżących lokalnych doświadczeń](https://hellodjerba.com/)
 
----
+## Organizatorzy i wybór oferty
 
-# Organizatorzy i sprzedawcy – kto stoi za ofertą
-
-## Coral Travel
+### Coral Travel
 
 To organizator naszego głównego wyjazdu. Publiczny katalog 2026 podaje programy fakultetów, ale nie pełny aktualny cennik Dżerby. Dlatego **pierwsze spotkanie z rezydentem jest jednym z najważniejszych momentów zbierania danych**.
 
 [Coral Travel – katalog Afryka 2026](https://b2ccdn.coraltravel.pl/content/katalogi/Afryka_2026/AF_Book_2026_online.pdf)
 
-## Djerba z Timurem → Tawma Travel
+### Djerba z Timurem → Tawma Travel
 
 W otrzymanym katalogu Timur przedstawia się jako tunezyjski przewodnik mówiący po polsku i deklaruje ponad 25 lat doświadczenia z polskimi turystami. Podaje współpracę z **Tawma Travel**.
 
@@ -730,7 +728,7 @@ W katalogu Timura rezerwacja ma wymagać zaliczki 10 EUR/os., a reszta ma być p
 
 Kontakt z katalogu: WhatsApp +216 48 286 598; Instagram `@djerbaztimurem`; Facebook „Djerba z Timurem”.
 
-## Aneta Borowska / Cesar
+### Aneta Borowska / Cesar
 
 Mamy szczegółową ofertę, programy i ceny przekazane prywatnie, ale nadal **nie znamy formalnej nazwy biura, które zawiera umowę i organizuje transport**.
 
@@ -745,13 +743,13 @@ Przed rezerwacją dla 18 osób trzeba poprosić o:
 
 W przesłanej wiadomości Aneta ostrzegała przed praktykami niektórych konkurentów i wysokimi cenami w sklepach. Traktujemy to jako **relację handlową jednej strony, a nie zweryfikowany fakt o całym rynku**. Ten sam standard przejrzystości stosujemy do wszystkich organizatorów, także do programu Anety, który sam zawiera olejarnię, perfumerię i zakupy.
 
-## Rainbow
+### Rainbow
 
 Dużą zaletą jest przejrzystość: publiczne programy, ceny, polski pilot w wielu trasach oraz zweryfikowane opinie uczestników. Fakultety można kupić także bez wykupienia głównej imprezy w Rainbow.
 
 [Rainbow – wycieczki fakultatywne z Dżerby](https://r.pl/wycieczki-fakultatywne/kierunki/tunezja/djerba)
 
-## ITAKA / SeePlaces
+### ITAKA / SeePlaces
 
 ITAKA prezentuje bieżące ceny i programy, a konkretne produkty prowadzą do platformy SeePlaces. Przy ostatecznym zakupie należy sprawdzić pole **organizator/dostawca** na stronie konkretnej wycieczki, zamiast traktować ITAKĘ i SeePlaces jako dwa niezależne programy.
 
@@ -761,7 +759,7 @@ W przypadku rejsu SeePlaces wskazuje jako organizatora **Best Time Travel DJE**,
 
 [SeePlaces – rejs z Dżerby i informacja o organizatorze](https://seeplaces.com/excursions/tunisia/zarzis/boat-trip-djerba/)
 
-## TUI – platforma z wieloma lokalnymi organizatorami
+### TUI – platforma z wieloma lokalnymi organizatorami
 
 TUI ma wiele podobnie nazwanych produktów, ale wykonują je różni partnerzy, np. **TUI Tunisia, Depart Travel Services czy tours sans soucis**. Dlatego w porównaniu zawsze zapisujemy nazwę konkretnego produktu i organizatora.
 
@@ -769,13 +767,13 @@ TUI ma wiele podobnie nazwanych produktów, ale wykonują je różni partnerzy, 
 
 [TUI – przykład Ksar Ghilane organizowanego przez Depart Travel Services](https://www.tui.pl/atrakcje/djerba/ksar-ghilane-and-matmata-full-day-tour-from-djerba-or-zarzis-488766)
 
-## EXIM Tours
+### EXIM Tours
 
 EXIM wprost informuje, że fakultety na Dżerbie przygotowuje lokalny kontrahent, a ceny na stronie są orientacyjne. Jest to dobre źródło porównawcze programów i poziomu cen, ale przed zakupem należy ustalić wykonawcę na miejscu.
 
 [EXIM – fakultety z Dżerby](https://www.exim.pl/kierunki/tunezja/djerba/wycieczki-fakultatywne)
 
-## Hello Djerba – Alicja i Aziz
+### Hello Djerba – Alicja i Aziz
 
 Hello Djerba jest polskojęzycznym projektem lokalnych doświadczeń prowadzonym przez Alicję i Aziza. Strona podaje m.in. przejażdżki, rejs, quady, buggy, 4x4 i Saharę oraz odbiór z hotelu.
 
@@ -787,25 +785,23 @@ Na stronie widnieje jednocześnie komunikat, że sklep jest w trybie demonstracy
 
 Dla 18-osobowej grupy traktujemy Hello Djerba na razie bardziej jako źródło lokalnych aktywności niż pierwszego kandydata do obsługi dużej całodniowej wyprawy, dopóki nie ustalimy formalnego organizatora.
 
-## Oficjalny rejestr tunezyjskich biur
+### Oficjalny rejestr tunezyjskich biur
 
 Przy lokalnym biurze warto sprawdzać, czy występuje w rejestrze ONTT i w jakiej kategorii. Rejestr agencji został według strony zaktualizowany 29 kwietnia 2026 r.
 
 [ONTT / Discover Tunisia – oficjalny katalog biur podróży, hoteli i restauracji](https://www.discovertunisia.com/en/tourist_information)
 
----
-
-# Co wydaje się najciekawsze dla naszej grupy
+### Co wydaje się najciekawsze dla naszej grupy
 
 To nie jest jeszcze ostateczny ranking. Ocena ma pomóc wybrać, o co pytać i co negocjować.
 
-## Jeśli chcemy naprawdę poznać Dżerbę
+#### Jeśli chcemy naprawdę poznać Dżerbę
 
 Najbardziej sensowny jest objazd obejmujący **Guellalę + El Ghribę + Djerbahood + Houmt Souk**. Dobrze, jeśli zamiast długich przystanków handlowych przewodnik poświęci czas na opowieść, ceramikę i lokalną historię.
 
 Dla naszej grupy szczególnie warto negocjować możliwość **dotykowego poznania gliny i ceramiki w Guellali** oraz słownego opisu kilku murali Djerbahood.
 
-## Jeśli chcemy najpełniejszego jednodniowego doświadczenia Sahary
+#### Jeśli chcemy najpełniejszego jednodniowego doświadczenia Sahary
 
 Do wyboru są co najmniej dwa różne modele:
 
@@ -815,7 +811,7 @@ Do wyboru są co najmniej dwa różne modele:
 
 Nie wybieramy między nimi tylko na podstawie 55 vs 60 EUR.
 
-## Jeśli interesują nas „Gwiezdne wojny” albo kultura południa
+#### Jeśli interesują nas „Gwiezdne wojny” albo kultura południa
 
 Najbardziej wartościowe punkty to:
 
@@ -824,17 +820,17 @@ Najbardziej wartościowe punkty to:
 - **Matmata** – same domy troglodytyczne i region filmowy;
 - Tataouine i Chenini – przede wszystkim kultura, ksary i krajobraz, a nie „park Star Wars”.
 
-## Jeśli chcemy czegoś lekkiego
+#### Jeśli chcemy czegoś lekkiego
 
 Djerba Explore albo rejs Ras Rmel wymagają mniej „wyprawowego” nastawienia niż całodniowe południe. Rejs we wrześniu traktujemy jednak jako morze, plażę i animacje, a nie wyprawę na flamingi.
 
-## Jeśli chcemy nocy na pustyni
+#### Jeśli chcemy nocy na pustyni
 
 Wariant 2-dniowy ma sens tylko wtedy, gdy grupa świadomie chce oddać prawie dwie doby z tygodniowego pobytu. Jego przewagą nad jednodniówką jest **wieczór, noc, ognisko i poranek na pustyni**, a nie samo odhaczenie większej liczby punktów.
 
----
+## Jak zorganizować wycieczki dla naszej grupy
 
-# Dostępność i sposób prowadzenia naszej grupy
+### Dostępność i sposób prowadzenia naszej grupy
 
 Nie znaleźliśmy dotąd lokalnego produktu, który kompleksowo deklarowałby dostępność dla osób niewidomych. Nie jest to powód do rezygnacji. Przy 18 osobach rozsądniejsze może być zamówienie własnego pojazdu i uzgodnienie sposobu prowadzenia.
 
@@ -853,9 +849,7 @@ Przy zapytaniu do organizatora warto poprosić o:
 
 Przy **Chenini** należy zakładać nierówny, skalisty teren. Przy **Matmacie** trzeba uważać na uskoki, schody i wejścia do podziemnych pomieszczeń. Na Saharze problemem może być miękki piasek, upał i wsiadanie na zwierzęta/pojazdy.
 
----
-
-# Jak negocjować przy grupie 18 osób
+### Jak negocjować przy grupie 18 osób
 
 Nie należy automatycznie kupować 18 biletów po cenie katalogowej. Warto wysłać do kilku organizatorów **to samo zapytanie**, aby porównać naprawdę ten sam produkt.
 
@@ -873,11 +867,9 @@ Do porównania grupowego w pierwszej kolejności warto zebrać oferty od:
 
 ITAKA/SeePlaces, TUI i EXIM są bardzo użyteczne także jako **benchmark programu i ceny**, nawet jeśli nie będą ostatecznym wykonawcą dla całej grupy.
 
----
+### Co zrobić po przyjeździe – praktyczna ściąga
 
-# Co zrobić po przyjeździe – praktyczna ściąga
-
-## Spotkanie z rezydentem Coral
+#### Spotkanie z rezydentem Coral
 
 Na pierwszym spotkaniu warto zebrać:
 
@@ -897,13 +889,13 @@ Na pierwszym spotkaniu warto zebrać:
 
 Jeśli jest papierowy cennik lub katalog, warto zrobić zdjęcia wszystkich stron i dodać je do materiałów projektu. Wtedy aktualizujemy ten plik zamiast podejmować decyzję pod presją spotkania.
 
-## Pytania do Timura/Tawma
+#### Pytania do Timura/Tawma
 
 Oprócz powyższego trzeba potwierdzić przede wszystkim **wrześniowy rozkład**, ponieważ otrzymany katalog podaje część dni sezonowych tylko do 31 sierpnia.
 
 Warto także zapytać o ofertę prywatną dla 18 osób i możliwość takiego prowadzenia, aby opisy były przydatne osobom niewidomym.
 
-## Pytania do Anety/Cesara
+#### Pytania do Anety/Cesara
 
 Przed wpłatą trzeba ustalić:
 
@@ -918,9 +910,7 @@ Przed wpłatą trzeba ustalić:
 - zasady anulowania;
 - wszystkie obowiązkowe punkty handlowe.
 
----
-
-# Najważniejsze rzeczy do sprawdzenia tuż przed decyzją
+### Najważniejsze rzeczy do sprawdzenia tuż przed decyzją
 
 1. **Aktualne ceny Coral** i pełne programy na tydzień naszego pobytu.
 2. **Wrześniowe dni wyjazdów Timura/Tawma** po zakończeniu letniego rozkładu z katalogu.
@@ -933,9 +923,9 @@ Przed wpłatą trzeba ustalić:
 9. Warunki rezygnacji i sposób płatności.
 10. Pogoda i temperatura na południu w dniu konkretnej wycieczki.
 
----
+## Źródła i mapy
 
-# Mapy
+### Mapy
 
 W tej wersji przy miejscach znajdują się linki do Google Maps jako praktyczna pomoc nawigacyjna.
 
@@ -947,9 +937,7 @@ Przy tworzeniu własnych map należy zachować atrybucję **© OpenStreetMap con
 
 [Geofabrik – aktualne dane OpenStreetMap dla Tunezji do lokalnego renderowania map](https://download.geofabrik.de/africa/tunisia.html)
 
----
-
-# Źródła przekrojowe
+### Źródła przekrojowe
 
 - [UNESCO – wpis Dżerby na Listę Światowego Dziedzictwa](https://whc.unesco.org/en/list/1640/)
 - [ONTT / Discover Tunisia – Dżerba i Zarzis](https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis)
@@ -967,6 +955,7 @@ Przy tworzeniu własnych map należy zachować atrybucję **© OpenStreetMap con
 - [Galaxy Tours – mapa i dokumentacja tunezyjskich lokacji „Gwiezdnych wojen”](https://galaxytours.com/starwars-locations-tunisia-map/)
 - [Wielki słownik języka polskiego PAN – „troglodyta”](https://wsjp.pl/haslo/podglad/58076/troglodyta/5182815/czlowiek-pierwotny)
 
-## Historia zmian
+### Historia zmian
 
+- 2026-08-22 – wersja 0.2: przebudowa hierarchii nagłówków i układu dokumentu bez usuwania informacji merytorycznych; jeden H1, wyraźne warstwy: korzystanie z przewodnika, atlas miejsc, programy, organizatorzy i wybór oferty, organizacja dla grupy oraz źródła i mapy.
 - 2026-08-22 – utworzenie wersji 0.1: katalog miejsc, źródła, pierwsze porównanie programów i cen, wiarygodność organizatorów oraz ściąga do decyzji przed wyjazdem i na miejscu.
