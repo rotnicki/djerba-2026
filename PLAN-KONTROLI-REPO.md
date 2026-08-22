@@ -175,7 +175,7 @@ Najważniejsze:
 
 ### 11. Porządki techniczne i redakcyjne
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Do sprawdzenia:
 
