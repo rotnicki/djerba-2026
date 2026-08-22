@@ -43,7 +43,7 @@ Do sprawdzenia i uzupełnienia:
 
 ### 2. Lotniska i asysta PRM
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres:
 
