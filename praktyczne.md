@@ -274,6 +274,14 @@ Najrozsądniejszy plan dla naszej grupy:
 
 Asysta dla osób z niepełnosprawnościami / PRM powinna być zgłoszona przed podróżą przez przewoźnika lub biuro podróży. Na lotnisku nie zamawiamy jej od początku po raz drugi — po przybyciu zgłaszamy, że osoby objęte wcześniej zamówioną asystą są już na miejscu i gotowe do rozpoczęcia obsługi.
 
+### Sprawdzenie godzin lotów
+
+Godziny lotów mogą się zmieniać również po wystawieniu dokumentów podróży.
+
+- **Dzień przed wylotem z Polski** należy ponownie sprawdzić aktualną godzinę odlotu. Można zrobić to w aktualnym rozkładzie Coral Travel, w strefie klienta albo przez punkt sprzedaży, w którym zawarto umowę.
+- **W ostatniej dobie przed powrotem z Tunezji** należy sprawdzić aktualną godzinę lotu i transferu na lotnisko. Coral Travel przekazuje tę informację na miejscu przez swojego przedstawiciela / lokalnego partnera; może być dostępna m.in. w aplikacji Coral Travel, recepcji hotelu lub miejscu przeznaczonym na informacje organizatora.
+- Nie należy więc opierać planu wyjazdu na lotnisko wyłącznie na godzinie zapisanej wcześniej w umowie lub pierwszej wersji dokumentów podróży.
+
 ### Grupa warszawska — Lotnisko Chopina
 
 - **Planowana godzina zbiórki: około 8:30.** Jest to godzina, na którą uczestnicy powinni starać się dotrzeć na lotnisko, a nie sztywna godzina rozpoczęcia asysty.
