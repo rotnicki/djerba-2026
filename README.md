@@ -9,14 +9,14 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 ## Struktura
 
 - [Praktyczne informacje](praktyczne.md)
-- [Kultura i zwyczaje](kultura-i-zwyczaje.md)
-- [Język i podstawowe zwroty](jezyk-i-zwroty.md)
 - [Zdrowie: słońce, bezpieczeństwo w morzu, biegunka podróżnych, WZW A i apteczka](zdrowie.md)
 - [Co zabrać](co-zabrac.md)
+- [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md)
 - [Łączność](lacznosc.md)
 - [Pieniądze i płatności](pieniadze.md)
-- [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md)
 - [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md)
+- [Kultura i zwyczaje](kultura-i-zwyczaje.md)
+- [Język i podstawowe zwroty](jezyk-i-zwroty.md)
 
 ## Zasady ogólne
 
