@@ -65,3 +65,23 @@ Zasada wynika z **WCAG 2.2, kryterium sukcesu 2.4.4 „Cel łącza (w kontekści
 
 - [W3C WAI – WCAG 2.2, Understanding Success Criterion 2.4.4: Link Purpose (In Context)](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html)
 - [W3C WAI – WCAG 2.2, Understanding Success Criterion 2.4.9: Link Purpose (Link Only)](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html)
+
+## Dostępność treści wielojęzycznych
+
+W plikach Markdown zachowujemy prostą, czytelną strukturę. Przy przyszłej konwersji materiałów do HTML lub publikacji na stronie internetowej należy oznaczać lokalne zmiany języka, aby czytniki ekranu mogły zastosować właściwe reguły wymowy.
+
+Zasady docelowe:
+
+- główny język polskiej strony: `lang="pl"`;
+- fragment francuski: `lang="fr"`;
+- fragment w tunezyjskim arabskim: preferowane `lang="ar-TN"`, a co najmniej `lang="ar"`;
+- tekst arabski może dodatkowo wymagać `dir="rtl"`;
+- fragment angielski: `lang="en"`;
+- polska wymowa fonetyczna obcych zwrotów pozostaje oznaczona jako język polski, nawet jeśli znajduje się obok oryginału francuskiego lub arabskiego.
+
+Zasada wynika z **WCAG 2.2, kryterium sukcesu 3.1.1 „Język strony”, poziom A** oraz **3.1.2 „Język części”, poziom AA**.
+
+Źródła:
+
+- [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.1: Language of Page](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)
+- [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.2: Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
