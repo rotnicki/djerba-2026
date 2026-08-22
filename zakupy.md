@@ -33,4 +33,4 @@ Informacje o szczepieniu przeciw WZW A znajdują się w dziale [Zdrowie – wiru
 ## Sprzęt
 
 - **Mały wentylator akumulatorowy USB-C** — przydatny na wycieczki, transfery i podczas oczekiwania w upale. Sensowne kryteria to akumulator około 3000–5000 mAh, kilka poziomów nawiewu, niewielka masa oraz możliwość używania w ręce i postawienia na stoliku.
-- **Model obecnie brany pod uwagę:** składany wentylator ręczny 5000 mAh, USB-C, 5 prędkości i wyświetlacz cyfrowy. Cena oferty może się zmieniać; przy ostatnim sprawdzeniu była w okolicach 70 zł. [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406).
+    - **Sprawdzona oferta:** składany wentylator ręczny 5000 mAh, USB-C, 5 prędkości i wyświetlacz cyfrowy. Cena oferty może się zmieniać; przy ostatnim sprawdzeniu była w okolicach 70 zł. [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406).
