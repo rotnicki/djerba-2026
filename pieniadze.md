@@ -161,46 +161,21 @@ W nieformalnych ustaleniach naszej grupy z 21 sierpnia 2026 r. przyjęto **okoł
 
 Wyjazd trwa **7 nocy**, dlatego nie planujemy codziennych fakultetów. Żeby został również czas na hotel, plażę, odpoczynek i własne wyjścia, najbardziej realistyczny wydaje się wariant **około dwóch większych/średnich wycieczek, ewentualnie trzeciej lżejszej**.
 
-Aktualne orientacyjne ceny jednej osoby są mniej więcej takie:
-
-- objazd Dżerby: około **30 EUR** u lokalnych organizatorów;
-- Djerba Explore: około **25–30 EUR**;
-- jednodniowa Sahara przez Douz: około **55 EUR**;
-- jednodniowa Sahara przez Ksar Ghilane: około **60–70 EUR**;
-- rejs Ras Rmel / „Wyspa Flamingów”: około **35 EUR** w typowej ofercie;
-- Sahara 2 dni: około **115–125 EUR** w tańszych obecnie wariantach;
-- dodatkowo podczas Sahary: wielbłąd około **15 EUR**, quad najczęściej około **25–30 EUR**, zależnie od organizatora.
-
-Szczegółowe ceny, różnice programów i źródła znajdują się w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md).
+Szczegółowe aktualne ceny, różnice programów, koszty dodatków i źródła utrzymujemy w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md). Tutaj zachowujemy tylko wynik potrzebny do planowania ogólnego budżetu.
 
 #### Wariant oszczędny – około 100–150 EUR gotówki na osobę
 
-Może wystarczyć, jeżeli:
-
-- wybieramy jedną większą wycieczkę i jedną niedrogą/lokalną;
-- przynajmniej część płatności za fakultety można zrobić Revolutem lub kartą;
-- euro ma być przede wszystkim rezerwą i źródłem TND do wymiany.
-
-Przykład: objazd Dżerby około 30 EUR + jednodniowa Sahara około 55–60 EUR daje około **85–90 EUR kosztu samych wycieczek**.
+Może wystarczyć, jeżeli wybieramy mniej lub tańsze fakultety, część płatności można wykonać bezgotówkowo, a euro ma również pełnić funkcję rezerwy i źródła TND do wymiany.
 
 Kwota poniżej **150 EUR** jest jednak niższa od przyjętego przez grupę sugerowanego minimum i wymaga większego oparcia się na płatnościach bezgotówkowych albo ograniczenia liczby fakultetów.
 
 #### Robocze minimum grupy – około 150 EUR gotówki na osobę na wycieczki
 
-To obecnie **najprostsze grupowe założenie przed wyjazdem**.
-
-Pozwala sfinansować np.:
-
-- objazd Dżerby około 30 EUR;
-- jednodniową Saharę około 55–60 EUR;
-- ewentualnie jeszcze Djerba Explore lub rejs około 25–35 EUR;
-- jeden płatny dodatek, np. wielbłąd lub quad, zależnie od ostatecznego zestawu.
-
-Przy takim zestawie same fakultety mogą kosztować około **110–125 EUR**, a z jednym dodatkiem około **125–155 EUR**. Dlatego 150 EUR dobrze działa jako **minimum do zaplanowania**, ale nie daje dużego zapasu przy droższych wariantach.
+To obecnie **najprostsze grupowe założenie przed wyjazdem**. Powinno wystarczyć na typowy zestaw kilku fakultetów o umiarkowanym łącznym koszcie, ale nie daje dużego zapasu przy droższych programach lub wielu płatnych dodatkach.
 
 #### Wariant z 2-dniową Saharą – około 200–250 EUR gotówki na osobę
 
-Jeśli ktoś wybierze Saharę 2 dni za około 115–125 EUR, a oprócz tego choć jedną krótszą wycieczkę, płatny dodatek i będzie chciał mieć rezerwę na wymianę, zakres **200–250 EUR na osobę** staje się bardziej uzasadniony.
+Jeśli ktoś wybierze droższą Saharę 2-dniową, a oprócz tego choć jedną krótszą wycieczkę, płatny dodatek i będzie chciał mieć rezerwę na wymianę, zakres **200–250 EUR na osobę** staje się bardziej uzasadniony.
 
 Nie oznacza to, że cała ta kwota musi zostać wydana. Jest to większy zapas gotówkowy na sytuację, w której część wycieczek będzie rozliczana w EUR.
 
@@ -272,19 +247,12 @@ Aktualne polskie informacje ITAKI dla Dżerby używają właśnie nazwy **„obo
 
 ## Wycieczki i wydatki dodatkowe
 
-Koszty wycieczek trzeba liczyć osobno od zwykłego kieszonkowego. Różni organizatorzy stosują różne zasady płatności.
-
-Przykładowo w otrzymanym katalogu Timura/Tawma Travel podano:
-
-- zaliczkę **10 EUR za osobę**;
-- pozostałą część płatną gotówką lub Revolutem w dniu wycieczki.
-
-Inni organizatorzy mogą mieć inne zasady. Przed rezerwacją trzeba więc zawsze ustalić:
+Koszty wycieczek trzeba liczyć osobno od zwykłego kieszonkowego. Różni organizatorzy stosują różne zasady płatności, dlatego przed rezerwacją trzeba zawsze ustalić:
 
 - pełną cenę za osobę i za całą grupę;
 - walutę płatności;
-- wysokość zaliczki;
-- czy reszta jest płatna gotówką, kartą czy Revolutem;
+- wysokość ewentualnej zaliczki;
+- czy pozostała część jest płatna gotówką, kartą czy Revolutem;
 - kiedy następuje płatność;
 - zasady zwrotu zaliczki i rezygnacji.
 
