@@ -122,14 +122,13 @@ Coral Travel wskazuje, że napiwki są w krajach turystycznych przyjętym zwycza
 
 W grupie pojawił się również pomysł zabrania **Żubrówki**. Alkohol nie jest jednak odpowiednim uniwersalnym prezentem dla każdego pracownika hotelu. Jeżeli ktoś chce wręczyć taki upominek, powinien zrobić to wyłącznie konkretnej dorosłej osobie, gdy wiadomo, że będzie on mile widziany – najlepiej jako podziękowanie, a nie element prośby o dodatkowe świadczenie.
 
-Przy wwozie mocnego alkoholu trzeba pamiętać o tunezyjskim limicie celnym: dla napojów alkoholowych powyżej 25% jest to maksymalnie **1 litr na podróżnego**.
+Zasady przewozu oraz tunezyjskie limity celne dotyczące alkoholu są utrzymywane w materiale [Co zabrać](co-zabrac.md).
 
 Źródła i relacje:
 
 - [Coral Travel – aktualne Warunki Imprez Turystycznych i dokumenty](https://www.coraltravel.pl/dokumenty/)
 - [Tripadvisor – Club Palm Azur: relacja grupy 18 osób z czerwca 2026 r. i odpowiedź hotelu](https://www.tripadvisor.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate.html)
 - [GOV.UK – Tunezja: zasady kulturowe i informacje o legalnej sprzedaży alkoholu w hotelach i barach](https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security)
-- [Tunezyjska służba celna – limity wwozu alkoholu](https://www.douane.gov.tn/tabac-et-boissons-alcoolisees/)
 
 ### Posiłki i All Inclusive
 
