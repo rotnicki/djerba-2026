@@ -25,7 +25,7 @@ Nie wykonujemy dużej automatycznej przebudowy wielu dokumentów naraz. Przy red
 
 ### 1. Dokumenty i formalności podróży
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres:
 
