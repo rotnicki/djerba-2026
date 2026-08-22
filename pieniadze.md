@@ -1,6 +1,6 @@
 # Pieniądze i płatności
 
-Sprawdzono: 22 sierpnia 2026 r.
+Stan weryfikacji: 22 sierpnia 2026 r.
 
 Ten materiał zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjskich, **obowiązkowego podatku turystycznego** oraz pieniędzy potrzebnych na wycieczki i wydatki na miejscu.
 
