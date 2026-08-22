@@ -6,10 +6,15 @@ Praktyczna lista rzeczy przydatnych podczas tygodniowego pobytu na Dżerbie. Nie
 
 ## Dokumenty podróżne
 
-- **Paszport** – koniecznie zabrać.
-- **Dokumenty podróży** – mają być dostępne około 7 dni przed wylotem.
-    - **Grupa warszawska** – dokumentami zajmuje się Paweł.
-    - **Grupa katowicka** – dokumentami zajmuje się Dzidka.
+- **Paszport** – wymagany przy wjeździe do Tunezji. Powinien być ważny co najmniej 3 miesiące od planowanej daty powrotu / opuszczenia Tunezji. Przy planowanym powrocie 7 września 2026 r. oznacza to ważność co najmniej do **7 grudnia 2026 r.**
+- **Wiza** – obywatele Polski nie potrzebują wizy na nasz turystyczny pobyt w Tunezji; ruch bezwizowy obejmuje pobyt do 3 miesięcy.
+- **Dokumenty podróży Coral Travel** – zgodnie z ustaleniami naszej grupy mają być dostępne około 7 dni przed wylotem:
+    - **grupa warszawska** – dokumentami zajmuje się Paweł;
+    - **grupa katowicka** – dokumentami zajmuje się Dzidka.
+- **Dokumenty trzeba mieć również w formie wydrukowanej.** Coral Travel wymaga od podróżnych posiadania wydrukowanych dokumentów podróży. Najlepiej trzymać je w bagażu podręcznym razem z paszportem.
+- **Voucher hotelowy** – powinien znaleźć się w dokumentach podróży; Coral Travel podaje, że podczas zakwaterowania w Tunezji wymagany jest voucher hotelowy.
+- **Przed wyjazdem sprawdzić dane w dokumentach** – imię, nazwisko, data urodzenia i dane paszportowe w dokumentach podróży muszą odpowiadać danym w paszporcie.
+- **Kopia paszportu** – warto wykonać kopię strony ze zdjęciem i danymi i przechowywać ją oddzielnie od oryginalnego paszportu. MSZ dodatkowo zaleca zabranie aktualnego zdjęcia paszportowego na wypadek utraty dokumentu. Kopia ani skan nie zastępują oryginalnego paszportu.
 
 ## Bagaż na nasze loty Enter Air
 
