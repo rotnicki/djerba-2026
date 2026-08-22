@@ -86,7 +86,7 @@ Dodać krótką procedurę:
 
 ### 5. Pieniądze i podatek turystyczny
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres: `pieniadze.md`.
 
