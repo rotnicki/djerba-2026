@@ -61,6 +61,26 @@ Wyjątek dotyczy m.in. leków w płynie, które są niezbędne podczas podróży
 
 Źródło: [Enter Air – płyny i leki w bagażu podręcznym](https://help.enterair.pl/faq-plyny-i-leki/).
 
+### Pusta butelka, bidon, kubek termiczny lub termos
+
+Do bagażu podręcznego można zabrać **pustą butelkę wielorazową, bidon, kubek termiczny albo termos**, również o pojemności większej niż 100 ml. Ograniczenie 100 ml dotyczy płynów przechodzących przez kontrolę bezpieczeństwa, a nie samego pustego naczynia.
+
+**Podczas przechodzenia przez kontrolę pojemnik musi być całkowicie pusty.** Nie należy zostawiać w nim nawet niewielkiej ilości wody lub innego napoju. Personel kontroli może poprosić o otwarcie pojemnika i sprawdzenie jego wnętrza.
+
+Po przejściu kontroli można napełnić pojemnik wodą pitną i zabrać ją dalej do gate'u oraz na pokład samolotu. Dla naszego wyjazdu rozwiązanie to jest praktyczne na obu lotniskach wylotu:
+
+- **Lotnisko Chopina w Warszawie** – po kontroli bezpieczeństwa dostępne są poidełka z wodą pitną; pustą butelkę, bidon lub termos można napełnić już w strefie odlotów;
+- **Katowice Airport** – w strefie odlotów, również w Terminalu A obsługującym kierunki Non-Schengen, dostępne są punkty z wodą pitną, w których można napełnić pusty bidon lub termos po przejściu kontroli.
+
+Nie trzeba zabierać osobno zwykłej butelki i kubka termicznego. Jeśli ktoś ma **szczelny bidon termiczny albo termos około 0,5–0,75 l**, może on pełnić obie funkcje: przejść kontrolę pusty, zostać napełniony po kontroli, a później pomagać utrzymać wodę chłodną podczas pobytu i wycieczek na Dżerbie.
+
+Źródła:
+
+- [Urząd Lotnictwa Cywilnego – kontrola bezpieczeństwa i zasady przewozu płynów](https://ulc.gov.pl/prawa-pasazera/poradnik-dla-pasazerow/kontrola-bezpieczenstwa)
+- [Lotnisko Chopina – kontrola bezpieczeństwa](https://airportchopin.com/pl/info/kontrola-bezpieczenstwa)
+- [Katowice Airport – zasady dotyczące bagażu](https://www.katowice-airport.com/pl/dla-pasazera/przed-podroza/bagaz)
+- [Katowice Airport – mapy terminali](https://www.katowice-airport.com/pl/dla-pasazera/mapy-terminali)
+
 ## Leki i dokumenty medyczne
 
 Leki najlepiej przewozić **w bagażu podręcznym, w oryginalnych opakowaniach wraz z ulotką**. Enter Air nie zaleca wkładania leków do bagażu rejestrowanego, między innymi ze względu na ryzyko opóźnienia lub zagubienia bagażu.
