@@ -98,27 +98,38 @@ Godziny te są informacją ogólną dla hotelu, a organizacja pierwszego i ostat
 
 [Booking.com – Club Palm Azur: aktualne zasady zameldowania i wymeldowania](https://www.booking.com/hotel/tn/club-palm-azur-djerba.pl.html)
 
-### Rozmieszczenie pokoi grupy i drobne upominki
+### Rozmieszczenie pokoi grupy
 
-Zależy nam, aby pokoje uczestników znajdowały się **możliwie blisko siebie**. Ma to szczególne znaczenie ze względu na osoby niewidome i słabowidzące: ułatwia orientację, wzajemną pomoc oraz szybkie odnalezienie innych uczestników. Na obecnym etapie **nie mamy potwierdzenia, że hotel zagwarantował takie rozmieszczenie**.
+Zależy nam, aby pokoje uczestników znajdowały się **możliwie blisko siebie**. Ma to szczególne znaczenie ze względu na osoby niewidome i słabowidzące: ułatwia orientację w hotelu, wzajemną pomoc oraz szybkie odnalezienie innych uczestników.
 
-Warto dopilnować tej sprawy możliwie wcześnie. W aktualnej relacji z pobytu w Club Palm Azur w czerwcu 2026 r. grupa **18 osób** opisała sytuację, w której pokoje nie zostały przydzielone obok siebie, a późniejsze próby zebrania grupy w jednej części hotelu nie przyniosły rezultatu. Jest to pojedyncza relacja turystów, a nie oficjalna zasada hotelu, ale dobrze pokazuje, że nie warto odkładać takiej prośby na później.
+Coral Travel w Warunkach Imprez Turystycznych wprost wymienia **„pokoje obok siebie”** jako przykład dodatkowego życzenia dotyczącego zakwaterowania. Takie życzenie **nie jest częścią gwarantowanych świadczeń i jest realizowane w miarę możliwości hotelu**. Nawet umieszczenie informacji „Pokoje obok siebie” na voucherze nie gwarantuje konkretnego rozmieszczenia.
 
-Ponieważ **grupa katowicka ma być na miejscu wcześniej**, może przy zameldowaniu przypomnieć recepcji, że pozostałe rezerwacje należą do tej samej grupy i że zależy nam przede wszystkim na pokojach położonych możliwie blisko siebie. Nie traktujemy jednak konkretnego układu pokoi jako zagwarantowanego, dopóki hotel go faktycznie nie przydzieli.
+Dlatego przed wyjazdem warto upewnić się u sprzedawcy / Coral Travel, że prośba o możliwie bliskie rozmieszczenie pokoi została rzeczywiście przekazana hotelowi w odniesieniu do właściwych rezerwacji. Nie zmienia to jednak jej charakteru – ostateczny przydział zależy m.in. od dostępności pokoi i obłożenia hotelu.
 
-W nieformalnych ustaleniach grupy pojawił się również pomysł przygotowania **drobnych polskich upominków, po jednym zestawie przypadającym na pokój** — wymieniano przede wszystkim **krówki oraz Żubrówkę**. Taki gest można traktować wyłącznie jako sympatyczne podziękowanie lub sposób na życzliwe rozpoczęcie kontaktu z obsługą, **nie jako zapłatę ani gwarancję uzyskania lepszego pokoju czy konkretnego rozmieszczenia**.
+**Grupa katowicka, która ma być na miejscu wcześniej**, może przy zameldowaniu dodatkowo przypomnieć recepcji, że pozostałe rezerwacje należą do tej samej grupy i że ze względów organizacyjnych i dostępnościowych szczególnie zależy nam na pokojach położonych możliwie blisko siebie. Jest to przypomnienie istniejącej prośby, a nie gwarancja jej realizacji.
 
-Relacje podróżnych z Tunezji wskazują, że napiwki dla personelu hotelowego są dobrowolne i zwykle mają formę niewielkiej kwoty pieniężnej. Słodycze mogą być miłym dodatkowym prezentem, ale nie są ustalonym tunezyjskim odpowiednikiem napiwku. **Alkohol nie jest uniwersalnym prezentem**: w Tunezji jego sprzedaż i spożywanie w hotelach jest legalne, ale ze względu na indywidualne i kulturowe podejście Żubrówkę warto wręczać tylko konkretnej osobie, gdy wiadomo, że taki prezent będzie mile widziany.
+Praktyczny przykład daje relacja z Club Palm Azur z czerwca 2026 r. Grupa 18 osób nie otrzymała wszystkich pokoi obok siebie. W odpowiedzi hotel wskazał m.in. na bardzo wysokie obłożenie oraz nieporozumienie między agencją a działem sprzedaży hotelu. Jest to pojedynczy przypadek, ale pokazuje, dlaczego warto dopilnować przekazania prośby przed przyjazdem, zamiast próbować organizować wszystkie pokoje dopiero po zameldowaniu.
 
-Jeżeli uczestnik zabiera Żubrówkę lub inny mocny alkohol z Polski, trzeba również pamiętać o tunezyjskich limitach celnych. Tunezyjska służba celna podaje dla napojów alkoholowych **powyżej 25% limit 1 litra na podróżnego**.
+**Do sprawdzenia przed wyjazdem:** upewnić się u sprzedawcy / Coral Travel, że prośba o możliwie bliskie rozmieszczenie pokoi została przekazana hotelowi dla właściwych rezerwacji.
+
+### Drobne upominki i napiwki
+
+W nieformalnych ustaleniach naszej grupy pojawił się pomysł przygotowania **drobnych polskich upominków, np. krówek**, ewentualnie po jednym zestawie przypadającym na pokój.
+
+Taki upominek jest wyłącznie dobrowolnym, sympatycznym gestem. **Nie należy traktować go jako zapłaty ani wręczać w związku z oczekiwaniem konkretnego pokoju, rozmieszczenia grupy lub innej korzyści.**
+
+Coral Travel wskazuje, że napiwki są w krajach turystycznych przyjętym zwyczajem, ale ich wysokość zależy od indywidualnego uznania podróżnego i jakości wykonanej usługi. Upominek z Polski może być dodatkiem, lecz nie zastępuje ani nie stanowi ustalonej formy napiwku.
+
+W grupie pojawił się również pomysł zabrania **Żubrówki**. Alkohol nie jest jednak odpowiednim uniwersalnym prezentem dla każdego pracownika hotelu. Jeżeli ktoś chce wręczyć taki upominek, powinien zrobić to wyłącznie konkretnej dorosłej osobie, gdy wiadomo, że będzie on mile widziany – najlepiej jako podziękowanie, a nie element prośby o dodatkowe świadczenie.
+
+Przy wwozie mocnego alkoholu trzeba pamiętać o tunezyjskim limicie celnym: dla napojów alkoholowych powyżej 25% jest to maksymalnie **1 litr na podróżnego**.
 
 Źródła i relacje:
 
-- [Tripadvisor – Club Palm Azur: relacja grupy 18 osób z czerwca 2026 r. o pokojach nieprzydzielonych obok siebie](https://www.tripadvisor.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate.html)
-- [Tripadvisor – Dżerba: aktualna dyskusja o dobrowolnych napiwkach w hotelach all inclusive](https://www.tripadvisor.com/ShowTopic-g297941-i9901-k15503309-Tipping_in_all_inclusive_hotels-Djerba_Island_Medenine_Governorate.html)
-- [r/Tunisia – dyskusja miejscowych o słodyczach lub czekoladzie jako dodatku do napiwku; nie jest to powszechny zwyczaj](https://www.reddit.com/r/Tunisia/comments/14ygprv/bar_of_chocolate_as_a_tip/)
+- [Coral Travel – aktualne Warunki Imprez Turystycznych i dokumenty](https://www.coraltravel.pl/dokumenty/)
+- [Tripadvisor – Club Palm Azur: relacja grupy 18 osób z czerwca 2026 r. i odpowiedź hotelu](https://www.tripadvisor.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate.html)
 - [GOV.UK – Tunezja: zasady kulturowe i informacje o legalnej sprzedaży alkoholu w hotelach i barach](https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security)
-- [Tunezyjska służba celna – limity wwozu alkoholu: do 1 litra dla napojów powyżej 25%](https://www.douane.gov.tn/tabac-et-boissons-alcoolisees/)
+- [Tunezyjska służba celna – limity wwozu alkoholu](https://www.douane.gov.tn/tabac-et-boissons-alcoolisees/)
 
 ### Posiłki i All Inclusive
 
