@@ -401,6 +401,36 @@ Z Dżerby jest to sensowny element przede wszystkim **wycieczki co najmniej 2-dn
 
 [Google Maps – Tozeur](https://www.google.com/maps/search/?api=1&query=Tozeur+Tunisia)
 
+## Bezpieczeństwo, ubezpieczenie i odpowiedzialność przed zakupem wycieczki
+
+Przed wyborem wycieczki trzeba sprawdzić nie tylko program i cenę, lecz również **kto formalnie jest organizatorem, jak przebiega dokładna trasa oraz czy planowane aktywności są objęte naszym ubezpieczeniem**.
+
+### Quady, wielbłądy i sporty wysokiego ryzyka
+
+Aktualne Warunki Ubezpieczenia Podróży dla klientów Coral Travel (ERGO, nr 10.39.001) zaliczają do **sportów wysokiego ryzyka** m.in. jazdę na quadach oraz dosiadanie i jazdę na zwierzętach wierzchowych i pociągowych. Oznacza to, że dotyczy to również typowej turystycznej przejażdżki na wielbłądzie.
+
+W sprawdzonej umowie dla naszego wyjazdu widnieje wariant **TRAVEL – BASIC**. Wariant Basic nie obejmuje standardowo następstw uprawiania sportów wysokiego ryzyka. Odpowiednie rozszerzenie można dokupić za dodatkową składką.
+
+**Praktyczna zasada dla naszej grupy:** przed wykupieniem quada, przejażdżki na wielbłądzie lub innej aktywności zakwalifikowanej jako sport wysokiego ryzyka trzeba upewnić się, że konkretna osoba ma odpowiednie rozszerzenie ubezpieczenia. Nie zakładamy, że sam fakt kupienia aktywności podczas wycieczki automatycznie zapewnia ochronę z podstawowej polisy.
+
+Przy quadach trzeba dodatkowo sprawdzić odpowiedzialność za szkody wyrządzone innym osobom lub w mieniu. Ogólne warunki ubezpieczenia zawierają osobne wyłączenia dotyczące odpowiedzialności cywilnej związanej z użytkowaniem lub prowadzeniem pojazdów mechanicznych. Dlatego warto sprawdzić również ubezpieczenie operatora i pojazdu oraz zasady odpowiedzialności uczestnika.
+
+### Coral Travel a lokalny organizator wycieczki
+
+Wycieczki fakultatywne przedstawiane przez przedstawiciela Coral Travel / lokalnego partnera są według Warunków Imprez Turystycznych oferowane przez kontrahenta posiadającego wymagane licencje i ubezpieczenia. Ewentualne problemy dotyczące takiej wycieczki należy zgłaszać jej organizatorowi na miejscu.
+
+Jeżeli natomiast uczestnik **sam zawiera odrębną umowę z miejscowym usługodawcą**, a dana usługa nie jest częścią umowy zawartej z Coral Travel, Coral Travel nie odpowiada za niewykonanie lub nieprawidłowe wykonanie tej usługi.
+
+Przed wpłatą za lokalną wycieczkę ustalamy więc: pełną nazwę formalnego organizatora, możliwość sprawdzenia jego licencji, zasady płatności i anulowania, posiadane ubezpieczenie oraz podmiot odpowiedzialny za transport i dodatkowe aktywności.
+
+### Trasy na południe i komunikaty MSZ/Odyseusza
+
+Przy wyjazdach na południe Tunezji, m.in. w kierunku Tataouine, Ksar Ghilane, Douz lub Tozeur, przed zakupem i ponownie bezpośrednio przed wycieczką należy sprawdzić aktualny profil Tunezji w Odyseuszu/MSZ.
+
+Aktualne ostrzeżenia zwracają szczególną uwagę na Saharę, obszary pustynne i rejony przy granicach z Libią i Algierią. W polskich zaleceniach istotne jest rozróżnienie między obszarami przygranicznymi i pustynnymi a ustalonymi szlakami turystycznymi.
+
+Dlatego sama nazwa „Sahara” nie wystarcza do oceny bezpieczeństwa. Przed wyborem programu prosimy organizatora o dokładną trasę i sprawdzamy ją z aktualnymi komunikatami MSZ/Odyseusza. Nie planujemy samodzielnych wypraw terenowych ani nieuzgodnionych zjazdów z turystycznej trasy w kierunku obszarów przygranicznych.
+
 ## Programy wycieczek – porównujemy zawartość, nie tylko nazwę
 
 ### Objazd samej Dżerby
@@ -845,7 +875,7 @@ Przy zapytaniu do organizatora warto poprosić o:
 - informowanie z wyprzedzeniem o schodach, progach, nierównym i skalistym terenie;
 - możliwość pomocy przy wejściu do łodzi, źródła termalnego i obiektów troglodytycznych;
 - możliwość dotykowego poznania ceramiki/gliny w Guellali, jeśli właściciel warsztatu wyrazi zgodę;
-- wcześniejsze potwierdzenie zasad dotyczących wielbłądów, quadów i jazdy jako pasażer;
+- wcześniejsze potwierdzenie zasad dotyczących wielbłądów, quadów i jazdy jako pasażer oraz sprawdzenie odpowiedniego zakresu ubezpieczenia dla osoby korzystającej z tej aktywności;
 - jasną informację, które przystanki handlowe są obowiązkowe, ile trwają i czy zakupy są całkowicie dobrowolne;
 - informację, czy kierowca i przewodnik mogą pomóc organizacyjnie przewodnikom osób niewidomych.
 
