@@ -2,7 +2,7 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Wersja robocza: 0.2.
+Wersja robocza: 0.2.1.
 
 Ten plik ma dwa główne cele:
 
@@ -20,6 +20,8 @@ Nazwy miejsc w południowej Tunezji łatwo pomylić. Dlatego każde ważniejsze 
 Nie należy porównywać wycieczek wyłącznie po nazwie i cenie. Dwie oferty nazwane „Sahara 1 dzień” mogą prowadzić w zupełnie inne miejsca. Szczególnie ważne jest rozróżnienie **Ksar Ghilane** i **Douz**.
 
 Przy odległościach podajemy przede wszystkim **skalę dojazdu**, a nie pozornie precyzyjny czas. Czas przejazdu zależy od trasy, przystanków, liczby odbieranych hoteli, rodzaju pojazdu i programu. Dla dalszych miejsc pomocniczo korzystamy m.in. z oficjalnych danych tunezyjskiej turystyki dotyczących odległości od Dżerby.
+
+Zakupy, targi, perfumerie, olejarnie i sklepy z lokalnymi wyrobami traktujemy jako **pełnoprawny element części wycieczek**, a nie z założenia jako stratę czasu. Mogą być interesujące także dla osób niewidomych i słabowidzących – przez zapachy, faktury, możliwość dotykania wyrobów, rozmowy ze sprzedawcami i poznawanie lokalnych produktów. Przy porównywaniu ofert zwracamy natomiast uwagę na **swobodę wyboru**: czym innym jest czas przeznaczony na dobrowolne zakupy, a czym innym obowiązkowy punkt sprzedażowy z presją zakupową albo zajmujący nieproporcjonalnie dużą część programu.
 
 ### Najkrótsza orientacja – jakie są główne rodzaje wycieczek
 
@@ -115,7 +117,7 @@ Houmt Souk jest głównym ośrodkiem handlowym Dżerby. Charakterystyczne są ta
 
 Przy mieście znajduje się **Borj Ghazi Mustapha**, XIV-wieczna twierdza. ONTT przypomina m.in. o XVI-wiecznych walkach związanych z Hiszpanami i osmańskim korsarzem Dragutem.
 
-Dla osoby niewidomej sam „czas wolny na zakupy” może być mało wartościowy. Znacznie ciekawsza jest obecność przewodnika: odgłosy targu i portu, zapachy przypraw i jedzenia, historia miasta i możliwość poznania lokalnych produktów.
+Także dla osoby niewidomej **czas wolny na zakupy może być wartościową częścią wizyty**. Targ daje możliwość poznawania zapachów przypraw, perfum i jedzenia, faktur ceramiki, tkanin i innych wyrobów oraz rozmowy ze sprzedawcami. Dobrze, jeśli przewodnik pomaga w orientacji, opisuje produkty i otoczenie, a jednocześnie pozostawia uczestnikom rzeczywiście swobodny czas na oglądanie, dotykanie – tam, gdzie jest to dozwolone – i ewentualne zakupy.
 
 [ONTT / Discover Tunisia – Houmt Souk i fort Borj Ghazi Mustapha](https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis)
 
@@ -472,7 +474,7 @@ Rainbow podaje, że te fakultety można kupić również wtedy, gdy główny wyj
 
 #### Wniosek dla objazdu Dżerby
 
-Ceny 30 EUR u Timura/Tawma i Anety/Cesara są atrakcyjne, ale nie wszystkie programy są identyczne. Dla naszej grupy ważniejsze od perfumerii i czasu zakupowego mogą być **dobry komentarz przewodnika oraz możliwość bardziej sensorycznego poznania ceramiki w Guellali**. Przy zapytaniu grupowym warto poprosić o ograniczenie obowiązkowych punktów sprzedażowych na rzecz zwiedzania.
+Ceny 30 EUR u Timura/Tawma i Anety/Cesara są atrakcyjne, ale nie wszystkie programy są identyczne. **Nie traktujemy czasu zakupowego, targu, perfumerii czy prezentacji lokalnych produktów jako elementów z definicji mniej wartościowych.** Mogą być ciekawą częścią poznawania wyspy, również sensorycznie. Przy zapytaniu grupowym warto natomiast ustalić, które punkty handlowe są obowiązkową częścią programu, ile zajmują czasu i czy zakupy są całkowicie dobrowolne. Równolegle warto zadbać o dobry komentarz przewodnika i możliwość bardziej sensorycznego poznania ceramiki w Guellali.
 
 ### Djerba Explore – porównanie
 
@@ -739,7 +741,7 @@ Przed rezerwacją dla 18 osób trzeba poprosić o:
 - zasady wpłaty i anulowania;
 - informację, kto będzie przewodnikiem;
 - dokładną cenę dla 18 osób;
-- informację o ewentualnych obowiązkowych przystankach handlowych.
+- informację, które przystanki handlowe są częścią programu, czy są obowiązkowe i ile trwają.
 
 W przesłanej wiadomości Aneta ostrzegała przed praktykami niektórych konkurentów i wysokimi cenami w sklepach. Traktujemy to jako **relację handlową jednej strony, a nie zweryfikowany fakt o całym rynku**. Ten sam standard przejrzystości stosujemy do wszystkich organizatorów, także do programu Anety, który sam zawiera olejarnię, perfumerię i zakupy.
 
@@ -797,9 +799,9 @@ To nie jest jeszcze ostateczny ranking. Ocena ma pomóc wybrać, o co pytać i c
 
 #### Jeśli chcemy naprawdę poznać Dżerbę
 
-Najbardziej sensowny jest objazd obejmujący **Guellalę + El Ghribę + Djerbahood + Houmt Souk**. Dobrze, jeśli zamiast długich przystanków handlowych przewodnik poświęci czas na opowieść, ceramikę i lokalną historię.
+Najbardziej sensowny jest objazd obejmujący **Guellalę + El Ghribę + Djerbahood + Houmt Souk**. Dobrze, jeśli program łączy opowieść o wyspie, kontakt z lokalnymi miejscami i **rozsądnie zaplanowany czas na targ lub zakupy**, zamiast traktować te elementy jako wzajemnie konkurencyjne.
 
-Dla naszej grupy szczególnie warto negocjować możliwość **dotykowego poznania gliny i ceramiki w Guellali** oraz słownego opisu kilku murali Djerbahood.
+Dla naszej grupy szczególnie warto negocjować możliwość **dotykowego poznania gliny i ceramiki w Guellali**, słownego opisu kilku murali Djerbahood oraz – jeśli grupa chce – czasu na spokojne poznanie i zakup lokalnych produktów.
 
 #### Jeśli chcemy najpełniejszego jednodniowego doświadczenia Sahary
 
@@ -844,7 +846,7 @@ Przy zapytaniu do organizatora warto poprosić o:
 - możliwość pomocy przy wejściu do łodzi, źródła termalnego i obiektów troglodytycznych;
 - możliwość dotykowego poznania ceramiki/gliny w Guellali, jeśli właściciel warsztatu wyrazi zgodę;
 - wcześniejsze potwierdzenie zasad dotyczących wielbłądów, quadów i jazdy jako pasażer;
-- ograniczenie obowiązkowych przystanków handlowych;
+- jasną informację, które przystanki handlowe są obowiązkowe, ile trwają i czy zakupy są całkowicie dobrowolne;
 - informację, czy kierowca i przewodnik mogą pomóc organizacyjnie przewodnikom osób niewidomych.
 
 Przy **Chenini** należy zakładać nierówny, skalisty teren. Przy **Matmacie** trzeba uważać na uskoki, schody i wejścia do podziemnych pomieszczeń. Na Saharze problemem może być miękki piasek, upał i wsiadanie na zwierzęta/pojazdy.
@@ -881,7 +883,7 @@ Na pierwszym spotkaniu warto zebrać:
 - nazwę lokalnego kontrahenta wykonującego wycieczkę;
 - cenę specjalną dla 18 osób;
 - możliwość prywatnego autobusu/minibusa dla grupy;
-- możliwość zmiany programu lub ograniczenia punktów handlowych;
+- które punkty handlowe są częścią programu, ile trwają, czy są obowiązkowe oraz czy ich zakres można dostosować do potrzeb grupy;
 - co dokładnie obejmuje cena: transport, bilety, posiłki, napoje;
 - wszystkie dopłaty: quady, wielbłądy, wejścia, napoje, napiwki;
 - walutę i sposób płatności;
@@ -908,7 +910,7 @@ Przed wpłatą trzeba ustalić:
 - dokładną nazwę ksaru w Metameur w programie zachodu słońca;
 - cenę grupową dla 18 osób;
 - zasady anulowania;
-- wszystkie obowiązkowe punkty handlowe.
+- które punkty handlowe są w programie, ile trwają i czy zakupy są dobrowolne.
 
 ### Najważniejsze rzeczy do sprawdzenia tuż przed decyzją
 
@@ -919,7 +921,7 @@ Przed wpłatą trzeba ustalić:
 5. Polski przewodnik/pilot i sposób prowadzenia grupy niewidomych i słabowidzących.
 6. Dokładna lista punktów programu – szczególnie przy słowach „Sahara”, „słone jezioro” i „Star Wars”.
 7. Wszystkie opłaty dodatkowe.
-8. Możliwość ograniczenia przystanków zakupowych.
+8. **Przejrzystość części zakupowej:** które przystanki handlowe są w programie, ile trwają, czy są obowiązkowe i czy zakupy są całkowicie dobrowolne.
 9. Warunki rezygnacji i sposób płatności.
 10. Pogoda i temperatura na południu w dniu konkretnej wycieczki.
 
@@ -957,5 +959,6 @@ Przy tworzeniu własnych map należy zachować atrybucję **© OpenStreetMap con
 
 ### Historia zmian
 
+- 2026-08-22 – wersja 0.2.1: doprecyzowanie roli zakupów i punktów handlowych; zakupy potraktowane jako potencjalnie wartościowy, także sensoryczny element wycieczki, z wyraźnym rozróżnieniem od obowiązkowych punktów sprzedażowych i presji zakupowej.
 - 2026-08-22 – wersja 0.2: przebudowa hierarchii nagłówków i układu dokumentu bez usuwania informacji merytorycznych; jeden H1, wyraźne warstwy: korzystanie z przewodnika, atlas miejsc, programy, organizatorzy i wybór oferty, organizacja dla grupy oraz źródła i mapy.
 - 2026-08-22 – utworzenie wersji 0.1: katalog miejsc, źródła, pierwsze porównanie programów i cen, wiarygodność organizatorów oraz ściąga do decyzji przed wyjazdem i na miejscu.
