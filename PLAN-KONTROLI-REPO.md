@@ -144,7 +144,7 @@ Cele:
 
 ### 9. Redukcja dublowania i pliki kanoniczne
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Cele:
 
