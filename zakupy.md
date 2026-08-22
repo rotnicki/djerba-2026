@@ -25,6 +25,23 @@ Allegro: składany wentylator ręczny 5000 mAh USB-C, 5 prędkości, wyświetlac
 - modele 5000 mAh z Amazon.pl,
 - droższe modele AWEI i Jisulife.
 
+## Buty do wody
+
+Stan rozeznania: 22 sierpnia 2026 r.
+
+Przy plaży hotelu Club Palm Azur warto używać butów do wody. Plaża jest zasadniczo piaszczysta, ale oficjalny opis oferty Itaki wskazuje na miejscami skaliste zejście do morza i wprost zaleca obuwie ochronne.
+
+Najpraktyczniejszy będzie prosty, zamknięty but wodny:
+
+- dobrze trzymający stopę,
+- z gumową podeszwą chroniącą przed kamieniami,
+- z bieżnikiem ograniczającym poślizg,
+- szybko odprowadzający wodę.
+
+Nie ma potrzeby kupowania specjalistycznego obuwia nurkowego. Zwykłe buty wodne z podstawowej półki cenowej powinny wystarczyć. Luźne klapki nie są dobrym zamiennikiem podczas wchodzenia do morza.
+
+Źródło: [Itaka – Hotel Club Palm Azur: opis plaży i zalecenie obuwia ochronnego](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+
 ## Do kupienia
 
 Na razie brak ostatecznie zatwierdzonych zakupów.
