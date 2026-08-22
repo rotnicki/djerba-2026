@@ -192,12 +192,14 @@ Nakrycie głowy, lekka odzież osłaniająca skórę i buty do wody opisano wyż
 
 - Saszetki ORS/DPN, czyli doustnego płynu nawadniającego do stosowania przy biegunce lub wymiotach; przykłady: ORSALIT dla dorosłych albo Gastrolit.
 - Preparat do dezynfekcji rąk zawierający co najmniej 60% alkoholu.
+- **Repelent przeciw owadom** – najlepiej preparat z uznaną substancją czynną, np. DEET albo pikarydyną/ikarydyną, stosowany zgodnie z instrukcją producenta.
+- **Preparat łagodzący ukąszenia owadów** – do stosowania przy zwykłym miejscowym świądzie i podrażnieniu.
 - **Enterol 250 mg** – opcjonalnie po indywidualnej decyzji; nie traktujemy go jako pewnej ani obowiązkowej profilaktyki biegunki podróżnych.
 - **Loperamid, np. Stoperan 2 mg** – jako lek awaryjny do objawowego leczenia niekrwawej biegunki. Nie jest przeznaczony do profilaktyki i nie zastępuje nawadniania; **nie należy stosować go samodzielnie przy biegunce z krwią lub gorączką**.
 - Stałe leki w ilości wystarczającej na cały pobyt oraz rozsądny zapas na wypadek opóźnionego powrotu.
 - Inne indywidualnie dobrane leki i preparaty zalecone przez lekarza lub farmaceutę.
 
-Szczegółowe zasady dotyczące słońca, kąpieli w morzu, biegunki podróżnych, nawodnienia, Enterolu, loperamidu/Stoperanu, WZW A i szczepień: [Zdrowie](zdrowie.md).
+Szczegółowe zasady dotyczące słońca, kąpieli w morzu, owadów i ukąszeń, zwierząt i wścieklizny, biegunki podróżnych, nawodnienia, Enterolu, loperamidu/Stoperanu, WZW A i szczepień: [Zdrowie](zdrowie.md).
 
 Źródła dotyczące Enterolu i loperamidu/Stoperanu:
 
