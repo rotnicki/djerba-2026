@@ -1,8 +1,6 @@
 # Wycieczki i miejsca – przewodnik decyzyjny
 
-Sprawdzono: 22 sierpnia 2026 r.
-
-Wersja robocza: 0.2.1.
+Stan weryfikacji: 22 sierpnia 2026 r.
 
 Ten przewodnik ma dwa główne cele:
 
@@ -986,9 +984,3 @@ Ceny, terminy, oceny i dostępność są danymi zmiennymi. Wszystkie ceny w tej 
 - [Djerba Explore – oficjalna strona parku](https://www.djerbaexplore.com/)
 - [Galaxy Tours – mapa i dokumentacja tunezyjskich lokacji „Gwiezdnych wojen”](https://galaxytours.com/starwars-locations-tunisia-map/)
 - [Wielki słownik języka polskiego PAN – „troglodyta”](https://wsjp.pl/haslo/podglad/58076/troglodyta/5182815/czlowiek-pierwotny)
-
-### Historia zmian
-
-- 2026-08-22 – wersja 0.2.1: doprecyzowanie roli zakupów i punktów handlowych; zakupy potraktowane jako potencjalnie wartościowy, także sensoryczny element wycieczki, z wyraźnym rozróżnieniem od obowiązkowych punktów sprzedażowych i presji zakupowej.
-- 2026-08-22 – wersja 0.2: przebudowa hierarchii nagłówków i układu dokumentu bez usuwania informacji merytorycznych; jeden H1, wyraźne warstwy: korzystanie z przewodnika, atlas miejsc, programy, organizatorzy i wybór oferty, organizacja dla grupy oraz źródła i mapy.
-- 2026-08-22 – utworzenie wersji 0.1: katalog miejsc, źródła, pierwsze porównanie programów i cen, wiarygodność organizatorów oraz ściąga do decyzji przed wyjazdem i na miejscu.
