@@ -1,6 +1,6 @@
 # Język i podstawowe zwroty
 
-Sprawdzono: 22 sierpnia 2026 r.
+Stan weryfikacji: 22 sierpnia 2026 r.
 
 Ten materiał ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie jest kursem języka arabskiego ani francuskiego.
 
