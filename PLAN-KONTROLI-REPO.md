@@ -130,7 +130,7 @@ Cele:
 
 ### 8. Język i dostępność
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres: `jezyk-i-zwroty.md` oraz w razie potrzeby layout/Jekyll.
 
