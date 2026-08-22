@@ -132,6 +132,66 @@ Nie należy przykładać lodu bezpośrednio do skóry. Przy dużych pęcherzach,
 - [NFZ – oparzenia słoneczne: zapobieganie i postępowanie przy łagodnym oparzeniu](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
 - [Państwowa Inspekcja Sanitarna – pierwsza pomoc przy oparzeniu słonecznym](https://www.gov.pl/web/psse-kamien-pomorski/oparzenia-sloneczne---zapobieganie-lagodzenie-objawow-i-udzielanie-pierwszej-pomocy)
 
+## Owady, moskity i ochrona przed ukąszeniami
+
+Ochrona przed owadami na Dżerbie nie służy wyłącznie poprawie komfortu. CDC wymienia dla Tunezji m.in. **leiszmaniozę**, która może być przenoszona przez ukąszenia bardzo małych moskitów/piaskówek.
+
+Coral Travel również zaleca podróżnym zabranie środków przeciw insektom, komarom i moskitom oraz preparatu łagodzącego ewentualne ukąszenia.
+
+### Repelent
+
+Warto zabrać skuteczny repelent przeznaczony do stosowania na skórę. CDC wymienia jako skuteczne substancje czynne m.in.:
+
+- **DEET**;
+- **pikarydynę / ikarydynę (picaridin)**;
+- **IR3535**;
+- **OLE/PMD**, czyli odpowiednio przygotowane preparaty na bazie eukaliptusa cytrynowego.
+
+Nie należy zakładać, że produkt reklamowany jako „naturalny” zapewnia równie dobrą ochronę. Najważniejsza jest sprawdzona substancja czynna i stosowanie preparatu zgodnie z instrukcją producenta.
+
+Jeżeli jednocześnie używamy kremu przeciwsłonecznego i repelentu, najpierw nakładamy **krem z filtrem, a następnie repelent**.
+
+Ochronę zwiększa również lekka odzież osłaniająca skórę, szczególnie wieczorem i podczas dłuższego przebywania na zewnątrz. Moskity przenoszące leiszmaniozę są szczególnie aktywne od zmierzchu do świtu, ale ochrony przed owadami nie należy ograniczać wyłącznie do tych godzin.
+
+### Po zwykłym ukąszeniu owada
+
+- nie rozdrapywać miejsca ukąszenia;
+- można zastosować odpowiedni preparat łagodzący świąd i podrażnienie zgodnie z jego instrukcją;
+- jeżeli pojawia się silny obrzęk, nasilająca się reakcja, objawy zakażenia albo inne niepokojące objawy, należy zasięgnąć pomocy medycznej.
+
+Źródła:
+
+- [CDC – Tunezja: choroby przenoszone przez owady i ochrona przed ukąszeniami](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+- [CDC Yellow Book 2026 – repelenty i ochrona przed komarami, moskitami i innymi stawonogami](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/mosquitoes-ticks-and-other-arthropods.html)
+- [Coral Travel – aktualne Warunki Imprez Turystycznych i dokumenty](https://www.coraltravel.pl/dokumenty/)
+
+## Zwierzęta i wścieklizna
+
+CDC podaje, że **psy zakażone wścieklizną są powszechnie spotykane w Tunezji**. Dlatego nie należy głaskać, karmić ani próbować oswajać nieznanych psów, kotów ani innych ssaków, nawet jeśli wyglądają zdrowo i przyjaźnie.
+
+Nie należy również pozwalać zwierzęciu lizać otwartej rany ani dopuszczać do kontaktu jego śliny z oczami lub ustami.
+
+### Po ugryzieniu lub zadrapaniu
+
+Po ugryzieniu lub zadrapaniu przez psa, kota, nietoperza albo innego ssaka:
+
+1. **natychmiast dokładnie myć ranę wodą z mydłem przez co najmniej 15 minut**;
+2. nie bagatelizować nawet niewielkiego zadrapania;
+3. **jak najszybciej zgłosić się do lekarza**, aby ocenił potrzebę profilaktyki poekspozycyjnej przeciw wściekliźnie oraz m.in. profilaktyki tężca;
+4. jeśli to możliwe bez narażania się na kolejne ugryzienie, zapamiętać lub zanotować informacje o zwierzęciu i okolicznościach zdarzenia.
+
+Pilnej konsultacji wymaga również kontakt śliny potencjalnie zakażonego ssaka z uszkodzoną skórą, oczami lub ustami.
+
+**Nie czekamy na objawy wścieklizny.** Po wystąpieniu objawów choroba jest praktycznie zawsze śmiertelna, natomiast prawidłowo rozpoczęta odpowiednio wcześnie profilaktyka po ekspozycji jest bardzo skuteczna.
+
+Szczepienie przeciw wściekliźnie przed podróżą nie jest przyjęte w tym przewodniku jako obowiązkowe zalecenie dla całej grupy. Może być indywidualnie rozważone z lekarzem w zależności od planowanych aktywności i ryzyka kontaktu ze zwierzętami. Nawet osoba zaszczepiona wcześniej po ekspozycji nadal powinna pilnie zgłosić się do lekarza.
+
+Źródła:
+
+- [CDC – Tunezja: ryzyko wścieklizny i dostępność szczepień po ekspozycji](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+- [WHO – wścieklizna: mycie rany, profilaktyka po ekspozycji i znaczenie szybkiego leczenia](https://www.who.int/news-room/fact-sheets/detail/rabies)
+- [CDC Yellow Book 2026 – wścieklizna w podróży](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rabies.html)
+
 ## Bezpieczeństwo w morzu i na plaży przy hotelu Club Palm Azur
 
 Hotel Club Palm Azur leży bezpośrednio przy plaży na południowo-wschodnim wybrzeżu Dżerby. Opis Itaki określa plażę jako piaszczystą, z łagodnym, ale **miejscami skalistym zejściem do morza**, i wprost zaleca obuwie ochronne. To ważniejsza informacja praktyczna niż ogólne zapewnienie, że plaża jest „piaszczysta”.
