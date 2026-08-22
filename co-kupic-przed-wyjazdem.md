@@ -23,11 +23,13 @@ Szczegółowe uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpiecze�
 
 - **Doustny płyn nawadniający ORS/DPN** — warto kupić saszetki przeznaczone do nawadniania przy biegunce lub wymiotach, a nie dowolne „elektrolity”. Przykłady: **ORSALIT dla dorosłych** (około 20–39 zł za 10 saszetek) albo **Gastrolit** (około 25–38 zł za 14 saszetek). Ceny sprawdzone 22 sierpnia 2026 r.
 - **Preparat do dezynfekcji rąk** — co najmniej 60% alkoholu.
+- **Repelent przeciw owadom** — warto kupić przed wyjazdem, jeśli nie ma go już w domu. Przy wyborze patrzymy przede wszystkim na substancję czynną, np. **DEET albo pikarydynę/ikarydynę**, a nie na samo określenie „naturalny”. Preparat należy stosować zgodnie z etykietą. Jeżeli używany jest również krem przeciwsłoneczny, najpierw nakłada się krem SPF, a potem repelent.
+- **Preparat łagodzący ukąszenia owadów** — prosty preparat na miejscowy świąd i podrażnienie; konkretny produkt można dobrać w aptece do wieku i indywidualnych przeciwwskazań.
 - **Enterol 250 mg — produkt leczniczy zawierający *Saccharomyces boulardii* CNCM I-745** — tylko jako opcjonalny zakup po indywidualnej decyzji. Nie traktujemy go jako obowiązkowej ochrony przed biegunką podróżnych ani nie przyjmujemy grupowego schematu stosowania.
 - **Loperamid, np. Stoperan 2 mg** — warto rozważyć jako lek awaryjny do **objawowego leczenia niekrwawej biegunki**, zwłaszcza gdy częste wypróżnienia utrudniają podróż. Nie jest to lek profilaktyczny i nie zastępuje ORS/DPN ani leczenia przyczyny. **Nie należy stosować go samodzielnie przy biegunce z krwią lub gorączką**; trzeba też uwzględnić przeciwwskazania z ulotki/ChPL i własny stan zdrowia.
 - **Leki przyjmowane stale** — przed wyjazdem trzeba sprawdzić, czy zapas wystarczy na cały pobyt i ewentualne opóźnienie powrotu. To nie jest wspólny zakup grupowy.
 
-Szczegóły dotyczące ORS/DPN, Enterolu, loperamidu/Stoperanu, przeciwwskazań i zasad samoleczenia: [Zdrowie – biegunka podróżnych, nawodnienie i apteczka](zdrowie.md).
+Szczegóły dotyczące ochrony przed owadami, ORS/DPN, Enterolu, loperamidu/Stoperanu, przeciwwskazań i zasad samoleczenia: [Zdrowie](zdrowie.md).
 
 Źródła dotyczące loperamidu/Stoperanu:
 
