@@ -25,6 +25,22 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 - Ustalenia potwierdzone zapisujemy oddzielnie od pomysłów i rzeczy do weryfikacji.
 - W sprawach zdrowotnych rozróżniamy fakty wynikające ze źródeł od praktycznych wniosków i rekomendacji.
 
+## Standard wstępów do materiałów
+
+Każdy główny plik tematyczny powinien zaczynać się tak, aby osoba otwierająca go bez kontekstu od razu wiedziała, **czym jest materiał, do czego służy i jak ostrożnie traktować jego treść**.
+
+Zalecany układ początku pliku:
+
+1. jeden nagłówek poziomu 1 z nazwą materiału;
+2. data lub stan weryfikacji informacji;
+3. krótki akapit wyjaśniający zakres i praktyczny cel materiału;
+4. w razie potrzeby krótki akapit z zastrzeżeniem właściwym dla tematu, np. medycznym, prawnym, dotyczącym zmienności cen albo statusu roboczego;
+5. dopiero potem właściwe sekcje dokumentu.
+
+Nie kopiujemy identycznego wstępu do wszystkich plików. Wstęp ma pełnić tę samą **funkcję**, ale jego treść powinna odpowiadać tematowi. Przykładowo materiał zdrowotny wymaga zastrzeżenia, że nie zastępuje porady medycznej, materiał o zakupach powinien ostrzegać o zmienności cen i dostępności, a przewodnik po wycieczkach może dodatkowo wyjaśniać sposób porównywania ofert.
+
+Wstęp powinien być krótki i użyteczny również przy nawigacji czytnikiem ekranu. Nie tworzymy osobnego nagłówka „Wprowadzenie”, jeśli kilka pierwszych akapitów wystarczająco jasno objaśnia dokument.
+
 ## Standard źródeł
 
 Ważne informacje, szczególnie dotyczące zdrowia, bezpieczeństwa, prawa, płatności i warunków podróży, powinny mieć wskazane źródło.
