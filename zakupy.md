@@ -2,7 +2,7 @@
 
 ## Wentylator akumulatorowy
 
-Stan rozeznania: 21 sierpnia 2026.
+Stan rozeznania: 22 sierpnia 2026 r.
 
 ### Kierunek zakupu
 
@@ -16,7 +16,11 @@ Szukamy małego wentylatora przenośnego z:
 
 ### Model szczególnie brany pod uwagę
 
-Allegro: składany wentylator ręczny 5000 mAh USB-C, 5 prędkości, wyświetlacz cyfrowy. W oglądanej ofercie cena wynosiła 69,99 zł. Model ma być dalej porównywany z ofertami innych sklepów.
+Allegro: składany wentylator ręczny 5000 mAh USB-C, 5 prędkości, wyświetlacz cyfrowy. W oglądanej ofercie cena wynosiła około 70 zł. Model ma być dalej porównywany z ofertami innych sklepów.
+
+Konkretna oferta przekazana przez jednego z uczestników wyjazdu:
+
+- [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406)
 
 ### Inne sprawdzane warianty
 
