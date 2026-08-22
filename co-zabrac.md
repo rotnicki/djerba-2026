@@ -113,7 +113,7 @@ Nie trzeba zabierać osobno zwykłej butelki i kubka termicznego. Jeśli ktoś m
 Źródła:
 
 - [Urząd Lotnictwa Cywilnego – kontrola bezpieczeństwa i zasady przewozu płynów](https://ulc.gov.pl/prawa-pasazera/poradnik-dla-pasazerow/kontrola-bezpieczenstwa)
-- [Lotnisko Chopina – kontrola bezpieczeństwa](https://airportchopin.com/pl/info/kontrola-bezpieczenstwa)
+- [LOT – Lotnisko Chopina w Warszawie: bezpłatne kraniki z wodą po kontroli bezpieczeństwa](https://www.lot.com/pl/pl/odkrywaj/o-lot/przesiadka/warszawa/lotnisko-chopina-w-warszawie)
 - [Katowice Airport – zasady dotyczące bagażu](https://www.katowice-airport.com/pl/dla-pasazera/przed-podroza/bagaz)
 - [Katowice Airport – mapy terminali](https://www.katowice-airport.com/pl/dla-pasazera/mapy-terminali)
 
@@ -131,7 +131,7 @@ W przypadku Tunezji trzeba odróżnić zasady lotnicze od zasad celnych:
 Źródła:
 
 - [Tunezyjska służba celna – zasady wwozu leków na własny użytek](https://www.douane.gov.tn/medicaments/)
-- [Tunezyjska służba celna – towary zabronione i wymagające szczególnych zezwoleń](https://www.douane.gov.tn/avez-vous-quelque-chose-a-declarer/)
+- [Tunezyjska służba celna – towary zabronione i wymagające szczególnych zezwoleń](https://www.douane.gov.tn/avez-vous-quelwecos-a-declarer/)
 - [Urząd Lotnictwa Cywilnego – przewóz leków i produktów medycznych w bagażu](https://bezpiecznybagaz.ulc.gov.pl/dg-search?cat=18)
 - [Główny Inspektorat Farmaceutyczny – przewóz leków zawierających substancje kontrolowane](https://www.gov.pl/web/gif/substancje-kontrolowane-info-pacjenci2)
 - [Enter Air – płyny i leki](https://help.enterair.pl/faq-plyny-i-leki/)
