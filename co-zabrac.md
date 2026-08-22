@@ -4,6 +4,13 @@ Stan weryfikacji: 22 sierpnia 2026 r.
 
 Praktyczna lista rzeczy przydatnych podczas tygodniowego pobytu na Dżerbie. Nie każdy element jest potrzebny każdej osobie, ale warto przejrzeć całość przed wyjazdem.
 
+## Dokumenty podróżne
+
+- **Paszport** – koniecznie zabrać.
+- **Dokumenty podróży** – mają być dostępne około 7 dni przed wylotem.
+    - **Grupa warszawska** – dokumentami zajmuje się Paweł.
+    - **Grupa katowicka** – dokumentami zajmuje się Dzidka.
+
 ## Bagaż na nasze loty Enter Air
 
 Dla naszych lotów do i z Dżerby przewoźnikiem jest Enter Air. Standardowe limity przewoźnika są następujące:
