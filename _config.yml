@@ -21,3 +21,4 @@ titles_from_headings:
 
 exclude:
   - README.md
+  - PLAN-KONTROLI-REPO.md
