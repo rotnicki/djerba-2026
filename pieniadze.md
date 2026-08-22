@@ -73,7 +73,13 @@ Nie ustalamy jeszcze sztywnej kwoty TND na cały tydzień, ponieważ będzie ona
 
 ## Taksówki na Dżerbie – ile mogą kosztować
 
-Taksówki są na Dżerbie na tyle tanie, że mogą być praktycznym sposobem na samodzielny dojazd niewielkiej grupy do Midoun, Djerba Explore czy Houmt Souk. Dla całej 18-osobowej grupy wygodniejszy będzie jednak zwykle zamówiony bus lub autokar, bo potrzebnych byłoby kilka zwykłych taksówek.
+Taksówki są na Dżerbie na tyle tanie, że przy **zwykłych krótkich wyjazdach z hotelu do Midoun, Djerba Explore, Houmt Souk lub innych pobliskich miejsc powinny być jednym z podstawowych rozwiązań**, a nie tylko opcją dla pojedynczych osób. Jeśli jedzie kilka osób, można po prostu podzielić się na kilka taksówek.
+
+Jeżeli **cała 18-osobowa grupa** chce pojechać w to samo miejsce o tej samej porze, nadal nie oznacza to automatycznie potrzeby wynajmowania autokaru. Można poprosić hotel lub dyspozytornię o podstawienie kilku taksówek albo sprawdzić prywatny **van/minibus**. Na Dżerbie działają przewoźnicy oferujący m.in. samochody 5–7-osobowe oraz vany/minibusy dla około 8–14 osób; przy 18 osobach mogą więc być potrzebne dwa większe pojazdy. Autokar ma większy sens przy zorganizowanej całodniowej wycieczce całej grupy niż przy prostym kursie do pobliskiego miasta lub atrakcji.
+
+[eTaxi – zamawianie zwykłych taksówek na Dżerbie; zasięg obejmuje m.in. Aghir, Midoun i Houmt Souk](https://www.etaxi.tn/en/alternatives/allo-taxi/djerba)
+
+[Djerba Holiday – przykład prywatnych pojazdów: monospace 5–7 osób oraz van/minibus 8–14 osób](https://djerba.holiday/en/activite/transfert-prive-aeroport-djerba-hotel)
 
 ### Oficjalna taryfa zwykłej taksówki
 
@@ -131,7 +137,8 @@ Dlatego najlepiej:
 - przy zwykłej krótkiej jeździe poprosić o włączenie **taksometru**;
 - jeśli kierowca proponuje cenę stałą, **ustalić ją przed rozpoczęciem kursu**;
 - pamiętać, że po 21:00 taryfa jest wyższa;
-- przy większej grupie porównać koszt kilku taksówek z wynajęciem jednego busa;
+- gdy jedzie większa liczba osób, **nie skreślać taksówek** – można zamówić kilka samochodów; jeśli cała grupa chce podróżować razem, porównać kilka taksówek z 1–2 vanami/minibusami;
+- traktować autokar przede wszystkim jako rozwiązanie dla zorganizowanej wycieczki całej grupy, a nie domyślny środek transportu do Midoun, Djerba Explore czy Houmt Souk;
 - płacić za zwykły kurs w **TND**, chyba że wcześniej wyraźnie ustalono inaczej.
 
 Dla orientacji: przejazd do Houmt Souk i z powrotem według samego taksometru to około **28–30 TND za samochód** w dzień. Jeśli jadą w nim 3–4 osoby i dzielą koszt, taksówka może być bardzo tanim sposobem na samodzielne wyjście poza hotel.
@@ -308,9 +315,11 @@ Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów 
 - Aktualne limity bezpłatnych wypłat z bankomatów dla konkretnych planów Revolut używanych przez uczestników.
 - Czy Club Palm Azur przyjmuje obowiązkowy podatek turystyczny kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
 - Czy przy przejazdach hotel–Midoun, hotel–Djerba Explore i hotel–Houmt Souk kierowcy zwykle włączają taksometr bez problemu; zweryfikujemy to praktycznie na miejscu.
+- Jeśli cała grupa będzie chciała odbyć krótki wspólny przejazd, sprawdzić na miejscu koszt kilku taksówek oraz 1–2 vanów/minibusów zamiast z góry zamawiać autokar.
 
 ## Historia zmian
 
+- 2026-08-22 – skorygowano zalecenia dotyczące krótkich przejazdów: taksówki pozostają podstawowym rozwiązaniem do Midoun, Djerba Explore i Houmt Souk także dla kilku osób; dla całej grupy wskazano kilka taksówek lub vany/minibusy, bez automatycznej rekomendacji autokaru.
 - 2026-08-22 – dodano aktualny kurs TND/PLN z NBP i prostą ściągę przeliczeniową; dodano oficjalną taryfę taksówek i orientacyjne ceny kursów z Club Palm Azur; ujednolicono nazewnictwo na **„obowiązkowy podatek turystyczny”**.
 - 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
 - 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, obowiązkowy podatek turystyczny oraz płatności za wycieczki; dodano aktualne źródła.
