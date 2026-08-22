@@ -2,7 +2,7 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Ten plik dotyczy kultury, religii, zachowania wobec mieszkańców i miejscowych norm na Dżerbie. Nie należy traktować wszystkich opisanych tu praktyk jak przepisów prawa.
+Ten materiał dotyczy kultury, religii, zachowania wobec mieszkańców i miejscowych norm na Dżerbie. Nie należy traktować wszystkich opisanych tu praktyk jak przepisów prawa.
 
 W materiale rozróżniamy trzy poziomy pewności:
 
@@ -10,7 +10,7 @@ W materiale rozróżniamy trzy poziomy pewności:
 - **dobrze potwierdzony zwyczaj** – norma opisana w wiarygodnych źródłach instytucjonalnych lub kulturoznawczych;
 - **praktyka turystyczna** – pomocna wskazówka, która może zależeć od konkretnego miejsca i sytuacji.
 
-Osobny zestaw językowy znajduje się w pliku [Język i podstawowe zwroty](jezyk-i-zwroty.md).
+Osobny zestaw językowy znajduje się w materiale [Język i podstawowe zwroty](jezyk-i-zwroty.md).
 
 ## Najważniejsze zasady w skrócie
 
@@ -279,7 +279,7 @@ Oficjalny tunezyjski portal turystyczny potwierdza, że Houmt Souk pozostaje wa�
 
 Napiwek jest praktyką usługową, a nie ogólnym obowiązkiem prawnym.
 
-Żeby nie dublować informacji, konkretne kwoty i zasady dawania napiwków powinny pozostać w pliku [Pieniądze i płatności](pieniadze.md). Tutaj zapisujemy tylko kontekst kulturowy: napiwek za dobrą obsługę jest akceptowany i zwykle mile widziany, ale brak napiwku nie oznacza złamania miejscowego prawa.
+Żeby nie dublować informacji, konkretne kwoty i zasady dawania napiwków powinny pozostać w materiale [Pieniądze i płatności](pieniadze.md). Tutaj zapisujemy tylko kontekst kulturowy: napiwek za dobrą obsługę jest akceptowany i zwykle mile widziany, ale brak napiwku nie oznacza złamania miejscowego prawa.
 
 ## Rzemiosło i lokalna tożsamość
 
