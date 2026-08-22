@@ -8,6 +8,7 @@ To wspólna lista rzeczy, które mogą wymagać kupienia specjalnie na wyjazd. N
 
 - **Krem przeciwsłoneczny SPF 50/50+** — ochrona UVA i UVB, najlepiej preparat wodoodporny. Przy regularnym plażowaniu małe opakowanie 200 ml może nie wystarczyć jednej osobie na cały tydzień.
 - **Kapelusz z szerokim rondem** — powinien osłaniać twarz, uszy i kark; zwykła czapka z daszkiem chroni słabiej.
+- **Lekka chusta pustynna – arafatka / kefija / shemagh** — szczególnie przydatna, jeśli planowana jest wycieczka na Saharę. Najpraktyczniejsza będzie duża, lekka i przewiewna chusta, np. bawełniana, około 100–110 × 100–110 cm. Można ją kupić przed wyjazdem w Polsce albo na miejscu na Dżerbie. **Nie trzeba jej kupować, jeśli ktoś ma już odpowiednią dużą, lekką chustę.**
 - **Okulary przeciwsłoneczne** — z ochroną UVA i UVB.
 - **Balsam do ust SPF 30+**.
 - **Buty do wody** — przy plaży hotelu Club Palm Azur są uzasadnione, ponieważ zejście jest miejscami skaliste. Wystarczy prosty zamknięty model dobrze trzymający stopę, z gumową podeszwą i bieżnikiem.
