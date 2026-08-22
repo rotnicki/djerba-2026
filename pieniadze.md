@@ -2,7 +2,7 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Ten plik zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjskich, **obowiązkowego podatku turystycznego** oraz pieniędzy potrzebnych na wycieczki i wydatki na miejscu.
+Ten materiał zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjskich, **obowiązkowego podatku turystycznego** oraz pieniędzy potrzebnych na wycieczki i wydatki na miejscu.
 
 ## Najkrócej
 
@@ -155,7 +155,7 @@ Nie zakładamy natomiast, że bezpośrednia płatność euro będzie najlepsza l
 
 ### Ile euro orientacyjnie na osobę
 
-Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen z [wycieczki.md](wycieczki.md) i długości naszego pobytu.
+Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen opisanych w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md) i długości naszego pobytu.
 
 Wyjazd trwa **7 nocy**, dlatego nie planujemy codziennych fakultetów. Żeby został również czas na hotel, plażę, odpoczynek i własne wyjścia, najbardziej realistyczny wydaje się wariant **około dwóch większych/średnich wycieczek, ewentualnie trzeciej lżejszej**.
 
@@ -169,7 +169,7 @@ Aktualne orientacyjne ceny jednej osoby są mniej więcej takie:
 - Sahara 2 dni: około **115–125 EUR** w tańszych obecnie wariantach;
 - dodatkowo podczas Sahary: wielbłąd około **15 EUR**, quad najczęściej około **25–30 EUR**, zależnie od organizatora.
 
-Szczegółowe ceny, różnice programów i źródła znajdują się w [wycieczki.md](wycieczki.md).
+Szczegółowe ceny, różnice programów i źródła znajdują się w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md).
 
 #### Wariant oszczędny – około 100–150 EUR gotówki na osobę
 
@@ -293,7 +293,7 @@ Do ceny podstawowej trzeba również doliczyć możliwe dodatki, zależnie od pr
 - napiwki;
 - własne zakupy.
 
-Szczegółowe ceny i zasady poszczególnych programów są zbierane w [wycieczki.md](wycieczki.md).
+Szczegółowe ceny i zasady poszczególnych programów są zbierane w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md).
 
 ## Jak podejść do pieniędzy praktycznie
 
@@ -321,5 +321,5 @@ Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów 
 
 - 2026-08-22 – skorygowano zalecenia dotyczące krótkich przejazdów: taksówki pozostają podstawowym rozwiązaniem do Midoun, Djerba Explore i Houmt Souk także dla kilku osób; dla całej grupy wskazano kilka taksówek lub vany/minibusy, bez automatycznej rekomendacji autokaru.
 - 2026-08-22 – dodano aktualny kurs TND/PLN z NBP i prostą ściągę przeliczeniową; dodano oficjalną taryfę taksówek i orientacyjne ceny kursów z Club Palm Azur; ujednolicono nazewnictwo na **„obowiązkowy podatek turystyczny”**.
-- 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
-- 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, obowiązkowy podatek turystyczny oraz płatności za wycieczki; dodano aktualne źródła.
+- 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z materiału `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
+- 2026-08-22 – przeniesienie do materiału ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, obowiązkowy podatek turystyczny oraz płatności za wycieczki; dodano aktualne źródła.
