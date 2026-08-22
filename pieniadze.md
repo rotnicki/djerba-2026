@@ -8,12 +8,13 @@ Ten plik zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjs
 
 - Podstawową walutą na miejscu jest **dinar tunezyjski (TND)**.
 - TND warto mieć w gotówce na drobne wydatki: taksówki, bazary, małe sklepy, napiwki i miejsca, które nie przyjmują kart.
-- **Euro w gotówce** warto zabrać jako rezerwę i do wymiany na TND. Nie należy zakładać, że wszędzie można lub opłaca się płacić bezpośrednio w euro.
+- **Euro w gotówce** warto zabrać jako rezerwę, do wymiany na TND i ewentualnie do opłacenia wycieczek, jeśli organizator przyjmuje EUR.
 - **Revolut** obsługuje płatności kartą i wypłaty z bankomatów w TND.
 - Przy płatności kartą lub wypłacie z bankomatu wybieramy obciążenie w **TND, czyli w walucie lokalnej**, i odrzucamy proponowane przeliczenie na PLN lub EUR (DCC).
 - Oprócz Revoluta warto mieć **drugą fizyczną kartę bankową** jako zabezpieczenie.
-- Dla dwóch osób jako roboczy punkt wyjścia przyjęliśmy około **200–300 EUR gotówki łącznie + karty**, a nie 600 EUR. To nie jest sztywna rekomendacja – kwotę trzeba skorygować po wyborze wycieczek i poznaniu ich sposobów płatności.
-- W Club Palm Azur 4★ podatek hotelowy wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę**, czyli **168 TND dla dwóch dorosłych osób**.
+- Dla naszego 7-nocnego wyjazdu rozsądny punkt wyjścia to około **150–200 EUR gotówki na osobę + karty**, jeżeli planujemy około dwóch wycieczek fakultatywnych. **Około 200 EUR na osobę** jest obecnie najbezpieczniejszym prostym założeniem roboczym.
+- Jeśli większość wycieczek będzie opłacana Revolutem lub kartą, można zejść bliżej **100–150 EUR gotówki na osobę**. Jeśli ktoś wybierze 2-dniową Saharę albo kilka płatnych dodatków, rozsądniej przyjąć **200–250 EUR na osobę**.
+- W Club Palm Azur 4★ podatek hotelowy wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę** powyżej 12. roku życia.
 
 ## Dinar tunezyjski – TND
 
@@ -36,15 +37,16 @@ Brytyjskie oficjalne informacje dla podróżnych również wskazują na tunezyjs
 
 ### Ile TND mieć od razu
 
-Nie ustaliliśmy jeszcze jednej docelowej kwoty w TND dla całej grupy ani dla dwóch osób. Nie ma potrzeby kupowania „na zapas” dużej ilości dinarów przed wyjazdem. Kwotę najlepiej dobrać do:
+Nie ma potrzeby kupowania „na zapas” dużej ilości dinarów. Najważniejszą znaną z góry kwotą jest **84 TND podatku hotelowego na osobę powyżej 12. roku życia** za cały 7-nocny pobyt.
 
-- podatku hotelowego;
-- planowanych taksówek;
-- zakupów;
-- napiwków;
-- sposobu płatności za wybrane wycieczki i dodatki.
+Do tego warto mieć niewielki zapas TND na pierwsze dni na:
 
-Po ustaleniu konkretnych wycieczek będzie można policzyć rozsądny zapas TND znacznie dokładniej.
+- taksówki;
+- napiwki;
+- małe zakupy;
+- drobne wydatki poza hotelem.
+
+Nie ustalamy jeszcze sztywnej kwoty TND na cały tydzień, ponieważ będzie ona zależała od zakupów i od tego, czy dodatkowe atrakcje podczas wycieczek będą rozliczane w EUR czy TND. Lepiej wymieniać rozsądne kwoty w miarę potrzeb niż wrócić z dużą ilością niewykorzystanych dinarów, których nie wolno wywozić.
 
 ## Euro w gotówce
 
@@ -56,13 +58,61 @@ Euro traktujemy przede wszystkim jako:
 
 Nie zakładamy natomiast, że bezpośrednia płatność euro będzie najlepsza lub możliwa przy zwykłych zakupach, taksówkach czy małych lokalnych wydatkach.
 
-### Robocze założenie dla dwóch osób
+### Ile euro orientacyjnie na osobę
 
-W rozmowie przyjęliśmy, że **600 EUR gotówki dla dwóch osób na siedem nocy wygląda na zbyt duży zapas**, jeśli jednocześnie mamy działające karty.
+Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen z [wycieczki.md](wycieczki.md) i długości naszego pobytu.
 
-Jako bardziej rozsądny punkt wyjścia przyjęliśmy **około 200–300 EUR gotówki łącznie dla dwóch osób + karty**.
+Wyjazd trwa **7 nocy**, dlatego nie planujemy codziennych fakultetów. Żeby został również czas na hotel, plażę, odpoczynek i własne wyjścia, najbardziej realistyczny wydaje się wariant **około dwóch większych/średnich wycieczek, ewentualnie trzeciej lżejszej**.
 
-To jest **założenie budżetowe, a nie oficjalna rekomendacja**. Może wymagać zwiększenia, jeżeli okaże się, że wybrane wycieczki dla dwóch osób trzeba w dużej części opłacać gotówką w EUR. Dlatego ostateczna kwota powinna zostać ustalona po wyborze organizatorów wycieczek.
+Aktualne orientacyjne ceny jednej osoby są mniej więcej takie:
+
+- objazd Dżerby: około **30 EUR** u lokalnych organizatorów;
+- Djerba Explore: około **25–30 EUR**;
+- jednodniowa Sahara przez Douz: około **55 EUR**;
+- jednodniowa Sahara przez Ksar Ghilane: około **60–70 EUR**;
+- rejs Ras Rmel / „Wyspa Flamingów”: około **35 EUR** w typowej ofercie;
+- Sahara 2 dni: około **115–125 EUR** w tańszych obecnie wariantach;
+- dodatkowo podczas Sahary: wielbłąd około **15 EUR**, quad najczęściej około **25–30 EUR**, zależnie od organizatora.
+
+Szczegółowe ceny, różnice programów i źródła znajdują się w [wycieczki.md](wycieczki.md).
+
+#### Wariant oszczędny – około 100–150 EUR gotówki na osobę
+
+Ma sens, jeżeli:
+
+- wybieramy jedną większą wycieczkę i jedną niedrogą/lokalną;
+- przynajmniej część płatności za fakultety można zrobić Revolutem lub kartą;
+- euro ma być przede wszystkim rezerwą i źródłem TND do wymiany.
+
+Przykład: objazd Dżerby około 30 EUR + jednodniowa Sahara około 55–60 EUR daje około **85–90 EUR kosztu samych wycieczek**.
+
+#### Wariant najbardziej prawdopodobny – około 150–200 EUR gotówki na osobę
+
+To obecnie **najrozsądniejszy zakres dla naszego pobytu**.
+
+Pozwala sfinansować np.:
+
+- objazd Dżerby około 30 EUR;
+- jednodniową Saharę około 55–60 EUR;
+- ewentualnie jeszcze Djerba Explore lub rejs około 25–35 EUR;
+- jeden płatny dodatek, np. wielbłąd lub quad;
+- oraz zachować pewną rezerwę na wymianę na TND.
+
+Przy takim zestawie same fakultety mogą kosztować około **110–125 EUR**, a z jednym dodatkiem około **125–155 EUR**. Dlatego **około 200 EUR gotówki na osobę** daje rozsądny margines bez wożenia bardzo dużej ilości gotówki.
+
+#### Wariant z 2-dniową Saharą – około 200–250 EUR gotówki na osobę
+
+Jeśli ktoś wybierze Saharę 2 dni za około 115–125 EUR, a oprócz tego choć jedną krótszą wycieczkę, płatny dodatek i będzie chciał mieć rezerwę na wymianę, zakres **200–250 EUR na osobę** staje się bardziej uzasadniony.
+
+Nie oznacza to, że cała ta kwota musi zostać wydana. Jest to zapas gotówkowy na sytuację, w której część wycieczek będzie rozliczana w EUR.
+
+### Najprostsze założenie przed wyjazdem
+
+Dopóki nie znamy ostatecznie wybranych fakultetów i sposobu ich opłacania, można przyjąć:
+
+**około 200 EUR gotówki na osobę + Revolut + druga karta.**
+
+Po wyborze konkretnych wycieczek tę kwotę ponownie przeliczymy. Jeśli wycieczki będą w większości płatne bezgotówkowo, można zabrać mniej euro. Jeśli organizator będzie oczekiwał gotówki w EUR albo ktoś wybierze droższą Saharę 2-dniową, można zwiększyć zapas.
 
 ## Karty i Revolut
 
@@ -106,10 +156,11 @@ Oprócz Revoluta warto mieć drugą fizyczną kartę bankową, najlepiej przecho
 
 Dla zagranicznych turystów w hotelach 4★ i 5★ obowiązuje obecnie podatek **12 TND za osobę za noc**, naliczany maksymalnie za pierwszych 10 nocy pobytu.
 
-Club Palm Azur jest hotelem 4★, a nasz pobyt obejmuje 7 nocy, dlatego:
+Club Palm Azur jest hotelem 4★, a nasz pobyt obejmuje 7 nocy, dlatego osoba powyżej 12. roku życia zapłaci:
 
-- 1 osoba: **7 × 12 TND = 84 TND**;
-- 2 osoby: **168 TND**.
+**7 × 12 TND = 84 TND na osobę.**
+
+Dla całej grupy nie podajemy jednej sumy, dopóki nie uwzględnimy wieku wszystkich uczestników.
 
 Aktualne polskie informacje ITAKI dla Dżerby podają 12 TND za dzień/osobę powyżej 12. roku życia, maksymalnie za 10 dni. Taką samą stawkę dla hoteli 4★ i 5★ potwierdzają informacje GOV.UK oraz tunezyjska dokumentacja dotycząca zmian podatku od 2024 r.
 
@@ -154,20 +205,22 @@ Szczegółowe ceny i zasady poszczególnych programów są zbierane w [wycieczki
 Najbezpieczniejszy model na ten wyjazd to połączenie kilku sposobów płatności:
 
 1. **TND w gotówce** – bieżące lokalne wydatki.
-2. **Euro w gotówce** – rezerwa, wymiana i ewentualnie wycieczki, które są rozliczane w EUR.
+2. **Około 200 EUR gotówki na osobę** jako roboczy punkt wyjścia – rezerwa, wymiana i ewentualnie wycieczki rozliczane w EUR.
 3. **Fizyczna karta Revolut** – płatności i bankomat, gdzie to możliwe.
 4. **Druga fizyczna karta bankowa** – awaryjnie.
 
-Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów.
+Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów ani zakładać, że cała zabrana gotówka zostanie wydana.
 
 ## Do ustalenia przed wyjazdem
 
-- Ostateczna kwota euro w gotówce po wyborze wycieczek.
-- Ile TND warto wymienić na początku pobytu, poza 168 TND podatku hotelowego dla dwóch osób.
+- Ostateczny wybór 1–3 wycieczek fakultatywnych i ich cena na osobę.
 - Które wybrane wycieczki będą płatne w EUR, TND, Revolutem lub kartą.
+- Czy po wyborze fakultetów robocze **200 EUR gotówki na osobę** należy zmniejszyć lub zwiększyć.
+- Ile TND warto wymienić na początku pobytu, poza **84 TND podatku hotelowego na osobę powyżej 12. roku życia**.
 - Aktualne limity bezpłatnych wypłat z bankomatów dla konkretnych planów Revolut używanych przez uczestników.
 - Czy Club Palm Azur przyjmuje podatek hotelowy kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
 
 ## Historia zmian
 
-- 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, roboczy zapas 200–300 EUR dla dwóch osób, podatek hotelowy oraz płatności za wycieczki; dodano aktualne źródła.
+- 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
+- 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, podatek hotelowy oraz płatności za wycieczki; dodano aktualne źródła.
