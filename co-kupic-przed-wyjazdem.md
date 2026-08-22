@@ -29,6 +29,11 @@ Szczegółowe uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpiecze�
 - **Loperamid, np. Stoperan 2 mg** — warto rozważyć jako lek awaryjny do **objawowego leczenia niekrwawej biegunki**, zwłaszcza gdy częste wypróżnienia utrudniają podróż. Nie jest to lek profilaktyczny i nie zastępuje ORS/DPN ani leczenia przyczyny. **Nie należy stosować go samodzielnie przy biegunce z krwią lub gorączką**; trzeba też uwzględnić przeciwwskazania z ulotki/ChPL i własny stan zdrowia.
 - **Leki przyjmowane stale** — przed wyjazdem trzeba sprawdzić, czy zapas wystarczy na cały pobyt i ewentualne opóźnienie powrotu. To nie jest wspólny zakup grupowy.
 
+Źródła bieżących cen ORS/DPN:
+
+- [GdziePoLek – ORSALIT dla dorosłych: orientacyjna cena i dostępność w Polsce](https://www.gdziepolek.pl/produkty/57956/orsalit-dla-doroslych-proszek-do-wytworzenia-zawiesiny/apteki/w-polsce)
+- [GdziePoLek – Gastrolit: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/32013/gastrolit-proszek-do-wytworzenia-plynu/apteki)
+
 Szczegóły dotyczące ochrony przed owadami, ORS/DPN, Enterolu, loperamidu/Stoperanu, przeciwwskazań i zasad samoleczenia: [Zdrowie](zdrowie.md).
 
 Źródła dotyczące loperamidu/Stoperanu:
