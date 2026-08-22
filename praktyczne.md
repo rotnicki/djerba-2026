@@ -63,10 +63,14 @@ W mObywatelu:
 1. otwórz usługę **Odyseusz** w kategorii **Podróż**;
 2. wybierz **Twoje podróże**;
 3. wybierz **Zgłoś nową podróż**;
-4. podaj miejsce i termin pobytu;
-5. podaj dane kontaktowe;
-6. wybierz sposób otrzymywania powiadomień;
-7. sprawdź dane i wyślij zgłoszenie.
+4. przy wskazywaniu miejsca pobytu wpisz w wyszukiwarce **Club Palm Azur**;
+5. wybierz hotel **Club Palm Azur** z wyników wyszukiwania – po jego wybraniu aplikacja uzupełnia informacje o lokalizacji miejsca pobytu;
+6. podaj termin pobytu: **31 sierpnia–7 września 2026 r.**;
+7. podaj lub sprawdź dane kontaktowe;
+8. wybierz sposób otrzymywania powiadomień;
+9. sprawdź całe zgłoszenie i wyślij je.
+
+**Praktycznie potwierdzone przy rejestracji naszego wyjazdu:** wyszukanie hotelu po nazwie i wybranie go z listy działa w mObywatelu; nie trzeba ręcznie wpisywać całego adresu Club Palm Azur. Po wskazaniu hotelu aplikacja aktualizuje dane miejsca pobytu. To obserwacja z rzeczywiście wykonanego zgłoszenia, a nie informacja zaczerpnięta z ogólnej instrukcji ministerialnej.
 
 Ministerstwo Cyfryzacji podaje, że nową podróż w mObywatelu może zarejestrować każdy pełnoletni użytkownik aplikacji. Zgłoszenie można później edytować albo usunąć.
 
@@ -94,14 +98,14 @@ Po zalogowaniu większość danych identyfikacyjnych może zostać uzupełniona 
 Do zgłoszenia potrzebne są przede wszystkim:
 
 - **Tunezja** jako kraj podróży;
-- właściwe miejsce pobytu – Dżerba / okolice Aghir;
+- miejsce pobytu – w mObywatelu najlepiej wyszukać po nazwie **Club Palm Azur** i wybrać hotel z listy;
 - termin: **31 sierpnia–7 września 2026 r.**;
 - dane kontaktowe – co najmniej adres e-mail albo numer telefonu;
 - dane wymagane przez system do identyfikacji użytkownika.
 
 W mObywatelu dane kontaktowe mogą zostać pobrane automatycznie z Rejestru Danych Kontaktowych. Jeżeli ich tam nie ma, trzeba podać co najmniej adres e-mail lub numer telefonu.
 
-Dla naszego pobytu warto podać możliwie precyzyjną lokalizację, czyli **Club Palm Azur, Aghir, Dżerba**, zamiast ograniczać się tylko do nazwy kraju, jeśli formularz pozwala na taki poziom szczegółowości.
+Dla naszego pobytu nie trzeba ograniczać zgłoszenia do ogólnego „Dżerba” albo „Aghir”. Skoro wyszukiwarka mObywatela rozpoznaje **Club Palm Azur**, warto wskazać właśnie konkretny hotel. Daje to systemowi bardziej precyzyjną informację o miejscu pobytu.
 
 ### Jak przychodzą komunikaty
 
@@ -143,11 +147,12 @@ Centralny Ośrodek Informatyki w informacji o nowej usłudze Odyseusz podkreśla
 Najrozsądniejszy plan dla naszej grupy:
 
 1. **kilka dni przed wyjazdem** każdy pełnoletni uczestnik rejestruje podróż w Odyseuszu;
-2. wpisujemy termin **31.08–07.09.2026** i Club Palm Azur / Aghir / Dżerba;
-3. włączamy co najmniej jeden działający kanał powiadomień – najlepiej SMS i e-mail, jeśli są dostępne;
-4. przed wyjazdem sprawdzamy aktualny profil Tunezji i poziom ostrzeżeń MSZ;
-5. zapisujemy lub mamy pod ręką dane kontaktowe do właściwej polskiej placówki konsularnej;
-6. plan podróży i dane hotelu pozostawiamy również osobie bliskiej w Polsce.
+2. w mObywatelu w polu miejsca pobytu wpisuje **Club Palm Azur** i wybiera hotel z wyników wyszukiwania, zamiast ręcznie wpisywać ogólną lokalizację;
+3. wpisuje termin **31.08–07.09.2026**;
+4. włącza co najmniej jeden działający kanał powiadomień – najlepiej SMS i e-mail, jeśli są dostępne;
+5. przed wyjazdem sprawdza aktualny profil Tunezji i poziom ostrzeżeń MSZ;
+6. zapisuje lub ma pod ręką dane kontaktowe do właściwej polskiej placówki konsularnej;
+7. plan podróży i dane hotelu pozostawia również osobie bliskiej w Polsce.
 
 [Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
 
