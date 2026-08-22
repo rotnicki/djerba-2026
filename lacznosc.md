@@ -6,7 +6,7 @@ Ten materiał zbiera zasady komunikacji grupy oraz praktyczne informacje o inter
 
 Oferty operatorów, banków i dostawców eSIM mogą się szybko zmieniać. Informacje oznaczone datą sprawdzenia należy ponownie zweryfikować bezpośrednio przed wyjazdem, szczególnie ceny pakietów, zasady roamingu i dostępność Wi-Fi Calling dla konkretnej taryfy oraz telefonu.
 
-## Ustalone
+## Jak będziemy się komunikować
 
 ### Zasada podstawowa
 
@@ -44,13 +44,13 @@ Między uczestnikami używamy przede wszystkim WhatsAppa. Zwykłych połączeń 
 - Podróżna eSIM służy zwykle wyłącznie do transmisji danych, a nie jako zamiennik polskiego numeru telefonu.
 - Rozmowy między uczestnikami oraz rozmowy z Polską prowadzić przez WhatsApp z wykorzystaniem danych z eSIM.
 
-### Podróżne eSIM — zakup, instalacja i uruchomienie
+## Internet poza hotelem — podróżne eSIM i pakiety danych
 
 Stan sprawdzenia: 22 sierpnia 2026 r.
 
 Podróżna eSIM to wirtualna karta przeznaczona przede wszystkim do transmisji danych za granicą. Zwykle nie dostaje się z nią nowego numeru do zwykłych rozmów i SMS-ów. Polski numer może pozostać na dotychczasowej karcie SIM lub eSIM, a WhatsApp nadal pozostaje zarejestrowany na polskim numerze.
 
-#### Co właściwie oznacza „aktywować eSIM”?
+### Co właściwie oznacza „aktywować eSIM”?
 
 To określenie jest niejednoznaczne. Dostawcy używają słowa „aktywacja” do różnych etapów, dlatego samo zdanie „eSIM trzeba aktywować dopiero na miejscu” może wprowadzać w błąd.
 
@@ -63,7 +63,7 @@ W praktyce trzeba rozróżnić cztery czynności:
 
 Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **od którego dokładnie momentu dany dostawca liczy okres ważności pakietu**.
 
-#### PKO Bank Polski — IKO i iPKO
+### PKO Bank Polski — IKO i iPKO
 
 - To aktualna, stała usługa eSIM dostępna w IKO i iPKO; dostawcą transmisji danych jest Fonia Telecom, a w procesie uczestniczy Autopay.
 - Tunezja jest dostępna jako osobny kierunek.
@@ -72,14 +72,14 @@ Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **o
 - Oficjalna instrukcja PKO BP mówi, że **w kraju docelowym należy włączyć roaming danych dla tej eSIM; karta aktywuje się automatycznie po wykryciu lokalnej sieci**.
 - Zatem stwierdzenie „w PKO trzeba wszystko aktywować dopiero na miejscu” jest nieprecyzyjne: zakup i instalację można zrobić przed wyjazdem, natomiast faktyczne uruchomienie w sieci docelowej następuje po przyjeździe.
 
-#### Bank Millennium
+### Bank Millennium
 
 - Bank Millennium sprzedaje podróżne eSIM bezpośrednio w swojej aplikacji; partnerem jest Autopay, a dostawcą Fonia Telecom.
 - Kartę można kupić i zainstalować jeszcze przed wyjazdem.
 - Bank wskazuje, że po dotarciu do kraju objętego pakietem internet zaczyna działać po połączeniu z lokalną siecią komórkową.
 - Nie trzeba więc czekać z samą instalacją eSIM do przyjazdu na Dżerbę.
 
-#### Erste Bank Polska — dawny Santander Bank Polska
+### Erste Bank Polska — dawny Santander Bank Polska
 
 - Erste Bank Polska udostępnia podróżne eSIM w aplikacji w sekcji Transport, Bilety, Usługi; usługę dostarcza Fonia Telecom we współpracy z Autopay.
 - Kartę można kupić, zainstalować i przygotować na urządzeniu przed wyjazdem.
@@ -87,7 +87,7 @@ Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **o
 - Po przyjeździe telefon łączy się z siecią w kraju objętym pakietem.
 - Lista dostępnych krajów i aktualne ceny są prezentowane w aplikacji. Tunezja była dostępna w aktualnym porównaniu ofert z 22 czerwca 2026 r.; przed zakupem sprawdzamy ją ponownie w aplikacji.
 
-#### Revolut — podróżne pakiety danych eSIM
+### Revolut — podróżne pakiety danych eSIM
 
 - Podróżna eSIM Revolut jest usługą data-only i jest czymś innym niż Revolut Mobile z polskim numerem.
 - Tunezja jest dostępna jako kierunek pakietu danych.
@@ -95,7 +95,7 @@ Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **o
 - Tu występuje ważna różnica względem części ofert bankowych: Revolut podaje, że **pakiet danych zostaje aktywowany po zakupie i instalacji eSIM**, a okres ważności rozpoczyna się w dniu zakupu albo w chwili, gdy pierwsza eSIM jest gotowa do zainstalowania.
 - Dlatego pakietu Revolut na 7 lub 30 dni nie kupujemy niepotrzebnie dużo wcześniej. Najrozsądniej zrobić to krótko przed wyjazdem, pozostawiając sobie czas na spokojną instalację i sprawdzenie ustawień.
 
-#### N26 Travel eSIM
+### N26 Travel eSIM
 
 - N26 oferuje podróżną eSIM klientom swoich kont również w Polsce.
 - Tunezja znajduje się na oficjalnej liście obsługiwanych kierunków.
@@ -103,7 +103,7 @@ Najbezpieczniej nie zapamiętywać jednej ogólnej zasady, tylko sprawdzić, **o
 - N26 podaje wprost, że pakiet **aktywuje się dopiero wtedy, gdy telefon połączy się z siecią w kraju docelowym**.
 - To jeden z najprostszych modeli z punktu widzenia przygotowania: można wszystko skonfigurować wcześniej bez zużywania dni ważności przed przyjazdem.
 
-#### Bank Pekao S.A. — bank z Żubrem
+### Bank Pekao S.A. — bank z Żubrem
 
 Nie należy mylić **Banku Pekao S.A.** z **PKO Bankiem Polskim**. Bank Pekao to właśnie bank kojarzony z Żubrem.
 
@@ -112,7 +112,7 @@ Nie należy mylić **Banku Pekao S.A.** z **PKO Bankiem Polskim**. Bank Pekao to
 - Sama usługa FlexiRoam pozwala zainstalować eSIM przed podróżą, a następnie uruchomić pakiet ręcznie albo zaplanować jego przyszłą datę startu.
 - Dlatego zasłyszana informacja, że w „banku z Żubrem” eSIM trzeba bezwzględnie kupić wcześniej, ale uruchomić dopiero fizycznie po przyjeździe, **nie jest ogólną regułą FlexiRoam**. Możliwe, że była uproszczeniem instrukcji konkretnej promocji albo pomyleniem Pekao z PKO BP.
 
-#### Które banki obecnie potwierdziliśmy?
+### Które banki obecnie potwierdziliśmy?
 
 W publicznie dostępnych materiałach na 22 sierpnia 2026 r. potwierdziliśmy bieżące podróżne eSIM dla klientów w Polsce w:
 
@@ -124,7 +124,7 @@ W publicznie dostępnych materiałach na 22 sierpnia 2026 r. potwierdziliśmy bi
 
 Nie tworzymy zamkniętej listy banków „bez eSIM”, ponieważ oferta szybko się rozwija. Jeśli uczestnik korzysta z innego banku i widzi w jego aplikacji usługę eSIM, sprawdzamy konkretną ofertę, dostawcę oraz moment rozpoczęcia ważności pakietu.
 
-#### Zalecana procedura przed wyjazdem
+### Zalecana procedura przed wyjazdem
 
 1. Sprawdzić, czy telefon obsługuje eSIM i nie ma blokady operatora uniemożliwiającej instalację innych profili.
 2. Wybrać ofertę dla Tunezji i przed zapłatą sprawdzić liczbę GB, czas ważności oraz **moment rozpoczęcia tego czasu**.
@@ -135,13 +135,15 @@ Nie tworzymy zamkniętej listy banków „bez eSIM”, ponieważ oferta szybko s
 7. Automatyczne przełączanie danych między kartami pozostawić wyłączone, żeby telefon nie przeszedł przypadkowo na płatny roaming polskiej karty.
 8. Jeśli internet nie pojawi się po kilku minutach, sprawdzić w aplikacji status pakietu i operatora, a następnie przełączyć tryb samolotowy albo ponownie uruchomić telefon.
 
-#### Najważniejsza różnica do zapamiętania
+### Najważniejsza różnica do zapamiętania
 
 - **PKO BP:** kupić i zainstalować można wcześniej; po przyjeździe włączenie roamingu danych i połączenie z lokalną siecią uruchamia usługę.
 - **Bank Millennium:** kupić i zainstalować wcześniej; korzystanie zaczyna się po połączeniu z siecią w kraju docelowym.
 - **Erste:** przygotować wcześniej; na aktywację jest 6 miesięcy, a po przyjeździe łączymy się z siecią docelową.
 - **N26:** można skonfigurować wcześniej; pakiet aktywuje się dopiero po połączeniu z siecią w kraju docelowym.
 - **Revolut:** uważać na termin — ważność pakietu zaczyna biec już od zakupu / gotowości pierwszej eSIM, dlatego nie kupować go dużo za wcześnie.
+
+## Polska karta SIM i Wi-Fi Calling
 
 ### Polska karta SIM
 
@@ -301,7 +303,7 @@ Grupa Polsat Plus świadczy usługi mobilne pod marką Plus oraz m.in. markami P
 - W aktualnie przeszukanych oficjalnych materiałach nie znaleziono jednoznacznego potwierdzenia dostępności Wi-Fi Calling.
 - Dlatego podobnie jak przy Fakt Mobile nie zakładamy działania tej usługi bez indywidualnego potwierdzenia i testu.
 
-### Revolut — trzy różne rzeczy, których nie należy mylić
+## Revolut Mobile
 
 Stan sprawdzenia: 22 sierpnia 2026 r.
 
@@ -311,7 +313,7 @@ Pod nazwą Revolut występują w tym temacie co najmniej trzy różne elementy:
 2. **Revolut Mobile** — pełna usługa telefonii komórkowej z polskim numerem, świadczona przez 1GLOBAL i korzystająca w Polsce z sieci Play;
 3. **podróżne pakiety danych eSIM Revolut** — osobna usługa data-only, pozwalająca dokupić internet na konkretny kraj lub region, w tym Tunezję.
 
-#### Revolut Mobile w Polsce
+### Revolut Mobile w Polsce
 
 - Revolut Mobile to nie ten sam produkt co podróżna eSIM z internetem.
 - Usługa jest świadczona przez 1GLOBAL i działa w Polsce w sieci Play.
@@ -320,7 +322,7 @@ Pod nazwą Revolut występują w tym temacie co najmniej trzy różne elementy:
 - Tunezja nie należy do EOG, więc pakiet roamingowy wliczony w Revolut Mobile **nie obejmuje normalnego internetu w Tunezji**.
 - Revolut podaje wprost, że gdy użytkownik jedzie do kraju nieobjętego planem, może dokupić kolejny pakiet danych w aplikacji; obecnie dodatki do Revolut Mobile obejmują wyłącznie dane.
 
-#### Co użytkownik Revolut Mobile ma w Tunezji bez dokupowania normalnego pakietu danych?
+### Co użytkownik Revolut Mobile ma w Tunezji bez dokupowania normalnego pakietu danych?
 
 Do 31 października 2026 r. działa promocyjna usługa **Dane do komunikatorów / Messaging Pass**:
 
@@ -332,20 +334,20 @@ Do 31 października 2026 r. działa promocyjna usługa **Dane do komunikatorów 
 
 Nie traktujemy Messaging Pass jako normalnego internetu wakacyjnego. Przy 16 kb/s nie planujemy na nim rozmów głosowych WhatsApp, przesyłania zdjęć, map, aktualizacji ani zwykłego przeglądania internetu. Może natomiast być awaryjnym kanałem do krótkich wiadomości tekstowych.
 
-#### Czy osoba z Revolut Mobile musi kupować osobny pakiet na Tunezję?
+### Czy osoba z Revolut Mobile musi kupować osobny pakiet na Tunezję?
 
 - **Nie**, jeśli wystarczy jej bardzo ograniczony Messaging Pass do prostych wiadomości tekstowych.
 - **Tak**, jeśli chce mieć normalny internet mobilny na Dżerbie. Wtedy należy dokupić podróżny pakiet danych Revolut dla Tunezji albo wybrać inną podróżną/lokalną eSIM.
 - Podróżny pakiet danych Revolut dla Tunezji jest usługą data-only. Nie dodaje zwykłych minut ani SMS-ów do polskiego numeru Revolut Mobile.
 - WhatsApp może nadal pozostać zarejestrowany na polskim numerze Revolut Mobile, a sam ruch WhatsApp może iść przez dokupiony pakiet danych.
 
-#### Revolut Mobile a zwykłe połączenia i SMS-y na Dżerbie
+### Revolut Mobile a zwykłe połączenia i SMS-y na Dżerbie
 
 Oficjalna oferta Revolut Mobile gwarantuje pakiet głosowy, SMS i dane w Polsce oraz w określonym zakresie EOG. Tunezja jest poza tą strefą. Dlatego na potrzeby naszego wyjazdu **nie zakładamy, że polski numer Revolut Mobile będzie na Dżerbie normalnie działał do połączeń i SMS-ów jak klasyczny roaming**. Podróżny pakiet danych nie zmienia tego, ponieważ obecnie Revolut oferuje do planu Mobile tylko dodatki z transmisją danych.
 
 Jeżeli ktoś wykorzystuje numer Revolut Mobile do SMS-ów autoryzacyjnych, powinien przed wyjazdem sprawdzić w aplikacji i z pomocą operatora aktualne zasady odbierania SMS-ów w Tunezji i nie opierać całego uwierzytelniania wyłącznie na tym numerze.
 
-#### Revolut Mobile a Wi-Fi Calling
+### Revolut Mobile a Wi-Fi Calling
 
 Tu trzeba zachować szczególną ostrożność:
 
@@ -356,7 +358,7 @@ Tu trzeba zachować szczególną ostrożność:
 
 Dlatego w naszej procedurze **Revolut Mobile traktujemy jako ofertę bez gwarantowanego Wi-Fi Calling**. Nie planujemy zwykłych rozmów z polskiego numeru Revolut Mobile na Dżerbie przez hotelowe Wi-Fi. Jeśli funkcja pojawi się na konkretnym telefonie, można ją testować, ale nie należy budować na niej podstawowego sposobu komunikacji grupy.
 
-### Najważniejszy wniosek dla naszej grupy
+## Najważniejszy wniosek dla naszej grupy
 
 Nie tworzymy jednej zasady „Orange działa”, „Plus działa” albo „T-Mobile działa”. Dla Wi-Fi Calling liczą się jednocześnie marka, wariant oferty i telefon.
 
@@ -368,7 +370,7 @@ Przykłady pokazujące, dlaczego to ważne:
 - Virgin Mobile ma Wi-Fi Calling w systemie Play, natomiast przy Fakt Mobile nie mamy obecnie wystarczającego oficjalnego potwierdzenia.
 - Revolut Mobile korzysta w Polsce z sieci Play, ale nie przejmujemy automatycznie zasad Wi-Fi Calling Play; usługę świadczy 1GLOBAL, a Wi-Fi Calling nie jest obecnie oficjalnie gwarantowaną funkcją polskiego Revolut Mobile.
 
-### Kolejność korzystania z łączności
+## Kolejność korzystania z łączności
 
 1. Hotel → hotelowe Wi-Fi + WhatsApp.
 2. Poza hotelem → podróżna eSIM z pakietem danych + WhatsApp.
@@ -379,24 +381,24 @@ Przykłady pokazujące, dlaczego to ważne:
 7. Dla Revolut Mobile → na Dżerbie podstawą ma być WhatsApp przez hotelowe Wi-Fi albo dokupiony pakiet danych; Wi-Fi Calling nie jest traktowane jako rozwiązanie gwarantowane.
 8. Zwykłe połączenia przez roaming komórkowy polskiego operatora → tylko świadomie albo awaryjnie.
 
-### Awaryjny brak internetu
+## Awaryjny brak internetu
 
 WhatsApp wymaga działającego połączenia z internetem. Dlatego nie powinien być jedynym rozwiązaniem na sytuację awaryjną. Jeśli nie działa ani Wi-Fi, ani pakiet danych, zwykłe połączenie komórkowe z polskiej karty może zostać użyte awaryjnie mimo kosztów roamingowych — ale tylko u operatora, który zapewnia roaming głosowy w Tunezji.
 
 W Tunezji WhatsApp jest co do zasady dostępny, w tym wiadomości oraz połączenia głosowe i wideo. W 2026 r. nie wprowadzono ogólnokrajowej blokady internetu podczas egzaminów maturalnych, choć lokalnie stosowano zakłócanie łączności w bezpośrednim otoczeniu niektórych ośrodków egzaminacyjnych. Dlatego przyjmujemy WhatsApp jako kanał podstawowy, ale zachowujemy możliwość komunikacji awaryjnej.
 
-## Do sprawdzenia przed wyjazdem
+## Przed wyjazdem — lista kontroli
 
 - Zebrać od uczestników dokładną markę, rodzaj oferty i model telefonu — nie tylko nazwę sieci infrastrukturalnej.
 - Dla osób planujących używać Wi-Fi Calling potwierdzić zgodność taryfy i telefonu z usługą przed wyjazdem.
 - Wykonać w Polsce próbę Wi-Fi Calling: włączyć tryb samolotowy, ponownie włączyć Wi-Fi i sprawdzić, czy telefon pozwala wykonać połączenie przez Wi-Fi.
 - Dla użytkowników Revolut Mobile ponownie sprawdzić tuż przed wyjazdem: zakres roamingu poza EOG, działanie Messaging Pass w Tunezji, odbieranie SMS-ów oraz status Wi-Fi Calling.
 - Porównać aktualne ceny i zasady ważności podróżnych eSIM dla Tunezji w Revolut, PKO BP, Banku Millennium, Erste i — jeśli ktoś korzysta — N26.
-- Cena pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
-- Cena zwykłych połączeń przychodzących i wychodzących w Tunezji.
-- Jaki pakiet danych będzie optymalny na tydzień; wstępnie rozważyć 3–5 GB przy założeniu częstego korzystania z hotelowego Wi-Fi.
-- Jakość i zasięg hotelowego Wi-Fi po przyjeździe.
-- Czy warto zamiast podróżnej eSIM kupić lokalną tunezyjską kartę SIM, jeśli okaże się wyraźnie tańsza lub potrzebny będzie większy pakiet danych.
+- Sprawdzić cenę pakietu roamingowego dla Tunezji u konkretnego operatora, jeśli ktoś chce mieć wariant awaryjny.
+- Sprawdzić cenę zwykłych połączeń przychodzących i wychodzących w Tunezji u konkretnego operatora.
+- Dobrać pakiet danych na tydzień; wstępnie rozważyć 3–5 GB przy założeniu częstego korzystania z hotelowego Wi-Fi.
+- Po przyjeździe sprawdzić jakość i zasięg hotelowego Wi-Fi.
+- Jeżeli potrzebny będzie większy pakiet danych, porównać podróżną eSIM z lokalną tunezyjską kartą SIM.
 - Przed wyjazdem wykonać próbne połączenie WhatsApp między uczestnikami i sprawdzić grupę WhatsApp.
 
 ## Ustawienia iPhone'a przed wyjazdem
@@ -412,44 +414,52 @@ Apple potwierdza, że iPhone z Dual SIM może korzystać z jednego planu do gło
 
 ## Źródła
 
-- [Apple – ustawienia iPhone'a podczas podróży, tryb samolotowy i ponowne włączanie Wi-Fi](https://support.apple.com/pl-pl/guide/iphone/iphb771143ee/ios)
-- [Apple – używanie dwóch kart SIM na iPhonie](https://support.apple.com/pl-pl/guide/iphone/iph9c5776d3c/ios)
-- [Apple – korzystanie z Dual SIM z kartą eSIM](https://support.apple.com/pl-pl/109317)
-- [Apple – korzystanie z eSIM podczas podróży zagranicznych](https://support.apple.com/pl-pl/118227)
-- [PKO Bank Polski – podróżna eSIM, instalacja i aktywacja w kraju docelowym](https://www.pkobp.pl/klient-indywidualny/uslugi-zakupy/esim)
-- [PKO Bank Polski – uruchomienie usługi eSIM w IKO i iPKO](https://www.pkobp.pl/aktualnosci/bankowosc-elektroniczna/nowosc-w-aplikacji-iko-i-serwisie-ipko-dla-podrozujacych)
-- [Bank Millennium – podróżna eSIM, zakup, instalacja i uruchomienie w sieci kraju docelowego](https://www.bankmillennium.pl/bankowosc-elektroniczna/bankowosc-mobilna/aplikacja-mobilna-klienci-indywidualni-biznes/karta-esim)
-- [Erste Bank Polska – podróżna eSIM w aplikacji, zasady instalacji i 6 miesięcy na aktywację](https://www.erste.pl/aktualnosci/aktualnosci-lista/nowosc-w-aplikacji-esim-wygodny-sposob-na-internet-w-podrozy)
-- [Revolut – podróżne pakiety danych eSIM i moment rozpoczęcia okresu ważności](https://help.revolut.com/pl-PL/help/revpoints/esim/data-plan/question-getting-started-with-esim/)
-- [Revolut – instalowanie i aktywowanie podróżnej eSIM](https://help.revolut.com/pl-PL/help/revpoints/esim/data-plan/question-how-do-i-install-my-revolut-esim/)
-- [N26 – Travel eSIM, obsługiwane kraje i automatyczna aktywacja w kraju docelowym](https://n26.com/en-it/travel-esim)
-- [Bank Pekao S.A. – promocja eSIM FlexiRoam zakończona 31 marca 2026 r.](https://media.pekao.com.pl/pr/852429/bank-pekao-wdraza-kompleksowe-rozwiazania-dla-podrozujacych)
-- [FlexiRoam – uruchamianie pakietu i możliwość zaplanowania daty startu](https://help.flexiroam.com/hc/en-us/articles/31245999800857-How-to-activate-or-start-your-data-plan)
-- [Antyweb – porównanie ofert eSIM PKO BP, Millennium, Erste i Revolut dla Tunezji, 22 czerwca 2026](https://antyweb.pl/esim-na-wakacje-czerwiec-2026)
-- [Orange – dzwonienie przez Wi-Fi, zasady dla abonamentu, ofert na kartę i Orange Flex](https://www.orange.pl/poradnik/dzwonienie-przez-wi-fi-poznaj-wi-fi-calling/)
-- [Orange Flex – oferta subskrypcyjna](https://flex.orange.pl/)
-- [Orange Flex – internet i pakiety roamingowe poza UE](https://flex.orange.pl/uslugi/roaming)
-- [nju mobile – Wi-Fi Calling, zasady dla abonamentu, subskrypcji i oferty na kartę](https://www.njumobile.pl/oferta/wificalling)
-- [Play – Wi-Fi Calling i VoLTE](https://www.play.pl/uslugi/wifi-calling-volte)
-- [Play – Virgin Mobile z Wi-Fi Calling](https://www.play.pl/play-expert/newsy/volte-i-wi-fi-calling-dostepne-w-virgin-mobile)
-- [Virgin Mobile – regulamin usługi Wi-Fi Calling](https://virginmobile.pl/media/documents/Regulamin_Us%C5%82ugi_Wi-Fi_Calling_wazny_od_1.03.2023.pdf)
-- [Play – aktualne oferty Virgin Mobile w 2026 r.](https://www.play.pl/play-expert/newsy/nowosci-w-virgin-mobile---2-numery-w-cenie-1-i-nowa-oferta-internetu-mobilnego)
-- [Fakt Mobile – aktualna oferta na kartę](https://faktmobile.pl/)
-- [T-Mobile – VoLTE i VoWiFi, działanie usługi w Polsce i za granicą](https://www.t-mobile.pl/c/volte-i-wifi)
-- [T-Mobile – warunki oferty VoWiFi za granicą obejmujące T-Mobile, Heyah i tuBiedronka](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_0013737)
-- [Red Bull MOBILE – pomoc dotycząca VoWiFi za granicą](https://www.redbullmobile.pl/pomoc/)
-- [T-Mobile – informacje o przenoszeniu Heyah 01 do Red Bull MOBILE](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006492)
-- [Plus – Wi-Fi Calling+, działanie w Polsce i za granicą](https://www.plus.pl/blog/technologie/wi-fi-calling-co-to-jest)
-- [Grupa Polsat Plus – marki usług mobilnych: Plus, Plush, Premium Mobile, Netia i a2mobile](https://grupapolsatplus.pl/sites/default/files/documents/2025/cp_eng_fy2024.pdf)
-- [Premium Mobile – regulamin Wi-Fi Calling](https://premiummobile.pl/wp-content/uploads/2025/02/Regulamin-Uslugi-WiFi-Calling.pdf)
-- [Netia – Wi-Fi Calling, działanie na całym świecie i rozliczanie połączeń](https://www.netia.pl/pl/wifi-calling)
-- [a2mobile – komunikat o zakończeniu WiFi Calling 29 lutego 2024 r.](https://a2mobile.pl/documents/komunikaty/wifi_calling.pdf)
-- [wRodzinie – aktualna oferta i pomoc](https://wrodzinie.com.pl/pomoc)
-- [Revolut – polskie plany Revolut Mobile i zakres roamingu w EOG](https://www.revolut.com/pl-PL/mobile-plans/)
-- [Revolut – pomoc: zakres polskich planów Revolut Mobile i możliwość dokupienia danych poza strefą planu](https://help.revolut.com/pl-PL/help/revpoints/esim/question-what-are-mobile-plans/)
-- [1GLOBAL – opis usługi Revolut Mobile w Polsce](https://assets.1global.com/f/279938/x/9c86042a26/service-description-pl-061025.pdf)
-- [1GLOBAL – Dane do komunikatorów / Messaging Pass: warunki promocji i lista krajów obejmująca Tunezję](https://assets.1global.com/f/279938/x/2de995ec02/1global-promotional-feature-special-terms-pl-19-03-26.pdf)
-- [GSMonline – informacja o odpowiedzi Revoluta w sprawie braku gwarantowanego Wi-Fi Calling w polskim Revolut Mobile](https://gsmonline.pl/artykuly/revolut-mobile-nie-ma-roamingu-poza-unia-i-nie-ma-wi-fi-calling)
-- [Revolut – pakiety eSIM dla Tunezji](https://www.revolut.com/pl-PL/esim/tunisia-esim/)
-- [Business News Tunisia – brak ogólnokrajowego wyłączenia internetu podczas egzaminów w Tunezji, 4 czerwca 2026](https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/)
-- [Tunisie Numérique – lokalne zakłócanie łączności w otoczeniu ośrodków egzaminacyjnych, 4 czerwca 2026](https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/)
+- **iPhone, Dual SIM, eSIM i ustawienia telefonu**
+    - [Apple – ustawienia iPhone'a podczas podróży, tryb samolotowy i ponowne włączanie Wi-Fi](https://support.apple.com/pl-pl/guide/iphone/iphb771143ee/ios)
+    - [Apple – używanie dwóch kart SIM na iPhonie](https://support.apple.com/pl-pl/guide/iphone/iph9c5776d3c/ios)
+    - [Apple – korzystanie z Dual SIM z kartą eSIM](https://support.apple.com/pl-pl/109317)
+    - [Apple – korzystanie z eSIM podczas podróży zagranicznych](https://support.apple.com/pl-pl/118227)
+- **Podróżne eSIM i internet mobilny za granicą**
+    - [PKO Bank Polski – podróżna eSIM, instalacja i aktywacja w kraju docelowym](https://www.pkobp.pl/klient-indywidualny/uslugi-zakupy/esim)
+    - [PKO Bank Polski – uruchomienie usługi eSIM w IKO i iPKO](https://www.pkobp.pl/aktualnosci/bankowosc-elektroniczna/nowosc-w-aplikacji-iko-i-serwisie-ipko-dla-podrozujacych)
+    - [Bank Millennium – podróżna eSIM, zakup, instalacja i uruchomienie w sieci kraju docelowego](https://www.bankmillennium.pl/bankowosc-elektroniczna/bankowosc-mobilna/aplikacja-mobilna-klienci-indywidualni-biznes/karta-esim)
+    - [Erste Bank Polska – podróżna eSIM w aplikacji, zasady instalacji i 6 miesięcy na aktywację](https://www.erste.pl/aktualnosci/aktualnosci-lista/nowosc-w-aplikacji-esim-wygodny-sposob-na-internet-w-podrozy)
+    - [Revolut – podróżne pakiety danych eSIM i moment rozpoczęcia okresu ważności](https://help.revolut.com/pl-PL/help/revpoints/esim/data-plan/question-getting-started-with-esim/)
+    - [Revolut – instalowanie i aktywowanie podróżnej eSIM](https://help.revolut.com/pl-PL/help/revpoints/esim/data-plan/question-how-do-i-install-my-revolut-esim/)
+    - [Revolut – pakiety eSIM dla Tunezji](https://www.revolut.com/pl-PL/esim/tunisia-esim/)
+    - [N26 – Travel eSIM, obsługiwane kraje i automatyczna aktywacja w kraju docelowym](https://n26.com/en-it/travel-esim)
+    - [Bank Pekao S.A. – promocja eSIM FlexiRoam zakończona 31 marca 2026 r.](https://media.pekao.com.pl/pr/852429/bank-pekao-wdraza-kompleksowe-rozwiazania-dla-podrozujacych)
+    - [FlexiRoam – uruchamianie pakietu i możliwość zaplanowania daty startu](https://help.flexiroam.com/hc/en-us/articles/31245999800857-How-to-activate-or-start-your-data-plan)
+    - [Orange Flex – internet i pakiety roamingowe poza UE](https://flex.orange.pl/uslugi/roaming)
+    - [Antyweb – porównanie ofert eSIM PKO BP, Millennium, Erste i Revolut dla Tunezji, 22 czerwca 2026](https://antyweb.pl/esim-na-wakacje-czerwiec-2026)
+- **Wi-Fi Calling — Orange, Orange Flex i nju mobile**
+    - [Orange – dzwonienie przez Wi-Fi, zasady dla abonamentu, ofert na kartę i Orange Flex](https://www.orange.pl/poradnik/dzwonienie-przez-wi-fi-poznaj-wi-fi-calling/)
+    - [Orange Flex – oferta subskrypcyjna](https://flex.orange.pl/)
+    - [nju mobile – Wi-Fi Calling, zasady dla abonamentu, subskrypcji i oferty na kartę](https://www.njumobile.pl/oferta/wificalling)
+- **Wi-Fi Calling — Play, Virgin Mobile i Fakt Mobile**
+    - [Play – Wi-Fi Calling i VoLTE](https://www.play.pl/uslugi/wifi-calling-volte)
+    - [Play – Virgin Mobile z Wi-Fi Calling](https://www.play.pl/play-expert/newsy/volte-i-wi-fi-calling-dostepne-w-virgin-mobile)
+    - [Virgin Mobile – regulamin usługi Wi-Fi Calling](https://virginmobile.pl/media/documents/Regulamin_Us%C5%82ugi_Wi-Fi_Calling_wazny_od_1.03.2023.pdf)
+    - [Play – aktualne oferty Virgin Mobile w 2026 r.](https://www.play.pl/play-expert/newsy/nowosci-w-virgin-mobile---2-numery-w-cenie-1-i-nowa-oferta-internetu-mobilnego)
+    - [Fakt Mobile – aktualna oferta na kartę](https://faktmobile.pl/)
+- **Wi-Fi Calling — T-Mobile, Heyah, tuBiedronka i Red Bull MOBILE**
+    - [T-Mobile – VoLTE i VoWiFi, działanie usługi w Polsce i za granicą](https://www.t-mobile.pl/c/volte-i-wifi)
+    - [T-Mobile – warunki oferty VoWiFi za granicą obejmujące T-Mobile, Heyah i tuBiedronka](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_0013737)
+    - [Red Bull MOBILE – pomoc dotycząca VoWiFi za granicą](https://www.redbullmobile.pl/pomoc/)
+    - [T-Mobile – informacje o przenoszeniu Heyah 01 do Red Bull MOBILE](https://www.t-mobile.pl/c/_bffapi/webcms-proxy/v1/plar/documents/D_007_1006492)
+- **Wi-Fi Calling — Plus i pozostałe marki Grupy Polsat Plus**
+    - [Plus – Wi-Fi Calling+, działanie w Polsce i za granicą](https://www.plus.pl/blog/technologie/wi-fi-calling-co-to-jest)
+    - [Grupa Polsat Plus – marki usług mobilnych: Plus, Plush, Premium Mobile, Netia i a2mobile](https://grupapolsatplus.pl/sites/default/files/documents/2025/cp_eng_fy2024.pdf)
+    - [Premium Mobile – regulamin Wi-Fi Calling](https://premiummobile.pl/wp-content/uploads/2025/02/Regulamin-Uslugi-WiFi-Calling.pdf)
+    - [Netia – Wi-Fi Calling, działanie na całym świecie i rozliczanie połączeń](https://www.netia.pl/pl/wifi-calling)
+    - [a2mobile – komunikat o zakończeniu WiFi Calling 29 lutego 2024 r.](https://a2mobile.pl/documents/komunikaty/wifi_calling.pdf)
+    - [wRodzinie – aktualna oferta i pomoc](https://wrodzinie.com.pl/pomoc)
+- **Revolut Mobile**
+    - [Revolut – polskie plany Revolut Mobile i zakres roamingu w EOG](https://www.revolut.com/pl-PL/mobile-plans/)
+    - [Revolut – pomoc: zakres polskich planów Revolut Mobile i możliwość dokupienia danych poza strefą planu](https://help.revolut.com/pl-PL/help/revpoints/esim/question-what-are-mobile-plans/)
+    - [1GLOBAL – opis usługi Revolut Mobile w Polsce](https://assets.1global.com/f/279938/x/9c86042a26/service-description-pl-061025.pdf)
+    - [1GLOBAL – Dane do komunikatorów / Messaging Pass: warunki promocji i lista krajów obejmująca Tunezję](https://assets.1global.com/f/279938/x/2de995ec02/1global-promotional-feature-special-terms-pl-19-03-26.pdf)
+    - [GSMonline – informacja o odpowiedzi Revoluta w sprawie braku gwarantowanego Wi-Fi Calling w polskim Revolut Mobile](https://gsmonline.pl/artykuly/revolut-mobile-nie-ma-roamingu-poza-unia-i-nie-ma-wi-fi-calling)
+- **Internet i komunikatory w Tunezji**
+    - [Business News Tunisia – brak ogólnokrajowego wyłączenia internetu podczas egzaminów w Tunezji, 4 czerwca 2026](https://businessnews.com.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/)
+    - [Tunisie Numérique – lokalne zakłócanie łączności w otoczeniu ośrodków egzaminacyjnych, 4 czerwca 2026](https://www.tunisienumerique.com/brouillage-internet-au-bac-ce-quil-faut-vraiment-savoir-video/)
