@@ -1,0 +1,76 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Dżerba — SAMU 190;;;
+FN:Dżerba — SAMU 190
+ORG:Dżerba 2026
+TEL;TYPE=VOICE:190
+NOTE:Pomoc medyczna w nagłych przypadkach. SAMU — Service d’Aide Médicale Urgente. Numer alarmowy wybieraj w Tunezji jako 190 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Dżerba — Policja 197;;;
+FN:Dżerba — Policja 197
+ORG:Dżerba 2026
+TEL;TYPE=VOICE:197
+NOTE:Policja — nagłe zagrożenie bezpieczeństwa\, przemoc\, napad lub pilna interwencja. Numer alarmowy wybieraj w Tunezji jako 197 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Dżerba — Straż pożarna i ratownictwo 198;;;
+FN:Dżerba — Straż pożarna i ratownictwo 198
+ORG:Dżerba 2026
+TEL;TYPE=VOICE:198
+NOTE:Tunezyjska Protection Civile — ochrona cywilna pełniąca m.in. funkcje straży pożarnej i ratownictwa. Pożar\, wypadek lub inne zdarzenie ratownicze. Numer alarmowy wybieraj w Tunezji jako 198 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Dżerba — Gwardia Narodowa 193;;;
+FN:Dżerba — Gwardia Narodowa 193
+ORG:Dżerba 2026
+TEL;TYPE=VOICE:193
+NOTE:Lądowe jednostki tunezyjskiej Gwardii Narodowej. Numer alarmowy wybieraj w Tunezji jako 193 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Dżerba — Morska Gwardia Narodowa 194;;;
+FN:Dżerba — Morska Gwardia Narodowa 194
+ORG:Dżerba 2026
+TEL;TYPE=VOICE:194
+NOTE:Nagłe zdarzenia na morzu lub przy wybrzeżu. Numer alarmowy wybieraj w Tunezji jako 194 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Ambasada RP w Tunisie — konsulat;;;
+FN:Ambasada RP w Tunisie — konsulat
+ORG:Ambasada Rzeczypospolitej Polskiej w Tunisie
+TEL;TYPE=WORK,VOICE:+21671196191
+EMAIL;TYPE=WORK:tunis.konsul@msz.gov.pl
+ADR;TYPE=WORK:;;Le Grand Boulevard de la Corniche;Les Berges du Lac II;;2045;Tunezja
+NOTE:Wydział Konsularny Ambasady RP w Tunisie — zwykłe sprawy konsularne i dokumentowe w godzinach pracy.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Ambasada RP w Tunisie — telefon alarmowy konsula;;;
+FN:Ambasada RP w Tunisie — telefon alarmowy konsula
+ORG:Ambasada Rzeczypospolitej Polskiej w Tunisie
+TEL;TYPE=CELL,VOICE:+21698362547
+EMAIL;TYPE=WORK:tunis.wk.dyzurny@msz.gov.pl
+NOTE:Tylko nagłe sytuacje wymagające pilnej interwencji konsula\, np. ciężki wypadek\, zgon lub aresztowanie. W dni robocze numer dyżurny działa od 16:15 do 08:15\, a w dni wolne od pracy w Polsce i Tunezji — całodobowo.
+CATEGORIES:Dżerba 2026
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;Club Palm Azur — hotel;;;
+FN:Club Palm Azur — hotel
+ORG:Club Palm Azur
+TEL;TYPE=WORK,VOICE:+21675750700
+ADR;TYPE=WORK:;;BP 340\, Zone touristique;Midoun Aghir;;4116;Tunezja
+NOTE:Hotel Club Palm Azur na Dżerbie — miejsce naszego pobytu.
+CATEGORIES:Dżerba 2026
+END:VCARD
