@@ -164,7 +164,7 @@ Przykładowe pliki kanoniczne:
 
 ### 10. Uporządkowanie dużych dokumentów
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Najważniejsze:
 
