@@ -15,7 +15,7 @@ Ten materiał zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tun
 - Oprócz Revoluta warto mieć **drugą fizyczną kartę bankową** jako zabezpieczenie.
 - W naszej grupie przyjmujemy roboczo **około 150 EUR na osobę w gotówce jako sugerowane minimum na wycieczki fakultatywne**. Nie jest to oficjalna cena pakietu wycieczek ani cały budżet na pobyt.
 - Rzeczywisty koszt zależy od wybranych wycieczek i dodatków. Przy 2-dniowej Saharze albo kilku płatnych atrakcjach może być potrzebne więcej. **Osobno** trzeba uwzględnić obowiązkowy podatek turystyczny oraz pieniądze na codzienne wydatki; część płatności może być możliwa kartą lub Revolutem, zależnie od organizatora.
-- W Club Palm Azur 4★ **obowiązkowy podatek turystyczny** wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę** powyżej 12. roku życia, czyli orientacyjnie około **108 PLN** według kursu NBP z 19 sierpnia 2026 r.
+- W Club Palm Azur 4★ **obowiązkowy podatek turystyczny** wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę, która ukończyła 12 lat**, czyli orientacyjnie około **108 PLN** według kursu NBP z 19 sierpnia 2026 r.
 
 ## Dinar tunezyjski – TND
 
@@ -60,7 +60,7 @@ To jest kurs orientacyjny. Faktyczny kurs wymiany euro na TND, kurs karty albo R
 
 ### Ile TND mieć od razu
 
-Nie ma potrzeby wymieniania „na zapas” dużej ilości dinarów. Najważniejszą znaną z góry kwotą jest **84 TND obowiązkowego podatku turystycznego na osobę powyżej 12. roku życia** za cały 7-nocny pobyt.
+Nie ma potrzeby wymieniania „na zapas” dużej ilości dinarów. Najważniejszą znaną z góry kwotą jest **84 TND obowiązkowego podatku turystycznego na osobę, która ukończyła 12 lat** za cały 7-nocny pobyt.
 
 Do tego warto mieć niewielki zapas TND na pierwsze dni na:
 
@@ -256,13 +256,15 @@ W całym projekcie używamy nazwy **„obowiązkowy podatek turystyczny”**. W 
 
 Dla zagranicznych turystów w hotelach 4★ i 5★ obowiązuje obecnie podatek **12 TND za osobę za noc**, naliczany maksymalnie za pierwszych 10 nocy pobytu.
 
-Club Palm Azur jest hotelem 4★, a nasz pobyt obejmuje 7 nocy, dlatego osoba powyżej 12. roku życia zapłaci:
+Club Palm Azur jest hotelem 4★, a nasz pobyt obejmuje 7 nocy, dlatego osoba, która ukończyła 12 lat, zapłaci:
 
 **7 × 12 TND = 84 TND na osobę**, czyli przy kursie NBP z 19 sierpnia około **108 PLN**.
 
 Dla całej grupy nie podajemy jednej sumy, dopóki nie uwzględnimy wieku wszystkich uczestników.
 
-Aktualne polskie informacje ITAKI dla Dżerby używają właśnie nazwy **„obowiązkowy podatek turystyczny”** i podają 12 TND za dzień/osobę powyżej 12. roku życia, maksymalnie za 10 dni. Taką samą stawkę dla hoteli 4★ i 5★ potwierdzają aktualne informacje GOV.UK.
+Aktualne polskie informacje ITAKI dla Dżerby używają właśnie nazwy **„obowiązkowy podatek turystyczny”** i podają 12 TND za dzień/osobę, która ukończyła 12 lat, maksymalnie za 10 dni. Taką samą stawkę dla hoteli 4★ i 5★ potwierdzają aktualne informacje GOV.UK.
+
+[Coral Travel – aktualne Warunki Imprez Turystycznych i dokumenty](https://www.coraltravel.pl/dokumenty/)
 
 [ITAKA – Dżerba: obowiązkowy podatek turystyczny](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/informacje-praktyczne/)
 
@@ -314,16 +316,8 @@ Obowiązkowy podatek turystyczny i zwykłe wydatki na miejscu liczymy **osobno**
 - Ostateczny wybór 1–3 wycieczek fakultatywnych i ich cena na osobę.
 - Które wybrane wycieczki będą płatne w EUR, TND, Revolutem lub kartą.
 - Czy po wyborze fakultetów robocze **minimum około 150 EUR gotówki na osobę na wycieczki** należy zwiększyć.
-- Ile TND warto wymienić na początku pobytu, poza **84 TND obowiązkowego podatku turystycznego na osobę powyżej 12. roku życia**.
+- Ile TND warto wymienić na początku pobytu, poza **84 TND obowiązkowego podatku turystycznego na osobę, która ukończyła 12 lat**.
 - Aktualne limity bezpłatnych wypłat z bankomatów dla konkretnych planów Revolut używanych przez uczestników.
 - Czy Club Palm Azur przyjmuje obowiązkowy podatek turystyczny kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
 - Czy przy przejazdach hotel–Midoun, hotel–Djerba Explore i hotel–Houmt Souk kierowcy zwykle włączają taksometr bez problemu; zweryfikujemy to praktycznie na miejscu.
 - Jeśli cała grupa będzie chciała odbyć krótki wspólny przejazd, sprawdzić na miejscu koszt kilku taksówek oraz 1–2 vanów/minibusów zamiast z góry zamawiać autokar.
-
-## Historia zmian
-
-- 2026-08-22 – uwzględniono nieformalne ustalenie grupy z 21 sierpnia: około **150 EUR gotówki na osobę jako sugerowane minimum na wycieczki fakultatywne**; oddzielono ten budżet od podatku turystycznego i codziennych wydatków oraz usunięto 200 EUR jako domyślne założenie dla wszystkich.
-- 2026-08-22 – skorygowano zalecenia dotyczące krótkich przejazdów: taksówki pozostają podstawowym rozwiązaniem do Midoun, Djerba Explore i Houmt Souk także dla kilku osób; dla całej grupy wskazano kilka taksówek lub vany/minibusy, bez automatycznej rekomendacji autokaru.
-- 2026-08-22 – dodano aktualny kurs TND/PLN z NBP i prostą ściągę przeliczeniową; dodano oficjalną taryfę taksówek i orientacyjne ceny kursów z Club Palm Azur; ujednolicono nazewnictwo na **„obowiązkowy podatek turystyczny”**.
-- 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z materiału `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
-- 2026-08-22 – przeniesienie do materiału ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, obowiązkowy podatek turystyczny oraz płatności za wycieczki; dodano aktualne źródła.
