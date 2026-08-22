@@ -1,8 +1,12 @@
 # Zakupy
 
-## Wentylator akumulatorowy
+Stan weryfikacji: 22 sierpnia 2026 r.
 
-Stan rozeznania: 22 sierpnia 2026 r.
+Ten materiał zbiera rzeczy, które rozważamy kupić specjalnie na wyjazd, wraz z kryteriami wyboru, sprawdzonymi przykładami i cenami. Ma pomóc odróżnić rzeczy rzeczywiście przydatne od zakupów opcjonalnych i uniknąć kupowania sprzętu tylko dlatego, że pojawił się w pojedynczej rekomendacji.
+
+Ceny i dostępność konkretnych ofert mogą się szybko zmieniać. Wnioski dotyczące potrzeby danego przedmiotu powinny pozostawać oddzielone od bieżącej oferty sklepu.
+
+## Wentylator akumulatorowy
 
 ### Kierunek zakupu
 
@@ -30,8 +34,6 @@ Konkretna oferta przekazana przez jednego z uczestników wyjazdu:
 - droższe modele AWEI i Jisulife.
 
 ## Buty do wody
-
-Stan rozeznania: 22 sierpnia 2026 r.
 
 Przy plaży hotelu Club Palm Azur warto używać butów do wody. Plaża jest zasadniczo piaszczysta, ale oficjalny opis oferty Itaki wskazuje na miejscami skaliste zejście do morza i wprost zaleca obuwie ochronne.
 
