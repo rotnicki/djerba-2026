@@ -63,6 +63,49 @@ Uwaga: w Tunezji mogą być ogłaszane „letnie godziny pracy” administracji.
 - [Oficjalny portal turystyczny Tunezji – informacje praktyczne, strefa GMT+1](https://www.discovertunisia.com/en/infos-pratiques/general-information)
 - [Polska – rozporządzenie w sprawie wprowadzania i odwoływania czasu letniego środkowoeuropejskiego w latach 2022–2026](https://eli.gov.pl/api/acts/DU/2022/539/text.html)
 
+## Hotel Club Palm Azur — najważniejsze informacje organizacyjne
+
+Dla naszego wyjazdu pobyt w **Club Palm Azur 4★ w Aghir** obejmuje All Inclusive oraz grupowy transfer z lotniska do hotelu i z hotelu na lotnisko.
+
+Aktualne dane kontaktowe hotelu publikowane przez Coral Travel:
+
+- **adres:** BP 340, Zone touristique, Midoun Aghir 4116;
+- **telefon:** +216 75 750 700.
+
+[Coral Travel – Club Palm Azur: aktualny opis hotelu i dane kontaktowe](https://www.coraltravel.pl/hotel/tunezja/club-palm-azur-djerba/)
+
+### Zameldowanie i wymeldowanie
+
+Aktualne zasady obiektu publikowane przez Booking.com podają:
+
+- **zameldowanie:** od 14:00 do 23:30;
+- **wymeldowanie:** od 05:00 do 12:00.
+
+Godziny te są informacją ogólną dla hotelu, a organizacja pierwszego i ostatniego dnia naszej imprezy turystycznej może być dodatkowo uzależniona od transferu i godzin lotu.
+
+[Booking.com – Club Palm Azur: aktualne zasady zameldowania i wymeldowania](https://www.booking.com/hotel/tn/club-palm-azur-djerba.pl.html)
+
+### Posiłki i All Inclusive
+
+Aktualnie publikowany dla Club Palm Azur harmonogram All Inclusive podaje:
+
+- **śniadanie:** 07:30–10:00;
+- **późne śniadanie:** 10:00–11:00;
+- **obiad:** 12:30–14:30;
+- **naleśniki i ciasta przy basenie:** 15:00–17:00;
+- **kolacja:** 19:30–21:00;
+- lokalne napoje w wyznaczonych barach: 10:00–01:00.
+
+Przy kolacji w restauracjach obowiązuje strój bardziej formalny; aktualny opis hotelu wskazuje dla panów **długie spodnie**. Restauracje à la carte wymagają wcześniejszej rezerwacji.
+
+To są godziny publikowane przed naszym wyjazdem. Hotel może zmienić bieżący harmonogram, dlatego po przyjeździe warto sprawdzić informacje przekazane przez recepcję i restaurację.
+
+[Itaka – Club Palm Azur: aktualne godziny posiłków, All Inclusive i zasady restauracji](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+
+### Transport lokalny
+
+Informacje o taksówkach, oficjalnej taryfie, orientacyjnych kosztach przejazdów z Club Palm Azur oraz zasadach ustalania ceny są zebrane w dziale [Pieniądze i płatności](pieniadze.md). Nie ma potrzeby powtarzać ich tutaj.
+
 ## Odyseusz MSZ – warto zgłosić podróż
 
 **Odyseusz** to oficjalny system Ministerstwa Spraw Zagranicznych dla osób wyjeżdżających za granicę. Rejestracja podróży nie jest warunkiem wyjazdu, ale **warto ją zrobić**, ponieważ dzięki niej MSZ wie, że dana osoba przebywa w określonym kraju i terminie, może przekazywać jej ostrzeżenia oraz łatwiej nawiązać kontakt w sytuacji kryzysowej.
@@ -196,11 +239,11 @@ Najrozsądniejszy plan dla naszej grupy:
 
 [Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
 
-## Do sprawdzenia
+## Do ponownego sprawdzenia tuż przed wyjazdem
 
-- Zasady korzystania z transportu, hotelu i usług lokalnych.
-- Godziny funkcjonowania najważniejszych usług.
-- Bieżące komunikaty Ministerstwa Spraw Zagranicznych i systemu Odyseusz dla Tunezji tuż przed wyjazdem.
-- Tuż przed 31 sierpnia sprawdzić ponownie poziom ostrzeżeń dla Tunezji i ewentualne ostrzeżenia regionalne.
-- Potwierdzić, że wszyscy pełnoletni uczestnicy, którzy chcą korzystać z Odyseusza, mają poprawnie zapisane dane kontaktowe i otrzymują komunikaty.
-- Bezpośrednio przed wyjazdem ponownie sprawdzić numery alarmowe i dane kontaktowe Ambasady RP w Tunisie.
+Poniższe punkty nie są brakami w obecnych informacjach, lecz rzeczami, które mogą zmienić się nawet krótko przed podróżą albo wymagają działania samych uczestników:
+
+- sprawdzić ponownie bieżące komunikaty Ministerstwa Spraw Zagranicznych i profil Tunezji w Odyseuszu, w tym ogólny poziom ostrzeżenia i ewentualne ostrzeżenia regionalne;
+- ponownie potwierdzić numery alarmowe oraz dane kontaktowe Ambasady RP w Tunisie;
+- upewnić się, że osoby korzystające z Odyseusza mają poprawne dane kontaktowe i rzeczywiście otrzymują komunikaty;
+- po przyjeździe sprawdzić aktualne godziny posiłków, barów i innych usług hotelowych, ponieważ hotel może zmieniać harmonogram operacyjny.
