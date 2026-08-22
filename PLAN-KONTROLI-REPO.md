@@ -73,7 +73,7 @@ Cele:
 
 ### 4. Zagubiony lub uszkodzony bagaż
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres: `co-zabrac.md` lub `praktyczne.md`, po ocenie najlepszego miejsca.
 
