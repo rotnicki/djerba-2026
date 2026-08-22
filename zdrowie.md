@@ -334,6 +334,26 @@ Ważne przeciwwskazania z ChPL obejmują m.in. pacjentów z cewnikiem w żyle ce
 - [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
 - [CDC Yellow Book 2026 – ocena probiotyków w profilaktyce biegunki podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 
+### Loperamid / Stoperan — lek objawowy, nie profilaktyka
+
+**Stoperan 2 mg** jest produktem leczniczym zawierającym **loperamid**. Loperamid zmniejsza motorykę jelit i liczbę wypróżnień, dlatego może szybko ograniczać objawy biegunki. Jest to jednak leczenie **objawowe**: lek nie usuwa przyczyny zakażenia i nie zastępuje uzupełniania wody oraz elektrolitów.
+
+W przypadku biegunki podróżnych CDC Yellow Book 2026 uznaje loperamid za przydatny lek objawowy. Może być rozważany przy łagodnej biegunce, a przy biegunce umiarkowanej może być stosowany samodzielnie albo jako dodatek do innego leczenia. Praktycznie może być szczególnie przydatny wtedy, gdy częste wypróżnienia utrudniają przejazd, wycieczkę lub lot.
+
+Loperamid **nie jest lekiem profilaktycznym** i nie należy przyjmować go „na zapas”, zanim pojawi się biegunka. Nie jest też zamiennikiem ORS/DPN.
+
+Najważniejsze ograniczenie: **loperamidu nie należy stosować samodzielnie przy biegunce z krwią lub przy biegunce przebiegającej z gorączką**. CDC odradza wtedy monoterapię lekiem hamującym motorykę jelit. ChPL Stoperanu wymienia ponadto przeciwwskazania i sytuacje, w których hamowanie perystaltyki jest niewskazane, m.in. ostrą czerwonkę z krwią w kale i wysoką temperaturą oraz niektóre bakteryjne zapalenia jelit.
+
+Lek należy odstawić i szukać porady medycznej, jeśli pojawia się zaparcie, wyraźne wzdęcie brzucha lub podejrzenie niedrożności. Zgodnie z ChPL, jeżeli w ostrej biegunce **nie ma poprawy w ciągu 48 godzin**, należy przerwać stosowanie loperamidu i skonsultować dalsze postępowanie.
+
+W praktyce na nasz wyjazd **warto rozważyć zabranie loperamidu, np. Stoperanu, jako leku awaryjnego**, ale nie przyjmujemy zasady, że każdy ma go automatycznie stosować przy każdej biegunce. Dawkowanie i przeciwwskazania należy sprawdzić w ulotce/ChPL konkretnego preparatu i uwzględnić własny stan zdrowia oraz inne przyjmowane leki.
+
+Źródła:
+
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
+- [CDC Yellow Book 2026 – loperamid w leczeniu biegunki podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
+- [TravelHealthPro – biegunka podróżnych: leczenie objawowe i sytuacje, w których nie należy stosować loperamidu](https://travelhealthpro.org.uk/factsheet/53/travellers-diarrhoea)
+
 ## Wirusowe zapalenie wątroby typu A
 
 **Wirusowe zapalenie wątroby typu A (WZW A)** nie jest tym samym co typowa biegunka podróżnych. Oba problemy łączy jednak to, że do zakażenia może dojść drogą pokarmową, np. przez skażoną żywność, wodę lub ręce.
@@ -433,20 +453,22 @@ Podstawą jest możliwość prawidłowego nawodnienia. Warto mieć:
 
 - saszetki ORS/DPN, np. jeden z preparatów opisanych wyżej;
 - środek do dezynfekcji rąk zawierający co najmniej 60% alkoholu;
+- **loperamid, np. Stoperan 2 mg**, jako awaryjny lek objawowy do odpowiednich przypadków niekrwawej biegunki;
 - stale przyjmowane leki w zapasie na cały pobyt i ewentualne opóźnienie powrotu;
-- indywidualnie dobrane leki przeciwbiegunkowe lub inne leki zalecone przez lekarza lub farmaceutę.
+- inne indywidualnie dobrane leki lub preparaty zalecone przez lekarza lub farmaceutę.
 
 CDC w zestawie podróżnym wymienia m.in. doustne elektrolity oraz loperamid do objawowego leczenia niekrwawej biegunki. Loperamid **nie powinien być stosowany samodzielnie przy biegunce z krwią lub biegunce z gorączką**. Dobór leków powinien uwzględniać stan zdrowia konkretnej osoby.
 
 Źródła:
 
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
 - [CDC Yellow Book 2026 – wyposażenie apteczki podróżnej](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
 - [CDC Yellow Book 2026 – leczenie i nawadnianie w biegunce podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 - [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – nawodnienie w ostrej biegunce](https://ncez.pzh.gov.pl/choroba-a-dieta/dieta-w-ostrej-biegunce-nawodnienie-to-priorytet/)
 
 ## Kiedy szukać pomocy medycznej
 
-Przy biegunce konsultacji medycznej wymaga zwłaszcza ciężki lub pogarszający się stan, niemożność skutecznego nawadniania, krew w stolcu, gorączka lub utrzymywanie się objawów. ChPL Enterolu zaleca ponowną ocenę leczenia u dorosłych, jeżeli biegunka trwa dłużej niż dwa dni, albo gdy wystąpi krew w kale lub gorączka.
+Przy biegunce konsultacji medycznej wymaga zwłaszcza ciężki lub pogarszający się stan, niemożność skutecznego nawadniania, krew w stolcu, gorączka lub utrzymywanie się objawów. ChPL Enterolu zaleca ponowną ocenę leczenia u dorosłych, jeżeli biegunka trwa dłużej niż dwa dni, albo gdy wystąpi krew w kale lub gorączka. W przypadku stosowania loperamidu ChPL Stoperanu również wskazuje, że jeżeli w ostrej biegunce **w ciągu 48 godzin nie nastąpi poprawa**, lek należy odstawić i skonsultować dalsze postępowanie.
 
 Przy problemach związanych ze słońcem pomocy medycznej wymagają m.in. rozległe lub silnie bolesne oparzenia, duże pęcherze, gorączka, omdlenie, silne osłabienie, zaburzenia świadomości albo inne objawy mogące wskazywać na znaczne odwodnienie lub przegrzanie.
 
@@ -455,6 +477,7 @@ Po kontakcie z meduzą lub innym zwierzęciem morskim pilnej pomocy wymagają zw
 Źródła:
 
 - [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
 - [NFZ – kiedy oparzenie słoneczne wymaga konsultacji medycznej](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
 - [CDC Yellow Book 2026 – objawy alarmowe po kontakcie z parzącymi zwierzętami morskimi](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html)
 
