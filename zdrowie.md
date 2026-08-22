@@ -491,40 +491,32 @@ NIZP PZH–PIB podaje, że w polskich aptekach dostępne są bez recepty doustne
 
 ### Przykłady dostępne w Polsce
 
-Poniższe produkty są **przykładami, a nie rankingiem**. Ceny są orientacyjne i mogą się różnić pomiędzy aptekami. Stan sprawdzenia: 22 sierpnia 2026 r.
+Poniższe produkty są **przykładami, a nie rankingiem**.
 
-- **ORSALIT dla dorosłych, smak malinowo-cytrynowy** — żywność specjalnego przeznaczenia medycznego; opakowanie 10 saszetek. Jedną saszetkę rozpuszcza się w 200 ml wody zgodnie z instrukcją producenta. Cena opakowania wynosiła około **20–39 zł**.
-- **Gastrolit** — lek dostępny bez recepty do nawadniania doustnego; opakowanie 14 saszetek. Jedną saszetkę rozpuszcza się w 200 ml gorącej, przegotowanej wody i po ostudzeniu wypija zgodnie z ulotką. Cena opakowania wynosiła około **25–38 zł**.
+- **ORSALIT dla dorosłych, smak malinowo-cytrynowy** — żywność specjalnego przeznaczenia medycznego; opakowanie 10 saszetek. Jedną saszetkę rozpuszcza się w 200 ml wody zgodnie z instrukcją producenta.
+- **Gastrolit** — lek dostępny bez recepty do nawadniania doustnego; opakowanie 14 saszetek. Jedną saszetkę rozpuszcza się w 200 ml gorącej, przegotowanej wody i po ostudzeniu wypija zgodnie z ulotką.
 
 Przy zakupie można po prostu powiedzieć farmaceucie: **„Proszę o doustny płyn nawadniający ORS dla osoby dorosłej, do stosowania przy biegunce lub wymiotach.”**
 
 Nie należy dosypywać dodatkowego cukru ani soli do gotowego preparatu i należy zawsze rozpuszczać saszetkę w dokładnie takiej ilości wody, jaką podaje producent. Zbyt mała lub zbyt duża ilość wody zmienia stężenie roztworu.
 
-Źródła:
+Aktualne przykłady produktów do kupienia i ich ceny utrzymujemy w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
+
+Źródła dotyczące przeznaczenia i przygotowania:
 
 - [BIOMED – ORSALIT dla dorosłych: przeznaczenie, skład i sposób przygotowania](https://biomed.pl/produkty/orsalit-o-smaku-malinowo-cytrynowym-dla-doroslych/)
 - [Rejestr Produktów Leczniczych – ulotka leku Gastrolit](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2601/leaflet)
-- [GdziePoLek – ORSALIT dla dorosłych: orientacyjna cena i dostępność w Polsce](https://www.gdziepolek.pl/produkty/57956/orsalit-dla-doroslych-proszek-do-wytworzenia-zawiesiny/apteki/w-polsce)
-- [GdziePoLek – Gastrolit: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/32013/gastrolit-proszek-do-wytworzenia-plynu/apteki)
 
 ## Co mieć w apteczce na wypadek biegunki
 
-Podstawą jest możliwość prawidłowego nawodnienia. Warto mieć:
-
-- saszetki ORS/DPN, np. jeden z preparatów opisanych wyżej;
-- środek do dezynfekcji rąk zawierający co najmniej 60% alkoholu;
-- **loperamid, np. Stoperan 2 mg**, jako awaryjny lek objawowy do odpowiednich przypadków niekrwawej biegunki;
-- stale przyjmowane leki w zapasie na cały pobyt i ewentualne opóźnienie powrotu;
-- inne indywidualnie dobrane leki lub preparaty zalecone przez lekarza lub farmaceutę.
+Podstawą jest możliwość prawidłowego nawodnienia. W praktyce warto mieć ORS/DPN oraz — po indywidualnym uwzględnieniu przeciwwskazań — lek awaryjny taki jak loperamid. Pełna lista rzeczy do spakowania znajduje się w materiale [Co zabrać](co-zabrac.md), a produkty wymagające zakupu w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
 
 CDC w zestawie podróżnym wymienia m.in. doustne elektrolity oraz loperamid do objawowego leczenia niekrwawej biegunki. Loperamid **nie powinien być stosowany samodzielnie przy biegunce z krwią lub biegunce z gorączką**. Dobór leków powinien uwzględniać stan zdrowia konkretnej osoby.
 
 Źródła:
 
-- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
 - [CDC Yellow Book 2026 – wyposażenie apteczki podróżnej](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
 - [CDC Yellow Book 2026 – leczenie i nawadnianie w biegunce podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
-- [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – nawodnienie w ostrej biegunce](https://ncez.pzh.gov.pl/choroba-a-dieta/dieta-w-ostrej-biegunce-nawodnienie-to-priorytet/)
 
 ## Kiedy szukać pomocy medycznej
 
