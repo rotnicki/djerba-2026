@@ -1,5 +1,11 @@
 # Łączność
 
+Stan weryfikacji: 22 sierpnia 2026 r.
+
+Ten materiał zbiera zasady komunikacji grupy oraz praktyczne informacje o internecie, eSIM, WhatsAppie, polskich kartach SIM, roamingu i Wi-Fi Calling podczas pobytu na Dżerbie. Ma pomóc przygotować telefony przed wyjazdem i uniknąć przypadkowych kosztów roamingowych, a jednocześnie zapewnić działający podstawowy i awaryjny sposób kontaktu.
+
+Oferty operatorów, banków i dostawców eSIM mogą się szybko zmieniać. Informacje oznaczone datą sprawdzenia należy ponownie zweryfikować bezpośrednio przed wyjazdem, szczególnie ceny pakietów, zasady roamingu i dostępność Wi-Fi Calling dla konkretnej taryfy oraz telefonu.
+
 ## Ustalone
 
 ### Zasada podstawowa
