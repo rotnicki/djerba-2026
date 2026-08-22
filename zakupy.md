@@ -2,9 +2,7 @@
 
 Stan weryfikacji: 22 sierpnia 2026 r.
 
-Ten materiał jest wspólną listą rzeczy, które mogą wymagać kupienia specjalnie na wyjazd. Nie powtarza pełnych uzasadnień medycznych ani zasad pakowania — szczegóły pozostają odpowiednio w plikach `zdrowie.md` i `pakowanie.md`.
-
-Nie każdy element trzeba kupować: część rzeczy uczestnicy mogą już mieć. Przy lekach i preparatach zdrowotnych lista nie zastępuje indywidualnej porady lekarza lub farmaceuty.
+To wspólna lista rzeczy, które mogą wymagać kupienia specjalnie na wyjazd. Nie każdy element trzeba kupować: część rzeczy uczestnicy mogą już mieć. Przy lekach i preparatach zdrowotnych lista nie zastępuje indywidualnej porady lekarza lub farmaceuty.
 
 ## Ochrona przed słońcem i plaża
 
@@ -16,13 +14,13 @@ Nie każdy element trzeba kupować: część rzeczy uczestnicy mogą już mieć.
 - **Lekki preparat łagodzący po oparzeniu słonecznym** — np. emulsja lub pianka z D-pantenolem albo alantoiną.
 - **Opcjonalnie: lekka odzież lub koszulka kąpielowa z UPF 50** — szczególnie przy dłuższym przebywaniu na słońcu lub w wodzie.
 
-Źródła i dokładne uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpieczeństwo w morzu i na plaży](zdrowie.md).
+Szczegółowe uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpieczeństwo w morzu i na plaży](zdrowie.md).
 
 Źródło dotyczące samej plaży: [Itaka – Hotel Club Palm Azur: opis plaży i zalecenie obuwia ochronnego](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/).
 
 ## Apteczka i preparaty zdrowotne
 
-- **Doustny płyn nawadniający ORS/DPN** — warto kupić saszetki przeznaczone do nawadniania przy biegunce lub wymiotach, a nie dowolne „elektrolity”. Przykłady opisane w materiale zdrowotnym: **ORSALIT dla dorosłych** (około 20–39 zł za 10 saszetek) albo **Gastrolit** (około 25–38 zł za 14 saszetek). Ceny sprawdzone 22 sierpnia 2026 r.
+- **Doustny płyn nawadniający ORS/DPN** — warto kupić saszetki przeznaczone do nawadniania przy biegunce lub wymiotach, a nie dowolne „elektrolity”. Przykłady: **ORSALIT dla dorosłych** (około 20–39 zł za 10 saszetek) albo **Gastrolit** (około 25–38 zł za 14 saszetek). Ceny sprawdzone 22 sierpnia 2026 r.
 - **Preparat do dezynfekcji rąk** — co najmniej 60% alkoholu.
 - **Enterol 250 mg — produkt leczniczy zawierający *Saccharomyces boulardii* CNCM I-745** — tylko jako opcjonalny zakup po indywidualnej decyzji. Nie traktujemy go jako obowiązkowej ochrony przed biegunką podróżnych ani nie przyjmujemy grupowego schematu stosowania.
 - **Lek przeciwbiegunkowy** — ewentualnie indywidualnie dobrany po konsultacji z lekarzem lub farmaceutą; nie wpisujemy jednego obowiązkowego preparatu dla całej grupy.
@@ -30,13 +28,9 @@ Nie każdy element trzeba kupować: część rzeczy uczestnicy mogą już mieć.
 
 Szczegóły dotyczące ORS/DPN, Enterolu, leków przeciwbiegunkowych, przeciwwskazań i zasad samoleczenia: [Zdrowie – biegunka podróżnych, nawodnienie i apteczka](zdrowie.md).
 
-Szczepienie przeciw WZW A pozostaje opisane w `zdrowie.md`; nie traktujemy go w tym pliku jako zwykłego zakupu produktu.
+Informacje o szczepieniu przeciw WZW A znajdują się w dziale [Zdrowie – wirusowe zapalenie wątroby typu A i szczepienie](zdrowie.md). Szczepienia nie traktujemy tutaj jako zwykłego zakupu produktu.
 
 ## Sprzęt
 
 - **Mały wentylator akumulatorowy USB-C** — przydatny na wycieczki, transfery i podczas oczekiwania w upale. Sensowne kryteria to akumulator około 3000–5000 mAh, kilka poziomów nawiewu, niewielka masa oraz możliwość używania w ręce i postawienia na stoliku.
 - **Model obecnie brany pod uwagę:** składany wentylator ręczny 5000 mAh, USB-C, 5 prędkości i wyświetlacz cyfrowy. Cena oferty może się zmieniać; przy ostatnim sprawdzeniu była w okolicach 70 zł. [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406).
-
-## Zasada dalszego prowadzenia listy
-
-Kolejne rzeczy dopisujemy przede wszystkim jako pozycje w jednej z powyższych kategorii. Osobny nagłówek dla konkretnego produktu tworzymy dopiero wtedy, gdy wymaga on większego porównania wariantów, cen lub parametrów. Dzięki temu plik może rosnąć bez nadmiernie rozbudowanej hierarchii nagłówków.
