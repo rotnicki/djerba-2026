@@ -270,6 +270,45 @@ Najrozsądniejszy plan dla naszej grupy:
 
 [Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
 
+## Wylot i organizacja na lotnisku
+
+Asysta dla osób z niepełnosprawnościami / PRM powinna być zgłoszona przed podróżą przez przewoźnika lub biuro podróży. Na lotnisku nie zamawiamy jej od początku po raz drugi — po przybyciu zgłaszamy, że osoby objęte wcześniej zamówioną asystą są już na miejscu i gotowe do rozpoczęcia obsługi.
+
+### Grupa warszawska — Lotnisko Chopina
+
+- **Planowana godzina zbiórki: około 8:30.** Jest to godzina, na którą uczestnicy powinni starać się dotrzeć na lotnisko, a nie sztywna godzina rozpoczęcia asysty.
+- Jeżeli którejś osoby jeszcze nie ma, pozostali **czekają na zebranie całej grupy**. Dopiero gdy wszyscy są już na miejscu — w praktyce może to być bliżej **9:00** — zgłaszamy gotowość grupy do skorzystania z wcześniej zamówionej asysty.
+- Najprościej podejść do **punktu informacji lotniskowej w ogólnodostępnej hali odlotów** i powiedzieć, że grupa ma wcześniej zgłoszoną przez biuro podróży asystę PRM oraz że wszyscy uczestnicy są już na miejscu. Informacja lotniskowa może wskazać dalszy sposób kontaktu z obsługą asysty.
+- Przy zgłoszeniu warto mieć pod ręką **numer rejsu i dokumenty podróży**.
+- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę dla osób z niepełnosprawnościami na nasz lot do Dżerby. Grupa jest już w komplecie. Prosimy o wskazanie lub przywołanie obsługi asysty.”**
+- Awaryjnie można skontaktować się z informacją lotniskową pod numerem **+48 22 650 42 20**.
+
+Lotnisko Chopina podaje, że odprawa na większość lotów rozpoczyna się zwykle około 2 godzin przed odlotem, dlatego zasady „czekamy na wszystkich” nie należy rozumieć jako możliwości dowolnego opóźniania odprawy. Jeżeli przybycie któregoś uczestnika zaczęłoby zagrażać terminowemu przejściu formalności, trzeba skontaktować się z obsługą lotniska lub organizatorem.
+
+Źródła:
+
+- [Lotnisko Chopina – odprawa pasażerów i kontakt do informacji lotniskowej](https://airportchopin.com/pl/info/odprawa)
+- [Lotnisko Chopina – kontakt: informacja lotniskowa dla podróżnych](https://airportchopin.com/pl/info/o-lotnisku)
+- [Rozporządzenie (WE) nr 1107/2006 – prawa osób niepełnosprawnych i osób o ograniczonej sprawności ruchowej podróżujących drogą lotniczą](https://eur-lex.europa.eu/eli/reg/2006/1107/oj/pol)
+
+### Grupa katowicka — Katowice Airport
+
+- **Godzina zbiórki: do uzupełnienia po potwierdzeniu ustaleń grupy katowickiej.**
+- Dżerba jest kierunkiem poza strefą Schengen, dlatego dla tego wylotu właściwy jest **Terminal A (Non-Schengen)**.
+- Po zebraniu całej grupy należy zgłosić gotowość do wcześniej zamówionej asysty **bezpośrednio obsłudze PRM Katowice Airport**:
+    - **+48 32 39 27 394**;
+    - **+48 666 024 216**.
+- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę PRM na lot do Dżerby. Nasza grupa jest już w komplecie i jesteśmy w Terminalu A. Prosimy powiedzieć, gdzie mamy czekać na obsługę asysty.”**
+- Jeżeli nie uda się połączyć bezpośrednio z PRM, awaryjnie działa całodobowa **informacja lotniskowa: +48 32 39 27 000**.
+- Katowice Airport prosi pasażerów wymagających asysty o przybycie **co najmniej 2 godziny przed wylotem**.
+
+Źródła:
+
+- [Katowice Airport – obsługa osób niepełnosprawnych PRM: kontakt](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/kontakt)
+- [Katowice Airport – PRM: informacje na lotnisku i zalecenie przybycia minimum 2 godziny przed wylotem](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/na-lotnisku)
+- [Katowice Airport – ważne telefony](https://www.katowice-airport.com/pl/dla-pasazera/wazne-telefony)
+- [Katowice Airport – terminale: Terminal A obsługuje kierunki Non-Schengen](https://www.katowice-airport.com/pl/dla-pasazera/mapy-terminali)
+
 ## Do ponownego sprawdzenia tuż przed wyjazdem
 
 Poniższe punkty nie są brakami w obecnych informacjach, lecz rzeczami, które mogą zmienić się nawet krótko przed podróżą albo wymagają działania samych uczestników:
