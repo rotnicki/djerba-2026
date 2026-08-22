@@ -44,6 +44,10 @@ Między uczestnikami używamy przede wszystkim WhatsAppa. Zwykłych połączeń 
 - Podróżna eSIM służy zwykle wyłącznie do transmisji danych, a nie jako zamiennik polskiego numeru telefonu.
 - Rozmowy między uczestnikami oraz rozmowy z Polską prowadzić przez WhatsApp z wykorzystaniem danych z eSIM.
 
+### Praktyczna zasada dla pokoi
+
+Dobrze, aby **w każdym pokoju przynajmniej jedna osoba miała działający mobilny internet niezależny od hotelowego Wi-Fi** — np. podróżną eSIM, lokalną kartę SIM albo inny świadomie wybrany pakiet danych. Nie oznacza to, że każda osoba musi kupować osobną eSIM. Chodzi o to, aby przy problemie z hotelowym Wi-Fi, podczas wyjścia poza hotel albo w nagłej sytuacji każdy pokój miał przynajmniej jeden telefon, z którego można skorzystać z WhatsAppa, map, informacji organizacyjnych lub internetu.
+
 ## Internet poza hotelem — podróżne eSIM i pakiety danych
 
 Stan sprawdzenia: 22 sierpnia 2026 r.
