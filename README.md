@@ -25,6 +25,26 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 - Ustalenia potwierdzone zapisujemy oddzielnie od pomysłów i rzeczy do weryfikacji.
 - W sprawach zdrowotnych rozróżniamy fakty wynikające ze źródeł od praktycznych wniosków i rekomendacji.
 
+## Pliki kanoniczne i zasada niedublowania
+
+Każdy większy temat powinien mieć jedno główne miejsce, w którym utrzymywana jest jego pełna i aktualna wersja. W innych plikach można powtórzyć krótką informację potrzebną w danym kontekście, ale szczegółowe uzasadnienia, zmienne ceny i dane wymagające aktualizacji powinny prowadzić do pliku kanonicznego zamiast być kopiowane w kilku miejscach.
+
+Podział odpowiedzialności:
+
+- **zdrowie, bezpieczeństwo medyczne i zasady stosowania preparatów** — [Zdrowie](zdrowie.md);
+- **rzeczy do spakowania** — [Co zabrać](co-zabrac.md);
+- **konkretne produkty do kupienia i ich bieżące ceny** — [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md);
+- **pieniądze, TND, EUR, karty, podatek i ogólny budżet** — [Pieniądze i płatności](pieniadze.md);
+- **ceny, programy i organizatorzy wycieczek** — [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md);
+- **łączność, eSIM, WhatsApp i Wi-Fi Calling** — [Łączność](lacznosc.md);
+- **organizacja pobytu w hotelu, dane kontaktowe, zameldowanie, pokoje i All Inclusive** — [Praktyczne informacje](praktyczne.md);
+- **kultura, zachowanie, ubiór i społeczny kontekst alkoholu** — [Kultura i zwyczaje](kultura-i-zwyczaje.md);
+- **język i zwroty** — [Język i podstawowe zwroty](jezyk-i-zwroty.md).
+
+Nie każde powtórzenie jest błędem. Ta sama rzecz może pojawić się np. jako zalecenie medyczne w `zdrowie.md`, pozycja zakupowa w `co-kupic-przed-wyjazdem.md` i element listy pakowania w `co-zabrac.md`. W takim przypadku każdy plik zachowuje tylko zakres potrzebny do swojej funkcji, a szczegóły pozostają w pliku kanonicznym.
+
+Dane techniczne, takie jak nazwy działów w nawigacji albo numery telefonów powtórzone w pliku vCard, mogą być celowo duplikowane, jeśli jest to konieczne do działania strony lub samodzielnego użycia eksportowanego pliku.
+
 ## Standard wstępów do materiałów
 
 Każdy główny plik tematyczny powinien zaczynać się tak, aby osoba otwierająca go bez kontekstu od razu wiedziała, **czym jest materiał, do czego służy i jak ostrożnie traktować jego treść**.
