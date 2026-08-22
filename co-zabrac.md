@@ -190,7 +190,7 @@ Nakrycie głowy, lekka odzież osłaniająca skórę i buty do wody opisano wyż
 
 ## Zdrowie i apteczka
 
-- Saszetki ORS/DPN, czyli doustnego płynu nawadniającego do stosowania przy biegunce lub wymiotach; przykłady: ORSALIT dla dorosłych albo Gastrolit.
+- Saszetki ORS/DPN, czyli doustnego płynu nawadniającego do stosowania przy biegunce lub wymiotach.
 - Preparat do dezynfekcji rąk zawierający co najmniej 60% alkoholu.
 - **Repelent przeciw owadom** – najlepiej preparat z uznaną substancją czynną, np. DEET albo pikarydyną/ikarydyną, stosowany zgodnie z instrukcją producenta.
 - **Preparat łagodzący ukąszenia owadów** – do stosowania przy zwykłym miejscowym świądzie i podrażnieniu.
@@ -199,25 +199,11 @@ Nakrycie głowy, lekka odzież osłaniająca skórę i buty do wody opisano wyż
 - Stałe leki w ilości wystarczającej na cały pobyt oraz rozsądny zapas na wypadek opóźnionego powrotu.
 - Inne indywidualnie dobrane leki i preparaty zalecone przez lekarza lub farmaceutę.
 
-Szczegółowe zasady dotyczące słońca, kąpieli w morzu, owadów i ukąszeń, zwierząt i wścieklizny, biegunki podróżnych, nawodnienia, Enterolu, loperamidu/Stoperanu, WZW A i szczepień: [Zdrowie](zdrowie.md).
+Szczegółowe zasady dotyczące słońca, kąpieli w morzu, owadów i ukąszeń, zwierząt i wścieklizny, biegunki podróżnych, nawodnienia, Enterolu, loperamidu/Stoperanu, WZW A i szczepień: [Zdrowie](zdrowie.md). Konkretne produkty do kupienia i ich bieżące ceny utrzymujemy w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
 
-Źródła dotyczące Enterolu i loperamidu/Stoperanu:
+## Alkohol — jeśli ktoś zabiera
 
-- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
-- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
-- [CDC Yellow Book 2026 – biegunka podróżnych: profilaktyka i leczenie](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
-
-## Alkohol — tylko dla chętnych, nie jako „dezynfekcja od środka”
-
-Jeżeli ktoś chce zabrać alkohol **do własnego spożycia albo jako drobny upominek**, jest to indywidualny wybór. Nie traktujemy go jednak jako elementu apteczki ani sposobu zapobiegania „zemście faraona”. Pomysł, że kieliszek mocnego alkoholu po posiłku „zabije bakterie w żołądku”, **nie ma oparcia w zaleceniach medycyny podróży**.
-
-CDC nie tylko nie zaleca picia alkoholu w profilaktyce biegunki podróżnych, ale w Yellow Book wskazuje, że używanie alkoholu podczas podróży może zwiększać ryzyko problemów medycznych, w tym **biegunki oraz chorób związanych z upałem**. NIAAA opisuje, że alkohol może podrażniać błonę śluzową przewodu pokarmowego i zwiększać utratę płynów. Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB zaleca przy biegunce **wyeliminowanie alkoholu**, ponieważ należy on do produktów mogących nasilać dolegliwości ze strony przewodu pokarmowego.
-
-Praktyczny wniosek jest więc odwrotny od „wewnętrznej dezynfekcji”: **alkohol nie zastępuje higieny, bezpiecznej wody, ostrożności przy jedzeniu ani ORS/DPN, a przy biegunce lub dużym upale może pogorszyć nawodnienie i objawy**. Nie oznacza to, że okazjonalne wypicie niewielkiej ilości przez zdrową osobę automatycznie spowoduje biegunkę; chodzi o to, że nie ma działania ochronnego i nie powinno być stosowane w tym celu.
-
-Jeżeli ktoś przyjmuje leki, powinien dodatkowo sprawdzić w ulotce lub u farmaceuty, czy nie wchodzą one w interakcję z alkoholem.
-
-### Ile alkoholu można zabrać
+Alkohol do własnego spożycia albo jako drobny upominek jest indywidualnym wyborem. **Nie traktujemy go jako elementu apteczki ani sposobu zapobiegania biegunce podróżnych.** Medyczne wyjaśnienie mitu „dezynfekcji od środka” znajduje się w materiale [Zdrowie](zdrowie.md), a kontekst kulturowy dotyczący alkoholu i prezentów w materiale [Kultura i zwyczaje](kultura-i-zwyczaje.md).
 
 Tunezyjska służba celna podaje następujące limity dla podróżnego:
 
@@ -228,15 +214,8 @@ Dla typowej wódki, w tym Żubrówki o mocy powyżej 25%, praktycznym limitem pr
 
 Z punktu widzenia bezpieczeństwa lotniczego Urząd Lotnictwa Cywilnego dopuszcza napoje zawierające od 24% do 70% alkoholu w bagażu rejestrowanym w oryginalnych opakowaniach, do 5 litrów na osobę. **Przy locie do Tunezji i tak obowiązuje jednak niższy tunezyjski limit celny.** W bagażu podręcznym alkohol zabrany przed kontrolą bezpieczeństwa podlega standardowemu limitowi płynów: pojemnik do 100 ml.
 
-Więcej o samym micie „dezynfekowania żołądka” i zapobieganiu biegunce: [Zdrowie](zdrowie.md).
-
 Źródła:
 
-- [CDC Yellow Book 2026 – alkohol w podróży i zwiększone ryzyko m.in. biegunki oraz chorób związanych z upałem](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/substance-use.html)
-- [CDC Yellow Book 2026 – bezpieczeństwo żywności i wody; alkohol w napoju nie unieszkodliwia patogenów w skażonym lodzie](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html)
-- [NIAAA – wpływ alkoholu na przewód pokarmowy](https://www.niaaa.nih.gov/alcohols-effects-health/alcohols-effects-body)
-- [NIAAA – alkohol zwiększa oddawanie moczu i utratę płynów](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)
-- [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – zalecenia przy biegunce, w tym eliminacja alkoholu](https://ncez.pzh.gov.pl/choroba-a-dieta/choroby-ukladu-pokarmowego/biegunka-zalecenia-i-jadlospis2/)
 - [Tunezyjska służba celna – limity wwozu alkoholu](https://www.douane.gov.tn/tabac-et-boissons-alcoolisees/)
 - [Urząd Lotnictwa Cywilnego – zasady przewozu napojów alkoholowych](https://bezpiecznybagaz.ulc.gov.pl/dg-search?cat=6)
 
