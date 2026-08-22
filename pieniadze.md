@@ -2,11 +2,12 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Ten plik zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjskich, podatku hotelowego oraz pieniędzy potrzebnych na wycieczki i wydatki na miejscu.
+Ten plik zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjskich, **obowiązkowego podatku turystycznego** oraz pieniędzy potrzebnych na wycieczki i wydatki na miejscu.
 
 ## Najkrócej
 
 - Podstawową walutą na miejscu jest **dinar tunezyjski (TND)**.
+- Do szybkiego liczenia można przyjmować **1 TND ≈ 1,3 PLN**. Najnowsza dostępna tabela B NBP z 19 sierpnia 2026 r. podaje **1 TND = 1,2806 PLN**.
 - TND warto mieć w gotówce na drobne wydatki: taksówki, bazary, małe sklepy, napiwki i miejsca, które nie przyjmują kart.
 - **Euro w gotówce** warto zabrać jako rezerwę, do wymiany na TND i ewentualnie do opłacenia wycieczek, jeśli organizator przyjmuje EUR.
 - **Revolut** obsługuje płatności kartą i wypłaty z bankomatów w TND.
@@ -14,7 +15,7 @@ Ten plik zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tunezyjs
 - Oprócz Revoluta warto mieć **drugą fizyczną kartę bankową** jako zabezpieczenie.
 - Dla naszego 7-nocnego wyjazdu rozsądny punkt wyjścia to około **150–200 EUR gotówki na osobę + karty**, jeżeli planujemy około dwóch wycieczek fakultatywnych. **Około 200 EUR na osobę** jest obecnie najbezpieczniejszym prostym założeniem roboczym.
 - Jeśli większość wycieczek będzie opłacana Revolutem lub kartą, można zejść bliżej **100–150 EUR gotówki na osobę**. Jeśli ktoś wybierze 2-dniową Saharę albo kilka płatnych dodatków, rozsądniej przyjąć **200–250 EUR na osobę**.
-- W Club Palm Azur 4★ podatek hotelowy wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę** powyżej 12. roku życia.
+- W Club Palm Azur 4★ **obowiązkowy podatek turystyczny** wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę** powyżej 12. roku życia, czyli orientacyjnie około **108 PLN** według kursu NBP z 19 sierpnia 2026 r.
 
 ## Dinar tunezyjski – TND
 
@@ -29,15 +30,37 @@ Dinar tunezyjski jest walutą potrzebną do codziennych wydatków na miejscu. Sz
 
 ITAKA w aktualnych informacjach praktycznych dla Dżerby zaleca przywiezienie euro lub dolarów i wymianę ich na walutę lokalną na miejscu. Informuje również, że dinarów nie wolno wywozić z Tunezji i że warto zachowywać potwierdzenia wymiany, potrzebne przy ewentualnej wymianie pozostałych dinarów przed powrotem.
 
-[ITAKA – informacje praktyczne dla Dżerby: waluta i podatek turystyczny](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-vincci-helios-beach%2CDJEHELI/)
+[ITAKA – informacje praktyczne dla Dżerby: waluta i obowiązkowy podatek turystyczny](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/informacje-praktyczne/)
 
 Brytyjskie oficjalne informacje dla podróżnych również wskazują na tunezyjskie ograniczenia walutowe, zakaz wywozu TND oraz potrzebę zachowania oficjalnych potwierdzeń wymiany.
 
-[GOV.UK – Tunisia entry requirements: hotel tax i zasady dotyczące waluty](https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements)
+[GOV.UK – Tunisia entry requirements: podatek i zasady dotyczące waluty](https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements)
+
+### Ile TND jest warte w złotych
+
+Najnowsza dostępna tabela B Narodowego Banku Polskiego z **19 sierpnia 2026 r.** podaje kurs średni:
+
+**1 TND = 1,2806 PLN.**
+
+[NBP – tabela B kursów średnich walut obcych](https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/tabela-b/)
+
+Dla prostego liczenia podczas wyjazdu nie ma potrzeby zapamiętywania czterech miejsc po przecinku. Można przyjąć:
+
+- **1 TND ≈ 1,3 PLN**;
+- **10 TND ≈ 13 PLN**;
+- **20 TND ≈ 26 PLN**;
+- **50 TND ≈ 64 PLN**;
+- **100 TND ≈ 128–130 PLN**.
+
+ITAKA również podaje w swoich aktualnych informacjach dla Dżerby orientacyjnie **1 TND ≈ 1,3 PLN**.
+
+[ITAKA – Dżerba: waluta i orientacyjny kurs TND](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/informacje-praktyczne/)
+
+To jest kurs orientacyjny. Faktyczny kurs wymiany euro na TND, kurs karty albo Revoluta w danym momencie może być trochę inny.
 
 ### Ile TND mieć od razu
 
-Nie ma potrzeby kupowania „na zapas” dużej ilości dinarów. Najważniejszą znaną z góry kwotą jest **84 TND podatku hotelowego na osobę powyżej 12. roku życia** za cały 7-nocny pobyt.
+Nie ma potrzeby wymieniania „na zapas” dużej ilości dinarów. Najważniejszą znaną z góry kwotą jest **84 TND obowiązkowego podatku turystycznego na osobę powyżej 12. roku życia** za cały 7-nocny pobyt.
 
 Do tego warto mieć niewielki zapas TND na pierwsze dni na:
 
@@ -47,6 +70,71 @@ Do tego warto mieć niewielki zapas TND na pierwsze dni na:
 - drobne wydatki poza hotelem.
 
 Nie ustalamy jeszcze sztywnej kwoty TND na cały tydzień, ponieważ będzie ona zależała od zakupów i od tego, czy dodatkowe atrakcje podczas wycieczek będą rozliczane w EUR czy TND. Lepiej wymieniać rozsądne kwoty w miarę potrzeb niż wrócić z dużą ilością niewykorzystanych dinarów, których nie wolno wywozić.
+
+## Taksówki na Dżerbie – ile mogą kosztować
+
+Taksówki są na Dżerbie na tyle tanie, że mogą być praktycznym sposobem na samodzielny dojazd niewielkiej grupy do Midoun, Djerba Explore czy Houmt Souk. Dla całej 18-osobowej grupy wygodniejszy będzie jednak zwykle zamówiony bus lub autokar, bo potrzebnych byłoby kilka zwykłych taksówek.
+
+### Oficjalna taryfa zwykłej taksówki
+
+Najświeższa decyzja taryfowa dla **taxi individuel**, którą udało się znaleźć w oficjalnym serwisie tunezyjskiego Ministerstwa Transportu, to decyzja nr 311 obowiązująca od 15 grudnia 2022 r. Ministerstwo nadal publikuje ją w dziale taryf. Nie znaleźliśmy na 22 sierpnia 2026 r. nowszej oficjalnej decyzji, która zastępowałaby te stawki.
+
+Według tej taryfy:
+
+- rozpoczęcie kursu: **0,900 TND**;
+- każde 79 m: **0,046 TND**, czyli w przybliżeniu **0,58 TND za kilometr**;
+- postój/oczekiwanie: **0,046 TND za każde 18 sekund**;
+- duży bagaż powyżej określonych wymiarów/masy: **1 TND za sztukę**;
+- między **21:00 a 5:00** naliczana jest dopłata **50%** do kwoty z taksometru;
+- przy kursie rozpoczynającym się na lotnisku obowiązuje dodatkowa opłata **4,5 TND**.
+
+[Tunezyjskie Ministerstwo Transportu – decyzja nr 311, oficjalna taryfa taxi individuel (PDF)](https://www.transport.tn/uploads/tarif/2022/Arrete_311.pdf)
+
+[Ministerstwo Transportu – strona publikująca decyzje taryfowe dla taksówek](https://www.transport.tn/fr/terrestre/article/378/tarifs-du-transport-non-regulier-des-personnes)
+
+Serwis informacyjny Djerba.com.tn podaje te same parametry taryfy i przykład, że kurs 5 km w dzień kosztuje około 3,8 TND; strona zaznacza, że dane zweryfikowano w styczniu 2024 r.
+
+[Djerba.com.tn – praktyczne informacje o taksówkach na Dżerbie](https://www.djerba.com.tn/fr/services/transport/taxis)
+
+### Orientacyjne kursy z Club Palm Azur
+
+Poniższe wartości są **szacunkiem według oficjalnej taryfy taksometru**, bez długiego oczekiwania i bez dopłaty nocnej. Rzeczywisty przebieg drogi może być trochę dłuższy, a kierowca może zaproponować cenę stałą zamiast jazdy na taksometrze.
+
+**Club Palm Azur → Midoun**
+
+TUI podaje około **6 km** od hotelu do centrum Midoun. Przy oficjalnej taryfie daje to orientacyjnie około **4–5 TND za samochód w jedną stronę**, czyli mniej więcej **5–6 PLN**.
+
+[TUI – Club Palm Azur: około 6 km do Midoun i 23 km do Houmt Souk](https://www.tui.pl/wypoczynek/tunezja/wyspa-djerba/club-palm-azur-dje11141)
+
+**Club Palm Azur → Djerba Explore**
+
+Źródła lokalizacyjne podają około **8,5–12 km**, zależnie od sposobu liczenia trasy. Z samej taryfy wychodzi więc orientacyjnie około **6–8 TND za samochód w jedną stronę**, czyli około **8–10 PLN**.
+
+[Booking.com – Club Palm Azur: Djerba Explore około 8,5 km](https://www.booking.com/hotel/tn/club-palm-azur-djerba.pl.html)
+
+[Hotels.com – Club Palm Azur: Djerba Explore około 11,9 km](https://ie.hotels.com/ho213921/hotel-club-palm-azur-couples-and-families-only-aghir-tunisia/)
+
+**Club Palm Azur → Houmt Souk**
+
+TUI podaje około **23 km**. Przy taryfie taksometrowej wychodzi orientacyjnie około **14–15 TND za samochód w jedną stronę**, czyli około **18–19 PLN**.
+
+[TUI – Club Palm Azur: położenie hotelu](https://www.tui.pl/wypoczynek/tunezja/wyspa-djerba/club-palm-azur-dje11141)
+
+### Jak traktować te ceny praktycznie
+
+To są **punkty odniesienia, a nie gwarantowane ceny kursu**. Internetowe zestawienia z 2026 r. pokazują pewne rozbieżności między taryfą licznikową, usługami transferowymi i cenami stałymi proponowanymi turystom. Na przykład E-Taxi dla Dżerby publikuje osobne, wyższe ceny stałe dla transferów lotniskowych i dalszych przejazdów.
+
+[E-Taxi – ceny taksówek i transferów na Dżerbie w 2026 r.](https://www.etaxi.tn/fr/blog/prix-taxi-djerba)
+
+Dlatego najlepiej:
+
+- przy zwykłej krótkiej jeździe poprosić o włączenie **taksometru**;
+- jeśli kierowca proponuje cenę stałą, **ustalić ją przed rozpoczęciem kursu**;
+- pamiętać, że po 21:00 taryfa jest wyższa;
+- przy większej grupie porównać koszt kilku taksówek z wynajęciem jednego busa;
+- płacić za zwykły kurs w **TND**, chyba że wcześniej wyraźnie ustalono inaczej.
+
+Dla orientacji: przejazd do Houmt Souk i z powrotem według samego taksometru to około **28–30 TND za samochód** w dzień. Jeśli jadą w nim 3–4 osoby i dzielą koszt, taksówka może być bardzo tanim sposobem na samodzielne wyjście poza hotel.
 
 ## Euro w gotówce
 
@@ -152,23 +240,23 @@ Oprócz Revoluta warto mieć drugą fizyczną kartę bankową, najlepiej przecho
 - awarii aplikacji lub telefonu;
 - problemu konkretnego terminala albo bankomatu z daną kartą.
 
-## Podatek hotelowy
+## Obowiązkowy podatek turystyczny
+
+W całym projekcie używamy nazwy **„obowiązkowy podatek turystyczny”**. W anglojęzycznych źródłach występuje on często jako **hotel tax**, a potocznie można spotkać również określenie „opłata hotelowa”, ale w naszych materiałach nie będziemy mieszać tych nazw.
 
 Dla zagranicznych turystów w hotelach 4★ i 5★ obowiązuje obecnie podatek **12 TND za osobę za noc**, naliczany maksymalnie za pierwszych 10 nocy pobytu.
 
 Club Palm Azur jest hotelem 4★, a nasz pobyt obejmuje 7 nocy, dlatego osoba powyżej 12. roku życia zapłaci:
 
-**7 × 12 TND = 84 TND na osobę.**
+**7 × 12 TND = 84 TND na osobę**, czyli przy kursie NBP z 19 sierpnia około **108 PLN**.
 
 Dla całej grupy nie podajemy jednej sumy, dopóki nie uwzględnimy wieku wszystkich uczestników.
 
-Aktualne polskie informacje ITAKI dla Dżerby podają 12 TND za dzień/osobę powyżej 12. roku życia, maksymalnie za 10 dni. Taką samą stawkę dla hoteli 4★ i 5★ potwierdzają informacje GOV.UK oraz tunezyjska dokumentacja dotycząca zmian podatku od 2024 r.
+Aktualne polskie informacje ITAKI dla Dżerby używają właśnie nazwy **„obowiązkowy podatek turystyczny”** i podają 12 TND za dzień/osobę powyżej 12. roku życia, maksymalnie za 10 dni. Taką samą stawkę dla hoteli 4★ i 5★ potwierdzają aktualne informacje GOV.UK.
 
-[ITAKA – Dżerba: obowiązkowy podatek turystyczny](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-vincci-helios-beach%2CDJEHELI/)
+[ITAKA – Dżerba: obowiązkowy podatek turystyczny](https://www.itaka.pl/nasze-kierunki/tunezja/djerba/informacje-praktyczne/)
 
 [GOV.UK – Tunisia: hotel tax](https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements)
-
-[Diwan / tunezyjska dokumentacja podatkowa – zmiana stawek podatku hotelowego](https://www.diwan.tn/document/card/d06d3a82-736d-418f-ae96-5a269447d4e0)
 
 ## Wycieczki i wydatki dodatkowe
 
@@ -204,7 +292,7 @@ Szczegółowe ceny i zasady poszczególnych programów są zbierane w [wycieczki
 
 Najbezpieczniejszy model na ten wyjazd to połączenie kilku sposobów płatności:
 
-1. **TND w gotówce** – bieżące lokalne wydatki.
+1. **TND w gotówce** – bieżące lokalne wydatki, w tym zwykłe taksówki.
 2. **Około 200 EUR gotówki na osobę** jako roboczy punkt wyjścia – rezerwa, wymiana i ewentualnie wycieczki rozliczane w EUR.
 3. **Fizyczna karta Revolut** – płatności i bankomat, gdzie to możliwe.
 4. **Druga fizyczna karta bankowa** – awaryjnie.
@@ -216,11 +304,13 @@ Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów 
 - Ostateczny wybór 1–3 wycieczek fakultatywnych i ich cena na osobę.
 - Które wybrane wycieczki będą płatne w EUR, TND, Revolutem lub kartą.
 - Czy po wyborze fakultetów robocze **200 EUR gotówki na osobę** należy zmniejszyć lub zwiększyć.
-- Ile TND warto wymienić na początku pobytu, poza **84 TND podatku hotelowego na osobę powyżej 12. roku życia**.
+- Ile TND warto wymienić na początku pobytu, poza **84 TND obowiązkowego podatku turystycznego na osobę powyżej 12. roku życia**.
 - Aktualne limity bezpłatnych wypłat z bankomatów dla konkretnych planów Revolut używanych przez uczestników.
-- Czy Club Palm Azur przyjmuje podatek hotelowy kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
+- Czy Club Palm Azur przyjmuje obowiązkowy podatek turystyczny kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
+- Czy przy przejazdach hotel–Midoun, hotel–Djerba Explore i hotel–Houmt Souk kierowcy zwykle włączają taksometr bez problemu; zweryfikujemy to praktycznie na miejscu.
 
 ## Historia zmian
 
+- 2026-08-22 – dodano aktualny kurs TND/PLN z NBP i prostą ściągę przeliczeniową; dodano oficjalną taryfę taksówek i orientacyjne ceny kursów z Club Palm Azur; ujednolicono nazewnictwo na **„obowiązkowy podatek turystyczny”**.
 - 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
-- 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, podatek hotelowy oraz płatności za wycieczki; dodano aktualne źródła.
+- 2026-08-22 – przeniesienie do pliku ustaleń z rozmowy: TND i euro, Revolut, DCC, druga karta, obowiązkowy podatek turystyczny oraz płatności za wycieczki; dodano aktualne źródła.
