@@ -117,7 +117,7 @@ Do rozważenia po weryfikacji źródeł:
 
 ### 7. Wycieczki, aktywności i ubezpieczenie
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres: `wycieczki.md` i ewentualnie `praktyczne.md`.
 
