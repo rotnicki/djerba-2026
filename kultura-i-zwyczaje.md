@@ -1,6 +1,6 @@
 # Kultura i zwyczaje
 
-Sprawdzono: 22 sierpnia 2026 r.
+Stan weryfikacji: 22 sierpnia 2026 r.
 
 Ten materiał dotyczy kultury, religii, zachowania wobec mieszkańców i miejscowych norm na Dżerbie. Nie należy traktować wszystkich opisanych tu praktyk jak przepisów prawa.
 
