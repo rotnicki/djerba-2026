@@ -240,7 +240,7 @@ Po zgłoszeniu podróży Odyseusz może pomóc przede wszystkim w czterech obsza
 
 MSZ w swoich zaleceniach dotyczących pomocy konsularnej wprost rekomenduje pozostawienie bliskim planu podróży oraz rejestrację w Odyseuszu, ponieważ system umożliwia kontakt z podróżnym w razie sytuacji kryzysowej.
 
-[MSZ – jakiej pomocy może udzielić konsul i dlaczego warto zarejestrować podróż](https://www.gov.pl/web/dyplomacja/jakiej-pomocy-moze-udzielic-konsul.)
+[MSZ – jakiej pomocy może udzielić konsul i dlaczego warto zarejestrować podróż](https://www.gov.pl/web/dyplomacja/jakiej-pomocy-moze-udzielic-konsul)
 
 ### Dlaczego ma to sens przy naszym wyjeździe
 
