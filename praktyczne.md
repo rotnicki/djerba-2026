@@ -115,10 +115,6 @@ To są godziny publikowane przed naszym wyjazdem. Hotel może zmienić bieżący
 
 [Itaka – Club Palm Azur: aktualne godziny posiłków, All Inclusive i zasady restauracji](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
 
-### Transport lokalny
-
-Informacje o taksówkach, oficjalnej taryfie, orientacyjnych kosztach przejazdów z Club Palm Azur oraz zasadach ustalania ceny są zebrane w dziale [Pieniądze i płatności](pieniadze.md). Nie ma potrzeby powtarzać ich tutaj.
-
 ## Odyseusz MSZ – warto zgłosić podróż
 
 **Odyseusz** to oficjalny system Ministerstwa Spraw Zagranicznych dla osób wyjeżdżających za granicę. Rejestracja podróży nie jest warunkiem wyjazdu, ale **warto ją zrobić**, ponieważ dzięki niej MSZ wie, że dana osoba przebywa w określonym kraju i terminie, może przekazywać jej ostrzeżenia oraz łatwiej nawiązać kontakt w sytuacji kryzysowej.
