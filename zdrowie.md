@@ -221,7 +221,7 @@ CDC w informacjach dla podróżujących do Tunezji zaleca ostrożność wobec zw
 
 Najpraktyczniej przed kąpielą zwrócić uwagę na komunikaty ratownika i zapytać obsługę plaży, jeśli meduzy są widoczne. Nie należy dotykać meduz ani ich fragmentów, również wyrzuconych na brzeg.
 
-Jeżeli dojdzie do poparzenia meduzy:
+#### Co zrobić po kontakcie z meduzą
 
 - wyjść z wody i poprosić ratownika lub osobę przeszkoloną w pierwszej pomocy o pomoc;
 - miejsce kontaktu spłukiwać **wodą morską, nie słodką wodą**;
