@@ -12,14 +12,14 @@ Opracowanie przygotował **Mikołaj Rotnicki**, zbierając, weryfikując i porz�
 
 **Ostatnia aktualizacja: 22 sierpnia 2026 r.**
 
-## Najważniejsze działy
+## Działy przewodnika
 
-- [Praktyczne informacje](praktyczne.md)
-- [Zdrowie](zdrowie.md)
-- [Co zabrać](co-zabrac.md)
-- [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md)
-- [Łączność](lacznosc.md)
-- [Pieniądze i płatności](pieniadze.md)
-- [Wycieczki i miejsca](wycieczki.md)
-- [Kultura i zwyczaje](kultura-i-zwyczaje.md)
-- [Język i podstawowe zwroty](jezyk-i-zwroty.md)
+- [Praktyczne informacje](praktyczne.md) — numery alarmowe, pomoc konsularna, czas, hotel i Odyseusz.
+- [Zdrowie](zdrowie.md) — szczepienia, słońce i upał, woda, biegunka podróżnych, leki i apteczka.
+- [Co zabrać](co-zabrac.md) — bagaż, dokumenty, leki, elektronika oraz rzeczy potrzebne na plażę i pobyt.
+- [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md) — konkretne produkty i zakupy, które warto rozważyć przed podróżą.
+- [Łączność](lacznosc.md) — internet, podróżne eSIM, polska karta SIM, Wi-Fi Calling i komunikatory.
+- [Pieniądze i płatności](pieniadze.md) — gotówka, dinary, euro, karty, Revolut, bankomaty i taksówki.
+- [Wycieczki i miejsca](wycieczki.md) — pomysły na zwiedzanie Dżerby i okolic.
+- [Kultura i zwyczaje](kultura-i-zwyczaje.md) — lokalne zasady, zachowanie, ubiór i codzienne zwyczaje.
+- [Język i podstawowe zwroty](jezyk-i-zwroty.md) — przydatne zwroty po arabsku i francusku wraz z polską wymową.
