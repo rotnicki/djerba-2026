@@ -7,6 +7,8 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 ## Struktura
 
 - [Praktyczne informacje](praktyczne.md)
+- [Kultura i zwyczaje](kultura-i-zwyczaje.md)
+- [Język i podstawowe zwroty](jezyk-i-zwroty.md)
 - [Zdrowie: słońce, bezpieczeństwo w morzu, biegunka podróżnych, WZW A i apteczka](zdrowie.md)
 - [Pakowanie](pakowanie.md)
 - [Łączność](lacznosc.md)
