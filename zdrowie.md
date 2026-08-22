@@ -4,25 +4,30 @@ Stan weryfikacji: 22 sierpnia 2026 r.
 
 Ten materiał ma charakter informacyjny dla uczestników wyjazdu. Nie zastępuje indywidualnej porady lekarza lub farmaceuty, zwłaszcza przy chorobach przewlekłych, ciąży, obniżonej odporności, alergiach i stałym przyjmowaniu leków.
 
-## Skróty i nazwy używane w tym dokumencie
+## Najważniejsze zasady zdrowotne na wyjazd
 
-- **CDC — Centers for Disease Control and Prevention**: amerykańska federalna instytucja zdrowia publicznego. Jej **Yellow Book 2026** jest specjalistycznym źródłem medycyny podróży.
-- **NIZP PZH–PIB — Narodowy Instytut Zdrowia Publicznego PZH – Państwowy Instytut Badawczy**.
-- **GIS — Główny Inspektorat Sanitarny**.
-- **WHO — World Health Organization (Światowa Organizacja Zdrowia)**.
-- **NFZ — Narodowy Fundusz Zdrowia**.
-- **INM — Institut National de la Météorologie (Narodowy Instytut Meteorologii Tunezji)**.
-- **UV — ultraviolet, promieniowanie ultrafioletowe**.
-- **UVA i UVB** — dwa zakresy promieniowania ultrafioletowego istotne dla ochrony skóry i oczu.
-- **UVI — Ultraviolet Index, indeks promieniowania ultrafioletowego**: im wyższa wartość, tym większe ryzyko uszkodzenia skóry i oczu.
-- **SPF — Sun Protection Factor**: współczynnik ochrony preparatu przeciwsłonecznego przede wszystkim przed promieniowaniem UVB.
-- **UPF — Ultraviolet Protection Factor**: współczynnik określający ochronę zapewnianą przez tkaninę przed promieniowaniem UV.
-- **PSU — Practical Salinity Unit**: praktyczna jednostka zasolenia używana w oceanografii.
-- **WZW A — wirusowe zapalenie wątroby typu A**, wywoływane przez wirus HAV (hepatitis A virus).
-- **WZW B — wirusowe zapalenie wątroby typu B**, wywoływane przez wirus HBV (hepatitis B virus).
-- **ORS — oral rehydration salts / oral rehydration solution**: doustne sole nawadniające lub doustny płyn nawadniający, czyli preparat o odpowiednio dobranej zawartości glukozy i elektrolitów.
-- **DPN — doustny płyn nawadniający**: polski odpowiednik określenia ORS.
-- **ChPL — Charakterystyka Produktu Leczniczego**: oficjalny dokument dotyczący leku, zawierający m.in. wskazania, dawkowanie, przeciwwskazania i ostrzeżenia.
+- Stosować **SPF 50/50+**, korzystać z cienia, osłaniać skórę i głowę oraz regularnie pić płyny.
+- Stosować skuteczny **repelent przeciw owadom** zgodnie z instrukcją producenta.
+- Przy plaży Club Palm Azur używać **butów do wody** i zawsze przestrzegać flag oraz poleceń ratownika.
+- Przy jedzeniu i piciu zwracać uwagę na **bezpieczną wodę, higienę rąk i odpowiednio przygotowaną żywność**.
+- Przy biegunce priorytetem jest **nawodnienie ORS/DPN**; loperamid jest tylko lekiem objawowym i nie powinien być stosowany samodzielnie przy biegunce z krwią lub gorączką.
+- Nie głaskać ani nie karmić nieznanych psów, kotów i innych ssaków.
+- Po ugryzieniu lub zadrapaniu przez ssaka **natychmiast myć ranę wodą z mydłem przez co najmniej 15 minut i jak najszybciej zgłosić się do lekarza**.
+
+## Kiedy szukać pomocy medycznej
+
+Przy biegunce konsultacji medycznej wymaga zwłaszcza ciężki lub pogarszający się stan, niemożność skutecznego nawadniania, krew w stolcu, gorączka lub utrzymywanie się objawów. ChPL Enterolu zaleca ponowną ocenę leczenia u dorosłych, jeżeli biegunka trwa dłużej niż dwa dni, albo gdy wystąpi krew w kale lub gorączka. W przypadku stosowania loperamidu ChPL Stoperanu również wskazuje, że jeżeli w ostrej biegunce **w ciągu 48 godzin nie nastąpi poprawa**, lek należy odstawić i skonsultować dalsze postępowanie.
+
+Przy problemach związanych ze słońcem pomocy medycznej wymagają m.in. rozległe lub silnie bolesne oparzenia, duże pęcherze, gorączka, omdlenie, silne osłabienie, zaburzenia świadomości albo inne objawy mogące wskazywać na znaczne odwodnienie lub przegrzanie.
+
+Po kontakcie z meduzą lub innym zwierzęciem morskim pilnej pomocy wymagają zwłaszcza trudności z oddychaniem, ból w klatce piersiowej, omdlenie, drgawki, silny obrzęk lub uporczywe wymioty.
+
+Źródła:
+
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
+- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
+- [NFZ – kiedy oparzenie słoneczne wymaga konsultacji medycznej](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
+- [CDC Yellow Book 2026 – objawy alarmowe po kontakcie z parzącymi zwierzętami morskimi](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html)
 
 ## Słońce, promieniowanie UV i upał
 
@@ -414,6 +419,43 @@ W praktyce na nasz wyjazd **warto rozważyć zabranie loperamidu, np. Stoperanu,
 - [CDC Yellow Book 2026 – loperamid w leczeniu biegunki podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 - [TravelHealthPro – biegunka podróżnych: leczenie objawowe i sytuacje, w których nie należy stosować loperamidu](https://travelhealthpro.org.uk/factsheet/53/travellers-diarrhoea)
 
+## Nawadnianie przy biegunce — doustne płyny nawadniające
+
+Przy biegunce nie chodzi o dowolny produkt reklamowany jako „elektrolity”. Najlepiej szukać w aptece **doustnego płynu nawadniającego (DPN/ORS)** przeznaczonego do uzupełniania wody i elektrolitów podczas biegunki lub wymiotów. Taki preparat zawiera odpowiednio dobrane ilości m.in. glukozy i sodu, dzięki czemu wspomaga wchłanianie wody w jelicie.
+
+NIZP PZH–PIB podaje, że w polskich aptekach dostępne są bez recepty doustne płyny nawadniające zawierające glukozę i podstawowe elektrolity. Nie należy utożsamiać ich z każdą tabletką musującą z magnezem czy „elektrolitami dla sportowców”.
+
+Źródło: [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – nawodnienie w ostrej biegunce](https://ncez.pzh.gov.pl/choroba-a-dieta/dieta-w-ostrej-biegunce-nawodnienie-to-priorytet/)
+
+### Przykłady dostępne w Polsce
+
+Poniższe produkty są **przykładami, a nie rankingiem**.
+
+- **ORSALIT dla dorosłych, smak malinowo-cytrynowy** — żywność specjalnego przeznaczenia medycznego; opakowanie 10 saszetek. Jedną saszetkę rozpuszcza się w 200 ml wody zgodnie z instrukcją producenta.
+- **Gastrolit** — lek dostępny bez recepty do nawadniania doustnego; opakowanie 14 saszetek. Jedną saszetkę rozpuszcza się w 200 ml gorącej, przegotowanej wody i po ostudzeniu wypija zgodnie z ulotką.
+
+Przy zakupie można po prostu powiedzieć farmaceucie: **„Proszę o doustny płyn nawadniający ORS dla osoby dorosłej, do stosowania przy biegunce lub wymiotach.”**
+
+Nie należy dosypywać dodatkowego cukru ani soli do gotowego preparatu i należy zawsze rozpuszczać saszetkę w dokładnie takiej ilości wody, jaką podaje producent. Zbyt mała lub zbyt duża ilość wody zmienia stężenie roztworu.
+
+Aktualne przykłady produktów do kupienia i ich ceny utrzymujemy w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
+
+Źródła dotyczące przeznaczenia i przygotowania:
+
+- [BIOMED – ORSALIT dla dorosłych: przeznaczenie, skład i sposób przygotowania](https://biomed.pl/produkty/orsalit-o-smaku-malinowo-cytrynowym-dla-doroslych/)
+- [Rejestr Produktów Leczniczych – ulotka leku Gastrolit](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2601/leaflet)
+
+## Co mieć w apteczce na wypadek biegunki
+
+Podstawą jest możliwość prawidłowego nawodnienia. W praktyce warto mieć ORS/DPN oraz — po indywidualnym uwzględnieniu przeciwwskazań — lek awaryjny taki jak loperamid. Pełna lista rzeczy do spakowania znajduje się w materiale [Co zabrać](co-zabrac.md), a produkty wymagające zakupu w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
+
+CDC w zestawie podróżnym wymienia m.in. doustne elektrolity oraz loperamid do objawowego leczenia niekrwawej biegunki. Loperamid **nie powinien być stosowany samodzielnie przy biegunce z krwią lub biegunce z gorączką**. Dobór leków powinien uwzględniać stan zdrowia konkretnej osoby.
+
+Źródła:
+
+- [CDC Yellow Book 2026 – wyposażenie apteczki podróżnej](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
+- [CDC Yellow Book 2026 – leczenie i nawadnianie w biegunce podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
+
 ## Wirusowe zapalenie wątroby typu A
 
 **Wirusowe zapalenie wątroby typu A (WZW A)** nie jest tym samym co typowa biegunka podróżnych. Oba problemy łączy jednak to, że do zakażenia może dojść drogą pokarmową, np. przez skażoną żywność, wodę lub ręce.
@@ -481,57 +523,25 @@ Nie podajemy liczby aptek w konkretnej miejscowości, ponieważ materiał ma by�
 - [GdziePoLek – Havrix Adult: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/34436/havrix-adult-iniekcja/apteki/w-polsce)
 - [GdziePoLek – Twinrix Adult: orientacyjna cena i dostępność w aptekach](https://www.gdziepolek.pl/produkty/80303/twinrix-adult-iniekcja/apteki)
 
-## Nawadnianie przy biegunce — doustne płyny nawadniające
+## Skróty i nazwy używane w tym dokumencie
 
-Przy biegunce nie chodzi o dowolny produkt reklamowany jako „elektrolity”. Najlepiej szukać w aptece **doustnego płynu nawadniającego (DPN/ORS)** przeznaczonego do uzupełniania wody i elektrolitów podczas biegunki lub wymiotów. Taki preparat zawiera odpowiednio dobrane ilości m.in. glukozy i sodu, dzięki czemu wspomaga wchłanianie wody w jelicie.
-
-NIZP PZH–PIB podaje, że w polskich aptekach dostępne są bez recepty doustne płyny nawadniające zawierające glukozę i podstawowe elektrolity. Nie należy utożsamiać ich z każdą tabletką musującą z magnezem czy „elektrolitami dla sportowców”.
-
-Źródło: [Narodowe Centrum Edukacji Żywieniowej NIZP PZH–PIB – nawodnienie w ostrej biegunce](https://ncez.pzh.gov.pl/choroba-a-dieta/dieta-w-ostrej-biegunce-nawodnienie-to-priorytet/)
-
-### Przykłady dostępne w Polsce
-
-Poniższe produkty są **przykładami, a nie rankingiem**.
-
-- **ORSALIT dla dorosłych, smak malinowo-cytrynowy** — żywność specjalnego przeznaczenia medycznego; opakowanie 10 saszetek. Jedną saszetkę rozpuszcza się w 200 ml wody zgodnie z instrukcją producenta.
-- **Gastrolit** — lek dostępny bez recepty do nawadniania doustnego; opakowanie 14 saszetek. Jedną saszetkę rozpuszcza się w 200 ml gorącej, przegotowanej wody i po ostudzeniu wypija zgodnie z ulotką.
-
-Przy zakupie można po prostu powiedzieć farmaceucie: **„Proszę o doustny płyn nawadniający ORS dla osoby dorosłej, do stosowania przy biegunce lub wymiotach.”**
-
-Nie należy dosypywać dodatkowego cukru ani soli do gotowego preparatu i należy zawsze rozpuszczać saszetkę w dokładnie takiej ilości wody, jaką podaje producent. Zbyt mała lub zbyt duża ilość wody zmienia stężenie roztworu.
-
-Aktualne przykłady produktów do kupienia i ich ceny utrzymujemy w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
-
-Źródła dotyczące przeznaczenia i przygotowania:
-
-- [BIOMED – ORSALIT dla dorosłych: przeznaczenie, skład i sposób przygotowania](https://biomed.pl/produkty/orsalit-o-smaku-malinowo-cytrynowym-dla-doroslych/)
-- [Rejestr Produktów Leczniczych – ulotka leku Gastrolit](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2601/leaflet)
-
-## Co mieć w apteczce na wypadek biegunki
-
-Podstawą jest możliwość prawidłowego nawodnienia. W praktyce warto mieć ORS/DPN oraz — po indywidualnym uwzględnieniu przeciwwskazań — lek awaryjny taki jak loperamid. Pełna lista rzeczy do spakowania znajduje się w materiale [Co zabrać](co-zabrac.md), a produkty wymagające zakupu w materiale [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md).
-
-CDC w zestawie podróżnym wymienia m.in. doustne elektrolity oraz loperamid do objawowego leczenia niekrwawej biegunki. Loperamid **nie powinien być stosowany samodzielnie przy biegunce z krwią lub biegunce z gorączką**. Dobór leków powinien uwzględniać stan zdrowia konkretnej osoby.
-
-Źródła:
-
-- [CDC Yellow Book 2026 – wyposażenie apteczki podróżnej](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
-- [CDC Yellow Book 2026 – leczenie i nawadnianie w biegunce podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
-
-## Kiedy szukać pomocy medycznej
-
-Przy biegunce konsultacji medycznej wymaga zwłaszcza ciężki lub pogarszający się stan, niemożność skutecznego nawadniania, krew w stolcu, gorączka lub utrzymywanie się objawów. ChPL Enterolu zaleca ponowną ocenę leczenia u dorosłych, jeżeli biegunka trwa dłużej niż dwa dni, albo gdy wystąpi krew w kale lub gorączka. W przypadku stosowania loperamidu ChPL Stoperanu również wskazuje, że jeżeli w ostrej biegunce **w ciągu 48 godzin nie nastąpi poprawa**, lek należy odstawić i skonsultować dalsze postępowanie.
-
-Przy problemach związanych ze słońcem pomocy medycznej wymagają m.in. rozległe lub silnie bolesne oparzenia, duże pęcherze, gorączka, omdlenie, silne osłabienie, zaburzenia świadomości albo inne objawy mogące wskazywać na znaczne odwodnienie lub przegrzanie.
-
-Po kontakcie z meduzą lub innym zwierzęciem morskim pilnej pomocy wymagają zwłaszcza trudności z oddychaniem, ból w klatce piersiowej, omdlenie, drgawki, silny obrzęk lub uporczywe wymioty.
-
-Źródła:
-
-- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
-- [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Stoperan 2 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20322/characteristic)
-- [NFZ – kiedy oparzenie słoneczne wymaga konsultacji medycznej](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
-- [CDC Yellow Book 2026 – objawy alarmowe po kontakcie z parzącymi zwierzętami morskimi](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html)
+- **CDC — Centers for Disease Control and Prevention**: amerykańska federalna instytucja zdrowia publicznego. Jej **Yellow Book 2026** jest specjalistycznym źródłem medycyny podróży.
+- **NIZP PZH–PIB — Narodowy Instytut Zdrowia Publicznego PZH – Państwowy Instytut Badawczy**.
+- **GIS — Główny Inspektorat Sanitarny**.
+- **WHO — World Health Organization (Światowa Organizacja Zdrowia)**.
+- **NFZ — Narodowy Fundusz Zdrowia**.
+- **INM — Institut National de la Météorologie (Narodowy Instytut Meteorologii Tunezji)**.
+- **UV — ultraviolet, promieniowanie ultrafioletowe**.
+- **UVA i UVB** — dwa zakresy promieniowania ultrafioletowego istotne dla ochrony skóry i oczu.
+- **UVI — Ultraviolet Index, indeks promieniowania ultrafioletowego**: im wyższa wartość, tym większe ryzyko uszkodzenia skóry i oczu.
+- **SPF — Sun Protection Factor**: współczynnik ochrony preparatu przeciwsłonecznego przede wszystkim przed promieniowaniem UVB.
+- **UPF — Ultraviolet Protection Factor**: współczynnik określający ochronę zapewnianą przez tkaninę przed promieniowaniem UV.
+- **PSU — Practical Salinity Unit**: praktyczna jednostka zasolenia używana w oceanografii.
+- **WZW A — wirusowe zapalenie wątroby typu A**, wywoływane przez wirus HAV (hepatitis A virus).
+- **WZW B — wirusowe zapalenie wątroby typu B**, wywoływane przez wirus HBV (hepatitis B virus).
+- **ORS — oral rehydration salts / oral rehydration solution**: doustne sole nawadniające lub doustny płyn nawadniający, czyli preparat o odpowiednio dobranej zawartości glukozy i elektrolitów.
+- **DPN — doustny płyn nawadniający**: polski odpowiednik określenia ORS.
+- **ChPL — Charakterystyka Produktu Leczniczego**: oficjalny dokument dotyczący leku, zawierający m.in. wskazania, dawkowanie, przeciwwskazania i ostrzeżenia.
 
 ## Polskie źródła do sprawdzania przed wyjazdem
 
