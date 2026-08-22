@@ -11,11 +11,13 @@ Ten materiał ma charakter informacyjny dla uczestników wyjazdu. Nie zastępuje
 - **GIS — Główny Inspektorat Sanitarny**.
 - **WHO — World Health Organization (Światowa Organizacja Zdrowia)**.
 - **NFZ — Narodowy Fundusz Zdrowia**.
+- **INM — Institut National de la Météorologie (Narodowy Instytut Meteorologii Tunezji)**.
 - **UV — ultraviolet, promieniowanie ultrafioletowe**.
 - **UVA i UVB** — dwa zakresy promieniowania ultrafioletowego istotne dla ochrony skóry i oczu.
 - **UVI — Ultraviolet Index, indeks promieniowania ultrafioletowego**: im wyższa wartość, tym większe ryzyko uszkodzenia skóry i oczu.
 - **SPF — Sun Protection Factor**: współczynnik ochrony preparatu przeciwsłonecznego przede wszystkim przed promieniowaniem UVB.
 - **UPF — Ultraviolet Protection Factor**: współczynnik określający ochronę zapewnianą przez tkaninę przed promieniowaniem UV.
+- **PSU — Practical Salinity Unit**: praktyczna jednostka zasolenia używana w oceanografii.
 - **WZW A — wirusowe zapalenie wątroby typu A**, wywoływane przez wirus HAV (hepatitis A virus).
 - **WZW B — wirusowe zapalenie wątroby typu B**, wywoływane przez wirus HBV (hepatitis B virus).
 - **ORS — oral rehydration salts / oral rehydration solution**: doustne sole nawadniające lub doustny płyn nawadniający, czyli preparat o odpowiednio dobranej zawartości glukozy i elektrolitów.
@@ -129,6 +131,125 @@ Nie należy przykładać lodu bezpośrednio do skóry. Przy dużych pęcherzach,
 
 - [NFZ – oparzenia słoneczne: zapobieganie i postępowanie przy łagodnym oparzeniu](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
 - [Państwowa Inspekcja Sanitarna – pierwsza pomoc przy oparzeniu słonecznym](https://www.gov.pl/web/psse-kamien-pomorski/oparzenia-sloneczne---zapobieganie-lagodzenie-objawow-i-udzielanie-pierwszej-pomocy)
+
+## Bezpieczeństwo w morzu i na plaży przy hotelu Club Palm Azur
+
+Hotel Club Palm Azur leży bezpośrednio przy plaży na południowo-wschodnim wybrzeżu Dżerby. Opis Itaki określa plażę jako piaszczystą, z łagodnym, ale **miejscami skalistym zejściem do morza**, i wprost zaleca obuwie ochronne. To ważniejsza informacja praktyczna niż ogólne zapewnienie, że plaża jest „piaszczysta”.
+
+Źródło: [Itaka – Hotel Club Palm Azur: położenie, plaża i warunki wejścia do morza](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+
+### Buty do wody — warto zabrać
+
+Na suchej, piaszczystej części plaży można normalnie chodzić boso. Do wchodzenia do morza przy tym hotelu rozsądniej jednak używać **butów do wody**, ponieważ miejscami występują skały i twardsze fragmenty dna.
+
+Najpraktyczniejszy będzie prosty zamknięty but wodny:
+
+- dobrze trzymający stopę;
+- z gumową podeszwą chroniącą przed kamieniami;
+- z bieżnikiem ograniczającym poślizg;
+- szybko odprowadzający wodę.
+
+Nie ma potrzeby kupowania specjalistycznego obuwia nurkowego. Luźne klapki nie są dobrym zamiennikiem podczas wchodzenia do morza, bo mogą zsunąć się ze stopy i nie chronią jej przed kamieniami.
+
+Źródła:
+
+- [Itaka – Hotel Club Palm Azur: miejscami skaliste zejście i zalecane obuwie ochronne](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+- [CDC – Tunezja: bezpieczeństwo podczas kąpieli i zalecenie używania obuwia na plażach w odpowiednich sytuacjach](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+
+### Temperatura i zasolenie wody
+
+Morze przy Dżerbie jest na przełomie sierpnia i września bardzo ciepłe. Dane historyczne dla całej Dżerby wskazują średnio około **29°C w sierpniu** i około **28°C we wrześniu**. W pierwszym tygodniu września historyczne wartości często pozostają w okolicach 28–29°C. Są to dane klimatyczne i obserwacyjne dla Dżerby, a nie gwarantowana temperatura przy hotelu w konkretnym dniu.
+
+Zatoka Gabès ma stosunkowo wysokie zasolenie. Badania naukowe podają dla jej wód wartości najczęściej w okolicach **38–39 PSU**. Dla turysty oznacza to po prostu wyraźnie słoną wodę typową dla tego regionu Morza Śródziemnego.
+
+Źródła:
+
+- [SeaTemperature.info – historyczna temperatura morza przy Dżerbie w sierpniu](https://seatemperature.info/august/djerba-water-temperature.html)
+- [SeaTemperature.info – historyczna temperatura morza przy Dżerbie we wrześniu](https://seatemperature.info/september/djerba-water-temperature.html)
+- [ScienceDirect – charakterystyka wód Zatoki Gabès, w tym zasolenie 38–39](https://www.sciencedirect.com/science/article/abs/pii/S0278434314003136)
+
+### Pływy — bardziej widoczne niż w większości Morza Śródziemnego
+
+Zatoka Gabès wyróżnia się na tle Morza Śródziemnego wyraźnymi pływami. Opracowania naukowe dla Dżerby podają typowy zakres różnicy poziomu wody około **0,9–1,4 m**, zależnie od części wyspy i fazy pływu. Pływ jest półdobowy, czyli w ciągu doby występują zwykle dwa przypływy i dwa odpływy.
+
+W praktyce oznacza to, że ta sama plaża może wyglądać inaczej rano i kilka godzin później. Przy odpływie odsłania się większa powierzchnia płytkiego dna, a miejscami mogą być lepiej widoczne kamienie, roślinność morska lub osad.
+
+Źródła:
+
+- [Continental Shelf Research – zmienność poziomu morza i rezonans pływowy w Zatoce Gabès, z pomiarami m.in. przy Aghir na Dżerbie](https://www.sciencedirect.com/science/article/abs/pii/S0278434305002505)
+- [Opracowanie naukowe o wybrzeżu Dżerby – zakres pływów wokół wyspy i półdobowy rytm pływów](https://www.researchgate.net/publication/366916353_Stability_state_of_a_Mediterranean_coastal_environment_threatened_by_erosion_the_case_of_the_Djerba_Island_Gulf_of_Gabes_SE-Tunisia)
+
+### Fale, wiatr i pogoda morska
+
+Nie należy zakładać, że morze będzie codziennie spokojne tylko dlatego, że zatoka jest płytka. Warunki zmieniają się wraz z wiatrem i pogodą. Tunezyjski INM publikuje oficjalne prognozy morskie dla wybrzeża, w tym obszaru **Jerba**, oraz specjalne komunikaty BMS o pogorszeniu pogody, silnym wietrze lub sztormie.
+
+Najważniejsza praktyczna zasada: **aktualne flagi na plaży, polecenia ratownika i bieżąca prognoza morska są ważniejsze niż średnie klimatyczne**. Jeśli kąpiel jest odradzana albo wywieszona jest flaga zakazująca wejścia do wody, nie należy jej ignorować.
+
+Źródła:
+
+- [INM – oficjalne prognozy morskie i ostrzeżenia dla wybrzeża Tunezji, w tym Jerby](https://www.meteo.tn/en/marine-and-fishing)
+- [CDC – Tunezja: kąpiel wyłącznie w wyznaczonych miejscach i przestrzeganie poleceń ratowników oraz flag](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+
+### Głębokość, wejście do wody i skoki
+
+Zatoka Gabès ma bardzo szeroki, łagodnie opadający szelf i dużą powierzchnię płytkich wód. Plaża przy Club Palm Azur ma według opisu Itaki łagodne zejście do morza. To sprzyja spokojnemu wchodzeniu do wody, ale nie należy zakładać stałej głębokości, szczególnie przy wyraźnych pływach.
+
+CDC zaleca, aby **nie skakać do wody o nieznanej lub małej głębokości**. Dotyczy to również skoków z pomostów i innych konstrukcji, nawet jeśli inni turyści tak robią.
+
+Źródła:
+
+- [MDPI – Zatoka Gabès: szeroki i bardzo łagodnie opadający szelf](https://www.mdpi.com/2076-3417/13/12/7197)
+- [Itaka – Hotel Club Palm Azur: łagodne zejście do morza](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+- [CDC – Tunezja: zasady bezpieczeństwa w wodzie, w tym zakaz skakania do płytkiej wody](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+
+### Przejrzystość wody i roślinność morska
+
+Nie ma wiarygodnego stałego pomiaru przejrzystości wody dla samej hotelowej plaży. Nie należy więc obiecywać „krystalicznie czystej” wody przez cały pobyt. Płytkie dno, pływy, wiatr i przemieszczanie osadu mogą powodować, że przejrzystość zmienia się z dnia na dzień.
+
+W Zatoce Gabès naturalnie występują rozległe łąki trawy morskiej, w tym **Posidonia oceanica**. Materiały dotyczące ochrony przyrody wskazują, że łąki Posidonii są szczególnie rozwinięte wokół Dżerby. Wyrzucone na brzeg lub unoszące się fragmenty roślinności są więc naturalnym elementem tego ekosystemu i nie oznaczają automatycznie zanieczyszczenia wody.
+
+W aktualnych opiniach klientów Itaki z lipca 2026 r. pojawia się również informacja, że przy brzegu **czasami występują glony lub roślinność morska**. To informacja praktyczna z relacji turystów, a nie pomiar jakości wody.
+
+Źródła:
+
+- [Itaka – Hotel Club Palm Azur: aktualne opinie gości, w tym informacje o plaży i okresowej obecności roślinności przy brzegu](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+- [SPA/RAC – ochrona bioróżnorodności morskiej Tunezji i łąki Posidonia oceanica wokół Dżerby](https://legacy.spa-rac.org/en/publication/download/1520/tunisia-conservation-of-mediterranean-marine-and-coastal-biodiversity-by-2030-and-beyond)
+
+### Meduzy i inne zwierzęta morskie
+
+CDC w informacjach dla podróżujących do Tunezji zaleca ostrożność wobec zwierząt morskich, w tym **meduz**. Nie ma jednak podstaw, aby traktować plażę Club Palm Azur jako miejsce o jakimś szczególnym, stale podwyższonym zagrożeniu meduzami. Ich obecność może zmieniać się z dnia na dzień wraz z temperaturą, prądami i wiatrem.
+
+Najpraktyczniej przed kąpielą zwrócić uwagę na komunikaty ratownika i zapytać obsługę plaży, jeśli meduzy są widoczne. Nie należy dotykać meduz ani ich fragmentów, również wyrzuconych na brzeg.
+
+Jeżeli dojdzie do poparzenia meduzy:
+
+- wyjść z wody i poprosić ratownika lub osobę przeszkoloną w pierwszej pomocy o pomoc;
+- miejsce kontaktu spłukiwać **wodą morską, nie słodką wodą**;
+- nie pocierać skóry i nie usuwać macek gołymi rękami;
+- przy duszności, bólu w klatce piersiowej, omdleniu, silnym obrzęku, wymiotach lub innych objawach ogólnych pilnie szukać pomocy medycznej.
+
+CDC zaznacza, że ocet nie jest uniwersalnym środkiem na wszystkie gatunki meduz i w przypadku niektórych gatunków może zwiększać uwalnianie parzydełek. Dlatego bez rozpoznania gatunku lepiej stosować się do lokalnych instrukcji ratownika niż korzystać z domowych receptur.
+
+Źródła:
+
+- [CDC – Tunezja: ostrożność wobec zwierząt morskich, w tym meduz](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+- [CDC Yellow Book 2026 – meduzy i inne parzące zwierzęta morskie: pierwsza pomoc](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html)
+
+### Najważniejsze zasady kąpieli przy hotelu
+
+- Kąpać się w wyznaczonej strefie i przestrzegać flag oraz poleceń ratownika.
+- Do wchodzenia do morza używać butów do wody ze względu na miejscami skaliste dno.
+- Nie skakać do wody, jeśli głębokość nie jest znana.
+- Nie połykać wody morskiej.
+- Przy silnym wietrze, większych falach lub ostrzeżeniu INM zrezygnować z kąpieli, nawet jeśli przy brzegu nadal wydaje się płytko.
+- Nie dotykać meduz ani nieznanych zwierząt morskich.
+- Przy świeżej, większej ranie skóry warto zrezygnować z kąpieli do czasu jej zagojenia; słona i słonawa woda może przenosić drobnoustroje zdolne do zakażania ran.
+
+Źródła:
+
+- [CDC – Tunezja: bezpieczeństwo podczas kąpieli](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+- [CDC Yellow Book 2026 – zakażenia związane z kontaktem ran ze słoną lub słonawą wodą](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html)
+- [INM – prognoza morska i ostrzeżenia dla Jerby](https://www.meteo.tn/en/marine-and-fishing)
 
 ## Biegunka podróżnych, potocznie „zemsta faraona”
 
@@ -329,10 +450,13 @@ Przy biegunce konsultacji medycznej wymaga zwłaszcza ciężki lub pogarszający
 
 Przy problemach związanych ze słońcem pomocy medycznej wymagają m.in. rozległe lub silnie bolesne oparzenia, duże pęcherze, gorączka, omdlenie, silne osłabienie, zaburzenia świadomości albo inne objawy mogące wskazywać na znaczne odwodnienie lub przegrzanie.
 
+Po kontakcie z meduzą lub innym zwierzęciem morskim pilnej pomocy wymagają zwłaszcza trudności z oddychaniem, ból w klatce piersiowej, omdlenie, drgawki, silny obrzęk lub uporczywe wymioty.
+
 Źródła:
 
 - [Rejestr Produktów Leczniczych – Charakterystyka Produktu Leczniczego Enterol 250 mg](https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7890/characteristic)
 - [NFZ – kiedy oparzenie słoneczne wymaga konsultacji medycznej](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/poradnik-pacjenta-slonce-a-nasza-skora-jak-uniknac-oparzen-slonecznych%2C8648.html)
+- [CDC Yellow Book 2026 – objawy alarmowe po kontakcie z parzącymi zwierzętami morskimi](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html)
 
 ## Polskie źródła do sprawdzania przed wyjazdem
 
@@ -343,9 +467,10 @@ Przy problemach związanych ze słońcem pomocy medycznej wymagają m.in. rozleg
 - [Ministerstwo Spraw Zagranicznych, Odyseusz – informacje dla podróżujących do Tunezji](https://odyseusz.gov.pl/TN)
 - [Ambasada Rzeczypospolitej Polskiej w Tunisie – bezpieczeństwo podróży i pomoc konsularna](https://www.gov.pl/web/tunezja/jakiej-pomocy-moze-udzielic-konsul-informacje-ogolne)
 
-## Źródła międzynarodowe
+## Źródła międzynarodowe i lokalne
 
 - [CDC Yellow Book 2026 – spis treści medycyny podróży](https://www.cdc.gov/yellow-book/hcp/contents/index.html)
 - [WHO – Światowa Organizacja Zdrowia](https://www.who.int/)
+- [INM – Narodowy Instytut Meteorologii Tunezji: prognozy i ostrzeżenia morskie](https://www.meteo.tn/en/marine-and-fishing)
 
-Informacje zależne od czasu — zwłaszcza sytuację epidemiologiczną, prognozowany indeks UV, zasady wjazdu, dostępność szczepionek i ceny — należy sprawdzić ponownie bezpośrednio przed wyjazdem.
+Informacje zależne od czasu — zwłaszcza sytuację epidemiologiczną, prognozowany indeks UV, prognozę morską, ostrzeżenia, flagi na plaży, obecność meduz, dostępność szczepionek i ceny — należy sprawdzić ponownie bezpośrednio przed wyjazdem lub na miejscu.
