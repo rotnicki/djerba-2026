@@ -1,5 +1,11 @@
 # Pakowanie
 
+Stan weryfikacji: 22 sierpnia 2026 r.
+
+Ten materiał jest roboczą listą rzeczy do zabrania na wyjazd. Ma zebrać w jednym miejscu przedmioty wynikające z ustaleń dotyczących zdrowia, warunków pogodowych, kąpieli, wycieczek i organizacji pobytu, tak aby przed wyjazdem można było przygotować ostateczną checklistę.
+
+Nie każdy element jest obowiązkowy dla każdego uczestnika. Rozróżniamy rzeczy już uzasadnione i przydatne od kandydatów oraz kwestii, które wymagają jeszcze sprawdzenia.
+
 ## Ustalone
 
 Na razie brak ostatecznie zatwierdzonej pełnej listy pakowania.
