@@ -13,8 +13,8 @@ Ten materiał zbiera ustalenia dotyczące gotówki, kart, Revoluta, dinarów tun
 - **Revolut** obsługuje płatności kartą i wypłaty z bankomatów w TND.
 - Przy płatności kartą lub wypłacie z bankomatu wybieramy obciążenie w **TND, czyli w walucie lokalnej**, i odrzucamy proponowane przeliczenie na PLN lub EUR (DCC).
 - Oprócz Revoluta warto mieć **drugą fizyczną kartę bankową** jako zabezpieczenie.
-- Dla naszego 7-nocnego wyjazdu rozsądny punkt wyjścia to około **150–200 EUR gotówki na osobę + karty**, jeżeli planujemy około dwóch wycieczek fakultatywnych. **Około 200 EUR na osobę** jest obecnie najbezpieczniejszym prostym założeniem roboczym.
-- Jeśli większość wycieczek będzie opłacana Revolutem lub kartą, można zejść bliżej **100–150 EUR gotówki na osobę**. Jeśli ktoś wybierze 2-dniową Saharę albo kilka płatnych dodatków, rozsądniej przyjąć **200–250 EUR na osobę**.
+- W naszej grupie przyjmujemy roboczo **około 150 EUR na osobę w gotówce jako sugerowane minimum na wycieczki fakultatywne**. Nie jest to oficjalna cena pakietu wycieczek ani cały budżet na pobyt.
+- Rzeczywisty koszt zależy od wybranych wycieczek i dodatków. Przy 2-dniowej Saharze albo kilku płatnych atrakcjach może być potrzebne więcej. **Osobno** trzeba uwzględnić obowiązkowy podatek turystyczny oraz pieniądze na codzienne wydatki; część płatności może być możliwa kartą lub Revolutem, zależnie od organizatora.
 - W Club Palm Azur 4★ **obowiązkowy podatek turystyczny** wynosi obecnie **12 TND za osobę za noc**; przy siedmiu nocach daje to **84 TND na osobę** powyżej 12. roku życia, czyli orientacyjnie około **108 PLN** według kursu NBP z 19 sierpnia 2026 r.
 
 ## Dinar tunezyjski – TND
@@ -157,6 +157,8 @@ Nie zakładamy natomiast, że bezpośrednia płatność euro będzie najlepsza l
 
 Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen opisanych w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md) i długości naszego pobytu.
 
+W nieformalnych ustaleniach naszej grupy z 21 sierpnia 2026 r. przyjęto **około 150 EUR na osobę w gotówce jako sugerowane minimum na wycieczki fakultatywne**. Traktujemy to jako praktyczne założenie organizacyjne, a nie oficjalną cenę pakietu. Nie oznacza ono również całkowitego budżetu na pobyt: podatek turystyczny i zwykłe wydatki na miejscu trzeba liczyć osobno.
+
 Wyjazd trwa **7 nocy**, dlatego nie planujemy codziennych fakultetów. Żeby został również czas na hotel, plażę, odpoczynek i własne wyjścia, najbardziej realistyczny wydaje się wariant **około dwóch większych/średnich wycieczek, ewentualnie trzeciej lżejszej**.
 
 Aktualne orientacyjne ceny jednej osoby są mniej więcej takie:
@@ -173,7 +175,7 @@ Szczegółowe ceny, różnice programów i źródła znajdują się w materiale 
 
 #### Wariant oszczędny – około 100–150 EUR gotówki na osobę
 
-Ma sens, jeżeli:
+Może wystarczyć, jeżeli:
 
 - wybieramy jedną większą wycieczkę i jedną niedrogą/lokalną;
 - przynajmniej część płatności za fakultety można zrobić Revolutem lub kartą;
@@ -181,33 +183,34 @@ Ma sens, jeżeli:
 
 Przykład: objazd Dżerby około 30 EUR + jednodniowa Sahara około 55–60 EUR daje około **85–90 EUR kosztu samych wycieczek**.
 
-#### Wariant najbardziej prawdopodobny – około 150–200 EUR gotówki na osobę
+Kwota poniżej **150 EUR** jest jednak niższa od przyjętego przez grupę sugerowanego minimum i wymaga większego oparcia się na płatnościach bezgotówkowych albo ograniczenia liczby fakultetów.
 
-To obecnie **najrozsądniejszy zakres dla naszego pobytu**.
+#### Robocze minimum grupy – około 150 EUR gotówki na osobę na wycieczki
+
+To obecnie **najprostsze grupowe założenie przed wyjazdem**.
 
 Pozwala sfinansować np.:
 
 - objazd Dżerby około 30 EUR;
 - jednodniową Saharę około 55–60 EUR;
 - ewentualnie jeszcze Djerba Explore lub rejs około 25–35 EUR;
-- jeden płatny dodatek, np. wielbłąd lub quad;
-- oraz zachować pewną rezerwę na wymianę na TND.
+- jeden płatny dodatek, np. wielbłąd lub quad, zależnie od ostatecznego zestawu.
 
-Przy takim zestawie same fakultety mogą kosztować około **110–125 EUR**, a z jednym dodatkiem około **125–155 EUR**. Dlatego **około 200 EUR gotówki na osobę** daje rozsądny margines bez wożenia bardzo dużej ilości gotówki.
+Przy takim zestawie same fakultety mogą kosztować około **110–125 EUR**, a z jednym dodatkiem około **125–155 EUR**. Dlatego 150 EUR dobrze działa jako **minimum do zaplanowania**, ale nie daje dużego zapasu przy droższych wariantach.
 
 #### Wariant z 2-dniową Saharą – około 200–250 EUR gotówki na osobę
 
 Jeśli ktoś wybierze Saharę 2 dni za około 115–125 EUR, a oprócz tego choć jedną krótszą wycieczkę, płatny dodatek i będzie chciał mieć rezerwę na wymianę, zakres **200–250 EUR na osobę** staje się bardziej uzasadniony.
 
-Nie oznacza to, że cała ta kwota musi zostać wydana. Jest to zapas gotówkowy na sytuację, w której część wycieczek będzie rozliczana w EUR.
+Nie oznacza to, że cała ta kwota musi zostać wydana. Jest to większy zapas gotówkowy na sytuację, w której część wycieczek będzie rozliczana w EUR.
 
 ### Najprostsze założenie przed wyjazdem
 
 Dopóki nie znamy ostatecznie wybranych fakultetów i sposobu ich opłacania, można przyjąć:
 
-**około 200 EUR gotówki na osobę + Revolut + druga karta.**
+**co najmniej około 150 EUR gotówki na osobę na wycieczki fakultatywne + karta/Revolut; osobno pieniądze na podatek turystyczny i codzienne wydatki.**
 
-Po wyborze konkretnych wycieczek tę kwotę ponownie przeliczymy. Jeśli wycieczki będą w większości płatne bezgotówkowo, można zabrać mniej euro. Jeśli organizator będzie oczekiwał gotówki w EUR albo ktoś wybierze droższą Saharę 2-dniową, można zwiększyć zapas.
+Po wyborze konkretnych wycieczek tę kwotę ponownie przeliczymy. Jeśli wycieczki będą w większości płatne bezgotówkowo, część euro może pozostać rezerwą. Jeśli organizator będzie oczekiwał gotówki w EUR albo ktoś wybierze droższą Saharę 2-dniową, warto zwiększyć zapas.
 
 ## Karty i Revolut
 
@@ -300,17 +303,17 @@ Szczegółowe ceny i zasady poszczególnych programów są zbierane w materiale 
 Najbezpieczniejszy model na ten wyjazd to połączenie kilku sposobów płatności:
 
 1. **TND w gotówce** – bieżące lokalne wydatki, w tym zwykłe taksówki.
-2. **Około 200 EUR gotówki na osobę** jako roboczy punkt wyjścia – rezerwa, wymiana i ewentualnie wycieczki rozliczane w EUR.
+2. **Co najmniej około 150 EUR gotówki na osobę na wycieczki fakultatywne** – grupowe założenie robocze; przy droższych programach warto zwiększyć tę kwotę.
 3. **Fizyczna karta Revolut** – płatności i bankomat, gdzie to możliwe.
 4. **Druga fizyczna karta bankowa** – awaryjnie.
 
-Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów ani zakładać, że cała zabrana gotówka zostanie wydana.
+Obowiązkowy podatek turystyczny i zwykłe wydatki na miejscu liczymy **osobno** od 150 EUR przewidzianych na wycieczki. Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym sposobie płatności ani zakładać, że cała zabrana gotówka zostanie wydana.
 
 ## Do ustalenia przed wyjazdem
 
 - Ostateczny wybór 1–3 wycieczek fakultatywnych i ich cena na osobę.
 - Które wybrane wycieczki będą płatne w EUR, TND, Revolutem lub kartą.
-- Czy po wyborze fakultetów robocze **200 EUR gotówki na osobę** należy zmniejszyć lub zwiększyć.
+- Czy po wyborze fakultetów robocze **minimum około 150 EUR gotówki na osobę na wycieczki** należy zwiększyć.
 - Ile TND warto wymienić na początku pobytu, poza **84 TND obowiązkowego podatku turystycznego na osobę powyżej 12. roku życia**.
 - Aktualne limity bezpłatnych wypłat z bankomatów dla konkretnych planów Revolut używanych przez uczestników.
 - Czy Club Palm Azur przyjmuje obowiązkowy podatek turystyczny kartą, czy najlepiej przygotować TND w gotówce – do potwierdzenia bezpośrednio z hotelem lub rezydentem.
@@ -319,6 +322,7 @@ Nie ma potrzeby opierać całego wyjazdu wyłącznie na jednym z tych sposobów 
 
 ## Historia zmian
 
+- 2026-08-22 – uwzględniono nieformalne ustalenie grupy z 21 sierpnia: około **150 EUR gotówki na osobę jako sugerowane minimum na wycieczki fakultatywne**; oddzielono ten budżet od podatku turystycznego i codziennych wydatków oraz usunięto 200 EUR jako domyślne założenie dla wszystkich.
 - 2026-08-22 – skorygowano zalecenia dotyczące krótkich przejazdów: taksówki pozostają podstawowym rozwiązaniem do Midoun, Djerba Explore i Houmt Souk także dla kilku osób; dla całej grupy wskazano kilka taksówek lub vany/minibusy, bez automatycznej rekomendacji autokaru.
 - 2026-08-22 – dodano aktualny kurs TND/PLN z NBP i prostą ściągę przeliczeniową; dodano oficjalną taryfę taksówek i orientacyjne ceny kursów z Club Palm Azur; ujednolicono nazewnictwo na **„obowiązkowy podatek turystyczny”**.
 - 2026-08-22 – budżet przebudowano na kwoty **na osobę**; na podstawie cen z materiału `wycieczki.md` i 7-nocnego pobytu przygotowano trzy orientacyjne warianty gotówki w EUR oraz przyjęto około 200 EUR na osobę jako prosty roboczy punkt wyjścia.
