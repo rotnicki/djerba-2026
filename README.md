@@ -14,6 +14,7 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 - [Łączność](lacznosc.md)
 - [Pieniądze i płatności](pieniadze.md)
 - [Zakupy](zakupy.md)
+- [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md)
 
 ## Zasady ogólne
 
