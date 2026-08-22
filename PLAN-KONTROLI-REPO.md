@@ -99,7 +99,7 @@ Cele:
 
 ### 6. Zdrowie – brakujące ryzyka
 
-Status: **do wykonania**.
+Status: **zakończony 22 sierpnia 2026 r.**
 
 Zakres:
 
