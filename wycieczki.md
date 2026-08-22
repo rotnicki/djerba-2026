@@ -4,7 +4,7 @@ Sprawdzono: 22 sierpnia 2026 r.
 
 Wersja robocza: 0.2.1.
 
-Ten plik ma dwa główne cele:
+Ten przewodnik ma dwa główne cele:
 
 1. pomóc zrozumieć, **co właściwie można zobaczyć na Dżerbie i podczas wyjazdów na południe Tunezji**;
 2. pomóc podjąć decyzję **przed wyjazdem i już na miejscu**, którą wycieczkę wybrać, od kogo ją kupić, co porównać i o co zapytać.
@@ -83,7 +83,7 @@ ONTT opisuje ksary jako dawne punkty, w których półkoczownicze społeczności
 
 #### Amazigh / Berberowie
 
-W ofertach turystycznych najczęściej spotkamy słowo **Berberowie**. Współcześnie często używa się również określenia **Amazigh**, będącego własną nazwą rdzennych ludów Afryki Północnej. W tym pliku obie nazwy mogą pojawiać się razem, aby zachować zgodność z programami biur i jednocześnie objaśnić terminologię.
+W ofertach turystycznych najczęściej spotkamy słowo **Berberowie**. Współcześnie często używa się również określenia **Amazigh**, będącego własną nazwą rdzennych ludów Afryki Północnej. W tym materiale obie nazwy mogą pojawiać się razem, aby zachować zgodność z programami biur i jednocześnie objaśnić terminologię.
 
 #### Troglodyci – dlaczego to słowo brzmi znajomo
 
@@ -889,7 +889,7 @@ Na pierwszym spotkaniu warto zebrać:
 - walutę i sposób płatności;
 - zasady anulowania i zwrotu pieniędzy.
 
-Jeśli jest papierowy cennik lub katalog, warto zrobić zdjęcia wszystkich stron i dodać je do materiałów projektu. Wtedy aktualizujemy ten plik zamiast podejmować decyzję pod presją spotkania.
+Jeśli jest papierowy cennik lub katalog, warto zrobić zdjęcia wszystkich stron i dodać je do materiałów projektu. Wtedy aktualizujemy ten przewodnik zamiast podejmować decyzję pod presją spotkania.
 
 #### Pytania do Timura/Tawma
 
