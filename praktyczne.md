@@ -6,6 +6,46 @@ Ten materiał zbiera krótkie informacje organizacyjne i użytkowe, które nie n
 
 Informacje zależne od czasu, przepisów albo bieżącego funkcjonowania usług powinny być ponownie sprawdzane przed wyjazdem lub na miejscu.
 
+## Telefony alarmowe i pomoc konsularna
+
+Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na Dżerbie. W nagłej sytuacji najpierw należy kontaktować się z właściwą miejscową służbą. Ambasada nie zastępuje pogotowia, policji ani straży pożarnej.
+
+- **190 — SAMU, pomoc medyczna w nagłych przypadkach.** Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej.
+- **197 — policja.** Dzwonić m.in. przy napadzie, kradzieży z zagrożeniem, przemocy, bezpośrednim zagrożeniu bezpieczeństwa albo gdy potrzebna jest pilna interwencja policji.
+- **198 — ochrona cywilna.** Dzwonić przy pożarze, wypadku, zdarzeniu ratowniczym lub sytuacji wymagającej interwencji służb ratowniczych.
+- **193 — Gwardia Narodowa.** Numer alarmowy lądowych jednostek Gwardii Narodowej; może być właściwy m.in. poza obszarami obsługiwanymi przez policję.
+- **194 — morska Gwardia Narodowa.** Przydatna w nagłych zdarzeniach na morzu lub przy wybrzeżu, gdy potrzebna jest interwencja służb morskich.
+
+Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przypadku zdarzenia w hotelu można powiedzieć lub pokazać nazwę **Club Palm Azur, Aghir, Djerba** i poprosić recepcję lub obsługę o pomoc w przekazaniu lokalizacji służbom.
+
+Źródła:
+
+- [Tunezyjskie Ministerstwo Zdrowia – SAMU i bezpłatny numer pomocy medycznej 190](https://santetunisie.rns.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu)
+- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – numery alarmowe policji, Gwardii Narodowej i ochrony cywilnej](https://www.interieur.gov.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA)
+- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA)
+
+### Ambasada RP w Tunisie i pomoc konsularna
+
+W zwykłych sprawach konsularnych, w tym dotyczących dokumentów, należy kontaktować się z Wydziałem Konsularnym Ambasady RP w Tunisie:
+
+- **telefon w godzinach pracy:** +216 71 196 191;
+- **e-mail:** tunis.konsul@msz.gov.pl;
+- **adres:** Le Grand Boulevard de la Corniche, 2045 Les Berges du Lac II, Tunis.
+
+W sytuacjach nagłych wymagających pilnej interwencji konsula działa **telefon dyżurny +216 98 362 547**. Ambasada wskazuje wprost takie przypadki jak **wypadek, zgon lub aresztowanie**. Numer dyżurny działa w dni robocze od 16:15 do 08:15, a w dni wolne od pracy w Polsce i Tunezji — całodobowo. Adres e-mail dyżurny: **tunis.wk.dyzurny@msz.gov.pl**.
+
+Praktyczna kolejność działania:
+
+1. gdy zagrożone jest życie, zdrowie lub bezpieczeństwo — **najpierw miejscowe służby: 190, 197 albo 198**;
+2. przy nagłym zdarzeniu z poważnymi konsekwencjami dla obywatela Polski, np. aresztowaniu, ciężkim wypadku lub zgonie — następnie kontakt z konsulem;
+3. przy utracie lub kradzieży dokumentu bez bezpośredniego zagrożenia — zgłoszenie miejscowej policji i kontakt z Wydziałem Konsularnym w godzinach pracy;
+4. w sprawach ubezpieczenia, kosztów leczenia, transportu medycznego lub organizacji powrotu — równolegle kontakt z ubezpieczycielem i organizatorem wyjazdu. Konsul nie zastępuje ubezpieczyciela i nie pokrywa prywatnych kosztów leczenia lub transportu.
+
+Źródła:
+
+- [Ambasada RP w Tunisie – aktualne dane kontaktowe Wydziału Konsularnego i telefonu dyżurnego](https://www.gov.pl/web/tunezja/ambasada)
+- [MSZ – zakres pomocy konsularnej w nagłych sytuacjach](https://www.gov.pl/web/tunezja/jakiej-pomocy-moze-udzielic-konsul-informacje-ogolne)
+
 ## Czas na Dżerbie
 
 Tunezja, w tym Dżerba, używa przez cały rok czasu UTC+1 i obecnie nie zmienia czasu z letniego na zimowy ani odwrotnie.
@@ -155,46 +195,6 @@ Najrozsądniejszy plan dla naszej grupy:
 7. plan podróży i dane hotelu pozostawia również osobie bliskiej w Polsce.
 
 [Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
-
-## Telefony alarmowe i pomoc konsularna
-
-Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na Dżerbie. W nagłej sytuacji najpierw należy kontaktować się z właściwą miejscową służbą. Ambasada nie zastępuje pogotowia, policji ani straży pożarnej.
-
-- **190 — SAMU, pomoc medyczna w nagłych przypadkach.** Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej.
-- **197 — policja.** Dzwonić m.in. przy napadzie, kradzieży z zagrożeniem, przemocy, bezpośrednim zagrożeniu bezpieczeństwa albo gdy potrzebna jest pilna interwencja policji.
-- **198 — ochrona cywilna.** Dzwonić przy pożarze, wypadku, zdarzeniu ratowniczym lub sytuacji wymagającej interwencji służb ratowniczych.
-- **193 — Gwardia Narodowa.** Numer alarmowy lądowych jednostek Gwardii Narodowej; może być właściwy m.in. poza obszarami obsługiwanymi przez policję.
-- **194 — morska Gwardia Narodowa.** Przydatna w nagłych zdarzeniach na morzu lub przy wybrzeżu, gdy potrzebna jest interwencja służb morskich.
-
-Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przypadku zdarzenia w hotelu można powiedzieć lub pokazać nazwę **Club Palm Azur, Aghir, Djerba** i poprosić recepcję lub obsługę o pomoc w przekazaniu lokalizacji służbom.
-
-Źródła:
-
-- [Tunezyjskie Ministerstwo Zdrowia – SAMU i bezpłatny numer pomocy medycznej 190](https://santetunisie.rns.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu)
-- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – numery alarmowe policji, Gwardii Narodowej i ochrony cywilnej](https://www.interieur.gov.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA)
-- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA)
-
-### Ambasada RP w Tunisie i pomoc konsularna
-
-W zwykłych sprawach konsularnych, w tym dotyczących dokumentów, należy kontaktować się z Wydziałem Konsularnym Ambasady RP w Tunisie:
-
-- **telefon w godzinach pracy:** +216 71 196 191;
-- **e-mail:** tunis.konsul@msz.gov.pl;
-- **adres:** Le Grand Boulevard de la Corniche, 2045 Les Berges du Lac II, Tunis.
-
-W sytuacjach nagłych wymagających pilnej interwencji konsula działa **telefon dyżurny +216 98 362 547**. Ambasada wskazuje wprost takie przypadki jak **wypadek, zgon lub aresztowanie**. Numer dyżurny działa w dni robocze od 16:15 do 08:15, a w dni wolne od pracy w Polsce i Tunezji — całodobowo. Adres e-mail dyżurny: **tunis.wk.dyzurny@msz.gov.pl**.
-
-Praktyczna kolejność działania:
-
-1. gdy zagrożone jest życie, zdrowie lub bezpieczeństwo — **najpierw miejscowe służby: 190, 197 albo 198**;
-2. przy nagłym zdarzeniu z poważnymi konsekwencjami dla obywatela Polski, np. aresztowaniu, ciężkim wypadku lub zgonie — następnie kontakt z konsulem;
-3. przy utracie lub kradzieży dokumentu bez bezpośredniego zagrożenia — zgłoszenie miejscowej policji i kontakt z Wydziałem Konsularnym w godzinach pracy;
-4. w sprawach ubezpieczenia, kosztów leczenia, transportu medycznego lub organizacji powrotu — równolegle kontakt z ubezpieczycielem i organizatorem wyjazdu. Konsul nie zastępuje ubezpieczyciela i nie pokrywa prywatnych kosztów leczenia lub transportu.
-
-Źródła:
-
-- [Ambasada RP w Tunisie – aktualne dane kontaktowe Wydziału Konsularnego i telefonu dyżurnego](https://www.gov.pl/web/tunezja/ambasada)
-- [MSZ – zakres pomocy konsularnej w nagłych sytuacjach](https://www.gov.pl/web/tunezja/jakiej-pomocy-moze-udzielic-konsul-informacje-ogolne)
 
 ## Do sprawdzenia
 
