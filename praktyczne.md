@@ -1,8 +1,12 @@
 # Praktyczne informacje
 
-## Czas na Dżerbie
+Stan weryfikacji: 22 sierpnia 2026 r.
 
-Sprawdzono: 22 sierpnia 2026 r.
+Ten materiał zbiera krótkie informacje organizacyjne i użytkowe, które nie należą naturalnie do bardziej wyspecjalizowanych plików, takich jak zdrowie, pieniądze, łączność czy wycieczki. Ma służyć jako szybka ściąga przed wyjazdem i podczas pobytu.
+
+Informacje zależne od czasu, przepisów albo bieżącego funkcjonowania usług powinny być ponownie sprawdzane przed wyjazdem lub na miejscu.
+
+## Czas na Dżerbie
 
 Tunezja, w tym Dżerba, używa przez cały rok czasu UTC+1 i obecnie nie zmienia czasu z letniego na zimowy ani odwrotnie.
 
