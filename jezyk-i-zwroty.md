@@ -2,7 +2,7 @@
 
 Sprawdzono: 22 sierpnia 2026 r.
 
-Ten plik ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie jest kursem języka arabskiego ani francuskiego.
+Ten materiał ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie jest kursem języka arabskiego ani francuskiego.
 
 ## Jakimi językami mówi się na Dżerbie
 
@@ -184,7 +184,7 @@ Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamięt
 
 ## Dostępność i przyszła publikacja na WWW
 
-Plik Markdown pozostaje możliwie prosty i czytelny. Nie wstawiamy obecnie do każdego zwrotu surowych znaczników HTML tylko po to, aby oznaczyć zmianę języka.
+Materiał w Markdown pozostaje możliwie prosty i czytelny. Nie wstawiamy obecnie do każdego zwrotu surowych znaczników HTML tylko po to, aby oznaczyć zmianę języka.
 
 Przy konwersji materiału do HTML lub publikacji na stronie internetowej należy jednak programowo oznaczać język treści.
 
