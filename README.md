@@ -1,6 +1,8 @@
 # Djerba 2026
 
-Prywatna baza ustaleń dotyczących wyjazdu na Dżerbę w 2026 roku.
+Baza ustaleń dotyczących wyjazdu na Dżerbę w 2026 roku oraz źródło publicznej strony przewodnika.
+
+Publiczna strona przewodnika: [Dżerba 2026 – GitHub Pages](https://rotnicki.github.io/djerba-2026/)
 
 Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmowy mogą powstawać w projekcie ChatGPT, a najważniejsze wnioski powinny być przenoszone tutaj.
 
