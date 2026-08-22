@@ -6,6 +6,15 @@ Ten materiał zbiera krótkie informacje organizacyjne i użytkowe, które nie n
 
 Informacje zależne od czasu, przepisów albo bieżącego funkcjonowania usług powinny być ponownie sprawdzane przed wyjazdem lub na miejscu.
 
+## Najważniejsze dla naszego wyjazdu
+
+- **Numery alarmowe:** 190 – pogotowie/SAMU, 197 – policja, 198 – ochrona cywilna/straż pożarna i ratownictwo.
+- **Czas:** podczas naszego wyjazdu na Dżerbie jest o 1 godzinę wcześniej niż w Polsce.
+- **Hotel:** Club Palm Azur 4★ w Aghir; pobyt All Inclusive i grupowy transfer lotniskowy.
+- **Loty:** dzień przed wylotem z Polski i w ostatniej dobie przed powrotem trzeba ponownie sprawdzić aktualną godzinę lotu i transferu.
+- **PRM:** wcześniej zgłoszona asysta nie wymaga ponownego zamawiania, ale po przyjeździe na lotnisko trzeba zgłosić obecność i gotowość do obsługi.
+- **Odyseusz:** warto przed wyjazdem zgłosić podróż i mieć włączony działający kanał powiadomień.
+
 ## Telefony alarmowe i pomoc konsularna
 
 Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na Dżerbie. **Wybiera się je jako krótkie numery alarmowe bez prefiksu kraju +216**, czyli np. 190, 197 lub 198, a nie +216 190. Prefiks +216 stosuje się natomiast przy zwykłych tunezyjskich numerach telefonu, takich jak numer hotelu czy Ambasady RP.
@@ -147,6 +156,57 @@ To są godziny publikowane przed naszym wyjazdem. Hotel może zmienić bieżący
 
 [Itaka – Club Palm Azur: aktualne godziny posiłków, All Inclusive i zasady restauracji](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
 
+## Wylot i organizacja na lotnisku
+
+Asysta dla osób z niepełnosprawnościami / PRM powinna być zgłoszona przed podróżą. W przypadku naszej imprezy potrzebę asysty zgłasza się sprzedawcy / Coral Travel, który przekazuje informację przewoźnikowi oraz służbom w miejscu podróży. Coral Travel wskazuje również, że po przyjeździe na lotnisko osoba korzystająca z wcześniej zgłoszonej asysty powinna osobiście zgłosić swoją obecność w informacji lotniskowej.
+
+Nie oznacza to ponownego zamawiania asysty. Jest to informacja dla obsługi, że pasażer, dla którego usługa została wcześniej zgłoszona, jest już na lotnisku i jest gotowy do rozpoczęcia obsługi.
+
+Zgodnie z rozporządzeniem (WE) nr 1107/2006, jeżeli przewoźnik, jego przedstawiciel lub organizator nie wskazał wcześniej innej godziny, pasażer powinien zgłosić się w wyznaczonym punkcie lotniska nie później niż 2 godziny przed opublikowaną godziną odlotu. Jeżeli dokumenty podróży lub organizator podają wcześniejszą godzinę zgłoszenia, należy zastosować się do tej informacji.
+
+### Sprawdzenie godzin lotów
+
+Godziny lotów mogą się zmieniać również po wystawieniu dokumentów podróży.
+
+- **Dzień przed wylotem z Polski** należy ponownie sprawdzić aktualną godzinę odlotu. Można zrobić to w aktualnym rozkładzie Coral Travel, w strefie klienta albo przez punkt sprzedaży, w którym zawarto umowę.
+- **W ostatniej dobie przed powrotem z Tunezji** należy sprawdzić aktualną godzinę lotu i transferu na lotnisko. Coral Travel przekazuje tę informację na miejscu przez swojego przedstawiciela / lokalnego partnera; może być dostępna m.in. w aplikacji Coral Travel, recepcji hotelu lub miejscu przeznaczonym na informacje organizatora.
+- Nie należy więc opierać planu wyjazdu na lotnisko wyłącznie na godzinie zapisanej wcześniej w umowie lub pierwszej wersji dokumentów podróży.
+
+### Grupa warszawska — Lotnisko Chopina
+
+- **Planowana godzina zbiórki: około 8:30.** Jest to godzina, na którą uczestnicy powinni starać się dotrzeć na lotnisko, a nie sztywna godzina rozpoczęcia asysty.
+- Jeżeli którejś osoby jeszcze nie ma, pozostali **czekają na zebranie całej grupy**. Dopiero gdy wszyscy są już na miejscu — w praktyce może to być bliżej **9:00** — zgłaszamy gotowość grupy do skorzystania z wcześniej zamówionej asysty.
+- **Czekamy na skompletowanie grupy tak długo, jak nie zagraża to terminowemu zgłoszeniu obecnych już uczestników do asysty i odprawy.** Jeżeli opóźnienie jednej osoby zaczęłoby zagrażać tym terminom, osoby będące już na lotnisku powinny zgłosić się do obsługi, a sprawę spóźnionej osoby rozwiązać osobno z lotniskiem lub organizatorem.
+- Najprościej podejść do **punktu informacji lotniskowej w ogólnodostępnej hali odlotów** i powiedzieć, że grupa ma wcześniej zgłoszoną przez biuro podróży asystę PRM oraz że wszyscy uczestnicy są już na miejscu. Informacja lotniskowa może wskazać dalszy sposób kontaktu z obsługą asysty.
+- Przy zgłoszeniu warto mieć pod ręką **numer rejsu i dokumenty podróży**.
+- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę dla osób z niepełnosprawnościami na nasz lot do Dżerby. Grupa jest już w komplecie. Prosimy o wskazanie lub przywołanie obsługi asysty.”**
+- Awaryjnie można skontaktować się z informacją lotniskową pod numerem **+48 22 650 42 20**.
+
+Źródła:
+
+- [Coral Travel – usługi specjalne i zasady zgłaszania asysty na lotnisku](https://www.coraltravel.pl/airlines/)
+- [Polskie Porty Lotnicze – oficjalna informacja o pomocy PRM na Lotnisku Chopina](https://biuroprasowe.ppl.pl/420702-lotnisko-chopina-dolacza-do-programu-hidden-disabilities-sunflower)
+- [LOT – Lotnisko Chopina w Warszawie: kontakt do informacji lotniskowej](https://www.lot.com/gr/pl/odkrywaj/o-lot/przesiadka/warszawa/lotnisko-chopina-w-warszawie)
+- [Rozporządzenie (WE) nr 1107/2006 – prawa osób niepełnosprawnych i osób o ograniczonej sprawności ruchowej podróżujących drogą lotniczą](https://eur-lex.europa.eu/eli/reg/2006/1107/oj/pol)
+
+### Grupa katowicka — Katowice Airport
+
+- **Godzina zbiórki: do uzupełnienia po potwierdzeniu ustaleń grupy katowickiej.**
+- Dżerba jest kierunkiem poza strefą Schengen, dlatego dla tego wylotu właściwy jest **Terminal A (Non-Schengen)**.
+- Po zebraniu całej grupy należy zgłosić gotowość do wcześniej zamówionej asysty **w Punkcie PRM w Terminalu A albo bezpośrednio obsłudze PRM telefonicznie**:
+    - **+48 32 39 27 394**;
+    - **+48 666 024 216**.
+- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę PRM na lot do Dżerby. Nasza grupa jest już w komplecie i jesteśmy w Terminalu A. Prosimy powiedzieć, gdzie mamy czekać na obsługę asysty.”**
+- Jeżeli nie uda się połączyć bezpośrednio z PRM, awaryjnie działa całodobowa **informacja lotniskowa: +48 32 39 27 000**.
+- Katowice Airport prosi pasażerów wymagających asysty o przybycie **co najmniej 2 godziny przed wylotem**.
+
+Źródła:
+
+- [Katowice Airport – obsługa osób niepełnosprawnych PRM: kontakt](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/kontakt)
+- [Katowice Airport – PRM: informacje na lotnisku i zalecenie przybycia minimum 2 godziny przed wylotem](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/na-lotnisku)
+- [Katowice Airport – ważne telefony](https://www.katowice-airport.com/pl/dla-pasazera/wazne-telefony)
+- [Katowice Airport – terminale: Terminal A obsługuje kierunki Non-Schengen i zawiera Punkt PRM](https://www.katowice-airport.com/pl/dla-pasazera/mapy-terminali)
+
 ## Odyseusz MSZ – warto zgłosić podróż
 
 **Odyseusz** to oficjalny system Ministerstwa Spraw Zagranicznych dla osób wyjeżdżających za granicę. Rejestracja podróży nie jest warunkiem wyjazdu, ale **warto ją zrobić**, ponieważ dzięki niej MSZ wie, że dana osoba przebywa w określonym kraju i terminie, może przekazywać jej ostrzeżenia oraz łatwiej nawiązać kontakt w sytuacji kryzysowej.
@@ -154,6 +214,20 @@ To są godziny publikowane przed naszym wyjazdem. Hotel może zmienić bieżący
 [Gov.pl – oficjalna usługa „Zgłoś pobyt za granicą – system Odyseusz”](https://www.gov.pl/web/gov/zglos-pobyt-za-granica-system-odyseusz)
 
 [Odyseusz MSZ – portal dla podróżujących](https://odyseusz.gov.pl/)
+
+### Co zrobić przed wyjazdem
+
+Najrozsądniejszy plan dla naszej grupy:
+
+1. **kilka dni przed wyjazdem** każdy pełnoletni uczestnik rejestruje podróż w Odyseuszu;
+2. w mObywatelu w polu miejsca pobytu wpisuje **Club Palm Azur** i wybiera hotel z wyników wyszukiwania, zamiast ręcznie wpisywać ogólną lokalizację;
+3. wpisuje termin **31.08–07.09.2026**;
+4. włącza co najmniej jeden działający kanał powiadomień – najlepiej SMS i e-mail, jeśli są dostępne;
+5. przed wyjazdem sprawdza aktualny profil Tunezji i poziom ostrzeżeń MSZ;
+6. zapisuje lub ma pod ręką dane kontaktowe do właściwej polskiej placówki konsularnej;
+7. plan podróży i dane hotelu pozostawia również osobie bliskiej w Polsce.
+
+[Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
 
 ### Dlaczego warto się zarejestrować
 
@@ -265,71 +339,6 @@ Rejestracja w Odyseuszu **nie zastępuje**:
 Centralny Ośrodek Informatyki w informacji o nowej usłudze Odyseusz podkreśla wprost, że system nie zastępuje ubezpieczenia ani zdrowego rozsądku – jest dodatkowym narzędziem ułatwiającym dostęp do informacji i kontakt w sytuacji kryzysowej.
 
 [Centralny Ośrodek Informatyki – czym Odyseusz pomaga i czego nie zastępuje](https://www.coi.gov.pl/aktualnosci/odyseusz-juz-w-mobywatelu-wsparcie-dla-wyjezdzajacych-za-granice)
-
-### Co zrobić przed wyjazdem
-
-Najrozsądniejszy plan dla naszej grupy:
-
-1. **kilka dni przed wyjazdem** każdy pełnoletni uczestnik rejestruje podróż w Odyseuszu;
-2. w mObywatelu w polu miejsca pobytu wpisuje **Club Palm Azur** i wybiera hotel z wyników wyszukiwania, zamiast ręcznie wpisywać ogólną lokalizację;
-3. wpisuje termin **31.08–07.09.2026**;
-4. włącza co najmniej jeden działający kanał powiadomień – najlepiej SMS i e-mail, jeśli są dostępne;
-5. przed wyjazdem sprawdza aktualny profil Tunezji i poziom ostrzeżeń MSZ;
-6. zapisuje lub ma pod ręką dane kontaktowe do właściwej polskiej placówki konsularnej;
-7. plan podróży i dane hotelu pozostawia również osobie bliskiej w Polsce.
-
-[Odyseusz MSZ – profil Tunezji i bieżące informacje dla podróżujących](https://odyseusz.gov.pl/TN)
-
-## Wylot i organizacja na lotnisku
-
-Asysta dla osób z niepełnosprawnościami / PRM powinna być zgłoszona przed podróżą. W przypadku naszej imprezy potrzebę asysty zgłasza się sprzedawcy / Coral Travel, który przekazuje informację przewoźnikowi oraz służbom w miejscu podróży. Coral Travel wskazuje również, że po przyjeździe na lotnisko osoba korzystająca z wcześniej zgłoszonej asysty powinna osobiście zgłosić swoją obecność w informacji lotniskowej.
-
-Nie oznacza to ponownego zamawiania asysty. Jest to informacja dla obsługi, że pasażer, dla którego usługa została wcześniej zgłoszona, jest już na lotnisku i jest gotowy do rozpoczęcia obsługi.
-
-Zgodnie z rozporządzeniem (WE) nr 1107/2006, jeżeli przewoźnik, jego przedstawiciel lub organizator nie wskazał wcześniej innej godziny, pasażer powinien zgłosić się w wyznaczonym punkcie lotniska nie później niż 2 godziny przed opublikowaną godziną odlotu. Jeżeli dokumenty podróży lub organizator podają wcześniejszą godzinę zgłoszenia, należy zastosować się do tej informacji.
-
-### Sprawdzenie godzin lotów
-
-Godziny lotów mogą się zmieniać również po wystawieniu dokumentów podróży.
-
-- **Dzień przed wylotem z Polski** należy ponownie sprawdzić aktualną godzinę odlotu. Można zrobić to w aktualnym rozkładzie Coral Travel, w strefie klienta albo przez punkt sprzedaży, w którym zawarto umowę.
-- **W ostatniej dobie przed powrotem z Tunezji** należy sprawdzić aktualną godzinę lotu i transferu na lotnisko. Coral Travel przekazuje tę informację na miejscu przez swojego przedstawiciela / lokalnego partnera; może być dostępna m.in. w aplikacji Coral Travel, recepcji hotelu lub miejscu przeznaczonym na informacje organizatora.
-- Nie należy więc opierać planu wyjazdu na lotnisko wyłącznie na godzinie zapisanej wcześniej w umowie lub pierwszej wersji dokumentów podróży.
-
-### Grupa warszawska — Lotnisko Chopina
-
-- **Planowana godzina zbiórki: około 8:30.** Jest to godzina, na którą uczestnicy powinni starać się dotrzeć na lotnisko, a nie sztywna godzina rozpoczęcia asysty.
-- Jeżeli którejś osoby jeszcze nie ma, pozostali **czekają na zebranie całej grupy**. Dopiero gdy wszyscy są już na miejscu — w praktyce może to być bliżej **9:00** — zgłaszamy gotowość grupy do skorzystania z wcześniej zamówionej asysty.
-- **Czekamy na skompletowanie grupy tak długo, jak nie zagraża to terminowemu zgłoszeniu obecnych już uczestników do asysty i odprawy.** Jeżeli opóźnienie jednej osoby zaczęłoby zagrażać tym terminom, osoby będące już na lotnisku powinny zgłosić się do obsługi, a sprawę spóźnionej osoby rozwiązać osobno z lotniskiem lub organizatorem.
-- Najprościej podejść do **punktu informacji lotniskowej w ogólnodostępnej hali odlotów** i powiedzieć, że grupa ma wcześniej zgłoszoną przez biuro podróży asystę PRM oraz że wszyscy uczestnicy są już na miejscu. Informacja lotniskowa może wskazać dalszy sposób kontaktu z obsługą asysty.
-- Przy zgłoszeniu warto mieć pod ręką **numer rejsu i dokumenty podróży**.
-- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę dla osób z niepełnosprawnościami na nasz lot do Dżerby. Grupa jest już w komplecie. Prosimy o wskazanie lub przywołanie obsługi asysty.”**
-- Awaryjnie można skontaktować się z informacją lotniskową pod numerem **+48 22 650 42 20**.
-
-Źródła:
-
-- [Coral Travel – usługi specjalne i zasady zgłaszania asysty na lotnisku](https://www.coraltravel.pl/airlines/)
-- [Polskie Porty Lotnicze – oficjalna informacja o pomocy PRM na Lotnisku Chopina](https://biuroprasowe.ppl.pl/420702-lotnisko-chopina-dolacza-do-programu-hidden-disabilities-sunflower)
-- [LOT – Lotnisko Chopina w Warszawie: kontakt do informacji lotniskowej](https://www.lot.com/gr/pl/odkrywaj/o-lot/przesiadka/warszawa/lotnisko-chopina-w-warszawie)
-- [Rozporządzenie (WE) nr 1107/2006 – prawa osób niepełnosprawnych i osób o ograniczonej sprawności ruchowej podróżujących drogą lotniczą](https://eur-lex.europa.eu/eli/reg/2006/1107/oj/pol)
-
-### Grupa katowicka — Katowice Airport
-
-- **Godzina zbiórki: do uzupełnienia po potwierdzeniu ustaleń grupy katowickiej.**
-- Dżerba jest kierunkiem poza strefą Schengen, dlatego dla tego wylotu właściwy jest **Terminal A (Non-Schengen)**.
-- Po zebraniu całej grupy należy zgłosić gotowość do wcześniej zamówionej asysty **w Punkcie PRM w Terminalu A albo bezpośrednio obsłudze PRM telefonicznie**:
-    - **+48 32 39 27 394**;
-    - **+48 666 024 216**.
-- Przykładowe zgłoszenie: **„Dzień dobry, mamy wcześniej zgłoszoną przez biuro podróży asystę PRM na lot do Dżerby. Nasza grupa jest już w komplecie i jesteśmy w Terminalu A. Prosimy powiedzieć, gdzie mamy czekać na obsługę asysty.”**
-- Jeżeli nie uda się połączyć bezpośrednio z PRM, awaryjnie działa całodobowa **informacja lotniskowa: +48 32 39 27 000**.
-- Katowice Airport prosi pasażerów wymagających asysty o przybycie **co najmniej 2 godziny przed wylotem**.
-
-Źródła:
-
-- [Katowice Airport – obsługa osób niepełnosprawnych PRM: kontakt](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/kontakt)
-- [Katowice Airport – PRM: informacje na lotnisku i zalecenie przybycia minimum 2 godziny przed wylotem](https://www.katowice-airport.com/pl/dla-pasazera/pasazerowie-niepelnosprawni/na-lotnisku)
-- [Katowice Airport – ważne telefony](https://www.katowice-airport.com/pl/dla-pasazera/wazne-telefony)
-- [Katowice Airport – terminale: Terminal A obsługuje kierunki Non-Schengen i zawiera Punkt PRM](https://www.katowice-airport.com/pl/dla-pasazera/mapy-terminali)
 
 ## Do ponownego sprawdzenia tuż przed wyjazdem
 
