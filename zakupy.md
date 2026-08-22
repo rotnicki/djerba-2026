@@ -2,52 +2,41 @@
 
 Stan weryfikacji: 22 sierpnia 2026 r.
 
-Ten materiał zbiera rzeczy, które rozważamy kupić specjalnie na wyjazd, wraz z kryteriami wyboru, sprawdzonymi przykładami i cenami. Ma pomóc odróżnić rzeczy rzeczywiście przydatne od zakupów opcjonalnych i uniknąć kupowania sprzętu tylko dlatego, że pojawił się w pojedynczej rekomendacji.
+Ten materiał jest wspólną listą rzeczy, które mogą wymagać kupienia specjalnie na wyjazd. Nie powtarza pełnych uzasadnień medycznych ani zasad pakowania — szczegóły pozostają odpowiednio w plikach `zdrowie.md` i `pakowanie.md`.
 
-Ceny i dostępność konkretnych ofert mogą się szybko zmieniać. Wnioski dotyczące potrzeby danego przedmiotu powinny pozostawać oddzielone od bieżącej oferty sklepu.
+Nie każdy element trzeba kupować: część rzeczy uczestnicy mogą już mieć. Przy lekach i preparatach zdrowotnych lista nie zastępuje indywidualnej porady lekarza lub farmaceuty.
 
-## Wentylator akumulatorowy
+## Ochrona przed słońcem i plaża
 
-### Kierunek zakupu
+- **Krem przeciwsłoneczny SPF 50/50+** — ochrona UVA i UVB, najlepiej preparat wodoodporny. Przy regularnym plażowaniu małe opakowanie 200 ml może nie wystarczyć jednej osobie na cały tydzień.
+- **Kapelusz z szerokim rondem** — powinien osłaniać twarz, uszy i kark; zwykła czapka z daszkiem chroni słabiej.
+- **Okulary przeciwsłoneczne** — z ochroną UVA i UVB.
+- **Balsam do ust SPF 30+**.
+- **Buty do wody** — przy plaży hotelu Club Palm Azur są uzasadnione, ponieważ zejście jest miejscami skaliste. Wystarczy prosty zamknięty model dobrze trzymający stopę, z gumową podeszwą i bieżnikiem.
+- **Lekki preparat łagodzący po oparzeniu słonecznym** — np. emulsja lub pianka z D-pantenolem albo alantoiną.
+- **Opcjonalnie: lekka odzież lub koszulka kąpielowa z UPF 50** — szczególnie przy dłuższym przebywaniu na słońcu lub w wodzie.
 
-Szukamy małego wentylatora przenośnego z:
+Źródła i dokładne uzasadnienie: [Zdrowie – ochrona przed słońcem oraz bezpieczeństwo w morzu i na plaży](zdrowie.md).
 
-- akumulatorem najlepiej 3000–5000 mAh,
-- ładowaniem USB-C,
-- możliwością używania w ręce i postawienia na stoliku,
-- kilkoma poziomami nawiewu,
-- możliwie małą masą.
+Źródło dotyczące samej plaży: [Itaka – Hotel Club Palm Azur: opis plaży i zalecenie obuwia ochronnego](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/).
 
-### Model szczególnie brany pod uwagę
+## Apteczka i preparaty zdrowotne
 
-Allegro: składany wentylator ręczny 5000 mAh USB-C, 5 prędkości, wyświetlacz cyfrowy. W oglądanej ofercie cena wynosiła około 70 zł. Model ma być dalej porównywany z ofertami innych sklepów.
+- **Doustny płyn nawadniający ORS/DPN** — warto kupić saszetki przeznaczone do nawadniania przy biegunce lub wymiotach, a nie dowolne „elektrolity”. Przykłady opisane w materiale zdrowotnym: **ORSALIT dla dorosłych** (około 20–39 zł za 10 saszetek) albo **Gastrolit** (około 25–38 zł za 14 saszetek). Ceny sprawdzone 22 sierpnia 2026 r.
+- **Preparat do dezynfekcji rąk** — co najmniej 60% alkoholu.
+- **Enterol 250 mg — produkt leczniczy zawierający *Saccharomyces boulardii* CNCM I-745** — tylko jako opcjonalny zakup po indywidualnej decyzji. Nie traktujemy go jako obowiązkowej ochrony przed biegunką podróżnych ani nie przyjmujemy grupowego schematu stosowania.
+- **Lek przeciwbiegunkowy** — ewentualnie indywidualnie dobrany po konsultacji z lekarzem lub farmaceutą; nie wpisujemy jednego obowiązkowego preparatu dla całej grupy.
+- **Leki przyjmowane stale** — przed wyjazdem trzeba sprawdzić, czy zapas wystarczy na cały pobyt i ewentualne opóźnienie powrotu. To nie jest wspólny zakup grupowy.
 
-Konkretna oferta przekazana przez jednego z uczestników wyjazdu:
+Szczegóły dotyczące ORS/DPN, Enterolu, leków przeciwbiegunkowych, przeciwwskazań i zasad samoleczenia: [Zdrowie – biegunka podróżnych, nawodnienie i apteczka](zdrowie.md).
 
-- [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406)
+Szczepienie przeciw WZW A pozostaje opisane w `zdrowie.md`; nie traktujemy go w tym pliku jako zwykłego zakupu produktu.
 
-### Inne sprawdzane warianty
+## Sprzęt
 
-- modele około 3000 mAh z Empiku,
-- modele USAMS z Media Expert,
-- modele 5000 mAh z Amazon.pl,
-- droższe modele AWEI i Jisulife.
+- **Mały wentylator akumulatorowy USB-C** — przydatny na wycieczki, transfery i podczas oczekiwania w upale. Sensowne kryteria to akumulator około 3000–5000 mAh, kilka poziomów nawiewu, niewielka masa oraz możliwość używania w ręce i postawienia na stoliku.
+- **Model obecnie brany pod uwagę:** składany wentylator ręczny 5000 mAh, USB-C, 5 prędkości i wyświetlacz cyfrowy. Cena oferty może się zmieniać; przy ostatnim sprawdzeniu była w okolicach 70 zł. [Allegro – wentylator ręczny 5000 mAh USB-C, składany, 5 prędkości, oferta nr 18820057406](https://allegro.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406).
 
-## Buty do wody
+## Zasada dalszego prowadzenia listy
 
-Przy plaży hotelu Club Palm Azur warto używać butów do wody. Plaża jest zasadniczo piaszczysta, ale oficjalny opis oferty Itaki wskazuje na miejscami skaliste zejście do morza i wprost zaleca obuwie ochronne.
-
-Najpraktyczniejszy będzie prosty, zamknięty but wodny:
-
-- dobrze trzymający stopę,
-- z gumową podeszwą chroniącą przed kamieniami,
-- z bieżnikiem ograniczającym poślizg,
-- szybko odprowadzający wodę.
-
-Nie ma potrzeby kupowania specjalistycznego obuwia nurkowego. Zwykłe buty wodne z podstawowej półki cenowej powinny wystarczyć. Luźne klapki nie są dobrym zamiennikiem podczas wchodzenia do morza.
-
-Źródło: [Itaka – Hotel Club Palm Azur: opis plaży i zalecenie obuwia ochronnego](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
-
-## Do kupienia
-
-Na razie brak ostatecznie zatwierdzonych zakupów.
+Kolejne rzeczy dopisujemy przede wszystkim jako pozycje w jednej z powyższych kategorii. Osobny nagłówek dla konkretnego produktu tworzymy dopiero wtedy, gdy wymaga on większego porównania wariantów, cen lub parametrów. Dzięki temu plik może rosnąć bez nadmiernie rozbudowanej hierarchii nagłówków.
