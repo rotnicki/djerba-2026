@@ -12,7 +12,7 @@ Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na D�
 
 Do połączenia z lokalnym numerem alarmowym potrzebna jest działająca usługa głosowa w sieci komórkowej. Sama podróżna eSIM przeznaczona wyłącznie do transmisji danych nie zapewnia zwykłych połączeń telefonicznych. W nagłej sytuacji najpierw należy kontaktować się z właściwą miejscową służbą. Ambasada nie zastępuje pogotowia, policji ani straży pożarnej.
 
-- **190 — SAMU, pomoc medyczna w nagłych przypadkach.** Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej.
+- **190 — pogotowie ratunkowe / SAMU, pomoc medyczna w nagłych przypadkach.** Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej.
 - **197 — policja.** Dzwonić m.in. przy napadzie, kradzieży z zagrożeniem, przemocy, bezpośrednim zagrożeniu bezpieczeństwa albo gdy potrzebna jest pilna interwencja policji.
 - **198 — ochrona cywilna: straż pożarna, wypadki i ratownictwo.** Tunezyjska *Protection Civile* realizuje m.in. zadania straży pożarnej i ratownictwa. Dzwonić przy pożarze, wypadku lub innym zdarzeniu wymagającym interwencji ratowniczej.
 - **193 — Gwardia Narodowa.** Numer alarmowy lądowych jednostek Gwardii Narodowej; może być właściwy m.in. poza obszarami obsługiwanymi przez policję.
@@ -24,9 +24,11 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 Przygotowaliśmy jedną paczkę kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur. Po pobraniu można zaimportować wszystkie kontakty do telefonu za jednym razem.
 
-[ Pobierz paczkę kontaktów Dżerba 2026 – numery alarmowe, ambasada i hotel ](assets/dzerba-2026-kontakty.vcf)
+[ Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel ](assets/dzerba-2026-kontakty.vcf)
 
-W kontaktach numery alarmowe są zapisane bez prefiksu +216, natomiast zwykłe numery Ambasady RP i hotelu — w pełnym formacie międzynarodowym +216.
+Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny również z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze. Na stronie nadal używamy poprawnej polskiej nazwy **Dżerba**.
+
+W kontaktach numery alarmowe są zapisane bez prefiksu +216, natomiast zwykłe numery Ambasady RP i hotelu — w pełnym formacie międzynarodowym +216. Pole kategorii vCard ma wartość **Dżerba**, ale nie należy traktować go jako gwarancji automatycznego utworzenia osobnej listy kontaktów na iPhonie; najpewniejszym sposobem znalezienia całego zestawu jest wpisanie **Djerba** w wyszukiwarce Kontaktów.
 
 Źródła:
 
