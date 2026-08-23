@@ -99,4 +99,4 @@ Docelowo przy wycieczkach mogą więc występować oba rodzaje materiałów, ale
 
 - zdjęcie satelitarne na stronie głównej — wdrożone testowo;
 - zdjęcia reprezentujące poszczególne miejsca w `wycieczki.md` — planowane, wybór zdjęć jeszcze nie został wykonany dla całej listy;
-- własne uproszczone mapy OpenStreetMap — planowane; przygotowano zasady archiwizacji danych źródłowych, ale właściwy snapshot i mapy nie zostały jeszcze wykonane.
+- własne uproszczone mapy OpenStreetMap — planowane; datowany snapshot Tunezji został pobrany, zweryfikowany i zapisany w archiwum danych źródłowych, ale właściwe mapy SVG nie zostały jeszcze wykonane.
