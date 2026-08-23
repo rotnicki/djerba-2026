@@ -118,7 +118,7 @@ TUI podaje około **6 km** od hotelu do centrum Midoun. Przy oficjalnej taryfie 
 
 [Booking.com – Club Palm Azur: Djerba Explore około 8,5 km](https://www.booking.com/hotel/tn/club-palm-azur-djerba.pl.html)
 
-[Hotels.com – Club Palm Azur: Djerba Explore około 11,9 km](https://ie.hotels.com/ho213921/hotel-club-palm-azur-couples-and-families-only-aghir-tunisia/)
+[Hotels.com – Club Palm Azur: Djerba Explore około 11,9 km](https://www.hotels.com/ho213921/hotel-club-palm-azur-couples-and-families-only-aghir-tunisia/)
 
 **Club Palm Azur → Houmt Souk**
 
