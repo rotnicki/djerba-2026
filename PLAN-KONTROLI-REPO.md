@@ -190,7 +190,7 @@ Do sprawdzenia:
 
 ### 12. Końcowy audyt całego repozytorium
 
-Status: **do wykonania**.
+Status: **zakończony 23 sierpnia 2026 r.**
 
 Po zakończeniu etapów 1–11 ponownie przeczytać całe repo od początku i sprawdzić:
 
