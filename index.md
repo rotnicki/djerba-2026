@@ -2,9 +2,17 @@
 title: Dżerba 2026
 ---
 
-# Dżerba 2026
+<section class="home-hero" aria-labelledby="home-hero-title">
+  <div class="home-hero__copy">
+    <h1 id="home-hero-title">Dżerba 2026</h1>
+    <p class="home-hero__lead">Praktyczny przewodnik na wyjazd na Dżerbę w 2026 roku.</p>
+  </div>
 
-Praktyczny przewodnik na wyjazd na Dżerbę w 2026 roku.
+  <figure class="home-hero__media">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Djerba_Island.jpeg/1280px-Djerba_Island.jpeg" alt="Naturalnokolorowe zdjęcie satelitarne całej Dżerby, pokazujące kształt wyspy, piaszczyste wybrzeże i płytkie laguny otoczone Morzem Śródziemnym." width="1280" height="1280" decoding="async" fetchpriority="high">
+    <figcaption>Dżerba z satelity Landsat 8, 4 maja 2020 r. NASA Earth Observatory / Lauren Dauphin, dane USGS. Domena publiczna. <a href="https://commons.wikimedia.org/wiki/File:Djerba_Island.jpeg">Wikimedia Commons</a>.</figcaption>
+  </figure>
+</section>
 
 Znajdziesz tu informacje dotyczące pobytu, zdrowia, rzeczy do zabrania i kupienia przed wyjazdem, łączności, pieniędzy, wycieczek, kultury oraz języka.
 
