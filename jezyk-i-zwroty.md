@@ -156,7 +156,7 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 ### Sytuacja awaryjna
 
 - **Aidez-moi, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ede mua, sil wu ple** – proszę mi pomóc;
-- **J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medesę** – potrzebuję lekarza;
+- **J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medsę** – potrzebuję lekarza;
 - **Appelez la police**{: lang="fr"} – wymowa po polsku: **aple la polis** – proszę wezwać policję;
 - **J'ai perdu…**{: lang="fr"} – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…;
 - **Je suis avec un groupe**{: lang="fr"} – wymowa po polsku: **że słi awek ę grup** – jestem z grupą.
@@ -234,8 +234,7 @@ Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokaza
 
 - czy hotel i lokalny przewodnik używają w praktyce angielskiego, francuskiego czy obu języków;
 - nazwy miejsc z planu wyjazdu w oficjalnej pisowni francuskiej i arabskiej;
-- uproszczoną polską wymowę nazw miejscowości, które grupa będzie najczęściej podawała taksówkarzom;
-- przed wersją ostateczną odsłuchać kluczowe zwroty wypowiadane przez rodzimych użytkowników i w razie potrzeby skorygować polski zapis fonetyczny.
+- uproszczoną polską wymowę nazw miejscowości, które grupa będzie najczęściej podawała taksówkarzom.
 
 ## Źródła
 
