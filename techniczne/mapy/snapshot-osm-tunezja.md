@@ -1,6 +1,6 @@
 # Snapshot OSM Tunezji — manifest techniczny
 
-Status: **manifest przygotowany, plik źródłowy PBF nie jest zapisany w repozytorium**.
+Status: **snapshot pobrany, zweryfikowany i zapisany w archiwum Google Drive; plik PBF celowo nie jest przechowywany w publicznym repozytorium**.
 
 Data przygotowania manifestu: 23 sierpnia 2026 r.
 
@@ -15,10 +15,10 @@ W repozytorium zapisujemy:
 - manifest techniczny;
 - źródło pobrania;
 - planowany zakres użycia;
-- wymagane dane kontrolne do uzupełnienia po rzeczywistym pobraniu pliku;
+- dane kontrolne pobranego pliku;
 - lekkie pliki końcowe map, gdy zostaną przygotowane.
 
-Pełny snapshot danych źródłowych powinien zostać zapisany w archiwum danych źródłowych:
+Pełny snapshot danych źródłowych jest zapisany w archiwum danych źródłowych:
 
 `Google Drive: Dżerba 2026/Mapy – dane źródłowe`
 
@@ -32,9 +32,13 @@ Strona informacyjna:
 
 https://download.geofabrik.de/africa/tunisia.html
 
-Planowany plik źródłowy:
+Stały adres najnowszego pliku źródłowego:
 
 https://download.geofabrik.de/africa/tunisia-latest.osm.pbf
+
+Pobrany plik datowany:
+
+https://download.geofabrik.de/africa/tunisia-260822.osm.pbf
 
 Format:
 
@@ -48,19 +52,18 @@ Charakter danych:
 
 Geofabrik nie definiuje osobnych subregionów dla Tunezji. Do przygotowania mapy Dżerby i południowej Tunezji trzeba więc pobrać snapshot całego kraju, a następnie wyciąć lub przefiltrować potrzebny obszar lokalnie.
 
-## Informacje do uzupełnienia po pobraniu
+## Dane zapisanego snapshotu
 
-Po rzeczywistym pobraniu i zapisaniu pliku w archiwum należy uzupełnić:
-
-- dokładną nazwę zapisanego pliku;
-- datę i godzinę pobrania;
-- datę danych OSM wskazaną przez Geofabrik;
-- rozmiar pliku w bajtach;
-- sumę SHA-256;
-- ewentualną sumę MD5, jeśli zostanie pobrana z Geofabrik;
-- dokładną lokalizację pliku w archiwum;
-- narzędzie użyte do pobrania;
-- osobę wykonującą pobranie.
+- nazwa pliku: `tunisia-260822.osm.pbf`;
+- data pobrania: 24 sierpnia 2026 r., około 00:35 CEST (23 sierpnia 2026 r., 22:35 UTC);
+- data oznaczona w nazwie snapshotu Geofabrik: 22 sierpnia 2026 r.;
+- rozmiar: `84 028 017` bajtów;
+- SHA-256: `4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf`;
+- MD5: `872548a5a57926f1451d1eb716ef7d46` — zgodna z sumą opublikowaną przez Geofabrik;
+- format i typ MIME: `.osm.pbf`, `application/octet-stream`;
+- lokalizacja: [Google Drive — tunisia-260822.osm.pbf](https://drive.google.com/file/d/1MZYSe-eAzNul0wcBEsQ9WWMpBdWtRNov/view?usp=drivesdk);
+- narzędzie użyte do pobrania: `curl 8.5.0` z obsługą przekierowań, ponawiania i wznawiania;
+- wykonawca techniczny: Codex, na polecenie Mikołaja Rotnickiego.
 
 ## Robocze polecenia kontrolne
 
@@ -92,6 +95,6 @@ Pierwszym zastosowaniem snapshotu ma być przygotowanie map dla `wycieczki.md`:
 
 Roboczy zasięg pierwszej mapy szerszego obszaru jest opisany w `techniczne/mapy/README.md`.
 
-## Uwaga o tej sesji
+## Wynik operacji
 
-W tej sesji przygotowano manifest i zapisano odniesienia w repozytorium. Nie potwierdzono zapisu pełnego pliku `.osm.pbf` w archiwum danych źródłowych i nie obliczono jego sumy SHA-256.
+24 sierpnia 2026 r. datowany snapshot został pobrany z Geofabrik, a jego lokalna suma MD5 została porównana z sumą opublikowaną przez dostawcę. Plik przesłano do folderu `Dżerba 2026/Mapy – dane źródłowe`. Odczyt kontrolny metadanych Google Drive potwierdził nazwę `tunisia-260822.osm.pbf`, typ `application/octet-stream` i rozmiar `84 028 017` bajtów.
