@@ -188,36 +188,6 @@ Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamięt
 9. **Combien ça coûte ?**{: lang="fr"} – wymowa: **kąbję sa kut?** – ile to kosztuje?;
 10. **Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
 
-## Dostępność i oznaczenia języka na WWW
-
-Materiał w Markdown pozostaje możliwie prosty i czytelny. Zmiany języka są już oznaczane bez wstawiania surowych znaczników HTML przy każdym zwrocie: wykorzystujemy atrybuty obsługiwane przez Kramdown.
-
-Cała strona generowana przez Jekyll ma w layoucie główny język `lang="pl"`. W samym materiale oznaczamy lokalne zmiany języka tam, gdzie czytnik ekranu powinien przełączyć reguły wymowy.
-
-Stosowane zasady:
-
-- cała polska strona: `lang="pl"`;
-- zwrot francuski: `lang="fr"`;
-- oryginalny zapis tunezyjskiego arabskiego: `lang="ar-TN"` oraz `dir="rtl"`;
-- zapis łaciński tunezyjskiego arabskiego i **polska wymowa fonetyczna pozostają w polskim kontekście językowym**, aby czytnik ekranu nie próbował czytać ich arabskim głosem;
-- ewentualny zwrot angielski powinien otrzymać `lang="en"`.
-
-Przykładowa składnia używana bezpośrednio w Markdown:
-
-```markdown
-**Bonjour**{: lang="fr"} – wymowa po polsku: **bążur** – dzień dobry
-
-**عسلامة**{: lang="ar-TN" dir="rtl"} — 3aslema / aslema – wymowa po polsku: **aslema** – dzień dobry
-```
-
-Po przetworzeniu przez Kramdown atrybuty trafiają do wynikowego HTML. Oznaczanie lokalnych zmian języka jest istotne dla czytników ekranu, ponieważ umożliwia technologii asystującej zastosowanie właściwych reguł wymowy. Wynika to z **WCAG 2.2, kryterium sukcesu 3.1.2 „Język części”, poziom AA**. Ustawienie głównego języka całej strony wynika z **kryterium 3.1.1 „Język strony”, poziom A**.
-
-Źródła:
-
-- [Kramdown – składnia i atrybuty elementów](https://kramdown.gettalong.org/syntax.html)
-- [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.1: Language of Page](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)
-- [W3C WAI – WCAG 2.2, Understanding Success Criterion 3.1.2: Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
-
 ## Czego nie komplikować
 
 Nie będziemy uczyć grupy:
