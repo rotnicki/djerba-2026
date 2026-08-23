@@ -46,6 +46,41 @@ Roboczy proces:
 7. umieszczenie przy mapie wymaganej atrybucji `© OpenStreetMap contributors`;
 8. sprawdzenie czytelności i użyteczności przed powieleniem wzorca.
 
+## Roboczy zasięg pierwszej mapy szerszego obszaru
+
+Pierwsza mapa szerszego obszaru dla `wycieczki.md` ma roboczo pokazywać skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży Dżerba, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
+
+Robocza nazwa mapy:
+
+`Dżerba i południe Tunezji — orientacyjna mapa wycieczek`
+
+Zakres planistyczny, do weryfikacji po pobraniu danych i pierwszym próbnym renderze:
+
+- zachód: około `7.85°E`;
+- wschód: około `11.12°E`;
+- południe: około `32.70°N`;
+- północ: około `34.40°N`.
+
+Zakres powinien objąć co najmniej:
+
+- Dżerbę jako punkt startu wycieczek;
+- El Kantara / groblę z Dżerby na kontynent;
+- Medenine;
+- Tataouine;
+- Chenini;
+- Ksar Hadada;
+- Ksar Ouled Soltane;
+- Toujane;
+- Matmatę i Hotel Sidi Idriss;
+- Ksar Ghilane;
+- Douz / Zaafrane;
+- Chott el-Jerid jako obszar orientacyjny, nie pojedynczą pinezkę;
+- Tozeur i Chebikę jako najdalszy zachodni kierunek części programów dwudniowych.
+
+Ta mapa nie ma szczegółowo pokazywać wszystkich punktów na samej Dżerbie. Punkty wyspiarskie, takie jak Houmt Souk, Djerbahood, El Ghriba, Guellala, Djerba Explore, Ras Rmel i hotel Club Palm Azur, powinny zostać pokazane na osobnej mapie Dżerby.
+
+Podany zakres nie jest jeszcze ostateczną ramką produkcyjną. Po próbnym renderze trzeba sprawdzić czytelność etykiet, marginesy, zagęszczenie punktów i ewentualnie skorygować granice mapy bez zmiany jej funkcji.
+
 ## Styl, kolorystyka i tryb ciemny
 
 OpenStreetMap traktujemy jako źródło danych, a nie jako obowiązkowy wzór kolorystyczny. Nie kopiujemy automatycznie wyglądu standardowych kafelków mapowych OpenStreetMap. Docelowy wygląd map powinien być własnym, uproszczonym stylem przewodnika, podporządkowanym czytelności i funkcji decyzyjnej.
