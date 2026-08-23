@@ -33,5 +33,6 @@ exclude = [
   '^https://www\.mdpi\.com/2076-3417/13/12/7197$',
   '^https://www\.sciencedirect\.com/science/article/abs/pii/S0278434305002505$',
   '^https://www\.sciencedirect\.com/science/article/abs/pii/S0278434314003136$',
-  '^https://www\.weather-atlas\.com/en/tunisia/djerba-weather-september$'
+  '^https://www\.weather-atlas\.com/en/tunisia/djerba-weather-september$',
+  '^https://www\.hotels\.com/ho213921/hotel-club-palm-azur-couples-and-families-only-aghir-tunisia/$'
 ]
