@@ -1,0 +1,23 @@
+exclude_path = [
+  '(^|/)_layouts/'
+]
+
+exclude = [
+  '^https://www\.cdc\.gov/',
+  '^https://help\.revolut\.com/',
+  '^https://www\.revolut\.com/',
+  '^https://www\.itaka\.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/$',
+  '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=6$',
+  '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=18$',
+  '^https://www\.orange\.pl/poradnik/dzwonienie-przez-wi-fi-poznaj-wi-fi-calling/$',
+  '^https://help\.flexiroam\.com/hc/en-us/articles/31245999800857-How-to-activate-or-start-your-data-plan$',
+  '^https://www\.infoclimat\.fr/climatologie/normales-records/1991-2020/djerba-mellita/valeurs/60769\.html$',
+  '^https://www\.tripadvisor\.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate\.html$',
+  '^https://www\.tripadvisor\.com/Attraction_Review-g1187636-d27726759-Reviews-Tawma_Travel_Djerba-Houmt_Souk_Djerba_Island_Medenine_Governorate\.html$',
+  '^https://itaka-lt\.seeplaces\.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/$',
+  '^https://seeplaces\.com/excursions/tunisia/zarzis/boat-trip-djerba/$'
+]
+
+[hosts."ie.hotels.com"]
+concurrency = 1
+request_interval = "2s"
