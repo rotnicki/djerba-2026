@@ -1,18 +1,18 @@
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 FN:Djerba TEST 1 - Pogotowie 190
 N:;Djerba TEST 1 - Pogotowie 190;;;
-TEL;VALUE=uri:tel:190
+TEL:190
 END:VCARD
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 FN:Djerba TEST 2 - Policja 197
 N:;Djerba TEST 2 - Policja 197;;;
-TEL;VALUE=uri:tel:197
+TEL:197
 END:VCARD
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 FN:Djerba TEST 3 - Ratownictwo 198
 N:;Djerba TEST 3 - Ratownictwo 198;;;
-TEL;VALUE=uri:tel:198
+TEL:198
 END:VCARD
