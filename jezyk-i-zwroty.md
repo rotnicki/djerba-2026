@@ -65,10 +65,7 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 ### Powitania i grzeczność
 
-**عسلامة**{: lang="ar-TN" dir="rtl"}
-: zapis łaciński: 3aslema / aslema
-: wymowa po polsku: **aslema**
-: znaczenie: cześć / dzień dobry
+**عسلامة**{: lang="ar-TN" dir="rtl"} — 3aslema / aslema – wymowa po polsku: **aslema** – cześć / dzień dobry.
 
 - **السلام عليكم**{: lang="ar-TN" dir="rtl"} — salam alejkum – wymowa po polsku: **salam alejkum** – tradycyjne powitanie „pokój z tobą / z wami”;
 - **وعليكم السلام**{: lang="ar-TN" dir="rtl"} — wa alejkum salam – wymowa po polsku: **ua alejkum salam** – odpowiedź na „salam alejkum”;
@@ -113,9 +110,7 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 ### Powitanie i podstawy
 
-**Bonjour**{: lang="fr"}
-: wymowa po polsku: **bążur**
-: znaczenie: dzień dobry
+**Bonjour**{: lang="fr"} – wymowa po polsku: **bążur** – dzień dobry.
 
 - **Bonsoir**{: lang="fr"} – wymowa po polsku: **bąsłar** – dobry wieczór;
 - **Merci**{: lang="fr"} – wymowa po polsku: **mersi** – dziękuję;
