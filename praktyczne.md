@@ -31,13 +31,17 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 ### Kontakty do zapisania w telefonie
 
-Dostępna jest jedna paczka kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur. Po pobraniu można zaimportować wszystkie kontakty do telefonu za jednym razem.
+Dostępna jest jedna paczka kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur.
 
 [Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel](assets/dzerba-2026-kontakty.vcf)
 
-**Plik testowy dla iPhone’a:** minimalna paczka vCard 4.0 zawierająca tylko trzy kontakty i numery telefonów, bez notatek, kategorii, adresów ani innych dodatkowych pól. Służy wyłącznie do sprawdzenia, czy iPhone poprawnie rozpoznaje wiele kontaktów w jednym pliku.
+**Test dla iPhone’a:** poniższy przycisk pobiera tę samą pełną paczkę 8 kontaktów, oznacza ją w przeglądarce jako plik vCard i przekazuje do systemowych opcji iPhone’a. Sprawdzamy w ten sposób, czy iOS uruchomi właściwy importer wielu kontaktów bez pośrednictwa poczty e-mail.
 
-[Pobierz testową paczkę 3 kontaktów – vCard 4.0](assets/dzerba-2026-kontakty-test-3.vcf)
+<button type="button" class="vcard-share-button" data-vcard-share data-vcf-url="assets/dzerba-2026-kontakty.vcf">Przekaż paczkę 8 kontaktów do iPhone’a</button>
+
+<p id="vcard-share-status" class="vcard-share-status" aria-live="polite"></p>
+
+<script src="assets/js/vcard-share.js" defer></script>
 
 Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze.
 
