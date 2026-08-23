@@ -35,6 +35,10 @@ Dostępna jest jedna paczka kontaktów w formacie vCard. Zawiera numery alarmowe
 
 [Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel](assets/dzerba-2026-kontakty.vcf)
 
+**Plik testowy dla iPhone’a:** minimalna paczka vCard 4.0 zawierająca tylko trzy kontakty i numery telefonów, bez notatek, kategorii, adresów ani innych dodatkowych pól. Służy wyłącznie do sprawdzenia, czy iPhone poprawnie rozpoznaje wiele kontaktów w jednym pliku.
+
+[Pobierz testową paczkę 3 kontaktów – vCard 4.0](assets/dzerba-2026-kontakty-test-3.vcf)
+
 Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze.
 
 W kontaktach numery alarmowe są zapisane bez prefiksu +216, natomiast zwykłe numery Ambasady RP i hotelu — w pełnym formacie międzynarodowym +216. Pole kategorii vCard ma wartość **Dżerba**, ale nie należy traktować go jako gwarancji automatycznego utworzenia osobnej listy kontaktów na iPhonie; najpewniejszym sposobem znalezienia całego zestawu jest wpisanie **Djerba** w wyszukiwarce Kontaktów.
