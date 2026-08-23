@@ -21,7 +21,7 @@ Wykorzystany materiał:
 - miejsce pozyskania do strony: Wikimedia Commons;
 - status prawny podany przy pliku: domena publiczna.
 
-Obraz jest obecnie osadzony z Wikimedia Commons w sekcji `home-hero`. Ma rozbudowany tekst alternatywny opisujący kształt wyspy i najważniejsze elementy orientacyjne, podpis oraz osobną informację o autorstwie i źródle na dole strony.
+Kopia obrazu używana na stronie jest przechowywana lokalnie w repozytorium jako `assets/images/djerba-island-landsat-2020.jpg` i osadzona w sekcji `home-hero`. Wikimedia Commons pozostaje wskazane jako miejsce pozyskania i źródło informacji o pochodzeniu. Obraz ma rozbudowany tekst alternatywny opisujący kształt wyspy i najważniejsze elementy orientacyjne, podpis oraz osobną informację o autorstwie i źródle na dole strony.
 
 To wdrożenie traktujemy jako pierwszy wzorzec do oceny: sprawdzamy jednocześnie wygląd, użyteczność, sposób opisu alternatywnego, prezentację źródła i zachowanie strony na urządzeniach mobilnych oraz z technologiami asystującymi. Nie oznacza ono jeszcze automatycznego zastosowania identycznego układu do wszystkich dalszych materiałów.
 

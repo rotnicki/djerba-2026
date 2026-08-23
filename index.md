@@ -9,7 +9,7 @@ title: Dżerba 2026
   </div>
 
   <figure class="home-hero__media">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Djerba_Island.jpeg/1280px-Djerba_Island.jpeg" alt="Zdjęcie satelitarne Dżerby widzianej z góry. Wyspa jest szeroka na północy i w części środkowej, a jej południowe wybrzeże jest głęboko wcięte, tworząc dwa wysunięte obszary po obu stronach zatoki. Na południowym wschodzie Dżerbę łączy z kontynentalną Tunezją wąska grobla El Kantara, a na południowym zachodzie przy Ajim wyspę od lądu oddziela cieśnina. Na północnym wschodzie widać długi, zakrzywiony piaszczysty półwysep oraz płytkie laguny." width="1280" height="1280" decoding="async" fetchpriority="high">
+    <img src="assets/images/djerba-island-landsat-2020.jpg" alt="Zdjęcie satelitarne Dżerby widzianej z góry. Wyspa jest szeroka na północy i w części środkowej, a jej południowe wybrzeże jest głęboko wcięte, tworząc dwa wysunięte obszary po obu stronach zatoki. Na południowym wschodzie Dżerbę łączy z kontynentalną Tunezją wąska grobla El Kantara, a na południowym zachodzie przy Ajim wyspę od lądu oddziela cieśnina. Na północnym wschodzie widać długi, zakrzywiony piaszczysty półwysep oraz płytkie laguny." width="1280" height="1280" decoding="async" fetchpriority="high">
     <figcaption>Zdjęcie satelitarne Dżerby.</figcaption>
   </figure>
 </section>
