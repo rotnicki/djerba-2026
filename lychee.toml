@@ -6,6 +6,7 @@ exclude = [
   '^https://www\.cdc\.gov/',
   '^https://help\.revolut\.com/',
   '^https://www\.revolut\.com/',
+  '^https://drive\.google\.com/',
   '^https://www\.itaka\.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/$',
   '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=6$',
   '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=18$',
