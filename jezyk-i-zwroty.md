@@ -210,7 +210,7 @@ Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokaza
 
 - [Tunisian National Tourist Office – informacje ogólne](https://www.discovertunisia.com/en/infos-pratiques/general-information)
 - [Defense Language Institute Foreign Language Center – Tunisian Cultural Orientation](https://fieldsupport.dliflc.edu/products/tunisian/bw_co/tunisian.pdf)
-- [Defense Language Institute Foreign Language Center – Tunisian Headstart2](https://hs2.dliflc.edu/tunisian.html)
+- [Defense Language Institute Foreign Language Center – Arabic-Tunisian Language Survival Kits](https://fieldsupport.dliflc.edu/productList.aspx?v=lsk)
 - [Derja.Ninja – słownik tunezyjskiego arabskiego i zasady transliteracji](https://derja.ninja/)
 - [Francuski portal publiczny Mon Parcours Handicap – terminologia dotycząca osób niewidomych i słabowidzących](https://www.monparcourshandicap.gouv.fr/actualite/handicap-visuel-le-point-sur-les-chiens-guides)
 - [W3C WAI – WCAG 2.2, Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
