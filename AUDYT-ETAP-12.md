@@ -42,7 +42,7 @@ Publikacja jest blisko wersji gotowej, ale etap 12 nie powinien być jeszcze zam
 
 ### 12.1. Granica wieku przy podatku turystycznym
 
-Status: **do zatwierdzenia**.
+Status: **zweryfikowane**.
 
 Priorytet: **ważny**.
 
@@ -66,7 +66,16 @@ Proponowana poprawka:
 
 Ponownie zweryfikować wyłącznie granicę wieku w źródle pierwotnym i ustalić jedno bezpieczne sformułowanie dla całego `pieniadze.md`, bez zmiany stawki i pozostałych zasad podatku.
 
-Dodatkowa weryfikacja źródłowa: **tak — punktowa, przed zatwierdzeniem zmiany**.
+Dodatkowa weryfikacja źródłowa: **tak — wykonana przed zatwierdzeniem zmiany**.
+
+Wynik wykonania:
+
+- oficjalne źródło tunezyjskie potwierdziło granicę „powyżej 12 lat”; osoby w wieku 12 lat i młodsze są zwolnione;
+- we wszystkich pięciu wykrytych miejscach w `pieniadze.md` usunięto sformułowanie sugerujące objęcie podatkiem osoby dokładnie 12-letniej i zastosowano formę „osoba w wieku powyżej 12 lat” lub jej gramatyczny odpowiednik;
+- w głównej sekcji „Obowiązkowy podatek turystyczny” dodano jednoznaczne wyjaśnienie granicy wieku;
+- poprawiono opis aktualnej informacji ITAKI na „powyżej 12. roku życia”;
+- nie zmieniono stawki 12 TND, wyliczenia 84 TND za 7 nocy ani limitu 10 nocy;
+- po zapisie ponownie odczytano `pieniadze.md`; nie pozostało żadne wystąpienie sformułowania „ukończyła 12 lat”, a wszystkie sprawdzone miejsca są ze sobą spójne.
 
 ### 12.2. Kompletność informacji o szczepieniach — dur brzuszny i WZW B
 
