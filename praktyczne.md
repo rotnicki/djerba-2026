@@ -31,13 +31,13 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 ### Kontakty do zapisania w telefonie
 
-Poniżej są trzy warianty **tego samego kontaktu testowego 190**. Wszystkie mają tę samą nazwę kontaktu, ten sam numer telefonu i tę samą notatkę. Różnią się wyłącznie polem organizacji, aby sprawdzić, jak importer kontaktów pokazuje i zapisuje te dane.
+Poniżej są trzy warianty **tego samego polskiego kontaktu testowego 112**. Wszystkie mają identyczne pole `FN`: `Polski numer alarmowy`, ten sam numer telefonu `112` i nie zawierają pola `N`. Różnią się wyłącznie polem `ORG`.
 
-[Test A — 190: nazwa kontaktu, bez pola organizacji](assets/kontakty/test-190-a-bez-organizacji.vcf)
+[Test A — 112: „Polski numer alarmowy”, bez organizacji](assets/kontakty/test-112-a-bez-organizacji.vcf)
 
-[Test B — 190: nazwa kontaktu + organizacja „Service d’Aide Médicale Urgente (SAMU)”](assets/kontakty/test-190-b-org-francuska.vcf)
+[Test B — 112: „Polski numer alarmowy”, organizacja identyczna](assets/kontakty/test-112-b-organizacja-identyczna.vcf)
 
-[Test C — 190: nazwa kontaktu i organizacja identyczne — „Djerba — Pogotowie ratunkowe / SAMU”](assets/kontakty/test-190-c-org-polska.vcf)
+[Test C — 112: „Polski numer alarmowy”, organizacja celowo inna](assets/kontakty/test-112-c-organizacja-inna.vcf)
 
 Źródła:
 
