@@ -144,6 +144,18 @@ Najpierw sprawdzić aktualne materiały projektu i ustalenia grupy. Jeśli godzi
 
 Dodatkowa weryfikacja źródłowa: **nie internetowa — potrzebne ustalenie organizacyjne grupy**.
 
+Wynik weryfikacji:
+
+- sprawdzono aktualny `praktyczne.md`;
+- przeszukano odpowiednią korespondencję Gmail dotyczącą Dżerby/Tunezji, Katowic, wylotu i asysty;
+- sprawdzono dostępne materiały organizatora, w tym przesłaną umowę, która dotyczy wylotu z Warszawy i dlatego nie stanowi źródła dla grupy katowickiej;
+- sprawdzono dostępne materiały Google Drive oraz wcześniejsze ustalenia projektu;
+- nie znaleziono wiarygodnego potwierdzenia godziny ani punktu zbiórki;
+- świadomie pozostawiono placeholder do czasu uzyskania informacji bezpośrednio od grupy katowickiej;
+- potwierdzone informacje o Terminalu A i Punkcie PRM nie zostały potraktowane jako uzgodnione miejsce zbiórki.
+
+`praktyczne.md` pozostawiono bez zmian. Podpunkt 12.3 pozostaje otwarty ze statusem „oczekuje na ustalenie”.
+
 ### 12.4. Końcowa kontrola polskiej fonetyki zwrotów
 
 Status: **do zatwierdzenia**.
