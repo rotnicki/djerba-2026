@@ -67,11 +67,15 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 **عسلامة**{: lang="ar-TN" dir="rtl"} — 3aslema / aslema – wymowa po polsku: **aslema** – cześć / dzień dobry.
 
-- **السلام عليكم**{: lang="ar-TN" dir="rtl"} — salam alejkum – wymowa po polsku: **salam alejkum** – tradycyjne powitanie „pokój z tobą / z wami”;
-- **وعليكم السلام**{: lang="ar-TN" dir="rtl"} — wa alejkum salam – wymowa po polsku: **ua alejkum salam** – odpowiedź na „salam alejkum”;
-- **عيشك**{: lang="ar-TN" dir="rtl"} — 3aychek / aychek – wymowa po polsku: **ajszek** – dziękuję; w tunezyjskim może również pełnić funkcję „proszę”;
-- **سامحني**{: lang="ar-TN" dir="rtl"} — samahni – wymowa po polsku: **samahni** – przepraszam / proszę wybaczyć;
-- **بسلامة**{: lang="ar-TN" dir="rtl"} — beslema / bislama – wymowa po polsku: **beslema** – do widzenia.
+**السلام عليكم**{: lang="ar-TN" dir="rtl"} — salam alejkum – wymowa po polsku: **salam alejkum** – tradycyjne powitanie „pokój z tobą / z wami”.
+
+**وعليكم السلام**{: lang="ar-TN" dir="rtl"} — wa alejkum salam – wymowa po polsku: **ua alejkum salam** – odpowiedź na „salam alejkum”.
+
+**عيشك**{: lang="ar-TN" dir="rtl"} — 3aychek / aychek – wymowa po polsku: **ajszek** – dziękuję; w tunezyjskim może również pełnić funkcję „proszę”.
+
+**سامحني**{: lang="ar-TN" dir="rtl"} — samahni – wymowa po polsku: **samahni** – przepraszam / proszę wybaczyć.
+
+**بسلامة**{: lang="ar-TN" dir="rtl"} — beslema / bislama – wymowa po polsku: **beslema** – do widzenia.
 
 Źródła pomocnicze:
 
@@ -82,17 +86,23 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 ### Podstawowe odpowiedzi
 
-- **إي**{: lang="ar-TN" dir="rtl"} — ey – wymowa po polsku: **ej** – tak, bardzo częste w mowie potocznej;
-- **لا**{: lang="ar-TN" dir="rtl"} — la – wymowa po polsku: **la** – nie;
-- **ما نفهمش**{: lang="ar-TN" dir="rtl"} — ma nefhemch – wymowa po polsku: **ma nefhemsz** – nie rozumiem;
-- **شوية**{: lang="ar-TN" dir="rtl"} — chwayya / chwaya – wymowa po polsku: **szłajja** – trochę / odrobinę; w odpowiednim kontekście może pomóc poprosić, żeby coś robić wolniej.
+**إي**{: lang="ar-TN" dir="rtl"} — ey – wymowa po polsku: **ej** – tak, bardzo częste w mowie potocznej.
+
+**لا**{: lang="ar-TN" dir="rtl"} — la – wymowa po polsku: **la** – nie.
+
+**ما نفهمش**{: lang="ar-TN" dir="rtl"} — ma nefhemch – wymowa po polsku: **ma nefhemsz** – nie rozumiem.
+
+**شوية**{: lang="ar-TN" dir="rtl"} — chwayya / chwaya – wymowa po polsku: **szłajja** – trochę / odrobinę; w odpowiednim kontekście może pomóc poprosić, żeby coś robić wolniej.
 
 ### Zakupy
 
-- **قداش؟**{: lang="ar-TN" dir="rtl"} — qaddech? / qaddesh? – wymowa po polsku: **kaddesz?** – ile? / ile kosztuje?;
-- **غالي**{: lang="ar-TN" dir="rtl"} — ghali – wymowa po polsku: w przybliżeniu **gali**, z pierwszą głoską wymawianą bardziej gardłowo – drogo / drogi;
-- **برشا**{: lang="ar-TN" dir="rtl"} — barcha – wymowa po polsku: **barsza** – dużo / bardzo;
-- **ما نحبش**{: lang="ar-TN" dir="rtl"} — ma nhebch / ma n7ebch – wymowa po polsku: **ma nhebsz** – nie chcę.
+**قداش؟**{: lang="ar-TN" dir="rtl"} — qaddech? / qaddesh? – wymowa po polsku: **kaddesz?** – ile? / ile kosztuje?
+
+**غالي**{: lang="ar-TN" dir="rtl"} — ghali – wymowa po polsku: w przybliżeniu **gali**, z pierwszą głoską wymawianą bardziej gardłowo – drogo / drogi.
+
+**برشا**{: lang="ar-TN" dir="rtl"} — barcha – wymowa po polsku: **barsza** – dużo / bardzo.
+
+**ما نحبش**{: lang="ar-TN" dir="rtl"} — ma nhebch / ma n7ebch – wymowa po polsku: **ma nhebsz** – nie chcę.
 
 Nie należy martwić się niedoskonałą wymową. W tym zestawie ważniejsze są prosty komunikat, spokojny ton i możliwość rozpoznania słowa przez rozmówcę niż odtworzenie wszystkich arabskich głosek.
 
@@ -112,62 +122,93 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 **Bonjour**{: lang="fr"} – wymowa po polsku: **bążur** – dzień dobry.
 
-- **Bonsoir**{: lang="fr"} – wymowa po polsku: **bąsłar** – dobry wieczór;
-- **Merci**{: lang="fr"} – wymowa po polsku: **mersi** – dziękuję;
-- **S'il vous plaît**{: lang="fr"} – wymowa po polsku: **sil wu ple** – proszę;
-- **Excusez-moi**{: lang="fr"} – wymowa po polsku: **ekskize mua** – przepraszam;
-- **Au revoir**{: lang="fr"} – wymowa po polsku: **o rewuar** – do widzenia.
+**Bonsoir**{: lang="fr"} – wymowa po polsku: **bąsłar** – dobry wieczór.
+
+**Merci**{: lang="fr"} – wymowa po polsku: **mersi** – dziękuję.
+
+**S'il vous plaît**{: lang="fr"} – wymowa po polsku: **sil wu ple** – proszę.
+
+**Excusez-moi**{: lang="fr"} – wymowa po polsku: **ekskize mua** – przepraszam.
+
+**Au revoir**{: lang="fr"} – wymowa po polsku: **o rewuar** – do widzenia.
 
 ### Gdy czegoś nie rozumiemy
 
-- **Je ne comprends pas**{: lang="fr"} – wymowa po polsku: **że ne kąprą pa** – nie rozumiem;
-- **Parlez-vous anglais ?**{: lang="fr"} – wymowa po polsku: **parle wu ągle?** – czy mówi Pan/Pani po angielsku?;
-- **Parlez-vous français ?**{: lang="fr"} – wymowa po polsku: **parle wu frąse?** – czy mówi Pan/Pani po francusku?;
-- **Pouvez-vous répéter ?**{: lang="fr"} – wymowa po polsku: **puwe wu repete?** – czy może Pan/Pani powtórzyć?;
-- **Plus lentement, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **pli lątmą, sil wu ple** – wolniej, proszę.
+**Je ne comprends pas**{: lang="fr"} – wymowa po polsku: **że ne kąprą pa** – nie rozumiem.
+
+**Parlez-vous anglais ?**{: lang="fr"} – wymowa po polsku: **parle wu ągle?** – czy mówi Pan/Pani po angielsku?
+
+**Parlez-vous français ?**{: lang="fr"} – wymowa po polsku: **parle wu frąse?** – czy mówi Pan/Pani po francusku?
+
+**Pouvez-vous répéter ?**{: lang="fr"} – wymowa po polsku: **puwe wu repete?** – czy może Pan/Pani powtórzyć?
+
+**Plus lentement, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **pli lątmą, sil wu ple** – wolniej, proszę.
 
 ### Kierunek i transport
 
-- **Où est… ?**{: lang="fr"} – wymowa po polsku: **u e…?** – gdzie jest…?;
-- **À gauche**{: lang="fr"} – wymowa po polsku: **a gosz** – w lewo;
-- **À droite**{: lang="fr"} – wymowa po polsku: **a druat** – w prawo;
-- **Tout droit**{: lang="fr"} – wymowa po polsku: **tu drua** – prosto;
-- **Combien pour aller à… ?**{: lang="fr"} – wymowa po polsku: **kąbję pur ale a…?** – ile kosztuje przejazd do…?;
-- **Je veux aller à…**{: lang="fr"} – wymowa po polsku: **że we ale a…** – chcę jechać do…;
-- **Arrêtez ici, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **arete isi, sil wu ple** – proszę zatrzymać się tutaj.
+**Où est… ?**{: lang="fr"} – wymowa po polsku: **u e…?** – gdzie jest…?
+
+**À gauche**{: lang="fr"} – wymowa po polsku: **a gosz** – w lewo.
+
+**À droite**{: lang="fr"} – wymowa po polsku: **a druat** – w prawo.
+
+**Tout droit**{: lang="fr"} – wymowa po polsku: **tu drua** – prosto.
+
+**Combien pour aller à… ?**{: lang="fr"} – wymowa po polsku: **kąbję pur ale a…?** – ile kosztuje przejazd do…?
+
+**Je veux aller à…**{: lang="fr"} – wymowa po polsku: **że we ale a…** – chcę jechać do…
+
+**Arrêtez ici, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **arete isi, sil wu ple** – proszę zatrzymać się tutaj.
 
 ### Zakupy i płatność
 
-- **Combien ça coûte ?**{: lang="fr"} – wymowa po polsku: **kąbję sa kut?** – ile to kosztuje?;
-- **C'est trop cher**{: lang="fr"} – wymowa po polsku: **se tro szer** – to za drogo;
-- **C'est un prix fixe ?**{: lang="fr"} – wymowa po polsku: **se ę pri fiks?** – czy to stała cena?;
-- **Je paie par carte**{: lang="fr"} – wymowa po polsku: **że pe par kart** – płacę kartą;
-- **Je paie en espèces**{: lang="fr"} – wymowa po polsku: **że pe ą espes** – płacę gotówką;
-- **Vous avez de la monnaie ?**{: lang="fr"} – wymowa po polsku: **wu zawe de la mone?** – czy ma Pan/Pani drobne?;
-- **Je ne veux pas, merci**{: lang="fr"} – wymowa po polsku: **że ne we pa, mersi** – nie chcę, dziękuję.
+**Combien ça coûte ?**{: lang="fr"} – wymowa po polsku: **kąbję sa kut?** – ile to kosztuje?
+
+**C'est trop cher**{: lang="fr"} – wymowa po polsku: **se tro szer** – to za drogo.
+
+**C'est un prix fixe ?**{: lang="fr"} – wymowa po polsku: **se ę pri fiks?** – czy to stała cena?
+
+**Je paie par carte**{: lang="fr"} – wymowa po polsku: **że pe par kart** – płacę kartą.
+
+**Je paie en espèces**{: lang="fr"} – wymowa po polsku: **że pe ą espes** – płacę gotówką.
+
+**Vous avez de la monnaie ?**{: lang="fr"} – wymowa po polsku: **wu zawe de la mone?** – czy ma Pan/Pani drobne?
+
+**Je ne veux pas, merci**{: lang="fr"} – wymowa po polsku: **że ne we pa, mersi** – nie chcę, dziękuję.
 
 ### Jedzenie i picie
 
-- **De l'eau, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **de lo, sil wu ple** – wodę, proszę;
-- **Sans glace**{: lang="fr"} – wymowa po polsku: **są glas** – bez lodu;
-- **Sans alcool**{: lang="fr"} – wymowa po polsku: **są zalkol** – bez alkoholu;
-- **L'addition, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ladisją, sil wu ple** – rachunek, proszę;
-- **C'est épicé ?**{: lang="fr"} – wymowa po polsku: **se epise?** – czy to jest ostre?;
-- **Sans…**{: lang="fr"} – wymowa po polsku: **są…** – bez…
+**De l'eau, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **de lo, sil wu ple** – wodę, proszę.
+
+**Sans glace**{: lang="fr"} – wymowa po polsku: **są glas** – bez lodu.
+
+**Sans alcool**{: lang="fr"} – wymowa po polsku: **są zalkol** – bez alkoholu.
+
+**L'addition, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ladisją, sil wu ple** – rachunek, proszę.
+
+**C'est épicé ?**{: lang="fr"} – wymowa po polsku: **se epise?** – czy to jest ostre?
+
+**Sans…**{: lang="fr"} – wymowa po polsku: **są…** – bez…
 
 ### Sytuacja awaryjna
 
-- **Aidez-moi, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ede mua, sil wu ple** – proszę mi pomóc;
-- **J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medsę** – potrzebuję lekarza;
-- **Appelez la police**{: lang="fr"} – wymowa po polsku: **aple la polis** – proszę wezwać policję;
-- **J'ai perdu…**{: lang="fr"} – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…;
-- **Je suis avec un groupe**{: lang="fr"} – wymowa po polsku: **że słi awek ę grup** – jestem z grupą.
+**Aidez-moi, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **ede mua, sil wu ple** – proszę mi pomóc.
+
+**J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medsę** – potrzebuję lekarza.
+
+**Appelez la police**{: lang="fr"} – wymowa po polsku: **aple la polis** – proszę wezwać policję.
+
+**J'ai perdu…**{: lang="fr"} – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…
+
+**Je suis avec un groupe**{: lang="fr"} – wymowa po polsku: **że słi awek ę grup** – jestem z grupą.
 
 ### Dostępność i pomoc w poruszaniu się
 
-- **Je suis aveugle**{: lang="fr"} – wymowa po polsku: **że słi awegl** – jestem osobą niewidomą;
-- **Donnez-moi votre bras, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **done mua wotr bra, sil wu ple** – proszę podać mi ramię;
-- **Prévenez-moi s'il y a une marche, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **prewene mua sil ja in marsz, sil wu ple** – proszę powiedzieć / ostrzec mnie, jeśli jest stopień.
+**Je suis aveugle**{: lang="fr"} – wymowa po polsku: **że słi awegl** – jestem osobą niewidomą.
+
+**Donnez-moi votre bras, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **done mua wotr bra, sil wu ple** – proszę podać mi ramię.
+
+**Prévenez-moi s'il y a une marche, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **prewene mua sil ja in marsz, sil wu ple** – proszę powiedzieć / ostrzec mnie, jeśli jest stopień.
 
 ## Angielski – kiedy wystarczy
 
@@ -179,16 +220,25 @@ Nie warto jednak zakładać, że osoba prowadząca mały sklep, taksówkarz albo
 
 Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamiętać około dziesięciu:
 
-1. **aslema** – wymowa: **aslema** – dzień dobry;
-2. **3aychek / aychek** – wymowa: **ajszek** – dziękuję / proszę;
-3. **samahni** – wymowa: **samahni** – przepraszam;
-4. **beslema** – wymowa: **beslema** – do widzenia;
-5. **qaddech?** – wymowa: **kaddesz?** – ile?;
-6. **la** – wymowa: **la** – nie;
-7. **Bonjour**{: lang="fr"} – wymowa: **bążur** – dzień dobry;
-8. **Merci**{: lang="fr"} – wymowa: **mersi** – dziękuję;
-9. **Combien ça coûte ?**{: lang="fr"} – wymowa: **kąbję sa kut?** – ile to kosztuje?;
-10. **Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
+**aslema** – wymowa: **aslema** – dzień dobry.
+
+**3aychek / aychek** – wymowa: **ajszek** – dziękuję / proszę.
+
+**samahni** – wymowa: **samahni** – przepraszam.
+
+**beslema** – wymowa: **beslema** – do widzenia.
+
+**qaddech?** – wymowa: **kaddesz?** – ile?
+
+**la** – wymowa: **la** – nie.
+
+**Bonjour**{: lang="fr"} – wymowa: **bążur** – dzień dobry.
+
+**Merci**{: lang="fr"} – wymowa: **mersi** – dziękuję.
+
+**Combien ça coûte ?**{: lang="fr"} – wymowa: **kąbję sa kut?** – ile to kosztuje?
+
+**Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
 
 ## Czego nie komplikować
 
