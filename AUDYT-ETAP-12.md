@@ -4,19 +4,15 @@ published: false
 
 # Audyt etapu 12 — końcowy audyt całego repozytorium
 
-Stan: **audyt wykonany, poprawki i walidacje końcowe niezatwierdzone**.
+Stan: **audyt zakończony — końcowy werdykt pozytywny i zatwierdzony 23 sierpnia 2026 r.**
 
 Data audytu: 22 sierpnia 2026 r.
 
+Data zakończenia: 23 sierpnia 2026 r.
+
 Ten plik jest roboczą checklistą techniczną etapu 12 z `PLAN-KONTROLI-REPO.md`. Nie jest częścią publicznego przewodnika dla uczestników i nie powinien być publikowany przez GitHub Pages.
 
-Etap 12 pozostaje otwarty do czasu:
-
-1. rozstrzygnięcia i wykonania zatwierdzonych poprawek;
-2. ponownej kontroli zmienionych plików;
-3. wykonania końcowych walidacji technicznych;
-4. zatwierdzenia końcowego werdyktu;
-5. osobnego polecenia oznaczającego etap 12 jako zakończony w `PLAN-KONTROLI-REPO.md`.
+Końcowe warunki zamknięcia audytu zostały spełnione i zatwierdzone 23 sierpnia 2026 r. Jedynym świadomie nierozstrzygniętym punktem organizacyjnym pozostaje 12.3 — godzina zbiórki grupy katowickiej — oznaczona jako `oczekuje na ustalenie`, ponieważ nie znaleziono wiarygodnego potwierdzenia i nie należy jej zgadywać.
 
 ## Zasady pracy z checklistą
 
@@ -36,7 +32,7 @@ Przed każdą zmianą pliku należy ponownie pobrać jego aktualną wersję i SH
 
 Nie wykryto problemu krytycznego, który czyniłby przewodnik zasadniczo nierzetelnym lub niebezpiecznym.
 
-Publikacja jest blisko wersji gotowej, ale etap 12 nie powinien być jeszcze zamykany. Do rozstrzygnięcia pozostały trzy ważne problemy treściowe lub organizacyjne, jedna końcowa kontrola jakości językowej oraz dwie walidacje techniczne.
+Po wykonaniu zatwierdzonych poprawek, ponownej kontroli zmienionych plików, ręcznej walidacji dostępności oraz końcowych przebiegach automatycznego sprawdzania linków nie wykryto problemu wymagającego dalszej poprawki przed zamknięciem etapu 12. Końcowy werdykt gotowości repozytorium jest pozytywny.
 
 ## Problemy wymagające rozstrzygnięcia
 
@@ -154,7 +150,7 @@ Wynik weryfikacji:
 - świadomie pozostawiono placeholder do czasu uzyskania informacji bezpośrednio od grupy katowickiej;
 - potwierdzone informacje o Terminalu A i Punkcie PRM nie zostały potraktowane jako uzgodnione miejsce zbiórki.
 
-`praktyczne.md` pozostawiono bez zmian. Podpunkt 12.3 pozostaje otwarty ze statusem „oczekuje na ustalenie”.
+`praktyczne.md` pozostawiono bez zmian. Podpunkt 12.3 pozostaje oznaczony jako „oczekuje na ustalenie”; świadomy brak tej niepotwierdzonej informacji nie blokuje zamknięcia etapu 12.
 
 ### 12.4. Końcowa kontrola polskiej fonetyki zwrotów
 
@@ -246,16 +242,40 @@ Priorytet: **techniczny**.
 
 Workflow `.github/workflows/check-links.yml` sprawdza pliki Markdown i HTML przez Lychee po pushu na `master`, przy pull requestach, ręcznie i cyklicznie.
 
-Wynik końcowy:
+Wcześniejszy udany przebieg po uporządkowaniu wyjątków:
 
-- końcowy udany przebieg `Check links`: `32622197444`;
+- przebieg `Check links`: `32622197444`;
 - SHA sprawdzonego `master`: `af770fd6fbda40a497a000f5d5dcab2c94d2509e`;
-- Lychee: **439 sprawdzeń**, **249 unikalnych URL-i**, **360 poprawnych**, **6 przekierowań**, **79 wyłączonych**, **0 błędów**, **0 timeoutów**;
-- job `Lychee` oraz krok `Check Markdown and HTML links` zakończyły się wynikiem `success`.
+- Lychee: **439 sprawdzeń**, **249 unikalnych URL-i**, **360 poprawnych**, **6 przekierowań**, **79 wyłączonych**, **0 błędów**, **0 timeoutów**.
 
 W toku walidacji wcześniejsze błędy rozdzielono na rzeczywisty nieaktualny link DLI oraz techniczne ograniczenia automatycznego sprawdzania zewnętrznych serwisów, m.in. blokady 403/429 i problemy TLS. Nieaktualne źródło DLI zastąpiono aktualnym oficjalnym źródłem. Pozostałe wyjątki dodawano dopiero po ręcznej, niezależnej weryfikacji konkretnych adresów i możliwie wąsko, bez globalnego `insecure` ani globalnego akceptowania kodów 403, 404 lub 429.
 
+Po końcowej korekcie daty strony startowej wykonano ponowną kontrolę aktualnego `master`:
+
+- końcowy run: `32622919920`;
+- próba: **3**;
+- job `Lychee`: `97155639994`;
+- SHA sprawdzonego `master`: `18ca0111795d5ef228bb531adad10b98de52ad8b`;
+- Lychee: **439 sprawdzeń**, **249 unikalnych URL-i**, **360 poprawnych**, **6 przekierowań**, **79 wyłączonych**, **0 timeoutów**, **0 błędów**;
+- job `Lychee` oraz krok `Check Markdown and HTML links` zakończyły się wynikiem `success`.
+
+Dwie wcześniejsze próby tego samego runu kończyły się wyłącznie timeoutami zewnętrznych serwisów przy **0 rzeczywistych błędów linków**. Timeouty były przejściowe i zniknęły w trzeciej próbie bez jakiejkolwiek zmiany plików lub konfiguracji repozytorium.
+
 Końcowy przebieg dla aktualnego stanu repozytorium jest zielony. Walidacja 12.T2 jest zakończona.
+
+## Końcowa kontrola po wszystkich zatwierdzonych poprawkach
+
+Po zakończeniu poprawek wykonano ponowną kontrolę aktualnego repozytorium.
+
+- potwierdzono spójność zmienionych plików i najważniejszych informacji między dokumentami;
+- ponownie sprawdzono strukturę nawigacji i odsyłacze wewnętrzne;
+- potwierdzono, że po wcześniejszym zielonym przebiegu link checkera późniejszy zapis `AUDYT-ETAP-12.md` nie zmienił publicznej treści ani konfiguracji;
+- wykryto jedną drobną nieścisłość redakcyjną na stronie startowej: `index.md` nadal podawał „Ostatnia aktualizacja: 22 sierpnia 2026 r.” mimo punktowych aktualizacji publicznych materiałów 23 sierpnia;
+- po zatwierdzeniu zmieniono w `index.md` wyłącznie tę datę na **23 sierpnia 2026 r.**; commit: `18ca0111795d5ef228bb531adad10b98de52ad8b`;
+- nie zmieniono dat „Stan weryfikacji” w poszczególnych dokumentach, ponieważ odnoszą się one do ich kompleksowej weryfikacji;
+- końcowy przebieg `Check links` dla commitu `18ca0111795d5ef228bb531adad10b98de52ad8b` zakończył się sukcesem w próbie 3 runu `32622919920`.
+
+Końcowy werdykt: **repozytorium jest gotowe do zakończenia etapu 12**. Nie wykryto problemu wymagającego kolejnej poprawki przed zamknięciem audytu. Punkt 12.3 pozostaje świadomie oznaczony jako `oczekuje na ustalenie` i powinien zostać uzupełniony dopiero po otrzymaniu wiarygodnego potwierdzenia godziny zbiórki grupy katowickiej.
 
 ## Elementy sprawdzone i niewymagające obecnie zmian
 
@@ -296,16 +316,16 @@ Nieaktualne sformułowanie sugerujące przyszłą konwersję materiałów do HTM
 
 ## Warunki zamknięcia etapu 12
 
-Etap 12 można przedstawić do końcowego zatwierdzenia dopiero wtedy, gdy:
+Wszystkie warunki zamknięcia etapu 12 zostały spełnione i zatwierdzone:
 
-- [ ] problem 12.1 został rozstrzygnięty i, jeśli zatwierdzono zmianę, poprawiony oraz zweryfikowany;
-- [ ] problem 12.2 został rozstrzygnięty i, jeśli zatwierdzono zmianę, poprawiony oraz zweryfikowany;
-- [ ] problem 12.3 został rozwiązany albo świadomie pozostawiony jako oczekujący, jeżeli grupa nadal nie zna godziny;
-- [ ] problem 12.4 został wykonany albo świadomie uznany za niewymagany przed wyjazdem;
-- [ ] walidacja 12.T1 została wykonana i jej wynik zapisany;
-- [ ] walidacja 12.T2 została wykonana i jej wynik zapisany;
-- [ ] po wszystkich zatwierdzonych zmianach ponownie sprawdzono spójność zmienionych plików;
-- [ ] przedstawiono końcowy werdykt gotowości publikacji;
-- [ ] użytkownik wyraźnie zatwierdził zakończenie etapu 12.
+- [x] problem 12.1 został rozstrzygnięty, poprawiony i zweryfikowany;
+- [x] problem 12.2 został rozstrzygnięty, poprawiony i zweryfikowany;
+- [x] problem 12.3 został świadomie pozostawiony jako `oczekuje na ustalenie`, ponieważ grupa nadal nie ma wiarygodnie potwierdzonej godziny zbiórki;
+- [x] problem 12.4 został wykonany i zweryfikowany;
+- [x] walidacja 12.T1 została wykonana i jej wynik zapisany;
+- [x] walidacja 12.T2 została wykonana i jej wynik zapisany;
+- [x] po wszystkich zatwierdzonych zmianach ponownie sprawdzono spójność zmienionych plików;
+- [x] przedstawiono końcowy pozytywny werdykt gotowości publikacji;
+- [x] użytkownik 23 sierpnia 2026 r. wyraźnie zatwierdził zakończenie etapu 12.
 
-Dopiero po ostatnim punkcie należy osobnym zapisem zmienić status etapu 12 w `PLAN-KONTROLI-REPO.md`.
+Po tym zatwierdzeniu status etapu 12 w `PLAN-KONTROLI-REPO.md` powinien zostać zmieniony osobnym zapisem, bez zmian w publicznych materiałach przewodnika.
