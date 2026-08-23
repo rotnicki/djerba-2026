@@ -27,7 +27,7 @@ exclude = [
   '^https://www\.transport\.tn/fr/terrestre/article/378/tarifs-du-transport-non-regulier-des-personnes$',
   '^https://www\.transport\.tn/uploads/tarif/2022/Arrete_311\.pdf$',
   '^https://www\.transport\.tn/uploads/Loi/Decret_2006-576_du_6_Mars_2006\.pdf$',
-  '^https://www\.interieur\.gov\.tn/actualite/28518/%D8%B9%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA$',
+  '^https://www\.interieur\.gov\.tn/actualite/28518/%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA$',
   '^https://www\.interieur\.gov\.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA$',
   '^https://santetunisie\.rns\.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu$',
   '^https://www\.mdpi\.com/2076-3417/13/12/7197$',
