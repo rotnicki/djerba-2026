@@ -87,11 +87,12 @@ curl -L -o tunisia.poly https://download.geofabrik.de/africa/tunisia.poly
 
 ## Zakres użycia w projekcie
 
-Pierwszym zastosowaniem snapshotu ma być przygotowanie map dla `wycieczki.md`:
+Pierwszym wykonanym zastosowaniem snapshotu jest mapa Dżerby w `wycieczki.md`. Jej specyfikację, parametry i procedurę odtworzenia opisuje dokument [Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md).
 
-1. mapa szerszego obszaru: Dżerba i południe Tunezji;
-2. osobna mapa Dżerby;
-3. ewentualnie późniejsze mapy tras, jeśli pomogą porównywać programy wycieczek.
+Dalszy plan wykorzystania danych obejmuje:
+
+1. mapę szerszego obszaru: Dżerba i południe Tunezji;
+2. ewentualne późniejsze mapy tras, jeśli pomogą porównywać programy wycieczek.
 
 Roboczy zasięg pierwszej mapy szerszego obszaru jest opisany w `techniczne/mapy/README.md`.
 

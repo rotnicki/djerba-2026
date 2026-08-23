@@ -7,6 +7,8 @@ Usage:
 
 The script intentionally keeps only the island outline, selected main roads and
 the places described in the guide.  It requires pyosmium and Shapely.
+
+Implementation record: techniczne/mapy/mapa-dzerby.md
 """
 
 from __future__ import annotations

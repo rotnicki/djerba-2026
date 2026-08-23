@@ -4,6 +4,13 @@ Mapy przygotowywane dla przewodnika mają być oparte na rzeczywistych danych Op
 
 Ten dokument dotyczy technicznej strony map. Ogólny plan materiałów wizualnych, w tym zdjęć reprezentujących miejsca w `wycieczki.md`, znajduje się w `techniczne/wizualizacje/README.md`.
 
+## Dokumenty i narzędzia
+
+- [pierwsza mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md);
+- [manifest snapshotu OpenStreetMap dla Tunezji](snapshot-osm-tunezja.md);
+- [generator mapy Dżerby](generate_djerba_map.py);
+- [zależności generatora](requirements-djerba-map.txt).
+
 ## Cel map
 
 Planowane mapy mają przede wszystkim pomagać w orientacji przestrzennej: pokazywać położenie ważnych miejsc, relacje między nimi oraz — tam, gdzie ma to sens — przebieg tras wycieczek.
@@ -66,33 +73,7 @@ Pierwsza uproszczona mapa została przygotowana dla sekcji `Atlas miejsc` w plik
 - pomocniczo Midoun i El Kantarę;
 - zarys wyspy oraz wybrane drogi główne.
 
-Kod źródłowy SVG znajduje się w `_includes/maps/djerba.svg`. Jekyll wstawia go bezpośrednio do HTML strony przez `{% raw %}{% include maps/djerba.svg %}{% endraw %}`. Dzięki temu kolory mapy mogą korzystać ze zmiennych CSS strony, a jej nazwa i opis są dostępne w tym samym drzewie dostępności co pozostała treść.
-
-Mapa jest generowana przez skrypt `techniczne/mapy/generate_djerba_map.py` z zamrożonego snapshotu `tunisia-260822.osm.pbf`. Skrypt wymaga pakietów Python `osmium` i `shapely`. Przykładowe uruchomienie z katalogu głównego repozytorium:
-
-```bash
-python techniczne/mapy/generate_djerba_map.py \
-  /ścieżka/do/tunisia-260822.osm.pbf \
-  _includes/maps/djerba.svg
-```
-
-Skrypt odtwarza z danych OSM linię brzegową, wybiera drogi klasy `primary` i `secondary`, usuwa krótkie fragmenty nieczytelne w skali całej wyspy i umieszcza skonfigurowane punkty z Atlasu. Wygenerowany SVG zapisuje w metadanych nazwę oraz sumę SHA-256 snapshotu.
-
-### Dostępność pierwszej mapy
-
-SVG jest traktowany jako jedna grafika o roli `img`, z nazwą w elemencie `title` i krótkim opisem w `desc`. Wewnętrzne warstwy mapy są ukryte przed czytnikiem ekranu, ponieważ ich surowa kolejność nie przekazuje użytecznej relacji przestrzennej.
-
-Bezpośrednio pod mapą znajduje się zwykły tekst HTML zawierający:
-
-- przypisanie litery i numerów do nazw miejsc;
-- położenie hotelu jako punktu odniesienia;
-- kierunki i przybliżone odległości w linii prostej;
-- informację o grupach blisko położonych miejsc;
-- wyjaśnienie kierunku wyjazdu przez El Kantarę.
-
-Kolor nie jest jedynym sposobem rozróżnienia punktów: hotel ma romb i literę `H`, a atrakcje mają koła i numery. Na małym ekranie mapa zachowuje czytelną wielkość etykiet i może być przewijana poziomo; opis tekstowy pozostaje dostępny bez przewijania grafiki.
-
-Style w `assets/css/style.css` definiują oddzielne semantyczne kolory mapy dla trybu jasnego, `prefers-color-scheme: dark` oraz trybu wymuszonych kolorów. Kontrast sprawdzono osobno dla etykiet, dróg, obrysu wyspy i znaczników.
+Kod SVG znajduje się w `_includes/maps/djerba.svg` i jest osadzany inline przez Jekyll. Pełny zapis decyzji, parametrów danych, modelu dostępności, kolorów, procedury generowania i wyników kontroli znajduje się w dokumencie [Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md).
 
 ## Roboczy zasięg pierwszej mapy szerszego obszaru
 

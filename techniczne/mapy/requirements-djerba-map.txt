@@ -1,0 +1,6 @@
+# Generowanie SVG z zamrożonego snapshotu OpenStreetMap
+osmium==4.3.1
+shapely==2.1.2
+
+# Pomocnicza weryfikacja odległości w opisie przestrzennym
+pyproj==3.7.2
