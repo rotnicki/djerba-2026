@@ -157,6 +157,31 @@ W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w zi
 
 ### Dżerba
 
+<figure class="place-map">
+  <div class="place-map__viewport" role="region" aria-label="Mapa Dżerby. Na małym ekranie można ją przewijać poziomo." tabindex="0">
+    {% include maps/djerba.svg %}
+  </div>
+  <figcaption>Orientacyjna mapa wyspy, hotelu i miejsc opisanych w Atlasie. Linie pokazują tylko wybrane główne drogi; mapa nie służy do nawigacji. Dane mapowe: <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, ODbL</a>.</figcaption>
+</figure>
+
+#### Opis mapy i relacje przestrzenne
+
+Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejonie Aghir. Na mapie jest punktem odniesienia oznaczonym literą **H**. Pozostałe oznaczenia to:
+
+- **1 — Houmt Souk i fort Borj Ghazi Mustapha**;
+- **2 — Erriadh i Djerbahood**;
+- **3 — synagoga El Ghriba**;
+- **4 — Guellala**;
+- **5 — Djerba Explore**;
+- **6 — Ras Rmel**.
+{: .place-map-key }
+
+Najbliżej hotelu z zaznaczonych atrakcji znajduje się Djerba Explore, około 6,5 km w linii prostej na północ. Midoun, pokazane jako punkt orientacyjny, leży około 5,5 km na północny zachód od hotelu.
+
+Erriadh z Djerbahood i synagoga El Ghriba tworzą bliską parę miejsc w środkowo-zachodniej części wyspy; dzieli je mniej niż kilometr. Od hotelu oba punkty leżą około 16 km w linii prostej na zachód. Dalej na północnym zachodzie znajdują się Houmt Souk i Ras Rmel, oba około 20 km w linii prostej od hotelu.
+
+Guellala leży około 16 km na zachód i lekko na południe od hotelu. El Kantara, oznaczona pomocniczo przy południowym krańcu wyspy, wskazuje kierunek grobli i wyjazdu na kontynent. Podane odległości służą tylko porównaniu położenia; trasy drogowe są dłuższe.
+
 #### Dżerba jako całość – wyspa z własnym systemem osadnictwa
 
 **Etykieta:** Dżerba – wyspa kultury, religii i rozproszonej zabudowy.

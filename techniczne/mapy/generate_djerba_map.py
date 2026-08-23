@@ -1,0 +1,311 @@
+#!/usr/bin/env python3
+"""Generate the simplified Djerba SVG map from the frozen Tunisia OSM PBF.
+
+Usage:
+    python techniczne/mapy/generate_djerba_map.py \
+        ../tunisia-260822.osm.pbf _includes/maps/djerba.svg
+
+The script intentionally keeps only the island outline, selected main roads and
+the places described in the guide.  It requires pyosmium and Shapely.
+"""
+
+from __future__ import annotations
+
+import argparse
+import html
+import math
+from pathlib import Path
+
+import osmium
+from shapely.geometry import LineString, Point, Polygon
+from shapely.ops import polygonize, unary_union
+
+
+SNAPSHOT_SHA256 = "4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf"
+
+# A little sea around the island; the lower edge includes El Kantara and the
+# beginning of the Roman causeway, but not the mainland as a destination.
+WEST, SOUTH, EAST, NORTH = 10.73, 33.65, 11.09, 33.95
+VIEW_WIDTH, VIEW_HEIGHT = 960, 760
+PAD_X, PAD_Y = 54, 58
+
+
+POIS = (
+    {
+        "number": "H",
+        "kind": "hotel",
+        "name": "Hotel Club Palm Azur",
+        "node": 1123865146,
+        "label_dx": 18,
+        "label_dy": 28,
+        "anchor": "start",
+    },
+    {
+        "number": "1",
+        "kind": "place",
+        "name": "Houmt Souk i fort",
+        "node": 9335010754,
+        "label_dx": 18,
+        "label_dy": -18,
+        "anchor": "start",
+    },
+    {
+        "number": "2",
+        "kind": "place",
+        "name": "Erriadh i Djerbahood",
+        "node": 297765267,
+        "label_dx": -20,
+        "label_dy": -32,
+        "anchor": "end",
+    },
+    {
+        "number": "3",
+        "kind": "place",
+        "name": "Synagoga El Ghriba",
+        "node": 297765095,
+        "label_dx": -20,
+        "label_dy": 32,
+        "anchor": "end",
+    },
+    {
+        "number": "4",
+        "kind": "place",
+        "name": "Guellala",
+        "node": 1259516109,
+        "label_dx": -18,
+        "label_dy": 30,
+        "anchor": "end",
+    },
+    {
+        "number": "5",
+        "kind": "place",
+        "name": "Djerba Explore",
+        "way": 213910588,
+        "label_dx": -18,
+        "label_dy": -18,
+        "anchor": "end",
+    },
+    {
+        "number": "6",
+        "kind": "place",
+        "name": "Ras Rmel",
+        "node": 10820734092,
+        "label_dx": 18,
+        "label_dy": -12,
+        "anchor": "start",
+    },
+)
+
+CONTEXT_NODES = {
+    287613682: "Midoun",
+    6616525005: "El Kantara",
+}
+
+
+def overlaps_bbox(coords: list[tuple[float, float]]) -> bool:
+    if not coords:
+        return False
+    xs = [coord[0] for coord in coords]
+    ys = [coord[1] for coord in coords]
+    return max(xs) >= WEST and min(xs) <= EAST and max(ys) >= SOUTH and min(ys) <= NORTH
+
+
+class DjerbaData(osmium.SimpleHandler):
+    def __init__(self) -> None:
+        super().__init__()
+        self.coastlines: list[LineString] = []
+        self.roads: list[LineString] = []
+        self.poi_nodes: dict[int, tuple[float, float]] = {}
+        self.poi_ways: dict[int, tuple[float, float]] = {}
+        self.context_nodes: dict[int, tuple[float, float]] = {}
+        self._poi_node_ids = {item["node"] for item in POIS if "node" in item}
+        self._poi_way_ids = {item["way"] for item in POIS if "way" in item}
+
+    def node(self, node: osmium.osm.Node) -> None:
+        if node.id in self._poi_node_ids:
+            self.poi_nodes[node.id] = (node.location.lon, node.location.lat)
+        if node.id in CONTEXT_NODES:
+            self.context_nodes[node.id] = (node.location.lon, node.location.lat)
+
+    def way(self, way: osmium.osm.Way) -> None:
+        try:
+            coords = [(node.lon, node.lat) for node in way.nodes]
+        except osmium.InvalidLocationError:
+            return
+        if not overlaps_bbox(coords):
+            return
+
+        if way.tags.get("natural") == "coastline" and len(coords) > 1:
+            self.coastlines.append(LineString(coords))
+
+        road_class = way.tags.get("highway")
+        if road_class in {"primary", "secondary"} and len(coords) > 1:
+            self.roads.append(LineString(coords))
+
+        if way.id in self._poi_way_ids and coords:
+            line = LineString(coords)
+            center = line.centroid
+            self.poi_ways[way.id] = (center.x, center.y)
+
+
+def find_island(coastlines: list[LineString]) -> Polygon:
+    candidates = list(polygonize(unary_union(coastlines)))
+    center = Point(10.91, 33.80)
+    containing = [polygon for polygon in candidates if polygon.contains(center)]
+    if containing:
+        return max(containing, key=lambda polygon: polygon.area)
+
+    plausible = [
+        polygon
+        for polygon in candidates
+        if polygon.bounds[0] < 10.90 < polygon.bounds[2]
+        and polygon.bounds[1] < 33.80 < polygon.bounds[3]
+    ]
+    if plausible:
+        return max(plausible, key=lambda polygon: polygon.area)
+    raise RuntimeError(f"Could not reconstruct Djerba coastline; polygon candidates: {len(candidates)}")
+
+
+def projection():
+    latitude_scale = math.cos(math.radians((SOUTH + NORTH) / 2))
+    projected_width = (EAST - WEST) * latitude_scale
+    projected_height = NORTH - SOUTH
+    scale = min(
+        (VIEW_WIDTH - 2 * PAD_X) / projected_width,
+        (VIEW_HEIGHT - 2 * PAD_Y) / projected_height,
+    )
+    content_width = projected_width * scale
+    content_height = projected_height * scale
+    offset_x = (VIEW_WIDTH - content_width) / 2
+    offset_y = (VIEW_HEIGHT - content_height) / 2
+
+    def project(lon: float, lat: float) -> tuple[float, float]:
+        x = offset_x + (lon - WEST) * latitude_scale * scale
+        y = offset_y + (NORTH - lat) * scale
+        return x, y
+
+    return project
+
+
+def path_data(coords, project, close: bool = False) -> str:
+    points = [project(lon, lat) for lon, lat in coords]
+    if not points:
+        return ""
+    parts = [f"M {points[0][0]:.1f} {points[0][1]:.1f}"]
+    parts.extend(f"L {x:.1f} {y:.1f}" for x, y in points[1:])
+    if close:
+        parts.append("Z")
+    return " ".join(parts)
+
+
+def make_svg(data: DjerbaData) -> str:
+    island = find_island(data.coastlines).simplify(0.00035, preserve_topology=True)
+    project = projection()
+    island_path = path_data(island.exterior.coords, project, close=True)
+
+    road_paths: list[str] = []
+    island_buffer = island.buffer(0.0002)
+    for road in data.roads:
+        clipped = road.intersection(island_buffer)
+        if clipped.is_empty:
+            continue
+        parts = [clipped] if clipped.geom_type == "LineString" else list(clipped.geoms)
+        for part in parts:
+            simplified = part.simplify(0.00025, preserve_topology=True)
+            # Short fragments are mostly roundabouts, slip roads and divided-road
+            # joins.  They add visual noise at an island-wide scale.
+            if simplified.length < 0.0025:
+                continue
+            road_paths.append(path_data(simplified.coords, project))
+
+    missing = []
+    for item in POIS:
+        if "node" in item and item["node"] not in data.poi_nodes:
+            missing.append(str(item["node"]))
+        if "way" in item and item["way"] not in data.poi_ways:
+            missing.append(str(item["way"]))
+    if missing:
+        raise RuntimeError("Missing configured OSM objects: " + ", ".join(missing))
+
+    lines = [
+        '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
+        '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
+        '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
+        '  <desc id="djerba-map-desc">Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
+        '  <rect class="place-map__water" width="960" height="760" rx="12"/>',
+        f'  <path class="place-map__land" d="{island_path}"/>',
+        '  <g class="place-map__roads" aria-hidden="true">',
+    ]
+    lines.extend(f'    <path d="{value}"/>' for value in road_paths if value)
+    lines.extend([
+        '  </g>',
+        '  <g class="place-map__context" aria-hidden="true">',
+    ])
+
+    context_offsets = {
+        287613682: (12, -12, "start"),
+        6616525005: (12, 24, "start"),
+    }
+    for node_id, name in CONTEXT_NODES.items():
+        lon, lat = data.context_nodes[node_id]
+        x, y = project(lon, lat)
+        dx, dy, anchor = context_offsets[node_id]
+        lines.append(f'    <circle cx="{x:.1f}" cy="{y:.1f}" r="4"/>')
+        lines.append(
+            f'    <text x="{x + dx:.1f}" y="{y + dy:.1f}" text-anchor="{anchor}">{html.escape(name)}</text>'
+        )
+    lines.extend([
+        '  </g>',
+        '  <g class="place-map__points" aria-hidden="true">',
+    ])
+
+    for item in POIS:
+        lon, lat = data.poi_nodes[item["node"]] if "node" in item else data.poi_ways[item["way"]]
+        x, y = project(lon, lat)
+        lx = x + item["label_dx"]
+        ly = y + item["label_dy"]
+        marker_class = "place-map__marker place-map__marker--hotel" if item["kind"] == "hotel" else "place-map__marker"
+        lines.append(f'    <g class="{marker_class}">')
+        if item["kind"] == "hotel":
+            size = 15
+            points = f"{x:.1f},{y-size:.1f} {x+size:.1f},{y:.1f} {x:.1f},{y+size:.1f} {x-size:.1f},{y:.1f}"
+            lines.append(f'      <polygon points="{points}"/>')
+        else:
+            lines.append(f'      <circle cx="{x:.1f}" cy="{y:.1f}" r="15"/>')
+        lines.append(f'      <text class="place-map__marker-text" x="{x:.1f}" y="{y + 5.5:.1f}" text-anchor="middle">{item["number"]}</text>')
+        lines.append('    </g>')
+        line_end_x = lx - 8 if item["anchor"] == "start" else lx + 8
+        line_end_y = ly - 5
+        lines.append(f'    <path class="place-map__leader" d="M {x:.1f} {y:.1f} L {line_end_x:.1f} {line_end_y:.1f}"/>')
+        lines.append(
+            f'    <text class="place-map__point-label" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{item["anchor"]}">{html.escape(item["name"])}</text>'
+        )
+
+    lines.extend([
+        '  </g>',
+        '  <g class="place-map__north" aria-hidden="true" transform="translate(890 78)">',
+        '    <path d="M 0 28 L 0 -16 M -7 -5 L 0 -16 L 7 -5"/>',
+        '    <text x="0" y="46" text-anchor="middle">N</text>',
+        '  </g>',
+        '</svg>',
+        '',
+    ])
+    return "\n".join(lines)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("pbf", type=Path)
+    parser.add_argument("output", type=Path)
+    args = parser.parse_args()
+
+    data = DjerbaData()
+    data.apply_file(str(args.pbf), locations=True)
+    output = make_svg(data)
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(output, encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()

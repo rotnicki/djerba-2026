@@ -52,6 +52,48 @@ Roboczy proces:
 7. umieszczenie przy mapie wymaganej atrybucji `© OpenStreetMap contributors`;
 8. sprawdzenie czytelności i użyteczności przed powieleniem wzorca.
 
+## Pierwsze wdrożenie: mapa Dżerby
+
+Pierwsza uproszczona mapa została przygotowana dla sekcji `Atlas miejsc` w pliku `wycieczki.md`. Obejmuje całą Dżerbę i pokazuje:
+
+- hotel Club Palm Azur jako punkt odniesienia;
+- Houmt Souk i fort Borj Ghazi Mustapha;
+- Erriadh i Djerbahood;
+- synagogę El Ghriba;
+- Guellalę;
+- Djerba Explore;
+- Ras Rmel;
+- pomocniczo Midoun i El Kantarę;
+- zarys wyspy oraz wybrane drogi główne.
+
+Kod źródłowy SVG znajduje się w `_includes/maps/djerba.svg`. Jekyll wstawia go bezpośrednio do HTML strony przez `{% raw %}{% include maps/djerba.svg %}{% endraw %}`. Dzięki temu kolory mapy mogą korzystać ze zmiennych CSS strony, a jej nazwa i opis są dostępne w tym samym drzewie dostępności co pozostała treść.
+
+Mapa jest generowana przez skrypt `techniczne/mapy/generate_djerba_map.py` z zamrożonego snapshotu `tunisia-260822.osm.pbf`. Skrypt wymaga pakietów Python `osmium` i `shapely`. Przykładowe uruchomienie z katalogu głównego repozytorium:
+
+```bash
+python techniczne/mapy/generate_djerba_map.py \
+  /ścieżka/do/tunisia-260822.osm.pbf \
+  _includes/maps/djerba.svg
+```
+
+Skrypt odtwarza z danych OSM linię brzegową, wybiera drogi klasy `primary` i `secondary`, usuwa krótkie fragmenty nieczytelne w skali całej wyspy i umieszcza skonfigurowane punkty z Atlasu. Wygenerowany SVG zapisuje w metadanych nazwę oraz sumę SHA-256 snapshotu.
+
+### Dostępność pierwszej mapy
+
+SVG jest traktowany jako jedna grafika o roli `img`, z nazwą w elemencie `title` i krótkim opisem w `desc`. Wewnętrzne warstwy mapy są ukryte przed czytnikiem ekranu, ponieważ ich surowa kolejność nie przekazuje użytecznej relacji przestrzennej.
+
+Bezpośrednio pod mapą znajduje się zwykły tekst HTML zawierający:
+
+- przypisanie litery i numerów do nazw miejsc;
+- położenie hotelu jako punktu odniesienia;
+- kierunki i przybliżone odległości w linii prostej;
+- informację o grupach blisko położonych miejsc;
+- wyjaśnienie kierunku wyjazdu przez El Kantarę.
+
+Kolor nie jest jedynym sposobem rozróżnienia punktów: hotel ma romb i literę `H`, a atrakcje mają koła i numery. Na małym ekranie mapa zachowuje czytelną wielkość etykiet i może być przewijana poziomo; opis tekstowy pozostaje dostępny bez przewijania grafiki.
+
+Style w `assets/css/style.css` definiują oddzielne semantyczne kolory mapy dla trybu jasnego, `prefers-color-scheme: dark` oraz trybu wymuszonych kolorów. Kontrast sprawdzono osobno dla etykiet, dróg, obrysu wyspy i znaczników.
+
 ## Roboczy zasięg pierwszej mapy szerszego obszaru
 
 Pierwsza mapa szerszego obszaru dla `wycieczki.md` ma roboczo pokazywać skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży Dżerba, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
@@ -106,11 +148,11 @@ Przykładowe robocze tokeny map:
 - `--map-muted-label`;
 - `--map-border`.
 
-Pierwszy wdrażany wariant map może być jasny, zgodny z obecnym wyglądem strony. Struktura SVG i CSS powinna jednak od początku pozwalać na późniejsze dodanie wariantu ciemnego, np. przez `@media (prefers-color-scheme: dark)`, bez przebudowy samej mapy.
+Pierwszy wdrożony wariant mapy ma paletę jasną oraz paletę ciemną uruchamianą przez `@media (prefers-color-scheme: dark)`. Obie wersje korzystają z tej samej struktury SVG i różnią się wyłącznie semantycznymi zmiennymi CSS.
 
 Przy projektowaniu kolorów należy osobno sprawdzić kontrast podpisów, punktów, linii tras, obszarów i tła. Elementy istotne informacyjnie nie powinny być rozróżniane wyłącznie kolorem; w razie potrzeby trzeba używać także kształtu, grubości linii, stylu linii, numerów punktów albo tekstowej legendy.
 
-Preferowanym kierunkiem technicznym jest SVG możliwy do stylowania przez CSS. Jeżeli mapa zostanie osadzona jako zewnętrzny plik SVG, trzeba sprawdzić, czy nadal da się utrzymać spójność z jasnym i przyszłym ciemnym wariantem strony. Jeżeli osadzenie inline okaże się praktyczniejsze dla dostępności i motywu kolorystycznego, można je rozważyć na etapie pierwszego wdrożenia.
+Pierwsza mapa potwierdziła kierunek techniczny: źródło pozostaje osobnym plikiem SVG w katalogu `_includes`, ale Jekyll osadza jego kod inline w wynikowym HTML. Pozwala to stylować mapę zmiennymi CSS strony i zachować jej nazwę oraz opis w drzewie dostępności dokumentu.
 
 ## Planowane poziomy map
 
@@ -127,4 +169,6 @@ Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.
 
 ## Status
 
-Na 24 sierpnia 2026 r. datowany snapshot OpenStreetMap dla Tunezji `tunisia-260822.osm.pbf` został pobrany, zweryfikowany sumami kontrolnymi i zapisany w archiwum danych źródłowych na Google Drive. Szczegóły znajdują się w `techniczne/mapy/snapshot-osm-tunezja.md`. Własne mapy SVG nie zostały jeszcze przygotowane.
+Na 24 sierpnia 2026 r. datowany snapshot OpenStreetMap dla Tunezji `tunisia-260822.osm.pbf` został pobrany, zweryfikowany sumami kontrolnymi i zapisany w archiwum danych źródłowych na Google Drive. Szczegóły znajdują się w `techniczne/mapy/snapshot-osm-tunezja.md`.
+
+Pierwsza własna mapa SVG Dżerby została wygenerowana i umieszczona w Atlasie miejsc. Jest to wariant pilotażowy do oceny przed przygotowaniem mapy szerszego obszaru południowej Tunezji oraz ewentualnych dalszych map.

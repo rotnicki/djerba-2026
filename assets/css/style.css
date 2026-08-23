@@ -183,6 +183,116 @@ code {
   color: var(--color-text-muted);
 }
 
+.place-map {
+  --map-water: #dceff5;
+  --map-land: #f6edcf;
+  --map-road: #756b59;
+  --map-point: #7a1f3d;
+  --map-point-text: #ffffff;
+  --map-hotel: #005d6a;
+  --map-hotel-text: #ffffff;
+  --map-label: #17252a;
+  --map-muted-label: #3e565e;
+  --map-border: #315c68;
+  margin: 1.25rem 0 1.75rem;
+  max-width: 60rem;
+}
+
+.place-map__viewport {
+  overflow-x: auto;
+  border: 2px solid var(--map-border);
+  border-radius: .75rem;
+  background: var(--map-water);
+}
+
+.place-map__viewport:focus-visible {
+  outline: 3px solid var(--color-link);
+  outline-offset: 3px;
+}
+
+.place-map__graphic {
+  display: block;
+  width: 100%;
+  min-width: 48rem;
+  height: auto;
+}
+
+.place-map__water { fill: var(--map-water); }
+
+.place-map__land {
+  fill: var(--map-land);
+  stroke: var(--map-border);
+  stroke-width: 3;
+  stroke-linejoin: round;
+}
+
+.place-map__roads {
+  fill: none;
+  stroke: var(--map-road);
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.place-map__context circle { fill: var(--map-muted-label); }
+
+.place-map__context text,
+.place-map__north text {
+  fill: var(--map-muted-label);
+  font: 700 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.place-map__marker circle,
+.place-map__marker polygon {
+  fill: var(--map-point);
+  stroke: var(--map-point-text);
+  stroke-width: 2;
+}
+
+.place-map__marker--hotel polygon {
+  fill: var(--map-hotel);
+  stroke: var(--map-hotel-text);
+}
+
+.place-map__marker-text {
+  fill: var(--map-point-text);
+  font: 800 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.place-map__marker--hotel .place-map__marker-text {
+  fill: var(--map-hotel-text);
+}
+
+.place-map__leader {
+  fill: none;
+  stroke: var(--map-point);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.place-map__point-label {
+  fill: var(--map-label);
+  font: 700 18px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.place-map__north path {
+  fill: none;
+  stroke: var(--map-label);
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.place-map figcaption {
+  margin-top: .65rem;
+  max-width: 75ch;
+  color: var(--color-text-muted);
+  font-size: .9rem;
+  line-height: 1.5;
+}
+
+.place-map-key li + li { margin-top: .35rem; }
+
 .vcard-share-button {
   display: inline-block;
   min-height: 2.75rem;
@@ -231,4 +341,34 @@ code {
   .home-section-list li + li { margin-top: .9rem; }
   .home-image-credit { margin-top: 4rem; }
   .vcard-share-button { width: 100%; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .place-map {
+    --map-water: #102f3a;
+    --map-land: #30352a;
+    --map-road: #c7b47d;
+    --map-point: #f3b63f;
+    --map-point-text: #17120a;
+    --map-hotel: #65d4e2;
+    --map-hotel-text: #071517;
+    --map-label: #f7fafb;
+    --map-muted-label: #d2e0e4;
+    --map-border: #9bcbd8;
+  }
+}
+
+@media (forced-colors: active) {
+  .place-map {
+    --map-water: Canvas;
+    --map-land: Canvas;
+    --map-road: CanvasText;
+    --map-point: Highlight;
+    --map-point-text: HighlightText;
+    --map-hotel: CanvasText;
+    --map-hotel-text: Canvas;
+    --map-label: CanvasText;
+    --map-muted-label: CanvasText;
+    --map-border: CanvasText;
+  }
 }
