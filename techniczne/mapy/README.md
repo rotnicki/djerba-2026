@@ -12,11 +12,11 @@ Nie mają zastępować map nawigacyjnych ani tekstowego opisu. Mają być uprosz
 
 ## Źródło danych
 
-Planowane źródło: Geofabrik — wycinek danych OpenStreetMap dla Tunezji.
+Źródło: Geofabrik — wycinek danych OpenStreetMap dla Tunezji.
 
 Geofabrik nie definiuje osobnych subregionów dla Tunezji. Do przygotowania map Dżerby i południowej Tunezji należy więc pobrać snapshot całego kraju, a następnie wyciąć lub przefiltrować potrzebny obszar lokalnie.
 
-Manifest techniczny planowanego snapshotu znajduje się w pliku `techniczne/mapy/snapshot-osm-tunezja.md`.
+Manifest techniczny pobranego snapshotu znajduje się w pliku `techniczne/mapy/snapshot-osm-tunezja.md`.
 
 Pliki źródłowe mają być przechowywane jako zamrożony snapshot z konkretną datą, tak aby możliwe było późniejsze odtworzenie map z tych samych danych.
 
@@ -26,7 +26,9 @@ Google Drive: folder `Dżerba 2026/Mapy – dane źródłowe`
 
 https://drive.google.com/drive/folders/1WJh1QCaqH3ZNnX5Nks2TPib11TDDdwqN
 
-Po pobraniu snapshotu należy zapisać tutaj co najmniej:
+Zapisany snapshot: [tunisia-260822.osm.pbf na Google Drive](https://drive.google.com/file/d/1MZYSe-eAzNul0wcBEsQ9WWMpBdWtRNov/view?usp=drivesdk)
+
+W manifeście snapshotu zapisano:
 
 - nazwę pliku;
 - datę pobrania;
@@ -125,4 +127,4 @@ Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.
 
 ## Status
 
-Na 23 sierpnia 2026 r. istnieje plan i miejsce archiwizacji danych źródłowych. Manifest snapshotu OSM Tunezji został zapisany w `techniczne/mapy/snapshot-osm-tunezja.md`. Snapshot OpenStreetMap dla Tunezji nie został jeszcze potwierdzony jako zapisany w archiwum danych źródłowych, a własne mapy SVG nie zostały jeszcze przygotowane.
+Na 24 sierpnia 2026 r. datowany snapshot OpenStreetMap dla Tunezji `tunisia-260822.osm.pbf` został pobrany, zweryfikowany sumami kontrolnymi i zapisany w archiwum danych źródłowych na Google Drive. Szczegóły znajdują się w `techniczne/mapy/snapshot-osm-tunezja.md`. Własne mapy SVG nie zostały jeszcze przygotowane.
