@@ -7,6 +7,8 @@ exclude = [
   '^https://help\.revolut\.com/',
   '^https://www\.revolut\.com/',
   '^https://drive\.google\.com/',
+  '^https://tunisie\.co/article/594/decouverte/dialecte/dialecte-235714$',
+  '^https://grupapolsatplus\.pl/sites/default/files/documents/2025/cp_eng_fy2024\.pdf$',
   '^https://www\.itaka\.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/$',
   '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=6$',
   '^https://bezpiecznybagaz\.ulc\.gov\.pl/dg-search\?cat=18$',
