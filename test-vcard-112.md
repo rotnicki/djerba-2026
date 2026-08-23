@@ -25,3 +25,9 @@ Brak pola `ORG`.
 `ORG:Przykładowa organizacja testowa`
 
 [Test C — otwórz kontakt 112 z inną organizacją](assets/kontakty/test-112-c-organizacja-inna.vcf)
+
+## Test D — wzorzec wyeksportowany przez iPhone
+
+Ten plik jest kopią struktury vCard podanej z iPhone’a dla kontaktu „Tunezja – Pogotowie Ratunkowe”, numer `190`.
+
+[Test D — otwórz wzorzec iPhone 190](assets/kontakty/test-iphone-wzorzec-pogotowie-190.vcf)
