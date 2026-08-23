@@ -166,8 +166,16 @@ code {
   color: var(--color-text-muted);
 }
 
+.home-section-list {
+  margin-bottom: 0;
+}
+
+.home-section-list li + li {
+  margin-top: .8rem;
+}
+
 .home-image-credit {
-  margin: 3rem 0 0;
+  margin: 4.5rem 0 -1.5rem;
   padding-top: 1rem;
   border-top: 1px solid var(--color-border);
   font-size: .875rem;
@@ -192,4 +200,6 @@ code {
   .wrapper { width: min(100% - 1.25rem, 72rem); }
   .nav-list { display: block; }
   .nav-list li + li { margin-top: .35rem; }
+  .home-section-list li + li { margin-top: .9rem; }
+  .home-image-credit { margin-top: 4rem; }
 }
