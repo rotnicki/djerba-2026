@@ -46,16 +46,43 @@ Roboczy proces:
 7. umieszczenie przy mapie wymaganej atrybucji `© OpenStreetMap contributors`;
 8. sprawdzenie czytelności i użyteczności przed powieleniem wzorca.
 
+## Styl, kolorystyka i tryb ciemny
+
+OpenStreetMap traktujemy jako źródło danych, a nie jako obowiązkowy wzór kolorystyczny. Nie kopiujemy automatycznie wyglądu standardowych kafelków mapowych OpenStreetMap. Docelowy wygląd map powinien być własnym, uproszczonym stylem przewodnika, podporządkowanym czytelności i funkcji decyzyjnej.
+
+Mapy mają pokazywać tylko potrzebne elementy, np. morze, ląd, główne drogi lub kierunki przejazdu, wybrane miejscowości, punkty z przewodnika, podpisy, ewentualne obszary oraz legendę. Nie mają udawać pełnej mapy nawigacyjnej.
+
+Kolorystyka map SVG powinna być oparta na klasach i semantycznych zmiennych CSS, a nie na przypadkowych kolorach wpisanych bezpośrednio w każdym elemencie SVG. Należy zachować spójność z podejściem przyjętym w `assets/css/style.css` i opisanym w `techniczne/audyty/AUDYT-NAWIGACJI-I-HIERARCHII.md`, gdzie ogólne style strony są przygotowywane tokenami kolorów z myślą o przyszłym trybie ciemnym.
+
+Przykładowe robocze tokeny map:
+
+- `--map-water`;
+- `--map-land`;
+- `--map-road`;
+- `--map-route`;
+- `--map-point`;
+- `--map-label`;
+- `--map-muted-label`;
+- `--map-border`.
+
+Pierwszy wdrażany wariant map może być jasny, zgodny z obecnym wyglądem strony. Struktura SVG i CSS powinna jednak od początku pozwalać na późniejsze dodanie wariantu ciemnego, np. przez `@media (prefers-color-scheme: dark)`, bez przebudowy samej mapy.
+
+Przy projektowaniu kolorów należy osobno sprawdzić kontrast podpisów, punktów, linii tras, obszarów i tła. Elementy istotne informacyjnie nie powinny być rozróżniane wyłącznie kolorem; w razie potrzeby trzeba używać także kształtu, grubości linii, stylu linii, numerów punktów albo tekstowej legendy.
+
+Preferowanym kierunkiem technicznym jest SVG możliwy do stylowania przez CSS. Jeżeli mapa zostanie osadzona jako zewnętrzny plik SVG, trzeba sprawdzić, czy nadal da się utrzymać spójność z jasnym i przyszłym ciemnym wariantem strony. Jeżeli osadzenie inline okaże się praktyczniejsze dla dostępności i motywu kolorystycznego, można je rozważyć na etapie pierwszego wdrożenia.
+
 ## Planowane poziomy map
 
 Do dalszych testów przewidziane są przede wszystkim:
 
-- mapa orientacyjna Dżerby z najważniejszymi miejscami;
 - mapa szerszego obszaru pokazująca położenie Dżerby oraz miejsc na południu Tunezji;
+- osobna mapa orientacyjna Dżerby z najważniejszymi miejscami na wyspie;
 - mapy konkretnych tras wycieczek, jeśli pomogą porównać programy;
 - bardziej szczegółowa mapa pojedynczego miejsca tylko wtedy, gdy pojawi się realna potrzeba.
 
-Pierwszym sensownym wzorcem do wykonania pozostaje mapa `Dżerba — najważniejsze miejsca`, zanim powstaną kolejne warianty.
+Nie łączymy szerokiej mapy południowej Tunezji i szczegółowej mapy Dżerby przez ramki, wstawki ani powiększenia wewnątrz jednej grafiki. Jeśli potrzebne są oba poziomy, przygotowujemy je jako osobne mapy umieszczone w odpowiednich miejscach sekcji `wycieczki.md`.
+
+Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.md`: osobno mapa szerszego obszaru wycieczek i osobno mapa Dżerby, zanim powstaną kolejne warianty.
 
 ## Status
 
