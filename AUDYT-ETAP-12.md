@@ -158,7 +158,7 @@ Wynik weryfikacji:
 
 ### 12.4. Końcowa kontrola polskiej fonetyki zwrotów
 
-Status: **do zatwierdzenia**.
+Status: **zweryfikowane**.
 
 Priorytet: **redakcyjny/techniczny**.
 
@@ -190,7 +190,17 @@ Przeprowadzić punktową kontrolę najważniejszych zwrotów, w szczególności:
 
 Po wykonaniu kontroli usunąć lub zaktualizować wykonane pozycje z listy „Do sprawdzenia przed ostatecznym wydrukiem lub publikacją ściągi”.
 
-Dodatkowa weryfikacja źródłowa: **tak — punktowa, najlepiej z wiarygodnym materiałem audio lub rodzimym użytkownikiem języka**.
+Dodatkowa weryfikacja źródłowa: **tak — wykonana punktowo**.
+
+Wynik wykonania:
+
+- wykonano punktową kontrolę kluczowych zwrotów tunezyjskich i francuskich;
+- wykorzystano źródła zawierające transliteracje, zapis IPA oraz dostępne nagrania rodzimych użytkowników;
+- jedyną zatwierdzoną korektą była polska wymowa francuskiego `médecin`: `medesę` → `medsę` w zwrocie `J'ai besoin d'un médecin`;
+- pozostałe sprawdzone zapisy uznano za poprawne lub akceptowalne dla praktycznej polskiej ściągi i pozostawiono bez zmian;
+- oznaczenie `lang="fr"` przy poprawionym zwrocie oraz oznaczenia `lang="ar-TN"` i `dir="rtl"` przy arabskich oryginałach pozostawiono bez zmian;
+- z sekcji „Do sprawdzenia przed ostatecznym wydrukiem lub publikacją ściągi” usunięto wykonany punkt o odsłuchaniu kluczowych zwrotów i ewentualnej korekcie fonetyki; pozostałe pozycje listy pozostawiono bez zmian;
+- po zapisie ponownie odczytano poprawiony zwrot, końcową listę kontrolną i oznaczenia językowe; nie stwierdzono innych zmian fonetyki ani treści.
 
 ## Końcowe walidacje techniczne
 
