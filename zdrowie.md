@@ -456,6 +456,26 @@ CDC w zestawie podróżnym wymienia m.in. doustne elektrolity oraz loperamid do 
 - [CDC Yellow Book 2026 – wyposażenie apteczki podróżnej](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
 - [CDC Yellow Book 2026 – leczenie i nawadnianie w biegunce podróżnych](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 
+## Szczepienia przed podróżą — najważniejsze informacje
+
+Przy podróży z Polski do Tunezji **nie ma obecnie obowiązkowego szczepienia będącego warunkiem wjazdu**. Niezależnie od kierunku podróży warto jednak sprawdzić, czy posiadane szczepienia rutynowe są aktualne, odpowiednio do wieku, stanu zdrowia i wcześniejszej historii szczepień.
+
+Dla Tunezji szczególne znaczenie mają:
+
+- **WZW A** — szczepienie jest zalecane osobom nieuodpornionym; Tunezja znajduje się wśród krajów, dla których NIZP PZH–PIB wskazuje takie zalecenie. Szczegóły, czas do uzyskania odporności i dostępne preparaty opisujemy niżej.
+- **WZW B** — warto sprawdzić, czy dana osoba była wcześniej prawidłowo zaszczepiona. CDC zaleca szczepienie niezaszczepionym podróżnym poniżej 60 lat jadącym do Tunezji, a u osób w wieku 60 lat i starszych dopuszcza jego indywidualne rozważenie. WZW B przenosi się przede wszystkim przez krew i inne płyny ustrojowe, m.in. podczas kontaktów seksualnych oraz zabiegów wykonywanych niesterylnymi narzędziami.
+- **Dur brzuszny** — CDC zaleca szczepienie większości podróżnych do Tunezji, szczególnie przy odwiedzaniu mniejszych miejscowości i terenów wiejskich. NIZP PZH–PIB zaleca je osobom podróżującym do obszarów endemicznego występowania choroby, szczególnie przy dłuższych pobytach. Przy naszym 7-nocnym pobycie hotelowym jest to więc szczepienie do indywidualnego rozważenia, zwłaszcza przy planowanych wycieczkach poza typową strefę turystyczną.
+
+Do wyjazdu 31 sierpnia 2026 r. pozostało niewiele czasu. Nie należy zakładać, że rozpoczęte teraz każde szczepienie zapewni pełną ochronę przed wyjazdem. Szczególnie w przypadku duru brzusznego standardowo zaleca się większe wyprzedzenie. Osoba, która nie zna swojego statusu szczepień albo chce jeszcze rozpocząć szczepienie, powinna możliwie szybko omówić to z lekarzem lub farmaceutą.
+
+Źródła:
+
+- [NIZP PZH–PIB – WZW A](https://szczepienia.pzh.gov.pl/szczepionki/wzw-a/)
+- [NIZP PZH–PIB – WZW B](https://szczepienia.pzh.gov.pl/szczepionki/wzw-b/)
+- [NIZP PZH–PIB – dur brzuszny](https://szczepienia.pzh.gov.pl/szczepionki/dur-brzuszny/)
+- [GIS – zalecane szczepienia dla podróżujących](https://www.gov.pl/web/gis/zalecane-szczepienia-dla-podrozujacych)
+- [CDC – Tunezja: szczepienia i zalecenia dla podróżnych](https://wwwnc.cdc.gov/travel/destinations/traveler/none/Tunisia)
+
 ## Wirusowe zapalenie wątroby typu A
 
 **Wirusowe zapalenie wątroby typu A (WZW A)** nie jest tym samym co typowa biegunka podróżnych. Oba problemy łączy jednak to, że do zakażenia może dojść drogą pokarmową, np. przez skażoną żywność, wodę lub ręce.
