@@ -14,6 +14,10 @@ Nie mają zastępować map nawigacyjnych ani tekstowego opisu. Mają być uprosz
 
 Planowane źródło: Geofabrik — wycinek danych OpenStreetMap dla Tunezji.
 
+Geofabrik nie definiuje osobnych subregionów dla Tunezji. Do przygotowania map Dżerby i południowej Tunezji należy więc pobrać snapshot całego kraju, a następnie wyciąć lub przefiltrować potrzebny obszar lokalnie.
+
+Manifest techniczny planowanego snapshotu znajduje się w pliku `techniczne/mapy/snapshot-osm-tunezja.md`.
+
 Pliki źródłowe mają być przechowywane jako zamrożony snapshot z konkretną datą, tak aby możliwe było późniejsze odtworzenie map z tych samych danych.
 
 ## Archiwum plików źródłowych
@@ -121,4 +125,4 @@ Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.
 
 ## Status
 
-Na 23 sierpnia 2026 r. istnieje plan i miejsce archiwizacji danych źródłowych. Snapshot OpenStreetMap dla Tunezji nie został jeszcze pobrany i zamrożony, a własne mapy SVG nie zostały jeszcze przygotowane.
+Na 23 sierpnia 2026 r. istnieje plan i miejsce archiwizacji danych źródłowych. Manifest snapshotu OSM Tunezji został zapisany w `techniczne/mapy/snapshot-osm-tunezja.md`. Snapshot OpenStreetMap dla Tunezji nie został jeszcze potwierdzony jako zapisany w archiwum danych źródłowych, a własne mapy SVG nie zostały jeszcze przygotowane.
