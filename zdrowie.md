@@ -242,7 +242,7 @@ W praktyce oznacza to, że ta sama plaża może wyglądać inaczej rano i kilka 
 Źródła:
 
 - [Continental Shelf Research – zmienność poziomu morza i rezonans pływowy w Zatoce Gabès, z pomiarami m.in. przy Aghir na Dżerbie](https://www.sciencedirect.com/science/article/abs/pii/S0278434305002505)
-- [Opracowanie naukowe o wybrzeżu Dżerby – zakres pływów wokół wyspy i półdobowy rytm pływów](https://www.researchgate.net/publication/366916353_Stability_state_of_a_Mediterranean_coastal_environment_threatened_by_erosion_the_case_of_the_Djerba_Island_Gulf_of_Gabes_SE-Tunisia)
+- [Opracowanie naukowe o wybrzeżu Dżerby – zakres pływów wokół wyspy i półdobowy rytm pływów](https://www.researchsquare.com/article/rs-2437129/v1)
 
 ### Fale, wiatr i pogoda morska
 
