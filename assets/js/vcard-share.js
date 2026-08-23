@@ -7,7 +7,11 @@
   let node = heading.nextElementSibling;
   const toRemove = [];
 
-  while (node && node.tagName !== 'H3') {
+  while (
+    node &&
+    node.tagName !== 'H3' &&
+    node.textContent.trim() !== 'Źródła:'
+  ) {
     toRemove.push(node);
     node = node.nextElementSibling;
   }
