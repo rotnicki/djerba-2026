@@ -240,19 +240,22 @@ Podczas testu użytkownik zwrócił uwagę, że publiczny `jezyk-i-zwroty.md` za
 
 ### 12.T2. Wynik automatycznego sprawdzania linków
 
-Status: **do wykonania**.
+Status: **zweryfikowane**.
 
 Priorytet: **techniczny**.
 
-Workflow `.github/workflows/check-links.yml` jest skonfigurowany do sprawdzania plików Markdown i HTML przez Lychee po pushu na `master`, przy pull requestach, ręcznie i cyklicznie.
+Workflow `.github/workflows/check-links.yml` sprawdza pliki Markdown i HTML przez Lychee po pushu na `master`, przy pull requestach, ręcznie i cyklicznie.
 
-W trakcie audytu nie udało się wiarygodnie potwierdzić wyniku najnowszego przebiegu po ostatnim stanie `master`.
+Wynik końcowy:
 
-Do wykonania:
+- końcowy udany przebieg `Check links`: `32622197444`;
+- SHA sprawdzonego `master`: `af770fd6fbda40a497a000f5d5dcab2c94d2509e`;
+- Lychee: **439 sprawdzeń**, **249 unikalnych URL-i**, **360 poprawnych**, **6 przekierowań**, **79 wyłączonych**, **0 błędów**, **0 timeoutów**;
+- job `Lychee` oraz krok `Check Markdown and HTML links` zakończyły się wynikiem `success`.
 
-- potwierdzić wynik najnowszego `Check links` dla aktualnego `master`;
-- jeśli przebieg jest zielony — oznaczyć walidację jako zakończoną;
-- jeśli wykryto błędy — przeanalizować każdy wskazany link i przed zmianą przedstawić konkretną propozycję poprawki.
+W toku walidacji wcześniejsze błędy rozdzielono na rzeczywisty nieaktualny link DLI oraz techniczne ograniczenia automatycznego sprawdzania zewnętrznych serwisów, m.in. blokady 403/429 i problemy TLS. Nieaktualne źródło DLI zastąpiono aktualnym oficjalnym źródłem. Pozostałe wyjątki dodawano dopiero po ręcznej, niezależnej weryfikacji konkretnych adresów i możliwie wąsko, bez globalnego `insecure` ani globalnego akceptowania kodów 403, 404 lub 429.
+
+Końcowy przebieg dla aktualnego stanu repozytorium jest zielony. Walidacja 12.T2 jest zakończona.
 
 ## Elementy sprawdzone i niewymagające obecnie zmian
 
