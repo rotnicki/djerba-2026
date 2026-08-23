@@ -206,11 +206,11 @@ Wynik wykonania:
 
 ### 12.T1. Test wyrenderowanej GitHub Pages klawiaturą i czytnikiem ekranu
 
-Status: **do wykonania**.
+Status: **zweryfikowane**.
 
 Priorytet: **ważny technicznie przed zamknięciem etapu 12**.
 
-Sprawdzenie statycznego kodu wykazało poprawne podstawy dostępności, w tym:
+Sprawdzenie statycznego kodu potwierdziło poprawne podstawy dostępności, w tym:
 
 - główny język strony `lang="pl"`;
 - semantyczne `header`, `nav`, `main` i `footer`;
@@ -220,19 +220,23 @@ Sprawdzenie statycznego kodu wykazało poprawne podstawy dostępności, w tym:
 - responsywną nawigację;
 - lokalne oznaczenia `lang="fr"` i `lang="ar-TN"` oraz `dir="rtl"` w materiale językowym.
 
-Nie wykonano jednak pełnego rzeczywistego testu wyrenderowanej strony z klawiaturą i czytnikiem ekranu.
+Wynik ręcznej walidacji na wyrenderowanej GitHub Pages:
 
-Do wykonania:
+- skip link: **OK**;
+- nagłówki: **OK**;
+- landmarki: **OK**;
+- kolejność Tab: **OK**;
+- francuski `lang`: **OK**;
+- arabski `lang` i RTL: **OK**.
 
-- przejście całej nawigacji samą klawiaturą;
-- sprawdzenie działania skip linku;
-- sprawdzenie kolejności fokusu;
-- test przy powiększeniu co najmniej 200%;
-- test nagłówków, landmarków i listy linków czytnikiem ekranu;
-- sprawdzenie przełączania wymowy dla fragmentów francuskich i arabskich;
-- sprawdzenie zachowania tekstu arabskiego z `dir="rtl"`.
+W analizie kodu nie wykryto również mechanizmu powodującego problem z reflow przy powiększeniu; zmiany techniczne nie były potrzebne.
 
-Zmian technicznych nie wprowadzać profilaktycznie. Wprowadzać je wyłącznie po wykryciu konkretnego problemu w rzeczywistym teście.
+Podczas testu użytkownik zwrócił uwagę, że publiczny `jezyk-i-zwroty.md` zawierał techniczną sekcję „Dostępność i oznaczenia języka na WWW”, która nie była potrzebna uczestnikowi korzystającemu z przewodnika. Po zatwierdzeniu:
+
+- usunięto wyłącznie tę techniczną sekcję z publicznego materiału;
+- zachowano wszystkie istniejące atrybuty `lang="fr"`, `lang="ar-TN"` i `dir="rtl"` przy samych zwrotach;
+- w `README.md` zaktualizowano krótki opis implementacji, usuwając nieaktualne sformułowanie o przyszłej konwersji do HTML i opisując obecny stan GitHub Pages;
+- po zapisach sprawdzono diffy obu plików; nie stwierdzono innych zmian w zwrotach, fonetyce ani treści publicznego przewodnika.
 
 ### 12.T2. Wynik automatycznego sprawdzania linków
 
@@ -275,19 +279,17 @@ Na podstawie audytu całego repozytorium nie wymagają obecnie ponownej przebudo
 - zasada uzyskania dokładnej trasy przed wyjazdami na południe Tunezji i porównania jej z aktualnymi ostrzeżeniami;
 - rozróżnienie wycieczki organizatora od osobnej umowy z lokalnym dostawcą;
 - oznaczenia językowe w `jezyk-i-zwroty.md`;
-- podstawowa dostępność semantyczna layoutu i CSS, z zastrzeżeniem walidacji 12.T1.
+- podstawowa dostępność semantyczna layoutu i CSS, potwierdzona walidacją 12.T1.
 
 ## Drobne poprawki opcjonalne
 
 ### README — opis przyszłej konwersji do HTML
 
-Status: **opcjonalne**.
+Status: **wykonane podczas 12.T1**.
 
 Priorytet: **redakcyjny**.
 
-`README.md` zawiera jeszcze sformułowania sugerujące, że oznaczenia lokalnych zmian języka będą potrzebne „przy przyszłej konwersji materiałów do HTML lub publikacji na stronie internetowej”. Strona GitHub Pages już istnieje, a mechanizm oznaczeń językowych został wdrożony.
-
-Można w przyszłości zaktualizować ten fragment tak, aby opisywał obecny stan, ale nie jest to warunek gotowości przewodnika.
+Nieaktualne sformułowanie sugerujące przyszłą konwersję materiałów do HTML zostało zastąpione krótkim opisem obecnej implementacji GitHub Pages. README wskazuje teraz, że główny język strony to polski, francuskie fragmenty mają `lang="fr"`, a arabskie oryginały `lang="ar-TN"` i `dir="rtl"`.
 
 ## Warunki zamknięcia etapu 12
 
