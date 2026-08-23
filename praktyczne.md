@@ -31,21 +31,13 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 ### Kontakty do zapisania w telefonie
 
-Dostępna jest jedna paczka kontaktów w formacie vCard. Zawiera numery alarmowe, dane Ambasady RP w Tunisie oraz numer hotelu Club Palm Azur.
+Poniżej są trzy warianty **tego samego kontaktu testowego 190**. Wszystkie mają tę samą nazwę kontaktu, ten sam numer telefonu i tę samą notatkę. Różnią się wyłącznie polem organizacji, aby sprawdzić, jak importer kontaktów pokazuje i zapisuje te dane.
 
-[Pobierz paczkę kontaktów Dżerba – numery alarmowe, ambasada i hotel](assets/dzerba-2026-kontakty.vcf)
+[Test A — 190: nazwa kontaktu, bez pola organizacji](assets/kontakty/test-190-a-bez-organizacji.vcf)
 
-**Test dla iPhone’a:** poniższy przycisk pobiera tę samą pełną paczkę 8 kontaktów, oznacza ją w przeglądarce jako plik vCard i przekazuje do systemowych opcji iPhone’a. Sprawdzamy w ten sposób, czy iOS uruchomi właściwy importer wielu kontaktów bez pośrednictwa poczty e-mail.
+[Test B — 190: nazwa kontaktu + organizacja „Service d’Aide Médicale Urgente (SAMU)”](assets/kontakty/test-190-b-org-francuska.vcf)
 
-<button type="button" class="vcard-share-button" data-vcard-share data-vcf-url="assets/dzerba-2026-kontakty.vcf">Przekaż paczkę 8 kontaktów do iPhone’a</button>
-
-<p id="vcard-share-status" class="vcard-share-status" aria-live="polite"></p>
-
-<script src="assets/js/vcard-share.js" defer></script>
-
-Dla łatwego wyszukiwania **wszystkie nazwy kontaktów w paczce zaczynają się od „Djerba —”**. To celowy zapis bez polskiego znaku „ż”, zgodny z nazwą grupy WhatsApp i wygodny do wpisania na dowolnej klawiaturze.
-
-W kontaktach numery alarmowe są zapisane bez prefiksu +216, natomiast zwykłe numery Ambasady RP i hotelu — w pełnym formacie międzynarodowym +216. Pole kategorii vCard ma wartość **Dżerba**, ale nie należy traktować go jako gwarancji automatycznego utworzenia osobnej listy kontaktów na iPhonie; najpewniejszym sposobem znalezienia całego zestawu jest wpisanie **Djerba** w wyszukiwarce Kontaktów.
+[Test C — 190: nazwa kontaktu i organizacja identyczne — „Djerba — Pogotowie ratunkowe / SAMU”](assets/kontakty/test-190-c-org-polska.vcf)
 
 Źródła:
 
