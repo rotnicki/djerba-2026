@@ -3,7 +3,7 @@ VERSION:3.0
 N:;Djerba — Pogotowie ratunkowe 190;;;
 FN:Djerba — Pogotowie ratunkowe 190
 ORG:Dżerba
-TEL;TYPE=VOICE:190
+TEL:190
 NOTE:Pomoc medyczna w nagłych przypadkach. Oficjalna nazwa systemu: SAMU — Service d’Aide Médicale Urgente. Numer alarmowy wybieraj w Tunezji jako 190 bez prefiksu +216. Do połączenia potrzebna jest działająca usługa głosowa w sieci komórkowej.
 CATEGORIES:Dżerba
 END:VCARD
