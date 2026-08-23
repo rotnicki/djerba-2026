@@ -1,3 +1,14 @@
+:root {
+  --color-page-bg: #ffffff;
+  --color-surface: #f6f8fa;
+  --color-surface-strong: #eaeef2;
+  --color-text: #1f2328;
+  --color-text-muted: #57606a;
+  --color-border: #d0d7de;
+  --color-border-strong: #656d76;
+  --color-link: #0757a3;
+}
+
 * { box-sizing: border-box; }
 
 html { font-size: 100%; }
@@ -6,8 +17,8 @@ body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.65;
-  color: #1f2328;
-  background: #ffffff;
+  color: var(--color-text);
+  background: var(--color-page-bg);
 }
 
 .wrapper {
@@ -20,7 +31,7 @@ body {
   left: 1rem;
   top: -4rem;
   padding: .6rem .9rem;
-  background: #ffffff;
+  background: var(--color-page-bg);
   color: #111111;
   border: 2px solid currentColor;
   z-index: 1000;
@@ -29,8 +40,8 @@ body {
 .skip-link:focus { top: 1rem; }
 
 .site-header {
-  border-bottom: 1px solid #d0d7de;
-  background: #f6f8fa;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
 }
 
 .site-title {
@@ -65,13 +76,44 @@ main {
   padding-block: 2rem 3rem;
 }
 
-h1, h2, h3, h4 { line-height: 1.25; }
+h1, h2, h3, h4, h5 {
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+  scroll-margin-top: 1rem;
+}
+
 h1 { font-size: clamp(2rem, 5vw, 3rem); }
-h2 { margin-top: 2.2rem; }
+
+h2 {
+  margin: 3.25rem 0 1rem;
+  padding: .7rem .85rem;
+  font-size: clamp(1.5rem, 1.35rem + .8vw, 1.9rem);
+  background: var(--color-surface-strong);
+  border-left: .35rem solid var(--color-border-strong);
+}
+
+h3 {
+  margin: 2.5rem 0 .7rem;
+  padding-left: .7rem;
+  font-size: 1.3rem;
+  border-left: .25rem solid var(--color-border-strong);
+}
+
+h4 {
+  margin: 1.85rem 0 .5rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+h5 {
+  margin: 1.5rem 0 .45rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
 
 p, li { max-width: 75ch; }
 
-a { color: #0757a3; text-underline-offset: .16em; }
+a { color: var(--color-link); text-underline-offset: .16em; }
 a:hover { text-decoration-thickness: .15em; }
 a:focus-visible, button:focus-visible {
   outline: 3px solid currentColor;
@@ -84,9 +126,9 @@ code {
 }
 
 .site-footer {
-  border-top: 1px solid #d0d7de;
+  border-top: 1px solid var(--color-border);
   padding-block: 1rem 2rem;
-  color: #57606a;
+  color: var(--color-text-muted);
 }
 
 @media (max-width: 40rem) {
