@@ -79,7 +79,7 @@ Wynik wykonania:
 
 ### 12.2. Kompletność informacji o szczepieniach — dur brzuszny i WZW B
 
-Status: **do zatwierdzenia**.
+Status: **zweryfikowane**.
 
 Priorytet: **ważny**.
 
@@ -106,7 +106,19 @@ Po ponownej weryfikacji aktualnych źródeł polskich i uznanych źródeł medyc
 - wyraźne rozróżnienie między zaleceniem medycznym a wymogiem wjazdowym;
 - zastrzeżenie, że decyzja zależy od stanu zdrowia, wcześniejszych szczepień i terminu pozostałego do wyjazdu.
 
-Dodatkowa weryfikacja źródłowa: **tak**.
+Dodatkowa weryfikacja źródłowa: **tak — wykonana przed zatwierdzeniem zmiany**.
+
+Wynik wykonania:
+
+- dodano przed szczegółowym rozdziałem o WZW A krótką sekcję „Szczepienia przed podróżą — najważniejsze informacje”;
+- zaznaczono, że przy podróży z Polski do Tunezji nie ma obecnie obowiązkowego szczepienia będącego warunkiem wjazdu i warto sprawdzić aktualność szczepień rutynowych;
+- WZW A pozostawiono jako zalecane osobom nieuodpornionym, z odesłaniem do istniejącego szczegółowego materiału;
+- dodano samodzielną informację o WZW B dla osób niezaszczepionych lub niepewnych swojego statusu;
+- dodano dur brzuszny jako szczepienie do indywidualnego rozważenia, z zachowaniem różnicy między szerszym zaleceniem CDC a bardziej zachowawczym ujęciem NIZP PZH–PIB;
+- uwzględniono krótki czas do wyjazdu 31 sierpnia 2026 r. i nie obiecano pełnej ochrony po rozpoczęciu szczepienia tuż przed podróżą;
+- dodano źródła NIZP PZH–PIB, GIS i CDC;
+- nie przebudowano istniejącego rozdziału o WZW A, preparatach, Twinrixie ani cenach;
+- po zapisie ponownie odczytano nową sekcję oraz jej styk z rozdziałem o WZW A i Twinrixie; nie stwierdzono sprzeczności.
 
 ### 12.3. Godzina zbiórki grupy katowickiej
 
