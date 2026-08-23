@@ -21,7 +21,7 @@
       contactFile = new File(
         [vcardText],
         'dzerba-2026-kontakty.vcf',
-        { type: 'text/vcard;charset=utf-8' }
+        { type: 'text/vcard' }
       );
 
       if (!navigator.share) {
