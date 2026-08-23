@@ -6,6 +6,7 @@ Ten katalog zawiera materiały robocze i techniczne związane z utrzymaniem repo
 
 - `audyty/` — raporty z audytów i kontroli jakości;
 - `proces/` — plany, checklisty i procedury pracy;
-- `mapy/` — informacje techniczne o źródłach danych i przygotowywaniu map.
+- `mapy/` — informacje techniczne o źródłach danych i przygotowywaniu map;
+- `wizualizacje/` — zasady, stan wdrożenia i plan rozwoju zdjęć oraz innych materiałów wizualnych w przewodniku.
 
 Materiały merytoryczne dla uczestników wyjazdu pozostają w głównych plikach tematycznych repozytorium.
