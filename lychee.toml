@@ -15,9 +15,23 @@ exclude = [
   '^https://www\.tripadvisor\.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate\.html$',
   '^https://www\.tripadvisor\.com/Attraction_Review-g1187636-d27726759-Reviews-Tawma_Travel_Djerba-Houmt_Souk_Djerba_Island_Medenine_Governorate\.html$',
   '^https://itaka-lt\.seeplaces\.com/pl/wycieczki/tunezja/djerba/wyspa-flamingow-rejs-z-animacjami-i-relaksem-na-plazy/$',
-  '^https://seeplaces\.com/excursions/tunisia/zarzis/boat-trip-djerba/$'
+  '^https://seeplaces\.com/excursions/tunisia/zarzis/boat-trip-djerba/$',
+  '^https://allegro\.pl/oferta/wentylator-reczny-wiatrak-mini-cichy-mocny-biurkowy-przenosny-usb-5000-mah-18820057406$',
+  '^https://www\.coraltravel\.pl/dokumenty/$',
+  '^https://www\.coraltravel\.pl/airlines/$',
+  '^https://www\.coraltravel\.pl/hotel/tunezja/club-palm-azur-djerba/$',
+  '^https://www\.douane\.gov\.tn/avez-vous-quelque-chose-a-declarer/$',
+  '^https://www\.douane\.gov\.tn/medicaments/$',
+  '^https://www\.douane\.gov\.tn/tabac-et-boissons-alcoolisees/$',
+  '^https://businessnews\.com\.tn/2026/06/04/non-internet-na-pas-ete-coupe-en-tunisie-pour-les-epreuves-du-baccalaureat/1404567/$',
+  '^https://www\.transport\.tn/fr/terrestre/article/378/tarifs-du-transport-non-regulier-des-personnes$',
+  '^https://www\.transport\.tn/uploads/tarif/2022/Arrete_311\.pdf$',
+  '^https://www\.transport\.tn/uploads/Loi/Decret_2006-576_du_6_Mars_2006\.pdf$',
+  '^https://www\.interieur\.gov\.tn/actualite/28518/%D8%B9%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA$',
+  '^https://www\.interieur\.gov\.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA$',
+  '^https://santetunisie\.rns\.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu$',
+  '^https://www\.mdpi\.com/2076-3417/13/12/7197$',
+  '^https://www\.sciencedirect\.com/science/article/abs/pii/S0278434305002505$',
+  '^https://www\.sciencedirect\.com/science/article/abs/pii/S0278434314003136$',
+  '^https://www\.weather-atlas\.com/en/tunisia/djerba-weather-september$'
 ]
-
-[hosts."ie.hotels.com"]
-concurrency = 1
-request_interval = "2s"
