@@ -125,10 +125,58 @@ code {
   overflow-wrap: anywhere;
 }
 
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(18rem, 1.1fr);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.home-hero__copy h1 {
+  margin-top: 0;
+  margin-bottom: .75rem;
+}
+
+.home-hero__lead {
+  margin: 0;
+  max-width: 34ch;
+  font-size: clamp(1.1rem, 1rem + .45vw, 1.35rem);
+  color: var(--color-text-muted);
+}
+
+.home-hero__media {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  border-radius: .65rem;
+  background: var(--color-surface);
+}
+
+.home-hero__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.home-hero__media figcaption {
+  padding: .65rem .85rem .75rem;
+  font-size: .875rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+}
+
 .site-footer {
   border-top: 1px solid var(--color-border);
   padding-block: 1rem 2rem;
   color: var(--color-text-muted);
+}
+
+@media (max-width: 48rem) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
 }
 
 @media (max-width: 40rem) {
