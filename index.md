@@ -10,7 +10,7 @@ Znajdziesz tu informacje dotyczące pobytu, zdrowia, rzeczy do zabrania i kupien
 
 Opracowanie przygotował **Mikołaj Rotnicki**, zbierając, weryfikując i porządkując informacje potrzebne przed wyjazdem oraz podczas pobytu. W pierwszej kolejności wykorzystywane są źródła oficjalne, a przy informacjach zależnych od czasu podawana jest data sprawdzenia. Materiał jest na bieżąco aktualizowany przed wyjazdem.
 
-**Ostatnia aktualizacja: 22 sierpnia 2026 r.**
+**Ostatnia aktualizacja: 23 sierpnia 2026 r.**
 
 ## Działy przewodnika
 
