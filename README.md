@@ -107,16 +107,7 @@ Zasada wynika z **WCAG 2.2, kryterium sukcesu 2.4.4 „Cel łącza (w kontekści
 
 ## Dostępność treści wielojęzycznych
 
-W plikach Markdown zachowujemy prostą, czytelną strukturę. Przy przyszłej konwersji materiałów do HTML lub publikacji na stronie internetowej należy oznaczać lokalne zmiany języka, aby czytniki ekranu mogły zastosować właściwe reguły wymowy.
-
-Zasady docelowe:
-
-- główny język polskiej strony: `lang="pl"`;
-- fragment francuski: `lang="fr"`;
-- fragment w tunezyjskim arabskim: preferowane `lang="ar-TN"`, a co najmniej `lang="ar"`;
-- tekst arabski może dodatkowo wymagać `dir="rtl"`;
-- fragment angielski: `lang="en"`;
-- polska wymowa fonetyczna obcych zwrotów pozostaje oznaczona jako język polski, nawet jeśli znajduje się obok oryginału francuskiego lub arabskiego.
+GitHub Pages jest już publikowaną wersją przewodnika. Główny język strony jest ustawiony jako polski (`lang="pl"`), francuskie fragmenty mają `lang="fr"`, a oryginalne fragmenty tunezyjskiego arabskiego mają `lang="ar-TN"` oraz `dir="rtl"`. Techniczne oznaczenia językowe są elementem implementacji dostępności strony i pozwalają czytnikom ekranu stosować właściwe reguły wymowy.
 
 Zasada wynika z **WCAG 2.2, kryterium sukcesu 3.1.1 „Język strony”, poziom A** oraz **3.1.2 „Język części”, poziom AA**.
 
