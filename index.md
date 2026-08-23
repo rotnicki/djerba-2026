@@ -10,7 +10,7 @@ title: Dżerba 2026
 
   <figure class="home-hero__media">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Djerba_Island.jpeg/1280px-Djerba_Island.jpeg" alt="Naturalnokolorowe zdjęcie satelitarne całej Dżerby, pokazujące kształt wyspy, piaszczyste wybrzeże i płytkie laguny otoczone Morzem Śródziemnym." width="1280" height="1280" decoding="async" fetchpriority="high">
-    <figcaption>Dżerba z satelity Landsat 8, 4 maja 2020 r. NASA Earth Observatory / Lauren Dauphin, dane USGS. Domena publiczna. <a href="https://commons.wikimedia.org/wiki/File:Djerba_Island.jpeg">Wikimedia Commons</a>.</figcaption>
+    <figcaption>Zdjęcie satelitarne Dżerby.</figcaption>
   </figure>
 </section>
 
@@ -31,3 +31,5 @@ Opracowanie przygotował **Mikołaj Rotnicki**, zbierając, weryfikując i porz�
 - [Wycieczki i miejsca](wycieczki.md) — szybki wybór wycieczek, miejsca i programy, organizatorzy, bezpieczeństwo i ubezpieczenie oraz zasady dla naszej grupy.
 - [Kultura i zwyczaje](kultura-i-zwyczaje.md) — lokalne zasady, zachowanie, ubiór i codzienne zwyczaje.
 - [Język i podstawowe zwroty](jezyk-i-zwroty.md) — przydatne zwroty po arabsku i francusku wraz z polską wymową.
+
+<p class="home-image-credit"><strong>Zdjęcie na stronie głównej:</strong> Dżerba z satelity Landsat 8, 4 maja 2020 r. NASA Earth Observatory / Lauren Dauphin, dane USGS. Domena publiczna. <a href="https://commons.wikimedia.org/wiki/File:Djerba_Island.jpeg">Wikimedia Commons</a>.</p>
