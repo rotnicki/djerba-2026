@@ -29,16 +29,6 @@ Do połączenia z lokalnym numerem alarmowym potrzebna jest działająca usługa
 
 Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przypadku zdarzenia w hotelu można powiedzieć lub pokazać nazwę **Club Palm Azur, Aghir, Djerba** i poprosić recepcję lub obsługę o pomoc w przekazaniu lokalizacji służbom.
 
-### Kontakty do zapisania w telefonie
-
-Poniżej są trzy warianty **tego samego polskiego kontaktu testowego 112**. Wszystkie mają identyczne pole `FN`: `Polski numer alarmowy`, ten sam numer telefonu `112` i nie zawierają pola `N`. Różnią się wyłącznie polem `ORG`.
-
-[Test A — 112: „Polski numer alarmowy”, bez organizacji](assets/kontakty/test-112-a-bez-organizacji.vcf)
-
-[Test B — 112: „Polski numer alarmowy”, organizacja identyczna](assets/kontakty/test-112-b-organizacja-identyczna.vcf)
-
-[Test C — 112: „Polski numer alarmowy”, organizacja celowo inna](assets/kontakty/test-112-c-organizacja-inna.vcf)
-
 Źródła:
 
 - [Tunezyjskie Ministerstwo Zdrowia – SAMU i bezpłatny numer pomocy medycznej 190](https://santetunisie.rns.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu)
