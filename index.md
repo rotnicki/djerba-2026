@@ -14,13 +14,21 @@ title: Dżerba 2026
   </figure>
 </section>
 
-Znajdziesz tu informacje dotyczące pobytu, zdrowia, rzeczy do zabrania i kupienia przed wyjazdem, łączności, pieniędzy, wycieczek, kultury oraz języka.
+## Gdzie jedziemy
 
-Opracowanie przygotował **Mikołaj Rotnicki**, zbierając, weryfikując i porządkując informacje potrzebne przed wyjazdem oraz podczas pobytu. W pierwszej kolejności wykorzystywane są źródła oficjalne, a przy informacjach zależnych od czasu podawana jest data sprawdzenia. Materiał jest na bieżąco aktualizowany przed wyjazdem.
+Czas spędzimy na Dżerbie — dużej, płaskiej wyspie u południowo-wschodniego wybrzeża Tunezji, w Zatoce Gabès. Ma około 514 km² powierzchni i jest dość zwarta: mniej więcej 30 km z zachodu na wschód i prawie tyle samo z północy na południe. To nie jest więc tylko strefa hotelowa, ale wyspa z własnymi miastami, wsiami, drogami, targami, gajami oliwnymi i miejscami kultu.
 
-**Ostatnia aktualizacja: 23 sierpnia 2026 r.**
+Mieszka tu ponad 160 tysięcy osób. Ten przewodnik traktuje Dżerbę nie tylko jako miejsce pobytu w hotelu, ale jako wyspę, którą warto choć trochę zrozumieć.
+
+Dane źródłowe: podstawowe dane liczbowe pochodzą z [opracowania encyklopedycznego o Dżerbie](https://enciklopedija.hr/clanak/djerba), opracowań geograficznych i spisu ludności z 2014 r.; informacje o dziedzictwie i historycznym osadnictwie wyspy — z [dokumentacji UNESCO o Dżerbie](https://whc.unesco.org/en/list/1640/).
 
 ## Działy przewodnika
+
+Przewodnik zbiera najważniejsze informacje przed wyjazdem i na miejscu: sprawy praktyczne, zdrowie, rzeczy do zabrania i kupienia, łączność, pieniądze, wycieczki, kulturę oraz podstawowe zwroty językowe.
+
+Opracowanie: **Mikołaj Rotnicki**. Informacje zależne od czasu są oznaczane datą sprawdzenia.
+
+**Ostatnia aktualizacja: 24 sierpnia 2026 r.**
 
 - [Praktyczne informacje](praktyczne.md) — numery alarmowe, pomoc konsularna, czas, hotel, lotnisko i asysta PRM oraz Odyseusz.
 - [Zdrowie](zdrowie.md) — najważniejsze zasady i objawy alarmowe, słońce i upał, owady i zwierzęta, bezpieczeństwo w morzu, biegunka, ORS/DPN i szczepienia.
