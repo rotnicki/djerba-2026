@@ -270,6 +270,19 @@ code {
   stroke-linecap: round;
 }
 
+.place-map__location-leader {
+  fill: none;
+  stroke: var(--map-point);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.place-map__origins circle {
+  fill: var(--map-point);
+  stroke: var(--map-point-text);
+  stroke-width: 1;
+}
+
 .place-map__point-label {
   fill: var(--map-label);
   font: 700 18px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -281,6 +294,18 @@ code {
   stroke-width: 3;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+.place-map__scale path {
+  fill: none;
+  stroke: var(--map-label);
+  stroke-width: 3;
+  stroke-linecap: square;
+}
+
+.place-map__scale text {
+  fill: var(--map-label);
+  font: 700 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .place-map figcaption {

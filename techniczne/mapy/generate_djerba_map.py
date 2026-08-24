@@ -30,6 +30,10 @@ SNAPSHOT_SHA256 = "4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266b
 WEST, SOUTH, EAST, NORTH = 10.73, 33.65, 11.09, 33.95
 VIEW_WIDTH, VIEW_HEIGHT = 960, 760
 PAD_X, PAD_Y = 54, 58
+MARKER_RADIUS = 15
+MARKER_GAP = 4
+KM_PER_DEGREE_LATITUDE = 111.32
+SCALE_DISTANCE_KM = 10
 
 
 POIS = (
@@ -56,8 +60,10 @@ POIS = (
         "kind": "place",
         "name": "Erriadh i Djerbahood",
         "node": 297765267,
+        "marker_dx": -17,
+        "marker_dy": -18,
         "label_dx": -20,
-        "label_dy": -32,
+        "label_dy": -28,
         "anchor": "end",
     },
     {
@@ -65,9 +71,11 @@ POIS = (
         "kind": "place",
         "name": "Synagoga El Ghriba",
         "node": 297765095,
-        "label_dx": -20,
+        "marker_dx": 17,
+        "marker_dy": 18,
+        "label_dx": 20,
         "label_dy": 32,
-        "anchor": "end",
+        "anchor": "start",
     },
     {
         "number": "4",
@@ -186,7 +194,7 @@ def projection():
         y = offset_y + (NORTH - lat) * scale
         return x, y
 
-    return project
+    return project, scale
 
 
 def path_data(coords, project, close: bool = False) -> str:
@@ -202,7 +210,7 @@ def path_data(coords, project, close: bool = False) -> str:
 
 def make_svg(data: DjerbaData) -> str:
     island = find_island(data.coastlines).simplify(0.00035, preserve_topology=True)
-    project = projection()
+    project, projection_scale = projection()
     island_path = path_data(island.exterior.coords, project, close=True)
 
     road_paths: list[str] = []
@@ -229,11 +237,51 @@ def make_svg(data: DjerbaData) -> str:
     if missing:
         raise RuntimeError("Missing configured OSM objects: " + ", ".join(missing))
 
+    poi_layout = []
+    for item in POIS:
+        lon, lat = data.poi_nodes[item["node"]] if "node" in item else data.poi_ways[item["way"]]
+        origin_x, origin_y = project(lon, lat)
+        marker_x = origin_x + item.get("marker_dx", 0)
+        marker_y = origin_y + item.get("marker_dy", 0)
+        label_x = marker_x + item["label_dx"]
+        label_y = marker_y + item["label_dy"]
+        poi_layout.append(
+            {
+                "item": item,
+                "origin_x": origin_x,
+                "origin_y": origin_y,
+                "marker_x": marker_x,
+                "marker_y": marker_y,
+                "label_x": label_x,
+                "label_y": label_y,
+            }
+        )
+
+    minimum_marker_distance = 2 * MARKER_RADIUS + MARKER_GAP
+    for index, first in enumerate(poi_layout):
+        for second in poi_layout[index + 1 :]:
+            distance = math.hypot(
+                first["marker_x"] - second["marker_x"],
+                first["marker_y"] - second["marker_y"],
+            )
+            if distance < minimum_marker_distance:
+                raise RuntimeError(
+                    "Configured map markers overlap: "
+                    f'{first["item"]["number"]} and {second["item"]["number"]} '
+                    f"are {distance:.1f} SVG units apart"
+                )
+
+    scale_width = projection_scale * SCALE_DISTANCE_KM / KM_PER_DEGREE_LATITUDE
+    scale_end_x = VIEW_WIDTH - 68
+    scale_start_x = scale_end_x - scale_width
+    scale_middle_x = (scale_start_x + scale_end_x) / 2
+    scale_y = 690
+
     lines = [
         '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
         '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
         '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
-        '  <desc id="djerba-map-desc">Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        '  <desc id="djerba-map-desc">Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
         '  <rect class="place-map__water" width="960" height="760" rx="12"/>',
         f'  <path class="place-map__land" d="{island_path}"/>',
@@ -260,31 +308,71 @@ def make_svg(data: DjerbaData) -> str:
     lines.extend([
         '  </g>',
         '  <g class="place-map__points" aria-hidden="true">',
+        '    <g class="place-map__leaders">',
     ])
 
-    for item in POIS:
-        lon, lat = data.poi_nodes[item["node"]] if "node" in item else data.poi_ways[item["way"]]
-        x, y = project(lon, lat)
-        lx = x + item["label_dx"]
-        ly = y + item["label_dy"]
-        marker_class = "place-map__marker place-map__marker--hotel" if item["kind"] == "hotel" else "place-map__marker"
-        lines.append(f'    <g class="{marker_class}">')
-        if item["kind"] == "hotel":
-            size = 15
-            points = f"{x:.1f},{y-size:.1f} {x+size:.1f},{y:.1f} {x:.1f},{y+size:.1f} {x-size:.1f},{y:.1f}"
-            lines.append(f'      <polygon points="{points}"/>')
-        else:
-            lines.append(f'      <circle cx="{x:.1f}" cy="{y:.1f}" r="15"/>')
-        lines.append(f'      <text class="place-map__marker-text" x="{x:.1f}" y="{y + 5.5:.1f}" text-anchor="middle">{item["number"]}</text>')
-        lines.append('    </g>')
+    for point in poi_layout:
+        item = point["item"]
+        x, y = point["marker_x"], point["marker_y"]
+        lx, ly = point["label_x"], point["label_y"]
+        if x != point["origin_x"] or y != point["origin_y"]:
+            lines.append(
+                '      <path class="place-map__location-leader" '
+                f'd="M {point["origin_x"]:.1f} {point["origin_y"]:.1f} L {x:.1f} {y:.1f}"/>'
+            )
         line_end_x = lx - 8 if item["anchor"] == "start" else lx + 8
         line_end_y = ly - 5
-        lines.append(f'    <path class="place-map__leader" d="M {x:.1f} {y:.1f} L {line_end_x:.1f} {line_end_y:.1f}"/>')
         lines.append(
-            f'    <text class="place-map__point-label" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{item["anchor"]}">{html.escape(item["name"])}</text>'
+            f'      <path class="place-map__leader" d="M {x:.1f} {y:.1f} L {line_end_x:.1f} {line_end_y:.1f}"/>'
         )
 
     lines.extend([
+        '    </g>',
+        '    <g class="place-map__origins">',
+    ])
+    for point in poi_layout:
+        if point["marker_x"] != point["origin_x"] or point["marker_y"] != point["origin_y"]:
+            lines.append(
+                f'      <circle cx="{point["origin_x"]:.1f}" cy="{point["origin_y"]:.1f}" r="3"/>'
+            )
+    lines.extend([
+        '    </g>',
+        '    <g class="place-map__markers">',
+    ])
+
+    for point in poi_layout:
+        item = point["item"]
+        x, y = point["marker_x"], point["marker_y"]
+        marker_class = "place-map__marker place-map__marker--hotel" if item["kind"] == "hotel" else "place-map__marker"
+        lines.append(f'    <g class="{marker_class}">')
+        if item["kind"] == "hotel":
+            size = MARKER_RADIUS
+            points = f"{x:.1f},{y-size:.1f} {x+size:.1f},{y:.1f} {x:.1f},{y+size:.1f} {x-size:.1f},{y:.1f}"
+            lines.append(f'      <polygon points="{points}"/>')
+        else:
+            lines.append(f'      <circle cx="{x:.1f}" cy="{y:.1f}" r="{MARKER_RADIUS}"/>')
+        lines.append(f'      <text class="place-map__marker-text" x="{x:.1f}" y="{y + 5.5:.1f}" text-anchor="middle">{item["number"]}</text>')
+        lines.append('    </g>')
+
+    lines.extend([
+        '    </g>',
+        '    <g class="place-map__labels">',
+    ])
+    for point in poi_layout:
+        item = point["item"]
+        lines.append(
+            f'      <text class="place-map__point-label" x="{point["label_x"]:.1f}" y="{point["label_y"]:.1f}" text-anchor="{item["anchor"]}">{html.escape(item["name"])}</text>'
+        )
+
+    lines.extend([
+        '    </g>',
+        '  </g>',
+        '  <g class="place-map__scale" aria-hidden="true">',
+        f'    <text x="{scale_middle_x:.1f}" y="666" text-anchor="middle">Skala</text>',
+        f'    <path d="M {scale_start_x:.1f} {scale_y:.1f} H {scale_end_x:.1f} M {scale_start_x:.1f} {scale_y - 10:.1f} V {scale_y + 10:.1f} M {scale_middle_x:.1f} {scale_y - 7:.1f} V {scale_y + 7:.1f} M {scale_end_x:.1f} {scale_y - 10:.1f} V {scale_y + 10:.1f}"/>',
+        f'    <text x="{scale_start_x:.1f}" y="718" text-anchor="middle">0</text>',
+        f'    <text x="{scale_middle_x:.1f}" y="718" text-anchor="middle">5</text>',
+        f'    <text x="{scale_end_x:.1f}" y="718" text-anchor="middle">10 km</text>',
         '  </g>',
         '  <g class="place-map__north" aria-hidden="true" transform="translate(890 78)">',
         '    <path d="M 0 28 L 0 -16 M -7 -5 L 0 -16 L 7 -5"/>',

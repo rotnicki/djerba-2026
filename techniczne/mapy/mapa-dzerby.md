@@ -2,6 +2,8 @@
 
 Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r. w `wycieczki.md` i opublikowana w GitHub Pages**.
 
+Korekta po pierwszej ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników oraz poprawiono legendę HTML na listę numerowaną.
+
 Ten dokument jest technicznym zapisem ustaleń podjętych przed wygenerowaniem pierwszej mapy Dżerby, jej aktualnej implementacji oraz procedury ponownego utworzenia i sprawdzenia. Nie jest treścią dla uczestników wyjazdu.
 
 Dokumenty i pliki powiązane:
@@ -35,7 +37,7 @@ Pierwsza wersja celowo pokazuje jedynie:
 - hotel Club Palm Azur jako stały punkt odniesienia;
 - miejsca z części Atlasu dotyczącej Dżerby;
 - dwa pomocnicze punkty orientacyjne: Midoun i El Kantarę;
-- nazwy miejsc i strzałkę północy.
+- nazwy miejsc, strzałkę północy i liniową podziałkę od 0 do 10 km.
 
 Nie dodano wszystkich dróg lokalnych, budynków, granic administracyjnych, przypadkowych punktów usługowych ani dekoracyjnych szczegółów terenu. Takie dane zwiększałyby zagęszczenie bez poprawy realizacji celu mapy.
 
@@ -70,6 +72,7 @@ Parametry SVG:
 - uproszczenie linii brzegowej: `0.00035°` z zachowaniem topologii;
 - uproszczenie dróg: `0.00025°` z zachowaniem topologii;
 - pominięcie fragmentów dróg krótszych niż `0.0025°` w geometrii roboczej.
+- podziałka: odcinek `10 km` obliczany z tej samej skali lokalnej projekcji i umieszczany w prawym dolnym rogu; znacznik pośredni odpowiada `5 km`.
 
 Wartości uproszczeń są parametrami renderowania mapy wyspy. Nie są dokładnością pomiarową i nie należy używać SVG do wyznaczania tras ani odległości.
 
@@ -91,7 +94,9 @@ Numery obiektów OpenStreetMap są celowo zapisane w generatorze, aby mapa była
 | bez numeru | Midoun | węzeł `287613682` | pomocniczy punkt orientacyjny |
 | bez numeru | El Kantara | węzeł `6616525005` | kierunek grobli i wyjazdu na kontynent |
 
-Położenia pochodzą z `tunisia-260822.osm.pbf`. Ręcznie ustawiane są jedynie przesunięcia etykiet i prowadzących do nich linii, aby ograniczyć kolizje tekstu.
+Położenia pochodzą z `tunisia-260822.osm.pbf`. Ręcznie ustawiane są jedynie przesunięcia etykiet i prowadzących do nich linii, aby ograniczyć kolizje tekstu. Ponieważ punkty 2 i 3 dzieli mniej niż kilometr, ich numerowane koła są kartograficznie rozsunięte. Małe punkty zachowują dokładne położenia, a krótkie linie łączą je z przesuniętymi oznaczeniami.
+
+Linie prowadzące są zapisywane w SVG przed warstwą znaczników. Dzięki temu koła, romb i cyfry są zawsze rysowane na liniach, a nie pod nimi. Generator dodatkowo przerywa pracę, jeżeli odległość między środkami dwóch numerowanych oznaczeń jest mniejsza niż suma ich promieni i czterech jednostek odstępu.
 
 ## Źródło i pochodzenie danych
 
@@ -135,7 +140,7 @@ Pierwsza wersja jest statyczną, atomową grafiką:
 - główny element SVG ma `role="img"`;
 - `aria-labelledby` wskazuje elementy `title` i `desc`;
 - `title` identyfikuje mapę;
-- `desc` objaśnia znaczenie litery H i numerów 1–6 oraz wskazuje, że dokładniejszy opis znajduje się pod mapą;
+- `desc` objaśnia znaczenie litery H i numerów 1–6, informuje o podziałce 0–10 km oraz wskazuje, że dokładniejszy opis znajduje się pod mapą;
 - wewnętrzne warstwy dróg, etykiet i punktów mają `aria-hidden="true"`.
 
 Nie wystawiono każdej drogi, linii brzegowej i etykiety jako osobnego przystanku czytnika ekranu. Surowa kolejność setek elementów SVG nie przekazywałaby relacji przestrzennych i znacznie wydłużałaby nawigację.
@@ -260,10 +265,15 @@ Generator:
 4. wybiera i upraszcza drogi `primary` i `secondary`;
 5. odczytuje skonfigurowane obiekty OSM;
 6. przelicza współrzędne na układ SVG;
-7. dodaje znaczniki, etykiety, tytuł, opis i metadane snapshotu;
-8. zapisuje plik wynikowy.
+7. rozsuwa skonfigurowane bliskie oznaczenia i sprawdza brak kolizji numerowanych kół;
+8. dodaje podziałkę 0–10 km, znaczniki, etykiety, tytuł, opis i metadane snapshotu;
+9. zapisuje plik wynikowy.
 
-W środowisku użytym 24 sierpnia 2026 r. dwukrotne uruchomienie dało identyczny wynik. SHA-256 wygenerowanego `_includes/maps/djerba.svg` wynosił:
+W środowisku użytym 24 sierpnia 2026 r. dwukrotne uruchomienie po korekcie dało identyczny wynik. Aktualny SHA-256 wygenerowanego `_includes/maps/djerba.svg` wynosi:
+
+`204fd8ea196069e2cb6d00108abad9f8a0e436b0d392f869b280111599d19d51`
+
+Historyczna suma pierwszej wersji przed dodaniem podziałki i korektą kolizji wynosiła:
 
 `d2b02aa338c4bfeea1e7f726d06bec7f469b6780bb2e5c0e583ddebf7b1711bb`
 
@@ -279,7 +289,7 @@ Minimalna checklista:
 4. potwierdzić dokładnie jeden `title`, jeden `desc` i unikatowe identyfikatory;
 5. potwierdzić `role="img"` oraz prawidłowe `aria-labelledby`;
 6. wyrenderować i obejrzeć wariant jasny oraz ciemny;
-7. sprawdzić kolizje etykiet, czytelność numerów i granice widoku;
+7. sprawdzić podziałkę, kolizje etykiet, czytelność numerów, kolejność warstw linii i granice widoku;
 8. ponownie obliczyć kontrast po każdej zmianie kolorów;
 9. zbudować stronę Jekyll i potwierdzić, że SVG znajduje się inline w wynikowym HTML;
 10. sprawdzić widok wąski i obsługę poziomego przewijania klawiaturą;
@@ -297,7 +307,7 @@ Kontrole wykonane dla pierwszego wdrożenia:
 - kontrast głównych par — obliczony i zapisany wyżej;
 - struktura wynikowego HTML i osadzenie inline — potwierdzone;
 - publikacja GitHub Pages — zakończona powodzeniem;
-- automatyczna kontrola linków — zakończona powodzeniem;
+- automatyczna kontrola nowych odnośników dokumentacji — bez błędów; kontrola całego repozytorium zatrzymała się na przekroczeniach czasu zewnętrznych serwisów;
 - ręczny test VoiceOver na urządzeniu użytkownika — **jeszcze niewykonany**;
 - pomocniczy test NVDA — **jeszcze niewykonany**.
 

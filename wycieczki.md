@@ -168,12 +168,12 @@ W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w zi
 
 Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejonie Aghir. Na mapie jest punktem odniesienia oznaczonym literą **H**. Pozostałe oznaczenia to:
 
-- **1 — Houmt Souk i fort Borj Ghazi Mustapha**;
-- **2 — Erriadh i Djerbahood**;
-- **3 — synagoga El Ghriba**;
-- **4 — Guellala**;
-- **5 — Djerba Explore**;
-- **6 — Ras Rmel**.
+1. **Houmt Souk i fort Borj Ghazi Mustapha**;
+2. **Erriadh i Djerbahood**;
+3. **synagoga El Ghriba**;
+4. **Guellala**;
+5. **Djerba Explore**;
+6. **Ras Rmel**.
 {: .place-map-key }
 
 Najbliżej hotelu z zaznaczonych atrakcji znajduje się Djerba Explore, około 6,5 km w linii prostej na północ. Midoun, pokazane jako punkt orientacyjny, leży około 5,5 km na północny zachód od hotelu.
