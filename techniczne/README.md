@@ -13,4 +13,4 @@ Materiały merytoryczne dla uczestników wyjazdu pozostają w głównych plikach
 
 ## Bieżące analizy
 
-- [Audyt szerokości treści i nagłówków](audyty/AUDYT-SZEROKOSCI-TRESCI.md) — analiza zakończona, zmiana układu jeszcze niewdrożona.
+- [Audyt szerokości treści i nagłówków](audyty/AUDYT-SZEROKOSCI-TRESCI.md) — zmiana wdrożona i sprawdzona na komputerze; pozostaje ręczna kontrola na urządzeniu mobilnym i przy powiększeniu.
