@@ -13,4 +13,5 @@ Materiały merytoryczne dla uczestników wyjazdu pozostają w głównych plikach
 
 ## Bieżące analizy
 
+- [Audyt i plan przebudowy materiałów o wycieczkach](audyty/AUDYT-PRZEBUDOWY-STRONY-WYCIECZKI.md) — wyniki audytu, rekomendowany podział materiału, zasady dostępnych tabel i plan jednego całościowego wdrożenia; przebudowa nie została jeszcze rozpoczęta.
 - [Audyt szerokości treści i nagłówków](audyty/AUDYT-SZEROKOSCI-TRESCI.md) — zmiana wdrożona i sprawdzona na komputerze; pozostaje ręczna kontrola na urządzeniu mobilnym i przy powiększeniu.
