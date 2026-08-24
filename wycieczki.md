@@ -300,6 +300,39 @@ Ważne dla naszego terminu: aktualna oferta SeePlaces/ITAKA podaje, że flamingi
 
 ### Wyjazd z Dżerby na kontynent
 
+<figure class="place-map">
+  <div class="place-map__viewport" role="region" aria-label="Mapa Dżerby i południa Tunezji. Na małym ekranie można ją przewijać poziomo." tabindex="0">
+    {% include maps/south-tunisia.svg %}
+  </div>
+  <figcaption>Orientacyjna mapa położenia hotelu i miejsc na kontynencie opisanych w Atlasie. Linie pokazują wybrane drogi główne, ale nie są trasami konkretnych wycieczek i mapa nie służy do nawigacji. Dane mapowe: <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, ODbL</a>.</figcaption>
+</figure>
+
+#### Opis mapy południa Tunezji i relacje przestrzenne
+
+Hotel Club Palm Azur — hotel naszej grupy i punkt startowy wycieczek — znajduje się na Dżerbie, w północno-wschodniej części tej mapy, i jest oznaczony literą **H**. Numery oznaczają:
+
+1. **Groblę El Kantara** — groblę z Dżerby na kontynent;
+2. **Medenine** — lokalne miasto i dawne spichlerze;
+3. **Tataouine** — miasto i krainę ksarów;
+4. **Chenini** — berberyjską wioskę w górach;
+5. **Ksar Hadada** — spichlerze i potwierdzone miejsce zdjęć do „Gwiezdnych wojen”;
+6. **Ksar Ouled Soltane** — efektowny wielopiętrowy spichlerz;
+7. **Toujane** — górską wioskę berberyjską;
+8. **Matmatę i Hotel Sidi Idriss** — podziemne domy, podziemny hotel i prawdziwy plan „Gwiezdnych wojen”;
+9. **Ksar Ghilane** — oazę na Saharze;
+10. **Douz i pobliskie Zaafrane** — wydmy i bramę Sahary;
+11. **Tozeur** — oazy, palmy i zachodnią część tunezyjskiej Sahary;
+12. **Chebikę** — górską oazę.
+{: .place-map-key }
+
+Poza numeracją **Chott el-Jerid** pokazano jako rozległą wielką równinę soli.
+
+El Kantara leży na południowym krańcu Dżerby i wskazuje wyjazd groblą na kontynent. Medenine znajduje się dalej na południowy zachód, około 68 km od hotelu w linii prostej. Jeszcze dalej na południe leży grupa miejsc wokół Tataouine: Tataouine, Chenini, Ksar Hadada i Ksar Ouled Soltane. Od hotelu dzieli je orientacyjnie około 100–120 km w linii prostej.
+
+Toujane i Matmata leżą na zachód od Medenine, około 90–100 km w linii prostej od hotelu. Ksar Ghilane znajduje się dalej na południowy zachód, około 155 km od hotelu, a Douz i Zaafrane — daleko na zachód, około 188 km.
+
+Chott el-Jerid pokazano jako rozległy obszar, a nie pojedynczy punkt. Tozeur leży przy jego północno-zachodnim krańcu, około 267 km od hotelu w linii prostej. Chebika jest najdalej wysuniętym na północny zachód oznaczeniem tej mapy, około 291 km od hotelu. Odległości drogowe są większe, a rzeczywiste trasy zależą od programu i przystanków.
+
 #### El Kantara – grobla łącząca wyspę z kontynentem
 
 **Etykieta:** El Kantara – grobla z Dżerby na kontynent.

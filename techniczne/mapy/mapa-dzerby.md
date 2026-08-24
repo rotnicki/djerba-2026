@@ -48,11 +48,11 @@ Ustalono, że szczegółowej mapy Dżerby nie należy łączyć z mapą południ
 Plan obejmuje dwa osobne materiały:
 
 1. wdrożoną mapę Dżerby z hotelem i miejscami na wyspie;
-2. planowaną mapę szerszego obszaru, pokazującą skalę wyjazdów z Dżerby na południe Tunezji.
+2. wdrożoną mapę szerszego obszaru, pokazującą skalę wyjazdów z Dżerby na południe Tunezji.
 
 Mapa Dżerby jest umieszczona w `wycieczki.md` w sekcji `## Atlas miejsc`, bezpośrednio po nagłówku `### Dżerba` i przed pierwszym nagłówkiem H4 tej części.
 
-Planowana mapa południowej Tunezji ma zostać umieszczona osobno, roboczo po nagłówku `### Wyjazd z Dżerby na kontynent`. Jej ostateczne położenie należy jeszcze ocenić razem z pierwszym renderem tej mapy.
+Mapa południowej Tunezji jest umieszczona osobno po nagłówku `### Wyjazd z Dżerby na kontynent`, przed opisem El Kantary. Jej specyfikację opisuje `techniczne/mapy/mapa-poludniowej-tunezji.md`.
 
 ## Zakres geograficzny i parametry renderowania
 
@@ -339,5 +339,4 @@ Aktualizację snapshotu OSM należy traktować jako osobną, świadomą zmianę 
 
 - ręczna ocena pierwszej wersji przez użytkownika, w tym VoiceOver na iPhonie i Macu;
 - ewentualna korekta etykiet, poziomu szczegółowości lub opisu przestrzennego po ocenie;
-- przygotowanie osobnej mapy południowej Tunezji;
 - rozważenie map konkretnych tras dopiero wtedy, gdy przyniosą wyraźną korzyść przy porównywaniu programów.

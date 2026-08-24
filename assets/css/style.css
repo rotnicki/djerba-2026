@@ -197,6 +197,7 @@ code {
   --map-label: #17252a;
   --map-muted-label: #3e565e;
   --map-border: #315c68;
+  --map-salt-lake: #efe3b2;
   margin: 1.25rem 0 1.75rem;
   max-width: 60rem;
 }
@@ -244,6 +245,16 @@ code {
   stroke-linejoin: round;
 }
 
+.place-map__roads--regional { stroke-width: 2; }
+
+.place-map__salt-lake {
+  fill: var(--map-salt-lake);
+  stroke: var(--map-border);
+  stroke-width: 2;
+  stroke-dasharray: 7 5;
+  stroke-linejoin: round;
+}
+
 .place-map__causeway,
 .place-map__causeway-center {
   fill: none;
@@ -280,6 +291,11 @@ code {
 
 .place-map__context .place-map__causeway-label {
   font-size: 15px;
+}
+
+.place-map__graphic--regional .place-map__context .place-map__geography-label,
+.place-map__graphic--regional .place-map__context .place-map__area-label {
+  stroke: var(--map-land);
 }
 
 .place-map__context-leader {
@@ -333,6 +349,13 @@ code {
 .place-map__point-label {
   fill: var(--map-label);
   font: 700 18px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.place-map__graphic--regional .place-map__point-label {
+  paint-order: stroke;
+  stroke: var(--map-land);
+  stroke-width: 4;
+  stroke-linejoin: round;
 }
 
 .place-map__north path {
@@ -442,6 +465,7 @@ code {
     --map-label: #f7fafb;
     --map-muted-label: #d2e0e4;
     --map-border: #9bcbd8;
+    --map-salt-lake: #45452f;
   }
 }
 
@@ -471,5 +495,6 @@ code {
     --map-label: CanvasText;
     --map-muted-label: CanvasText;
     --map-border: CanvasText;
+    --map-salt-lake: Canvas;
   }
 }

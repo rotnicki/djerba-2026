@@ -7,8 +7,10 @@ Ten dokument dotyczy technicznej strony map. Ogólny plan materiałów wizualnyc
 ## Dokumenty i narzędzia
 
 - [pierwsza mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md);
+- [mapa Dżerby i południa Tunezji — specyfikacja, wdrożenie i odtwarzanie](mapa-poludniowej-tunezji.md);
 - [manifest snapshotu OpenStreetMap dla Tunezji](snapshot-osm-tunezja.md);
 - [generator mapy Dżerby](generate_djerba_map.py);
+- [generator mapy Dżerby i południa Tunezji](generate_south_tunisia_map.py);
 - [zależności generatora](requirements-djerba-map.txt).
 
 ## Cel map
@@ -75,22 +77,22 @@ Pierwsza uproszczona mapa została przygotowana dla sekcji `Atlas miejsc` w plik
 
 Kod SVG znajduje się w `_includes/maps/djerba.svg` i jest osadzany inline przez Jekyll. Pełny zapis decyzji, parametrów danych, modelu dostępności, kolorów, procedury generowania i wyników kontroli znajduje się w dokumencie [Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md).
 
-## Roboczy zasięg pierwszej mapy szerszego obszaru
+## Wdrożona mapa szerszego obszaru
 
-Pierwsza mapa szerszego obszaru dla `wycieczki.md` ma roboczo pokazywać skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży Dżerba, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
+Pierwsza mapa szerszego obszaru dla `wycieczki.md` pokazuje skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży hotel na Dżerbie, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
 
-Robocza nazwa mapy:
+Nazwa mapy:
 
 `Dżerba i południe Tunezji — orientacyjna mapa wycieczek`
 
-Zakres planistyczny, do weryfikacji po pobraniu danych i pierwszym próbnym renderze:
+Zakres po pierwszym próbnym renderze:
 
-- zachód: około `7.85°E`;
-- wschód: około `11.12°E`;
+- zachód: `7.80°E`;
+- wschód: `11.15°E`;
 - południe: około `32.70°N`;
-- północ: około `34.40°N`.
+- północ: `34.42°N`.
 
-Zakres powinien objąć co najmniej:
+Zakres obejmuje:
 
 - Dżerbę jako punkt startu wycieczek;
 - El Kantara / groblę z Dżerby na kontynent;
@@ -106,9 +108,9 @@ Zakres powinien objąć co najmniej:
 - Chott el-Jerid jako obszar orientacyjny, nie pojedynczą pinezkę;
 - Tozeur i Chebikę jako najdalszy zachodni kierunek części programów dwudniowych.
 
-Ta mapa nie ma szczegółowo pokazywać wszystkich punktów na samej Dżerbie. Punkty wyspiarskie, takie jak Houmt Souk, Djerbahood, El Ghriba, Guellala, Djerba Explore, Ras Rmel i hotel Club Palm Azur, powinny zostać pokazane na osobnej mapie Dżerby.
+Ta mapa nie pokazuje szczegółowo wszystkich punktów na samej Dżerbie. Hotel Club Palm Azur pozostaje jednak punktem startowym również na mapie regionalnej. Pozostałe punkty wyspiarskie są pokazane wyłącznie na osobnej mapie Dżerby.
 
-Podany zakres nie jest jeszcze ostateczną ramką produkcyjną. Po próbnym renderze trzeba sprawdzić czytelność etykiet, marginesy, zagęszczenie punktów i ewentualnie skorygować granice mapy bez zmiany jej funkcji.
+Wdrożenie, obiekty OSM, decyzje o punktach, dostępność i procedurę odtwarzania opisuje dokument [Dżerba i południe Tunezji — specyfikacja, wdrożenie i odtwarzanie mapy](mapa-poludniowej-tunezji.md).
 
 ## Styl, kolorystyka i tryb ciemny
 
@@ -152,4 +154,4 @@ Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.
 
 Na 24 sierpnia 2026 r. datowany snapshot OpenStreetMap dla Tunezji `tunisia-260822.osm.pbf` został pobrany, zweryfikowany sumami kontrolnymi i zapisany w archiwum danych źródłowych na Google Drive. Szczegóły znajdują się w `techniczne/mapy/snapshot-osm-tunezja.md`.
 
-Pierwsza własna mapa SVG Dżerby została wygenerowana i umieszczona w Atlasie miejsc. Jest to wariant pilotażowy do oceny przed przygotowaniem mapy szerszego obszaru południowej Tunezji oraz ewentualnych dalszych map.
+W Atlasie miejsc są wdrożone dwa osobne poziomy: szczegółowa mapa Dżerby oraz mapa Dżerby i południa Tunezji. Obie korzystają z jednego zamrożonego snapshotu i wspólnego modelu osadzania inline, dostępności oraz jasnej i ciemnej palety.
