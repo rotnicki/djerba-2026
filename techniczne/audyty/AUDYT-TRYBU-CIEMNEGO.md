@@ -4,9 +4,11 @@ published: false
 
 # Audyt i wdrożenie trybu ciemnego
 
-Status: **tryb ciemny wdrożony 24 sierpnia 2026 r.; automatyczne kontrole kodu zakończone pozytywnie, ręczny test na docelowych urządzeniach pozostaje do wykonania**.
+Status: **tryb ciemny wdrożony i opublikowany 24 sierpnia 2026 r.; automatyczne kontrole kodu i publikacji zakończone pozytywnie, ręczny test na docelowych urządzeniach pozostaje do wykonania**.
 
 Punkt wyjścia: `master` w commicie `5c3ebb9a77e981e70dba406d94c94acb5353dd53`.
+
+Commit wdrażający kod i pierwszą wersję tego raportu: `7b40ce917de256e0f4d6e0060770fcdd5feb0446`.
 
 Ten dokument opisuje rozszerzenie zatwierdzonego jasnego wyglądu strony o automatyczny tryb ciemny. Nie jest częścią publicznego przewodnika i pozostaje wyłączony z GitHub Pages razem z całym katalogiem `techniczne/`.
 
@@ -125,6 +127,17 @@ Obecny blok cytatu w `wycieczki.md`, kod inline i standardowe listy nie mają w�
 - ponowne obliczenie kontrastów strony i mapy;
 - statyczne potwierdzenie zachowania pogrubienia i podkreślenia bieżącej nawigacji, obrysu fokusu oraz różnych kształtów oznaczeń mapy.
 
+## Kontrola publikacji
+
+Po zapisie do `master`:
+
+- workflow `pages build and deployment`, run `32694403312` — `success`;
+- workflow `Check links`, run `32694403991` — `success`;
+- publiczna strona główna zawiera arkusz `/djerba-2026/assets/css/style.css`;
+- publiczny arkusz zawiera `prefers-color-scheme`, ciemne tokeny strony i `forced-colors`;
+- SHA-256 lokalnego i publicznego arkusza CSS jest identyczne: `a61d5c042a4cc5bd4fb0a44c59e8d98e469961969272ba850dc37cf12dfb6a2b`;
+- próbny adres raportu w publicznej GitHub Pages zwraca `404`, co potwierdza dalsze wyłączenie katalogu `techniczne/` z publikacji.
+
 ## Kontrole ręczne po publikacji
 
 Po publikacji należy jeszcze wykonać na docelowych urządzeniach:
@@ -140,4 +153,4 @@ Po publikacji należy jeszcze wykonać na docelowych urządzeniach:
 
 Zmiana jest minimalnym rozszerzeniem istniejącego systemu. Nie projektuje strony od początku, nie zmienia zatwierdzonego jasnego wyglądu i wykorzystuje wcześniejszą tokenizację oraz gotowy ciemny wariant mapy.
 
-Automatyczna część kontroli zakończyła się pozytywnie. Pełne potwierdzenie jakości użytkowej wymaga jeszcze ręcznego testu wyrenderowanej GitHub Pages na docelowych urządzeniach.
+Automatyczna część kontroli oraz publikacja GitHub Pages zakończyły się pozytywnie. Pełne potwierdzenie jakości użytkowej wymaga jeszcze ręcznego testu wyrenderowanej GitHub Pages na docelowych urządzeniach.
