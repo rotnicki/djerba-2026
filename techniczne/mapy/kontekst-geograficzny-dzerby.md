@@ -1,6 +1,6 @@
 # Kontekst geograficzny mapy Dżerby
 
-Status: wdrożenie przygotowane 24 sierpnia 2026 r.
+Status: korekta styku kontynentu z krawędzią przygotowana 24 sierpnia 2026 r.
 
 Ten dokument uzupełnia główną specyfikację `mapa-dzerby.md` o zmianę kadru i zawartości mapy wykonaną po ocenie użytkownika.
 
@@ -17,6 +17,14 @@ Aktualna mapa nadal służy do ogólnej orientacji, a nie do nawigacji. Dodaje t
 
 Nie dodano sieci dróg ani miejsc kontynentalnej Tunezji. Dalsze wyjazdy mają otrzymać osobną mapę szerszego obszaru.
 
+## Korekta po ocenie użytkownika
+
+Pierwsza wersja kontekstu domykała kontynent na granicach ramki danych `10.66–11.10°E` i `33.59–33.95°N`. Sama ramka była jednak rysowana wewnątrz SVG z marginesami wynikającymi z proporcji mapy. W efekcie kontynent kończył się przed fizyczną krawędzią grafiki i wyglądał jak dwie dodatkowe wyspy.
+
+Generator wyznacza teraz odwrotnym przeliczeniem współrzędne odpowiadające czterem rzeczywistym krawędziom płótna `960 × 760`. Kontury kontynentu są domykane dopiero do tych granic. Lewy fragment lądu dochodzi do lewej i dolnej krawędzi, a fragment połączony groblą dochodzi do dolnej krawędzi. Zamknięte pozostają wyłącznie prawdziwe wysepki.
+
+Warstwa kontekstowego lądu jest przycinana zaokrągloną maską `djerba-map-clip`, aby ląd dochodzący do krawędzi nie naruszał narożników mapy.
+
 ## Dane i parametry
 
 Mapa jest generowana z tego samego zamrożonego snapshotu `tunisia-260822.osm.pbf` o SHA-256:
@@ -30,7 +38,7 @@ Nowa ramka danych:
 - południe: `33.59°N`;
 - północ: `33.95°N`.
 
-Generator domyka przecięte linie brzegowe do granic ramki i wybiera niewielkie wielokąty stałego lądu dotykające dolnej albo zachodniej krawędzi. Zamknięte wysepki są dołączane od powierzchni geometrii roboczej `0.00005°²`.
+Generator zbiera linie brzegowe z technicznym zapasem `0.16°` długości i `0.08°` szerokości geograficznej. Następnie domyka je do granic odpowiadających fizycznym krawędziom SVG i wybiera wielokąty stałego lądu wychodzące poza kadr. Zapas służy tylko poprawnemu odtworzeniu konturów przy krawędzi; nie zmienia położenia Dżerby, punktów ani podziałki. Zamknięte wysepki są dołączane od powierzchni geometrii roboczej `0.00005°²`.
 
 Grobla jest odtwarzana z czterech zapisanych odcinków OSM:
 
@@ -72,7 +80,7 @@ python techniczne/mapy/generate_djerba_map.py \
 
 SHA-256 wynikowego SVG:
 
-`6f521ae87524acb6b82e2990de526134bc709ce4ad580973420b5b1ba68c8aab`
+`6e7d8f5813afc4ade9cfdf87d227eea2d1f7d9739e98183f8c262e8880fbd96b`
 
 Potwierdzono lokalnie:
 
@@ -80,6 +88,9 @@ Potwierdzono lokalnie:
 - identyczny wynik dwóch kolejnych uruchomień generatora;
 - poprawność XML i unikatowość identyfikatorów;
 - jedną warstwę lądu kontekstowego z sześcioma ścieżkami;
+- dojście obu fragmentów kontynentu do fizycznej krawędzi SVG;
+- pozostawienie prawdziwych wysepek jako zamkniętych kształtów;
+- działanie zaokrąglonej maski przy narożnikach;
 - po cztery ścieżki obrysu i środka grobli;
 - obecność tytułu, opisu, `role="img"` i `aria-labelledby`;
 - render w trybie jasnym i ciemnym;

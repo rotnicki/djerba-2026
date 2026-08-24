@@ -39,6 +39,8 @@ MARKER_GAP = 4
 KM_PER_DEGREE_LATITUDE = 111.32
 SCALE_DISTANCE_KM = 10
 MIN_CONTEXT_ISLAND_AREA = 0.00005
+DATA_MARGIN_LON = 0.16
+DATA_MARGIN_LAT = 0.08
 
 # Core RR117 segments forming the El Kantara connection from Djerba to the
 # mainland in the frozen 2026-08-22 snapshot.
@@ -130,7 +132,12 @@ def overlaps_bbox(coords: list[tuple[float, float]]) -> bool:
         return False
     xs = [coord[0] for coord in coords]
     ys = [coord[1] for coord in coords]
-    return max(xs) >= WEST and min(xs) <= EAST and max(ys) >= SOUTH and min(ys) <= NORTH
+    return (
+        max(xs) >= WEST - DATA_MARGIN_LON
+        and min(xs) <= EAST + DATA_MARGIN_LON
+        and max(ys) >= SOUTH - DATA_MARGIN_LAT
+        and min(ys) <= NORTH + DATA_MARGIN_LAT
+    )
 
 
 class DjerbaData(osmium.SimpleHandler):
@@ -193,36 +200,41 @@ def find_island(coastlines: list[LineString]) -> Polygon:
     raise RuntimeError(f"Could not reconstruct Djerba coastline; polygon candidates: {len(candidates)}")
 
 
-def find_context_land(coastlines: list[LineString], island: Polygon) -> list[Polygon]:
-    """Return nearby mainland fragments and meaningful closed islets."""
-    viewport = box(WEST, SOUTH, EAST, NORTH)
+def find_context_land(
+    coastlines: list[LineString], island: Polygon, canvas_viewport: Polygon
+) -> list[Polygon]:
+    """Return mainland reaching the SVG edges and meaningful closed islets."""
     clipped_coastlines = [
-        coastline.intersection(viewport)
+        coastline.intersection(canvas_viewport)
         for coastline in coastlines
-        if coastline.intersects(viewport)
+        if coastline.intersects(canvas_viewport)
     ]
     bounded_candidates = list(
-        polygonize(unary_union([*clipped_coastlines, viewport.boundary]))
+        polygonize(unary_union([*clipped_coastlines, canvas_viewport.boundary]))
     )
-    viewport_area = viewport.area
+    viewport_area = canvas_viewport.area
+    frame_west, frame_south, frame_east, frame_north = canvas_viewport.bounds
     mainlands = [
         polygon
         for polygon in bounded_candidates
         if polygon.area >= 0.001
         and polygon.area < viewport_area * 0.2
         and (
-            polygon.bounds[0] <= WEST + 1e-8
-            or polygon.bounds[1] <= SOUTH + 1e-8
+            polygon.bounds[0] <= frame_west + 1e-8
+            or polygon.bounds[1] <= frame_south + 1e-8
+            or polygon.bounds[2] >= frame_east - 1e-8
+            or polygon.bounds[3] >= frame_north - 1e-8
         )
     ]
 
+    island_viewport = box(WEST, SOUTH, EAST, NORTH)
     closed_candidates = list(polygonize(unary_union(coastlines)))
     islets = [
         polygon
         for polygon in closed_candidates
         if polygon.area >= MIN_CONTEXT_ISLAND_AREA
         and polygon.area < 0.005
-        and polygon.intersects(viewport)
+        and polygon.intersects(island_viewport)
         and not polygon.equals(island)
     ]
     return [*mainlands, *islets]
@@ -246,7 +258,13 @@ def projection():
         y = offset_y + (NORTH - lat) * scale
         return x, y
 
-    return project, scale
+    canvas_west = WEST - offset_x / (latitude_scale * scale)
+    canvas_east = WEST + (VIEW_WIDTH - offset_x) / (latitude_scale * scale)
+    canvas_north = NORTH + offset_y / scale
+    canvas_south = NORTH - (VIEW_HEIGHT - offset_y) / scale
+    canvas_viewport = box(canvas_west, canvas_south, canvas_east, canvas_north)
+
+    return project, scale, canvas_viewport
 
 
 def path_data(coords, project, close: bool = False) -> str:
@@ -262,12 +280,14 @@ def path_data(coords, project, close: bool = False) -> str:
 
 def make_svg(data: DjerbaData) -> str:
     source_island = find_island(data.coastlines)
+    project, projection_scale, canvas_viewport = projection()
     context_land = [
         polygon.simplify(0.00025, preserve_topology=True)
-        for polygon in find_context_land(data.coastlines, source_island)
+        for polygon in find_context_land(
+            data.coastlines, source_island, canvas_viewport
+        )
     ]
     island = source_island.simplify(0.00035, preserve_topology=True)
-    project, projection_scale = projection()
     island_path = path_data(island.exterior.coords, project, close=True)
     context_land_paths = [
         path_data(polygon.exterior.coords, project, close=True)
@@ -360,8 +380,13 @@ def make_svg(data: DjerbaData) -> str:
         '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
         '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
+        '  <defs aria-hidden="true">',
+        '    <clipPath id="djerba-map-clip">',
+        '      <rect width="960" height="760" rx="12"/>',
+        '    </clipPath>',
+        '  </defs>',
         '  <rect class="place-map__water" width="960" height="760" rx="12"/>',
-        '  <g class="place-map__context-land" aria-hidden="true">',
+        '  <g class="place-map__context-land" clip-path="url(#djerba-map-clip)" aria-hidden="true">',
     ]
     lines.extend(f'    <path d="{value}"/>' for value in context_land_paths if value)
     lines.extend([
