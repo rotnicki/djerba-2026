@@ -168,12 +168,12 @@ W Matmacie mówi się o **domach troglodytów**, czyli domach wydrążonych w zi
 
 Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejonie Aghir. Na mapie jest punktem odniesienia oznaczonym literą **H**. Pozostałe oznaczenia to:
 
-1. **Houmt Souk i fort Borj Ghazi Mustapha**;
-2. **Erriadh i Djerbahood**;
-3. **synagoga El Ghriba**;
-4. **Guellala**;
-5. **Djerba Explore**;
-6. **Ras Rmel**.
+1. **Houmt Souk i fort Borj Ghazi Mustapha** — główne miasto, bazar i fort Dżerby;
+2. **Erriadh i Djerbahood** — murale w starej miejscowości;
+3. **Synagoga El Ghriba** — zabytkowa synagoga;
+4. **Guellala** — ceramika i tradycje Dżerby;
+5. **Djerba Explore** — krokodyle i muzeum;
+6. **Ras Rmel** — rejs i plaża.
 {: .place-map-key }
 
 Najbliżej hotelu z zaznaczonych atrakcji znajduje się Djerba Explore, około 6,5 km w linii prostej na północ. Midoun, pokazane jako punkt orientacyjny, leży około 5,5 km na północny zachód od hotelu.
@@ -309,20 +309,20 @@ Ważne dla naszego terminu: aktualna oferta SeePlaces/ITAKA podaje, że flamingi
 
 #### Opis mapy południa Tunezji i relacje przestrzenne
 
-Hotel Club Palm Azur — hotel naszej grupy i punkt startowy wycieczek — znajduje się na Dżerbie, w północno-wschodniej części tej mapy, i jest oznaczony literą **H**. Numery oznaczają:
+Hotel Club Palm Azur — hotel naszej grupy i punkt startowy wycieczek — znajduje się na Dżerbie, w północno-wschodniej części tej mapy, i jest oznaczony literą **H**. Oznaczenia na mapie:
 
-1. **Groblę El Kantara** — groblę z Dżerby na kontynent;
+1. **Grobla El Kantara** — grobla z Dżerby na kontynent;
 2. **Medenine** — lokalne miasto i dawne spichlerze;
-3. **Tataouine** — miasto i krainę ksarów;
-4. **Chenini** — berberyjską wioskę w górach;
+3. **Tataouine** — miasto i kraina ksarów;
+4. **Chenini** — berberyjska wioska w górach;
 5. **Ksar Hadada** — spichlerze i potwierdzone miejsce zdjęć do „Gwiezdnych wojen”;
 6. **Ksar Ouled Soltane** — efektowny wielopiętrowy spichlerz;
-7. **Toujane** — górską wioskę berberyjską;
-8. **Matmatę i Hotel Sidi Idriss** — podziemne domy, podziemny hotel i prawdziwy plan „Gwiezdnych wojen”;
-9. **Ksar Ghilane** — oazę na Saharze;
-10. **Douz i pobliskie Zaafrane** — wydmy i bramę Sahary;
-11. **Tozeur** — oazy, palmy i zachodnią część tunezyjskiej Sahary;
-12. **Chebikę** — górską oazę.
+7. **Toujane** — górska wioska berberyjska;
+8. **Matmata i Hotel Sidi Idriss** — podziemne domy, podziemny hotel i prawdziwy plan „Gwiezdnych wojen”;
+9. **Ksar Ghilane** — oaza na Saharze;
+10. **Douz i pobliskie Zaafrane** — wydmy i brama Sahary;
+11. **Tozeur** — oazy, palmy i zachodnia część tunezyjskiej Sahary;
+12. **Chebika** — górska oaza.
 {: .place-map-key }
 
 Poza numeracją **Chott el-Jerid** pokazano jako rozległą wielką równinę soli.

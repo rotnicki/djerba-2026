@@ -2,6 +2,8 @@
 
 Status: **pierwsza wersja wdrożona 24 sierpnia 2026 r. w `wycieczki.md`**.
 
+Korekta po ocenie użytkownika: usunięto kolizje etykiet Toujane i Matmaty z numerowanymi punktami, przeniesiono znaczniki nad warstwę napisów oraz ujednolicono obie legendy map. Nazwy własne w legendzie są podawane w mianowniku, a po myślniku następuje krótka etykieta opisowa zgodna z Atlasem.
+
 Mapa jest drugim poziomem orientacji przestrzennej w Atlasie miejsc. Uzupełnia szczegółową mapę Dżerby, ale nie jest jej wstawką ani powiększeniem.
 
 Pliki wdrożenia:
@@ -104,7 +106,8 @@ SVG jest atomową grafiką:
 - `aria-labelledby` wskazuje unikatowe `title` i `desc`;
 - `desc` objaśnia H, numery 1–12, obszar Chott el-Jerid oraz podziałkę;
 - wewnętrzne warstwy są ukryte przed osobną nawigacją czytnika ekranu;
-- bezpośrednio po mapie znajduje się zwykły tekst HTML z pełnym przypisaniem oznaczeń, krótkimi etykietami objaśniającymi charakter miejsc, kierunkami i orientacyjnymi odległościami w linii prostej.
+- bezpośrednio po mapie znajduje się zwykły tekst HTML z pełnym przypisaniem oznaczeń, krótkimi etykietami objaśniającymi charakter miejsc, kierunkami i orientacyjnymi odległościami w linii prostej;
+- nazwy własne w legendzie pozostają w mianowniku, dzięki czemu każdy punkt działa jako samodzielna nazwa, a nie fragment zdania zależny od tekstu poprzedzającego listę.
 
 Hotel odróżnia się rombem i literą H. Atrakcje mają koła i numery. Chott el-Jerid ma własny obrys kreskowany, więc nie zależy wyłącznie od koloru.
 
@@ -145,7 +148,7 @@ Wymagane kontrole przed publikacją:
 2. obecność wszystkich skonfigurowanych obiektów OSM;
 3. deterministyczność ponownego generowania;
 4. poprawność XML i unikatowość identyfikatorów;
-5. brak kolizji znaczników;
+5. brak kolizji etykiet ze znacznikami oraz czytelność numerów; znaczniki są renderowane nad napisami jako dodatkowe zabezpieczenie;
 6. render w trybie jasnym i ciemnym;
 7. czytelność Chott el-Jerid jako obszaru;
 8. obecność podziałki i strzałki północy;

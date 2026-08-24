@@ -111,7 +111,7 @@ POIS = (
         "name": "Toujane",
         "node": 1997328129,
         "label_dx": -20,
-        "label_dy": -18,
+        "label_dy": 32,
         "anchor": "end",
     },
     {
@@ -119,9 +119,9 @@ POIS = (
         "kind": "place",
         "name": "Matmata i Hotel Sidi Idriss",
         "node": 559400323,
-        "label_dx": 20,
-        "label_dy": 24,
-        "anchor": "start",
+        "label_dx": -20,
+        "label_dy": -24,
+        "anchor": "end",
     },
     {
         "number": "9",
@@ -442,6 +442,16 @@ def make_svg(
 
     lines.extend([
         '    </g>',
+        '    <g class="place-map__labels">',
+    ])
+    for point in poi_layout:
+        item = point["item"]
+        lines.append(
+            f'      <text class="place-map__point-label" x="{point["label_x"]:.1f}" y="{point["label_y"]:.1f}" text-anchor="{item["anchor"]}">{html.escape(item["name"])}</text>'
+        )
+
+    lines.extend([
+        '    </g>',
         '    <g class="place-map__markers">',
     ])
     for point in poi_layout:
@@ -459,16 +469,6 @@ def make_svg(
             f'        <text class="place-map__marker-text" x="{x:.1f}" y="{y + 5.5:.1f}" text-anchor="middle">{item["number"]}</text>'
         )
         lines.append('      </g>')
-
-    lines.extend([
-        '    </g>',
-        '    <g class="place-map__labels">',
-    ])
-    for point in poi_layout:
-        item = point["item"]
-        lines.append(
-            f'      <text class="place-map__point-label" x="{point["label_x"]:.1f}" y="{point["label_y"]:.1f}" text-anchor="{item["anchor"]}">{html.escape(item["name"])}</text>'
-        )
 
     lines.extend([
         '    </g>',

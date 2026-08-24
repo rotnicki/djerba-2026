@@ -2,7 +2,7 @@
 
 Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r. w `wycieczki.md` i opublikowana w GitHub Pages**.
 
-Korekta po pierwszej ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników oraz poprawiono legendę HTML na listę numerowaną.
+Korekty po ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników, poprawiono legendę HTML na listę numerowaną oraz uzupełniono jej punkty o krótkie etykiety opisowe zgodne z Atlasem.
 
 Ten dokument jest technicznym zapisem ustaleń podjętych przed wygenerowaniem pierwszej mapy Dżerby, jej aktualnej implementacji oraz procedury ponownego utworzenia i sprawdzenia. Nie jest treścią dla uczestników wyjazdu.
 
