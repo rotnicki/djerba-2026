@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   --color-page-bg: #ffffff;
   --color-surface: #f6f8fa;
   --color-surface-strong: #eaeef2;
@@ -7,6 +8,7 @@
   --color-border: #d0d7de;
   --color-border-strong: #656d76;
   --color-link: #0757a3;
+  --color-skip-link-text: #111111;
 }
 
 * { box-sizing: border-box; }
@@ -32,7 +34,7 @@ body {
   top: -4rem;
   padding: .6rem .9rem;
   background: var(--color-page-bg);
-  color: #111111;
+  color: var(--color-skip-link-text);
   border: 2px solid currentColor;
   z-index: 1000;
 }
@@ -116,7 +118,7 @@ p, li { max-width: 75ch; }
 a { color: var(--color-link); text-underline-offset: .16em; }
 a:hover { text-decoration-thickness: .15em; }
 a:focus-visible, button:focus-visible {
-  outline: 3px solid currentColor;
+  outline: 3px solid var(--color-focus, currentColor);
   outline-offset: 3px;
 }
 
@@ -206,7 +208,7 @@ code {
 }
 
 .place-map__viewport:focus-visible {
-  outline: 3px solid var(--color-link);
+  outline: 3px solid var(--color-focus, var(--color-link));
   outline-offset: 3px;
 }
 
@@ -369,6 +371,20 @@ code {
 }
 
 @media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-page-bg: #0d1117;
+    --color-surface: #161b22;
+    --color-surface-strong: #21262d;
+    --color-text: #f0f6fc;
+    --color-text-muted: #8b949e;
+    --color-border: #30363d;
+    --color-border-strong: #6e7681;
+    --color-link: #58a6ff;
+    --color-focus: #79c0ff;
+    --color-skip-link-text: #f0f6fc;
+  }
+
   .place-map {
     --map-water: #102f3a;
     --map-land: #30352a;
@@ -384,6 +400,19 @@ code {
 }
 
 @media (forced-colors: active) {
+  :root {
+    --color-page-bg: Canvas;
+    --color-surface: Canvas;
+    --color-surface-strong: Canvas;
+    --color-text: CanvasText;
+    --color-text-muted: CanvasText;
+    --color-border: CanvasText;
+    --color-border-strong: CanvasText;
+    --color-link: LinkText;
+    --color-focus: Highlight;
+    --color-skip-link-text: CanvasText;
+  }
+
   .place-map {
     --map-water: Canvas;
     --map-land: Canvas;
