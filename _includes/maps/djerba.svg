@@ -1,7 +1,7 @@
 <svg class="place-map__graphic" viewBox="0 0 960 760" role="img"
   aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">
   <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>
-  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
+  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
   <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf</metadata>
   <defs aria-hidden="true">
     <clipPath id="djerba-map-clip">
@@ -167,6 +167,7 @@
   </g>
   <g class="place-map__context" aria-hidden="true">
     <text class="place-map__geography-label" x="197.5" y="648.3" text-anchor="middle">Kontynent – Tunezja</text>
+    <path class="place-map__context-leader" d="M 548.8 583.7 L 579.1 566.0"/>
     <text class="place-map__causeway-label" x="587.1" y="566.0" text-anchor="start">
       <tspan x="587.1" dy="0">Grobla El Kantara</tspan>
       <tspan x="587.1" dy="19">– droga rzymska</tspan>

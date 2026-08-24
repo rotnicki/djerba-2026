@@ -59,6 +59,8 @@ Kontekstowy ląd ma osobny token `--map-context-land`:
 
 Grobla jest linią dwuwarstwową: obrys ma szerokość `7`, a środek `3` jednostki SVG. Odróżnia się więc od zwykłych dróg nie tylko kolorem. Kontynent ma widoczny podpis tekstowy.
 
+Dwuwarstwowy zapis przedstawia jedną drogę RR117, a nie dwa równoległe połączenia. Po ocenie użytkownika do podpisu `Grobla El Kantara – droga rzymska` dodano linię prowadzącą. Łączy ona lewą krawędź podpisu z punktem `10.926282°E, 33.656141°N`, położonym bezpośrednio na zapisanym odcinku grobli. Dzięki temu podpis nie może być odczytany jako nazwa sąsiednich wysepek.
+
 Krótki opis `desc` SVG wymienia Dżerbę, pobliskie wysepki, fragment kontynentu i Groblę El Kantara. Wewnętrzna geometria pozostaje ukryta przed czytnikiem ekranu, a całe SVG zachowuje model jednej grafiki z `role="img"`.
 
 Kontrast nowych par:
@@ -80,7 +82,7 @@ python techniczne/mapy/generate_djerba_map.py \
 
 SHA-256 wynikowego SVG:
 
-`23cc1311933aa2690a9265d3e1e135e71a7a94ef88e43968abf84a8159d2009b`
+`4061bc6669d29115073c113f76142b14e07002967d5a9186562338b61cc4722f`
 
 Potwierdzono lokalnie:
 
@@ -95,5 +97,6 @@ Potwierdzono lokalnie:
 - obecność tytułu, opisu, `role="img"` i `aria-labelledby`;
 - render w trybie jasnym i ciemnym;
 - brak kolizji podpisu grobli z punktami, podziałką i znacznikiem północy.
+- jednoznaczne połączenie podpisu linią prowadzącą z właściwą ścieżką RR117.
 
 Ręczny test VoiceOver pozostaje do wykonania po publikacji.

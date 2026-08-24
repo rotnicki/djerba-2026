@@ -42,6 +42,7 @@ SCALE_DISTANCE_KM = 10
 MIN_CONTEXT_ISLAND_AREA = 0.00005
 DATA_MARGIN_LON = 0.16
 DATA_MARGIN_LAT = 0.08
+CAUSEWAY_LABEL_TARGET = (10.926282, 33.656141)
 
 # Core RR117 segments forming the El Kantara connection from Djerba to the
 # mainland in the frozen 2026-08-22 snapshot.
@@ -377,12 +378,13 @@ def make_svg(data: DjerbaData) -> str:
     scale_y = 690
     mainland_label_x, mainland_label_y = project(10.690, 33.620)
     causeway_label_x, causeway_label_y = project(10.952, 33.666)
+    causeway_target_x, causeway_target_y = project(*CAUSEWAY_LABEL_TARGET)
 
     lines = [
         '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
         '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
         '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
-        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
         '  <defs aria-hidden="true">',
         '    <clipPath id="djerba-map-clip">',
@@ -413,6 +415,7 @@ def make_svg(data: DjerbaData) -> str:
         '  </g>',
         '  <g class="place-map__context" aria-hidden="true">',
         f'    <text class="place-map__geography-label" x="{mainland_label_x:.1f}" y="{mainland_label_y:.1f}" text-anchor="middle">Kontynent – Tunezja</text>',
+        f'    <path class="place-map__context-leader" d="M {causeway_target_x:.1f} {causeway_target_y:.1f} L {causeway_label_x - 8:.1f} {causeway_label_y:.1f}"/>',
         f'    <text class="place-map__causeway-label" x="{causeway_label_x:.1f}" y="{causeway_label_y:.1f}" text-anchor="start">',
         '      <tspan x="{:.1f}" dy="0">Grobla El Kantara</tspan>'.format(causeway_label_x),
         '      <tspan x="{:.1f}" dy="19">– droga rzymska</tspan>'.format(causeway_label_x),

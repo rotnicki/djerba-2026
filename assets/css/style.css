@@ -282,6 +282,13 @@ code {
   font-size: 15px;
 }
 
+.place-map__context-leader {
+  fill: none;
+  stroke: var(--map-label);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
 .place-map__marker circle,
 .place-map__marker polygon {
   fill: var(--map-point);
