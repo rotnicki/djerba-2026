@@ -1,7 +1,7 @@
 <svg class="place-map__graphic" viewBox="0 0 960 760" role="img"
   aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">
   <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>
-  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
+  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
   <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf</metadata>
   <defs aria-hidden="true">
     <clipPath id="djerba-map-clip">
@@ -178,17 +178,11 @@
     <g class="place-map__leaders">
       <path class="place-map__leader" d="M 688.4 392.5 L 698.4 415.5"/>
       <path class="place-map__leader" d="M 451.0 176.1 L 461.0 153.1"/>
-      <path class="place-map__location-leader" d="M 441.8 292.2 L 424.8 274.2"/>
-      <path class="place-map__leader" d="M 424.8 274.2 L 412.8 241.2"/>
-      <path class="place-map__location-leader" d="M 449.4 301.4 L 466.4 319.4"/>
-      <path class="place-map__leader" d="M 466.4 319.4 L 478.4 346.4"/>
+      <path class="place-map__leader" d="M 434.8 283.2 L 422.8 250.2"/>
+      <path class="place-map__leader" d="M 456.4 310.4 L 468.4 337.4"/>
       <path class="place-map__leader" d="M 444.0 453.9 L 434.0 478.9"/>
       <path class="place-map__leader" d="M 726.6 291.1 L 716.6 268.1"/>
       <path class="place-map__leader" d="M 503.0 121.8 L 513.0 104.8"/>
-    </g>
-    <g class="place-map__origins">
-      <circle cx="441.8" cy="292.2" r="3"/>
-      <circle cx="449.4" cy="301.4" r="3"/>
     </g>
     <g class="place-map__markers">
     <g class="place-map__marker place-map__marker--hotel">
@@ -200,12 +194,12 @@
       <text class="place-map__marker-text" x="451.0" y="181.6" text-anchor="middle">1</text>
     </g>
     <g class="place-map__marker">
-      <circle cx="424.8" cy="274.2" r="15"/>
-      <text class="place-map__marker-text" x="424.8" y="279.7" text-anchor="middle">2</text>
+      <circle cx="434.8" cy="283.2" r="15"/>
+      <text class="place-map__marker-text" x="434.8" y="288.7" text-anchor="middle">2</text>
     </g>
     <g class="place-map__marker">
-      <circle cx="466.4" cy="319.4" r="15"/>
-      <text class="place-map__marker-text" x="466.4" y="324.9" text-anchor="middle">3</text>
+      <circle cx="456.4" cy="310.4" r="15"/>
+      <text class="place-map__marker-text" x="456.4" y="315.9" text-anchor="middle">3</text>
     </g>
     <g class="place-map__marker">
       <circle cx="444.0" cy="453.9" r="15"/>
@@ -223,8 +217,8 @@
     <g class="place-map__labels">
       <text class="place-map__point-label" x="706.4" y="420.5" text-anchor="start">Hotel Club Palm Azur</text>
       <text class="place-map__point-label" x="469.0" y="158.1" text-anchor="start">Houmt Souk i fort</text>
-      <text class="place-map__point-label" x="404.8" y="246.2" text-anchor="end">Erriadh i Djerbahood</text>
-      <text class="place-map__point-label" x="486.4" y="351.4" text-anchor="start">Synagoga El Ghriba</text>
+      <text class="place-map__point-label" x="414.8" y="255.2" text-anchor="end">Erriadh i Djerbahood</text>
+      <text class="place-map__point-label" x="476.4" y="342.4" text-anchor="start">Synagoga El Ghriba</text>
       <text class="place-map__point-label" x="426.0" y="483.9" text-anchor="end">Guellala</text>
       <text class="place-map__point-label" x="708.6" y="273.1" text-anchor="end">Djerba Explore</text>
       <text class="place-map__point-label" x="521.0" y="109.8" text-anchor="start">Ras Rmel</text>

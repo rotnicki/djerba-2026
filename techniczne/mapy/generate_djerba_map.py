@@ -11,7 +11,8 @@ context.  It also includes selected main roads and the places described in the
 guide.  It requires pyosmium and Shapely.
 
 Implementation records: techniczne/mapy/mapa-dzerby.md and
-techniczne/mapy/kontekst-geograficzny-dzerby.md
+techniczne/mapy/kontekst-geograficzny-dzerby.md and
+techniczne/mapy/punkty-2-i-3.md
 """
 
 from __future__ import annotations
@@ -76,8 +77,8 @@ POIS = (
         "kind": "place",
         "name": "Erriadh i Djerbahood",
         "node": 297765267,
-        "marker_dx": -17,
-        "marker_dy": -18,
+        "marker_dx": -7,
+        "marker_dy": -9,
         "label_dx": -20,
         "label_dy": -28,
         "anchor": "end",
@@ -87,8 +88,8 @@ POIS = (
         "kind": "place",
         "name": "Synagoga El Ghriba",
         "node": 297765095,
-        "marker_dx": 17,
-        "marker_dy": 18,
+        "marker_dx": 7,
+        "marker_dy": 9,
         "label_dx": 20,
         "label_dy": 32,
         "anchor": "start",
@@ -349,6 +350,9 @@ def make_svg(data: DjerbaData) -> str:
                 "marker_y": marker_y,
                 "label_x": label_x,
                 "label_y": label_y,
+                "displacement": math.hypot(
+                    marker_x - origin_x, marker_y - origin_y
+                ),
             }
         )
 
@@ -378,7 +382,7 @@ def make_svg(data: DjerbaData) -> str:
         '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
         '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
         '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
-        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
         '  <defs aria-hidden="true">',
         '    <clipPath id="djerba-map-clip">',
@@ -436,7 +440,7 @@ def make_svg(data: DjerbaData) -> str:
         item = point["item"]
         x, y = point["marker_x"], point["marker_y"]
         lx, ly = point["label_x"], point["label_y"]
-        if x != point["origin_x"] or y != point["origin_y"]:
+        if point["displacement"] > MARKER_RADIUS:
             lines.append(
                 '      <path class="place-map__location-leader" '
                 f'd="M {point["origin_x"]:.1f} {point["origin_y"]:.1f} L {x:.1f} {y:.1f}"/>'
@@ -447,19 +451,18 @@ def make_svg(data: DjerbaData) -> str:
             f'      <path class="place-map__leader" d="M {x:.1f} {y:.1f} L {line_end_x:.1f} {line_end_y:.1f}"/>'
         )
 
-    lines.extend([
-        '    </g>',
-        '    <g class="place-map__origins">',
-    ])
-    for point in poi_layout:
-        if point["marker_x"] != point["origin_x"] or point["marker_y"] != point["origin_y"]:
+    lines.append('    </g>')
+    displaced_points = [
+        point for point in poi_layout if point["displacement"] > MARKER_RADIUS
+    ]
+    if displaced_points:
+        lines.append('    <g class="place-map__origins">')
+        for point in displaced_points:
             lines.append(
                 f'      <circle cx="{point["origin_x"]:.1f}" cy="{point["origin_y"]:.1f}" r="3"/>'
             )
-    lines.extend([
-        '    </g>',
-        '    <g class="place-map__markers">',
-    ])
+        lines.append('    </g>')
+    lines.append('    <g class="place-map__markers">')
 
     for point in poi_layout:
         item = point["item"]

@@ -80,7 +80,7 @@ python techniczne/mapy/generate_djerba_map.py \
 
 SHA-256 wynikowego SVG:
 
-`6e7d8f5813afc4ade9cfdf87d227eea2d1f7d9739e98183f8c262e8880fbd96b`
+`23cc1311933aa2690a9265d3e1e135e71a7a94ef88e43968abf84a8159d2009b`
 
 Potwierdzono lokalnie:
 
