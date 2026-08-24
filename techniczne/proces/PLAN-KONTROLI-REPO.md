@@ -119,7 +119,7 @@ Do rozważenia po weryfikacji źródeł:
 
 Status: **zakończony 22 sierpnia 2026 r.**
 
-Zakres: `wycieczki.md` i ewentualnie `praktyczne.md`.
+Zakres: `wycieczki.md`, `oferty-wycieczek.md` i ewentualnie `praktyczne.md`.
 
 Cele:
 
@@ -160,7 +160,9 @@ Przykładowe pliki kanoniczne:
 - konkretne zakupy i ceny produktów → `co-kupic-przed-wyjazdem.md`;
 - pieniądze → `pieniadze.md`;
 - łączność → `lacznosc.md`;
-- wycieczki → `wycieczki.md`.
+- szybki wybór, dostępność i decyzja → `wycieczki.md`;
+- mapy, relacje przestrzenne i opisy miejsc → `atlas-miejsc.md`;
+- programy, ceny i organizatorzy → `oferty-wycieczek.md`.
 
 ### 10. Uporządkowanie dużych dokumentów
 
@@ -171,7 +173,7 @@ Najważniejsze:
 - `lacznosc.md` – na początku prosty plan działania dla grupy, szczegóły operatorów później;
 - `praktyczne.md` – utrzymać funkcję szybkiej ściągi, skrócić dominację szczegółowej instrukcji Odyseusza na wejściu;
 - `zdrowie.md` – wyeksponować najważniejsze działania i objawy alarmowe, a szczegóły naukowe pozostawić niżej;
-- `wycieczki.md` – zachować szczegółowość, ale poprawić szybkie wnioski decyzyjne na początku.
+- materiały o wycieczkach – utrzymać osobną stronę szybkiego wyboru oraz szczegółowe strony Atlasu i ofert, połączone bezpośrednio z głównej nawigacji.
 
 ### 11. Porządki techniczne i redakcyjne
 

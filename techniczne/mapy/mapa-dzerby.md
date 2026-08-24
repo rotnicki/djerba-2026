@@ -1,6 +1,6 @@
 # Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie
 
-Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r. w `wycieczki.md` i opublikowana w GitHub Pages**.
+Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r.; od przebudowy materiałów o wycieczkach publikowana w `atlas-miejsc.md`**.
 
 Korekty po ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników, poprawiono legendę HTML na listę numerowaną oraz uzupełniono jej punkty o krótkie etykiety opisowe zgodne z Atlasem.
 
@@ -13,10 +13,10 @@ Dokumenty i pliki powiązane:
 - [generator SVG](generate_djerba_map.py);
 - [zależności generatora](requirements-djerba-map.txt);
 - wynikowy plik `_includes/maps/djerba.svg`;
-- miejsce publikacji i tekstowy opis mapy w `wycieczki.md`;
+- miejsce publikacji i tekstowy opis mapy w `atlas-miejsc.md`;
 - style mapy w `assets/css/style.css`.
 
-Pierwsze wdrożenie kodu mapy: [commit `f4973f0`](https://github.com/rotnicki/djerba-2026/commit/f4973f0d5b580b08358a7eaecc96dee4a84367f1). Wynik można ocenić na publicznej stronie [Wycieczki i miejsca — sekcja Dżerba](https://rotnicki.github.io/djerba-2026/wycieczki.html#d%C5%BCerba).
+Pierwsze wdrożenie kodu mapy: [commit `f4973f0`](https://github.com/rotnicki/djerba-2026/commit/f4973f0d5b580b08358a7eaecc96dee4a84367f1). Bieżącym miejscem publikacji jest strona [Atlas miejsc — sekcja Dżerba](https://rotnicki.github.io/djerba-2026/atlas-miejsc.html#dzerba).
 
 ## Cel i granice pierwszej wersji
 
@@ -50,17 +50,17 @@ Plan obejmuje dwa osobne materiały:
 1. wdrożoną mapę Dżerby z hotelem i miejscami na wyspie;
 2. wdrożoną mapę szerszego obszaru, pokazującą skalę wyjazdów z Dżerby na południe Tunezji.
 
-Mapa Dżerby jest umieszczona w `wycieczki.md` w sekcji `## Atlas miejsc`, bezpośrednio po nagłówku `### Dżerba` i przed pierwszym nagłówkiem H4 tej części.
+Mapa Dżerby jest umieszczona w `atlas-miejsc.md` w sekcji `## Dżerba`, bezpośrednio po wprowadzeniu do wyspy i przed legendą.
 
-Mapa południowej Tunezji jest umieszczona osobno po nagłówku `### Wyjazd z Dżerby na kontynent`, przed opisem El Kantary. Jej specyfikację opisuje `techniczne/mapy/mapa-poludniowej-tunezji.md`.
+Mapa południowej Tunezji jest umieszczona osobno w sekcji `## Wyjazd z Dżerby na kontynent`, przed opisem El Kantary. Jej specyfikację opisuje `techniczne/mapy/mapa-poludniowej-tunezji.md`.
 
 ## Zakres geograficzny i parametry renderowania
 
 Ramka danych pierwszej mapy:
 
-- zachód: `10.73°E`;
-- wschód: `11.09°E`;
-- południe: `33.65°N`;
+- zachód: `10.66°E`;
+- wschód: `11.10°E`;
+- południe: `33.59°N`;
 - północ: `33.95°N`.
 
 Parametry SVG:
@@ -114,7 +114,7 @@ Przy mapie publicznej musi pozostać widoczna atrybucja `© OpenStreetMap contri
 
 ## Architektura wdrożenia
 
-Plik `_includes/maps/djerba.svg` zawiera samo SVG bez stylów wpisanych na stałe w elementy. W `wycieczki.md` jest wstawiany przez Jekyll:
+Plik `_includes/maps/djerba.svg` zawiera samo SVG bez stylów wpisanych na stałe w elementy. W `atlas-miejsc.md` jest wstawiany przez Jekyll:
 
 ```liquid
 {% include maps/djerba.svg %}
@@ -271,7 +271,7 @@ Generator:
 
 W środowisku użytym 24 sierpnia 2026 r. dwukrotne uruchomienie po korekcie dało identyczny wynik. Aktualny SHA-256 wygenerowanego `_includes/maps/djerba.svg` wynosi:
 
-`204fd8ea196069e2cb6d00108abad9f8a0e436b0d392f869b280111599d19d51`
+`4061bc6669d29115073c113f76142b14e07002967d5a9186562338b61cc4722f`
 
 Historyczna suma pierwszej wersji przed dodaniem podziałki i korektą kolizji wynosiła:
 
@@ -318,7 +318,7 @@ Przy zmianie miejsc lub oznaczeń trzeba równocześnie:
 1. zmienić konfigurację `POIS` lub `CONTEXT_NODES` w generatorze;
 2. ponownie wygenerować SVG;
 3. zaktualizować `desc` mapy;
-4. zaktualizować listę i opis przestrzenny w `wycieczki.md`;
+4. zaktualizować listę i opis przestrzenny w `atlas-miejsc.md`;
 5. sprawdzić etykiety, kontrast, oba motywy i wymuszone kolory;
 6. powtórzyć kontrolę dostępności i publikacji.
 

@@ -14,7 +14,9 @@ Repozytorium służy jako trwałe źródło ustaleń. Bieżące analizy i rozmow
 - [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md)
 - [Łączność](lacznosc.md)
 - [Pieniądze i płatności](pieniadze.md)
-- [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md)
+- [Wycieczki – wybór i porównanie](wycieczki.md)
+- [Atlas miejsc i mapy](atlas-miejsc.md)
+- [Oferty wycieczek – szczegółowe porównanie](oferty-wycieczek.md)
 - [Kultura i zwyczaje](kultura-i-zwyczaje.md)
 - [Język i podstawowe zwroty](jezyk-i-zwroty.md)
 
@@ -35,7 +37,9 @@ Podział odpowiedzialności:
 - **rzeczy do spakowania** — [Co zabrać](co-zabrac.md);
 - **konkretne produkty do kupienia i ich bieżące ceny** — [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md);
 - **pieniądze, TND, EUR, karty, podatek i ogólny budżet** — [Pieniądze i płatności](pieniadze.md);
-- **ceny, programy i organizatorzy wycieczek** — [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md);
+- **szybki wybór rodzaju wycieczki, dostępność i zasady decyzji** — [Wycieczki – wybór i porównanie](wycieczki.md);
+- **mapy, relacje przestrzenne i opisy miejsc** — [Atlas miejsc i mapy](atlas-miejsc.md);
+- **ceny, pełne programy i organizatorzy wycieczek** — [Oferty wycieczek – szczegółowe porównanie](oferty-wycieczek.md);
 - **łączność, eSIM, WhatsApp i Wi-Fi Calling** — [Łączność](lacznosc.md);
 - **organizacja pobytu w hotelu, dane kontaktowe, zameldowanie, pokoje i All Inclusive** — [Praktyczne informacje](praktyczne.md);
 - **kultura, zachowanie, ubiór i społeczny kontekst alkoholu** — [Kultura i zwyczaje](kultura-i-zwyczaje.md);

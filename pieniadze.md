@@ -155,13 +155,13 @@ Nie zakładamy natomiast, że bezpośrednia płatność euro będzie najlepsza l
 
 ### Ile euro orientacyjnie na osobę
 
-Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen opisanych w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md) i długości naszego pobytu.
+Nie ma jednej prawidłowej kwoty, ponieważ największą niewiadomą są wycieczki fakultatywne. Możemy jednak oszacować ją na podstawie aktualnych cen opisanych w materiale [Oferty wycieczek – szczegółowe porównanie](oferty-wycieczek.md) i długości naszego pobytu.
 
 W nieformalnych ustaleniach naszej grupy z 21 sierpnia 2026 r. przyjęto **około 150 EUR na osobę w gotówce jako sugerowane minimum na wycieczki fakultatywne**. Traktujemy to jako praktyczne założenie organizacyjne, a nie oficjalną cenę pakietu. Nie oznacza ono również całkowitego budżetu na pobyt: podatek turystyczny i zwykłe wydatki na miejscu trzeba liczyć osobno.
 
 Wyjazd trwa **7 nocy**, dlatego nie planujemy codziennych fakultetów. Żeby został również czas na hotel, plażę, odpoczynek i własne wyjścia, najbardziej realistyczny wydaje się wariant **około dwóch większych/średnich wycieczek, ewentualnie trzeciej lżejszej**.
 
-Szczegółowe aktualne ceny, różnice programów, koszty dodatków i źródła utrzymujemy w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md). Tutaj zachowujemy tylko wynik potrzebny do planowania ogólnego budżetu.
+Szczegółowe aktualne ceny, różnice programów, koszty dodatków i źródła utrzymujemy w materiale [Oferty wycieczek – szczegółowe porównanie](oferty-wycieczek.md). Tutaj zachowujemy tylko wynik potrzebny do planowania ogólnego budżetu.
 
 #### Wariant oszczędny – około 100–150 EUR gotówki na osobę
 
@@ -268,7 +268,7 @@ Do ceny podstawowej trzeba również doliczyć możliwe dodatki, zależnie od pr
 - napiwki;
 - własne zakupy.
 
-Szczegółowe ceny i zasady poszczególnych programów są zbierane w materiale [Wycieczki i miejsca – przewodnik decyzyjny](wycieczki.md).
+Szczegółowe ceny i zasady poszczególnych programów są zbierane w materiale [Oferty wycieczek – szczegółowe porównanie](oferty-wycieczek.md).
 
 ## Jak podejść do pieniędzy praktycznie
 

@@ -12,6 +12,8 @@ Commit wdrażający kod i pierwszą wersję tego raportu: `7b40ce917de256e0f4d6e
 
 Ten dokument opisuje rozszerzenie zatwierdzonego jasnego wyglądu strony o automatyczny tryb ciemny. Nie jest częścią publicznego przewodnika i pozostaje wyłączony z GitHub Pages razem z całym katalogiem `techniczne/`.
 
+**Uzupełnienie po przebudowie materiałów o wycieczkach:** nowe tabele porównawcze korzystają wyłącznie z istniejących semantycznych tokenów kolorów. Ich nagłówki, podpisy, komórki i obramowania dziedziczą zatem wariant jasny, ciemny i wymuszonych kolorów bez osobnej palety.
+
 ## Założenia
 
 - tryb jasny pozostaje zatwierdzoną wersją bazową;

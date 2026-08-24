@@ -2,7 +2,7 @@
 
 Mapy przygotowywane dla przewodnika mają być oparte na rzeczywistych danych OpenStreetMap, a nie na grafikach generowanych przez AI.
 
-Ten dokument dotyczy technicznej strony map. Ogólny plan materiałów wizualnych, w tym zdjęć reprezentujących miejsca w `wycieczki.md`, znajduje się w `techniczne/wizualizacje/README.md`.
+Ten dokument dotyczy technicznej strony map. Ogólny plan materiałów wizualnych, w tym zdjęć reprezentujących miejsca w `atlas-miejsc.md`, znajduje się w `techniczne/wizualizacje/README.md`.
 
 ## Dokumenty i narzędzia
 
@@ -15,7 +15,7 @@ Ten dokument dotyczy technicznej strony map. Ogólny plan materiałów wizualnyc
 
 ## Cel map
 
-Planowane mapy mają przede wszystkim pomagać w orientacji przestrzennej: pokazywać położenie ważnych miejsc, relacje między nimi oraz — tam, gdzie ma to sens — przebieg tras wycieczek.
+Mapy mają przede wszystkim pomagać w orientacji przestrzennej: pokazywać położenie ważnych miejsc, relacje między nimi oraz — tam, gdzie ma to sens — przebieg tras wycieczek.
 
 Nie mają zastępować map nawigacyjnych ani tekstowego opisu. Mają być uproszczone i czytelne, również dla osób słabowidzących i widzących przewodników.
 
@@ -63,7 +63,7 @@ Roboczy proces:
 
 ## Pierwsze wdrożenie: mapa Dżerby
 
-Pierwsza uproszczona mapa została przygotowana dla sekcji `Atlas miejsc` w pliku `wycieczki.md`. Obejmuje całą Dżerbę i pokazuje:
+Pierwsza uproszczona mapa została przygotowana dla dawnej sekcji `Atlas miejsc` w pliku `wycieczki.md`. Obecnie jest osadzona w osobnym pliku `atlas-miejsc.md`. Obejmuje całą Dżerbę i pokazuje:
 
 - hotel Club Palm Azur jako punkt odniesienia;
 - Houmt Souk i fort Borj Ghazi Mustapha;
@@ -79,7 +79,7 @@ Kod SVG znajduje się w `_includes/maps/djerba.svg` i jest osadzany inline przez
 
 ## Wdrożona mapa szerszego obszaru
 
-Pierwsza mapa szerszego obszaru dla `wycieczki.md` pokazuje skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży hotel na Dżerbie, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
+Mapa szerszego obszaru w `atlas-miejsc.md` pokazuje skalę wyjazdów z Dżerby na południe Tunezji. Jej funkcją jest orientacja decyzyjna: gdzie leży hotel na Dżerbie, w którą stronę prowadzą główne kierunki wycieczek i jak daleko od wyspy znajdują się miejsca opisywane w przewodniku.
 
 Nazwa mapy:
 
@@ -137,18 +137,18 @@ Przy projektowaniu kolorów należy osobno sprawdzić kontrast podpisów, punkt�
 
 Pierwsza mapa potwierdziła kierunek techniczny: źródło pozostaje osobnym plikiem SVG w katalogu `_includes`, ale Jekyll osadza jego kod inline w wynikowym HTML. Pozwala to stylować mapę zmiennymi CSS strony i zachować jej nazwę oraz opis w drzewie dostępności dokumentu.
 
-## Planowane poziomy map
+## Poziomy map
 
-Do dalszych testów przewidziane są przede wszystkim:
+Wdrożone są dwa podstawowe poziomy, a dalsze warianty pozostają zależne od rzeczywistej potrzeby:
 
 - mapa szerszego obszaru pokazująca położenie Dżerby oraz miejsc na południu Tunezji;
 - osobna mapa orientacyjna Dżerby z najważniejszymi miejscami na wyspie;
 - mapy konkretnych tras wycieczek, jeśli pomogą porównać programy;
 - bardziej szczegółowa mapa pojedynczego miejsca tylko wtedy, gdy pojawi się realna potrzeba.
 
-Nie łączymy szerokiej mapy południowej Tunezji i szczegółowej mapy Dżerby przez ramki, wstawki ani powiększenia wewnątrz jednej grafiki. Jeśli potrzebne są oba poziomy, przygotowujemy je jako osobne mapy umieszczone w odpowiednich miejscach sekcji `wycieczki.md`.
+Nie łączymy szerokiej mapy południowej Tunezji i szczegółowej mapy Dżerby przez ramki, wstawki ani powiększenia wewnątrz jednej grafiki. Oba poziomy są osobnymi mapami umieszczonymi w odpowiednich częściach `atlas-miejsc.md`.
 
-Pierwszym sensownym wzorcem do zaplanowania pozostaje układ map dla `wycieczki.md`: osobno mapa szerszego obszaru wycieczek i osobno mapa Dżerby, zanim powstaną kolejne warianty.
+Wzorzec dla dalszych map stanowi obecny układ Atlasu: osobno mapa szerszego obszaru wycieczek i osobno mapa Dżerby.
 
 ## Status
 

@@ -6,6 +6,8 @@ Zakres: niezależny audyt bieżącej struktury publicznych stron przewodnika Dż
 
 Raport nie otwiera ponownie zakończonego audytu merytorycznego etapu 12 i nie zmienia jego ustaleń.
 
+**Uwaga o stanie dokumentu:** poniższa inwentaryzacja opisuje układ sprzed przebudowy materiałów o wycieczkach z 24 sierpnia 2026 r. Aktualnie dawna pozycja „Wycieczki i miejsca” została zastąpiona trzema bezpośrednimi pozycjami głównej nawigacji: „Wycieczki – wybór”, „Atlas miejsc” i „Oferty wycieczek”. Wszystkie trzy nowe strony kończą hierarchię na H3. Bieżące decyzje i wyniki kontroli opisuje `AUDYT-PRZEBUDOWY-STRONY-WYCIECZKI.md`.
+
 ## Stan bieżący
 
 Publiczna nawigacja obejmuje stronę startową oraz dziewięć stron tematycznych:

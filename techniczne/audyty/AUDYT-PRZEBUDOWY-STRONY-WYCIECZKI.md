@@ -1,6 +1,6 @@
 # Audyt i plan przebudowy materiałów o wycieczkach
 
-Status: **audyt zakończony 24 sierpnia 2026 r.; wyniki i ustalenia zapisane, przebudowa nie została jeszcze rozpoczęta**.
+Status: **audyt i zatwierdzona przebudowa zakończone 24 sierpnia 2026 r.; wdrożono wariant trzech stron**.
 
 Punkt odniesienia: gałąź `master` w commicie `e2230bf36bdeed6cc34cff81c97d70609ec530a4` (`Popraw etykiety obu map`).
 
@@ -398,6 +398,43 @@ Bez zmiany nazw widocznych na mapach nie powinny wymagać modyfikacji:
 - `_includes/maps/south-tunisia.svg`;
 - generatory map.
 
+## Wynik zatwierdzonej przebudowy
+
+Wdrożono rekomendowany układ trzech stron:
+
+1. `wycieczki.md` — szybka orientacja, porównanie rodzajów wycieczek, różnice nazw, dostępność, bezpieczeństwo i plan decyzji;
+2. `atlas-miejsc.md` — obie mapy, legendy, tekstowe opisy relacji przestrzennych, pełne opisy miejsc, stałe etykiety i słownik;
+3. `oferty-wycieczek.md` — małe tabele porównawcze, pełne programy, ceny, organizatorzy, warunki grupowe, pytania i źródła ofert.
+
+W głównej nawigacji wszystkie trzy pozycje występują bezpośrednio po „Pieniądze i płatności”, w zatwierdzonej kolejności: „Wycieczki – wybór”, „Atlas miejsc”, „Oferty wycieczek”. Pozostała kolejność nawigacji nie została zmieniona.
+
+Po podziale strony mają odpowiednio około:
+
+- 1 700 słów i 23 nagłówki — strona wyboru;
+- 3 700 słów i 33 nagłówki — Atlas;
+- 4 700 słów i 58 nagłówków — oferty.
+
+Każda strona ma dokładnie jeden H1, nie pomija poziomów i kończy hierarchię na H3. Dwie mapy pozostają osadzone tylko raz, razem z legendami i tekstowymi odpowiednikami. Siedem tabel ma widoczny podpis, nagłówki kolumn, nagłówki wierszy oraz nazwany, fokusowalny kontener przewijany. Pełne opisy pod tabelami zachowują kontekst, niewiadome i źródła, których nie da się bezpiecznie sprowadzić do pojedynczej komórki.
+
+## Kontrola kompletności i dostępności wdrożenia
+
+Przed wysłaniem całego zestawu jako jednego wdrożenia wykonano:
+
+- porównanie odnośników źródłowych dawnego `wycieczki.md` z trzema plikami docelowymi;
+- kontrolę ważnych informacji o cenach, programach, organizatorach, bezpieczeństwie, ubezpieczeniu i dostępności;
+- automatyczną kontrolę hierarchii nagłówków, kolejności poziomów i liczby H1;
+- kontrolę semantyki wszystkich tabel: `caption`, `scope="col"`, `scope="row"`, liczby kolumn i zgodności liczby komórek;
+- kontrolę obu SVG: `role="img"`, nazwę i opis przez `aria-labelledby`, unikatowe identyfikatory i jednokrotne osadzenie;
+- kontrolę numerowanych legend i tekstowych opisów relacji przestrzennych;
+- kontrolę odnośników do plików i jawnych kotwic oraz zachowanie najważniejszych dawnych kotwic H2;
+- kontrolę kolejności i oznaczenia bieżącej pozycji w głównej nawigacji;
+- kontrolę reguł responsywnych dla szerokości mobilnej oraz powiększenia 200% i 400%: przewijanie jest ograniczone do tabel i map, a nawigacja przechodzi w układ pionowy;
+- kontrolę jasnych i ciemnych par kolorów tabel; najniższy obliczony kontrast tekstu w sprawdzanych parach przekracza 13:1, a linków 7:1;
+- kontrolę wariantu wymuszonych kolorów, w którym tabele korzystają z systemowych tokenów `Canvas`, `CanvasText`, `LinkText` i `Highlight`;
+- `git diff --check` oraz sprawdzenie składni obu generatorów map.
+
+Lokalne środowisko nie zawiera Jekyll ani działającej binarki przeglądarki. Z tego powodu właściwy build GitHub Pages, wynikowy HTML, widok w przeglądarce i workflow kontroli linków są sprawdzane na docelowej publikacji po wysłaniu jedynego kompletnego commitu, a nie na stanie pośrednim.
+
 ## Podział rekomendacji według pilności
 
 ### Zmiany konieczne
@@ -429,13 +466,6 @@ Bez zmiany nazw widocznych na mapach nie powinny wymagać modyfikacji:
 - wspólny plik danych dla stałych nazw miejsc;
 - lokalne spisy treści na nowych stronach, jeżeli po podziale nadal okażą się potrzebne.
 
-## Kwestie do ostatecznego zatwierdzenia
+## Zatwierdzone decyzje końcowe
 
-Przed rozpoczęciem przebudowy trzeba jeszcze ostatecznie zatwierdzić:
-
-- dokładne tytuły trzech stron i nazwy dwóch nowych plików;
-- pełną kolejność głównej nawigacji;
-- ostateczną strukturę H2 i H3;
-- zestaw konkretnych tabel oraz ich kolumny;
-- sposób zachowania najważniejszych dotychczasowych kotwic;
-- czy raport ma być aktualizowany w tym samym commicie co wdrożenie, czy w osobnym końcowym commicie dokumentacyjnym.
+Użytkownik zatwierdził wykonanie przebudowy jednym pełnym przebiegiem, wariant trzech stron, ich tytuły i kolejność w głównej nawigacji, maksymalny poziom H3, małe dostępne tabele oraz aktualizację niniejszego raportu w tym samym wdrożeniu. Sekcji rozwijanych nie wprowadzono; po podziale nie są potrzebne do osiągnięcia dwupoziomowej struktury informacji.

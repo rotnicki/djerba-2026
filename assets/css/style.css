@@ -388,6 +388,58 @@ code {
 
 .place-map-key li + li { margin-top: .35rem; }
 
+.comparison-table {
+  overflow-x: auto;
+  margin: 1.25rem 0 2rem;
+  max-width: 60rem;
+  border: 1px solid var(--color-border-strong);
+  border-radius: .65rem;
+  background: var(--color-page-bg);
+  -webkit-overflow-scrolling: touch;
+}
+
+.comparison-table:focus-visible {
+  outline: 3px solid var(--color-focus, var(--color-link));
+  outline-offset: 3px;
+}
+
+.comparison-table table {
+  width: 100%;
+  min-width: 42rem;
+  border-collapse: collapse;
+}
+
+.comparison-table caption {
+  padding: .8rem .9rem;
+  border-bottom: 1px solid var(--color-border-strong);
+  font-weight: 700;
+  text-align: left;
+  color: var(--color-text);
+  background: var(--color-surface-strong);
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: .7rem .8rem;
+  border-right: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison-table tr > :last-child { border-right: 0; }
+.comparison-table tbody tr:last-child > * { border-bottom: 0; }
+
+.comparison-table thead th {
+  font-weight: 700;
+  background: var(--color-surface-strong);
+}
+
+.comparison-table tbody th {
+  font-weight: 700;
+  background: var(--color-surface);
+}
+
 .vcard-share-button {
   display: inline-block;
   min-height: 2.75rem;

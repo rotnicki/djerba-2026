@@ -36,7 +36,9 @@ Opracowanie: **Mikołaj Rotnicki**. Informacje zależne od czasu są oznaczane d
 - [Co kupić przed wyjazdem](co-kupic-przed-wyjazdem.md) — konkretne produkty i zakupy, które warto rozważyć przed podróżą.
 - [Łączność](lacznosc.md) — plan łączności dla grupy, przygotowanie telefonu, podróżne eSIM, polska karta SIM, Wi-Fi Calling i komunikatory.
 - [Pieniądze i płatności](pieniadze.md) — TND i euro, karty i Revolut, bankomaty, taksówki, podatek turystyczny oraz budżet na wycieczki.
-- [Wycieczki i miejsca](wycieczki.md) — szybki wybór wycieczek, miejsca i programy, organizatorzy, bezpieczeństwo i ubezpieczenie oraz zasady dla naszej grupy.
+- [Wycieczki – wybór](wycieczki.md) — szybka orientacja, porównanie rodzajów wycieczek, najważniejsze różnice oraz zasady wyboru dla naszej grupy.
+- [Atlas miejsc](atlas-miejsc.md) — dwie mapy, legendy, odległości, relacje przestrzenne i pełne opisy miejsc.
+- [Oferty wycieczek](oferty-wycieczek.md) — szczegółowe programy, ceny, organizatorzy, warunki grupowe i pytania do zadania przed zakupem.
 - [Kultura i zwyczaje](kultura-i-zwyczaje.md) — lokalne zasady, zachowanie, ubiór i codzienne zwyczaje.
 - [Język i podstawowe zwroty](jezyk-i-zwroty.md) — przydatne zwroty po arabsku i francusku wraz z polską wymową.
 {: .home-section-list}

@@ -1,6 +1,6 @@
 # Dżerba i południe Tunezji — specyfikacja, wdrożenie i odtwarzanie mapy
 
-Status: **pierwsza wersja wdrożona 24 sierpnia 2026 r. w `wycieczki.md`**.
+Status: **pierwsza wersja wdrożona 24 sierpnia 2026 r.; od przebudowy materiałów o wycieczkach publikowana w `atlas-miejsc.md`**.
 
 Korekta po ocenie użytkownika: usunięto kolizje etykiet Toujane i Matmaty z numerowanymi punktami, przeniesiono znaczniki nad warstwę napisów oraz ujednolicono obie legendy map. Nazwy własne w legendzie są podawane w mianowniku, a po myślniku następuje krótka etykieta opisowa zgodna z Atlasem.
 
@@ -10,7 +10,7 @@ Pliki wdrożenia:
 
 - generator `techniczne/mapy/generate_south_tunisia_map.py`;
 - wynik `_includes/maps/south-tunisia.svg`;
-- osadzenie i tekstowy odpowiednik w `wycieczki.md`;
+- osadzenie i tekstowy odpowiednik w `atlas-miejsc.md`;
 - wspólne style w `assets/css/style.css`;
 - zamrożone źródło opisane w `snapshot-osm-tunezja.md`.
 
@@ -23,7 +23,7 @@ Mapa ma pokazywać uczestnikom:
 - jak układają się względem siebie główne miejsca na kontynencie;
 - jak duża jest różnica skali między wyjazdem w okolice Medenine lub Tataouine a programem prowadzącym do Tozeur i Chebiki.
 
-Mapa jest osadzona w `wycieczki.md` w sekcji `## Atlas miejsc`, bezpośrednio po nagłówku `### Wyjazd z Dżerby na kontynent` i przed opisem El Kantary. To miejsce rozpoczyna przejście od szczegółowego poziomu wyspy do poziomu południowej Tunezji.
+Mapa jest osadzona w `atlas-miejsc.md` w sekcji `## Wyjazd z Dżerby na kontynent`, przed opisem El Kantary. To miejsce rozpoczyna przejście od szczegółowego poziomu wyspy do poziomu południowej Tunezji.
 
 Mapa nie pokazuje tras konkretnych organizatorów. Linie drogowe są wyłącznie uproszczoną warstwą orientacyjną.
 

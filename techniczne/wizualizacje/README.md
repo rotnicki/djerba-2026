@@ -27,7 +27,7 @@ To wdrożenie traktujemy jako pierwszy wzorzec do oceny: sprawdzamy jednocześni
 
 ## Zdjęcia reprezentujące miejsca w przewodniku po wycieczkach
 
-Planowany jest rozwój `wycieczki.md` o istniejące zdjęcia reprezentujące opisywane miejsca. Celem nie jest galeria zdjęć, lecz ułatwienie szybkiej orientacji osobom widzącym i słabowidzącym oraz pokazanie charakterystycznego wyglądu danego miejsca.
+Planowany jest rozwój `atlas-miejsc.md` o istniejące zdjęcia reprezentujące opisywane miejsca. Celem nie jest galeria zdjęć, lecz ułatwienie szybkiej orientacji osobom widzącym i słabowidzącym oraz pokazanie charakterystycznego wyglądu danego miejsca.
 
 Robocza lista miejsc do objęcia tym rozwiązaniem:
 
@@ -98,5 +98,5 @@ Docelowo przy wycieczkach mogą więc występować oba rodzaje materiałów, ale
 ## Status
 
 - zdjęcie satelitarne na stronie głównej — wdrożone testowo;
-- zdjęcia reprezentujące poszczególne miejsca w `wycieczki.md` — planowane, wybór zdjęć jeszcze nie został wykonany dla całej listy;
-- własne uproszczone mapy OpenStreetMap — planowane; datowany snapshot Tunezji został pobrany, zweryfikowany i zapisany w archiwum danych źródłowych, ale właściwe mapy SVG nie zostały jeszcze wykonane.
+- zdjęcia reprezentujące poszczególne miejsca w `atlas-miejsc.md` — planowane, wybór zdjęć jeszcze nie został wykonany dla całej listy;
+- własne uproszczone mapy OpenStreetMap — wdrożone w `atlas-miejsc.md` jako osobna mapa Dżerby oraz mapa Dżerby i południa Tunezji; obie korzystają z datowanego, zweryfikowanego snapshotu danych i mają tekstowe odpowiedniki.
