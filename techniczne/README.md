@@ -10,3 +10,7 @@ Ten katalog zawiera materiały robocze i techniczne związane z utrzymaniem repo
 - `wizualizacje/` — zasady, stan wdrożenia i plan rozwoju zdjęć oraz innych materiałów wizualnych w przewodniku.
 
 Materiały merytoryczne dla uczestników wyjazdu pozostają w głównych plikach tematycznych repozytorium.
+
+## Bieżące analizy
+
+- [Audyt szerokości treści i nagłówków](audyty/AUDYT-SZEROKOSCI-TRESCI.md) — analiza zakończona, zmiana układu jeszcze niewdrożona.
