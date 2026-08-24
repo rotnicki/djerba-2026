@@ -24,7 +24,7 @@ body {
 }
 
 .wrapper {
-  width: min(100% - 2rem, 72rem);
+  width: min(100% - 2rem, 60rem);
   margin-inline: auto;
 }
 
@@ -362,7 +362,7 @@ code {
 }
 
 @media (max-width: 40rem) {
-  .wrapper { width: min(100% - 1.25rem, 72rem); }
+  .wrapper { width: min(100% - 1.25rem, 60rem); }
   .nav-list { display: block; }
   .nav-list li + li { margin-top: .35rem; }
   .home-section-list li + li { margin-top: .9rem; }
