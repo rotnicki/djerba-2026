@@ -188,6 +188,7 @@ code {
 .place-map {
   --map-water: #dceff5;
   --map-land: #f6edcf;
+  --map-context-land: #e8dfc2;
   --map-road: #756b59;
   --map-point: #7a1f3d;
   --map-point-text: #ffffff;
@@ -228,6 +229,13 @@ code {
   stroke-linejoin: round;
 }
 
+.place-map__context-land {
+  fill: var(--map-context-land);
+  stroke: var(--map-border);
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+
 .place-map__roads {
   fill: none;
   stroke: var(--map-road);
@@ -236,12 +244,42 @@ code {
   stroke-linejoin: round;
 }
 
+.place-map__causeway,
+.place-map__causeway-center {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.place-map__causeway {
+  stroke: var(--map-border);
+  stroke-width: 7;
+}
+
+.place-map__causeway-center {
+  stroke: var(--map-land);
+  stroke-width: 3;
+}
+
 .place-map__context circle { fill: var(--map-muted-label); }
 
 .place-map__context text,
 .place-map__north text {
   fill: var(--map-muted-label);
   font: 700 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.place-map__context .place-map__geography-label,
+.place-map__context .place-map__causeway-label {
+  fill: var(--map-label);
+  paint-order: stroke;
+  stroke: var(--map-water);
+  stroke-width: 4;
+  stroke-linejoin: round;
+}
+
+.place-map__context .place-map__causeway-label {
+  font-size: 15px;
 }
 
 .place-map__marker circle,
@@ -388,6 +426,7 @@ code {
   .place-map {
     --map-water: #102f3a;
     --map-land: #30352a;
+    --map-context-land: #252a22;
     --map-road: #c7b47d;
     --map-point: #f3b63f;
     --map-point-text: #17120a;
@@ -416,6 +455,7 @@ code {
   .place-map {
     --map-water: Canvas;
     --map-land: Canvas;
+    --map-context-land: Canvas;
     --map-road: CanvasText;
     --map-point: Highlight;
     --map-point-text: HighlightText;

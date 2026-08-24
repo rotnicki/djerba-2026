@@ -5,10 +5,13 @@ Usage:
     python techniczne/mapy/generate_djerba_map.py \
         ../tunisia-260822.osm.pbf _includes/maps/djerba.svg
 
-The script intentionally keeps only the island outline, selected main roads and
-the places described in the guide.  It requires pyosmium and Shapely.
+The script intentionally keeps the island dominant while adding only enough
+nearby coastline, islets and the El Kantara causeway to explain its geographic
+context.  It also includes selected main roads and the places described in the
+guide.  It requires pyosmium and Shapely.
 
-Implementation record: techniczne/mapy/mapa-dzerby.md
+Implementation records: techniczne/mapy/mapa-dzerby.md and
+techniczne/mapy/kontekst-geograficzny-dzerby.md
 """
 
 from __future__ import annotations
@@ -19,21 +22,32 @@ import math
 from pathlib import Path
 
 import osmium
-from shapely.geometry import LineString, Point, Polygon
+from shapely.geometry import LineString, Point, Polygon, box
 from shapely.ops import polygonize, unary_union
 
 
 SNAPSHOT_SHA256 = "4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf"
 
-# A little sea around the island; the lower edge includes El Kantara and the
-# beginning of the Roman causeway, but not the mainland as a destination.
-WEST, SOUTH, EAST, NORTH = 10.73, 33.65, 11.09, 33.95
+# The context remains deliberately tight: Djerba is dominant, but the western
+# islets, both nearby pieces of mainland and the complete Roman causeway fit in
+# the frame.  A separate map will cover excursions farther into Tunisia.
+WEST, SOUTH, EAST, NORTH = 10.66, 33.59, 11.10, 33.95
 VIEW_WIDTH, VIEW_HEIGHT = 960, 760
 PAD_X, PAD_Y = 54, 58
 MARKER_RADIUS = 15
 MARKER_GAP = 4
 KM_PER_DEGREE_LATITUDE = 111.32
 SCALE_DISTANCE_KM = 10
+MIN_CONTEXT_ISLAND_AREA = 0.00005
+
+# Core RR117 segments forming the El Kantara connection from Djerba to the
+# mainland in the frozen 2026-08-22 snapshot.
+CAUSEWAY_WAY_IDS = {
+    31360290,
+    198577347,
+    198577348,
+    31360293,
+}
 
 
 POIS = (
@@ -108,7 +122,6 @@ POIS = (
 
 CONTEXT_NODES = {
     287613682: "Midoun",
-    6616525005: "El Kantara",
 }
 
 
@@ -125,6 +138,7 @@ class DjerbaData(osmium.SimpleHandler):
         super().__init__()
         self.coastlines: list[LineString] = []
         self.roads: list[LineString] = []
+        self.causeway_roads: dict[int, LineString] = {}
         self.poi_nodes: dict[int, tuple[float, float]] = {}
         self.poi_ways: dict[int, tuple[float, float]] = {}
         self.context_nodes: dict[int, tuple[float, float]] = {}
@@ -152,6 +166,9 @@ class DjerbaData(osmium.SimpleHandler):
         if road_class in {"primary", "secondary"} and len(coords) > 1:
             self.roads.append(LineString(coords))
 
+        if way.id in CAUSEWAY_WAY_IDS and len(coords) > 1:
+            self.causeway_roads[way.id] = LineString(coords)
+
         if way.id in self._poi_way_ids and coords:
             line = LineString(coords)
             center = line.centroid
@@ -174,6 +191,41 @@ def find_island(coastlines: list[LineString]) -> Polygon:
     if plausible:
         return max(plausible, key=lambda polygon: polygon.area)
     raise RuntimeError(f"Could not reconstruct Djerba coastline; polygon candidates: {len(candidates)}")
+
+
+def find_context_land(coastlines: list[LineString], island: Polygon) -> list[Polygon]:
+    """Return nearby mainland fragments and meaningful closed islets."""
+    viewport = box(WEST, SOUTH, EAST, NORTH)
+    clipped_coastlines = [
+        coastline.intersection(viewport)
+        for coastline in coastlines
+        if coastline.intersects(viewport)
+    ]
+    bounded_candidates = list(
+        polygonize(unary_union([*clipped_coastlines, viewport.boundary]))
+    )
+    viewport_area = viewport.area
+    mainlands = [
+        polygon
+        for polygon in bounded_candidates
+        if polygon.area >= 0.001
+        and polygon.area < viewport_area * 0.2
+        and (
+            polygon.bounds[0] <= WEST + 1e-8
+            or polygon.bounds[1] <= SOUTH + 1e-8
+        )
+    ]
+
+    closed_candidates = list(polygonize(unary_union(coastlines)))
+    islets = [
+        polygon
+        for polygon in closed_candidates
+        if polygon.area >= MIN_CONTEXT_ISLAND_AREA
+        and polygon.area < 0.005
+        and polygon.intersects(viewport)
+        and not polygon.equals(island)
+    ]
+    return [*mainlands, *islets]
 
 
 def projection():
@@ -209,9 +261,18 @@ def path_data(coords, project, close: bool = False) -> str:
 
 
 def make_svg(data: DjerbaData) -> str:
-    island = find_island(data.coastlines).simplify(0.00035, preserve_topology=True)
+    source_island = find_island(data.coastlines)
+    context_land = [
+        polygon.simplify(0.00025, preserve_topology=True)
+        for polygon in find_context_land(data.coastlines, source_island)
+    ]
+    island = source_island.simplify(0.00035, preserve_topology=True)
     project, projection_scale = projection()
     island_path = path_data(island.exterior.coords, project, close=True)
+    context_land_paths = [
+        path_data(polygon.exterior.coords, project, close=True)
+        for polygon in context_land
+    ]
 
     road_paths: list[str] = []
     island_buffer = island.buffer(0.0002)
@@ -227,6 +288,20 @@ def make_svg(data: DjerbaData) -> str:
             if simplified.length < 0.0025:
                 continue
             road_paths.append(path_data(simplified.coords, project))
+
+    missing_causeway_ways = CAUSEWAY_WAY_IDS - data.causeway_roads.keys()
+    if missing_causeway_ways:
+        raise RuntimeError(
+            "Missing configured El Kantara road segments: "
+            + ", ".join(str(value) for value in sorted(missing_causeway_ways))
+        )
+    causeway_paths = [
+        path_data(
+            data.causeway_roads[way_id].simplify(0.0001, preserve_topology=True).coords,
+            project,
+        )
+        for way_id in sorted(CAUSEWAY_WAY_IDS)
+    ]
 
     missing = []
     for item in POIS:
@@ -276,26 +351,47 @@ def make_svg(data: DjerbaData) -> str:
     scale_start_x = scale_end_x - scale_width
     scale_middle_x = (scale_start_x + scale_end_x) / 2
     scale_y = 690
+    mainland_label_x, mainland_label_y = project(10.690, 33.620)
+    causeway_label_x, causeway_label_y = project(10.952, 33.666)
 
     lines = [
         '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
         '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
         '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
-        '  <desc id="djerba-map-desc">Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
         '  <rect class="place-map__water" width="960" height="760" rx="12"/>',
+        '  <g class="place-map__context-land" aria-hidden="true">',
+    ]
+    lines.extend(f'    <path d="{value}"/>' for value in context_land_paths if value)
+    lines.extend([
+        '  </g>',
         f'  <path class="place-map__land" d="{island_path}"/>',
         '  <g class="place-map__roads" aria-hidden="true">',
-    ]
+    ])
     lines.extend(f'    <path d="{value}"/>' for value in road_paths if value)
     lines.extend([
         '  </g>',
+        '  <g class="place-map__causeway" aria-hidden="true">',
+    ])
+    lines.extend(f'    <path d="{value}"/>' for value in causeway_paths if value)
+    lines.extend([
+        '  </g>',
+        '  <g class="place-map__causeway-center" aria-hidden="true">',
+    ])
+    lines.extend(f'    <path d="{value}"/>' for value in causeway_paths if value)
+    lines.extend([
+        '  </g>',
         '  <g class="place-map__context" aria-hidden="true">',
+        f'    <text class="place-map__geography-label" x="{mainland_label_x:.1f}" y="{mainland_label_y:.1f}" text-anchor="middle">Kontynent – Tunezja</text>',
+        f'    <text class="place-map__causeway-label" x="{causeway_label_x:.1f}" y="{causeway_label_y:.1f}" text-anchor="start">',
+        '      <tspan x="{:.1f}" dy="0">Grobla El Kantara</tspan>'.format(causeway_label_x),
+        '      <tspan x="{:.1f}" dy="19">– droga rzymska</tspan>'.format(causeway_label_x),
+        '    </text>',
     ])
 
     context_offsets = {
         287613682: (12, -12, "start"),
-        6616525005: (12, 24, "start"),
     }
     for node_id, name in CONTEXT_NODES.items():
         lon, lat = data.context_nodes[node_id]
