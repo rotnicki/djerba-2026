@@ -80,10 +80,12 @@ Dodatkowe kontrolne widoki po zmianie:
 
 ## Kontrola publikacji
 
-- workflow `pages build and deployment`, run `32696784058` — `success`;
+- workflow `pages build and deployment` dla wdrożenia, run `32696784058` — `success`;
+- workflow `pages build and deployment` po uzupełnieniu dokumentacji, run `32697970872` — `success`;
 - publiczny arkusz CSS zawiera obie wartości `60rem`;
 - SHA-256 lokalnego i publicznego arkusza CSS jest identyczne: `4456491ff4f5a578d2e3a1eca66df0e28e033cb13728738589a451bfa063a357`;
-- workflow `Check links`, run `32696785166`, nie przeszedł w dwóch próbach wyłącznie z powodu zerwania połączenia lub wyzwania WAF serwisu EUR-Lex dla istniejącego odsyłacza w `praktyczne.md`; nie jest to błąd wywołany zmianą szerokości.
+- pierwszy workflow `Check links`, run `32696785166`, nie przeszedł w dwóch próbach z powodu chwilowego zerwania połączenia lub wyzwania WAF serwisu EUR-Lex dla istniejącego odsyłacza w `praktyczne.md`;
+- ponowny pełny workflow `Check links`, run `32697972041` — `success`, co potwierdziło przejściowy charakter wcześniejszego błędu.
 
 ## Lista kontroli
 
