@@ -1,0 +1,75 @@
+version: 1
+prefix: "Djerba —"
+contacts:
+  - id: pogotowie-190
+    filename: djerba-pogotowie-190.vcf
+    display_name: "Djerba — Pogotowie ratunkowe — 190"
+    organization: "Service d’Aide Médicale Urgente (SAMU)"
+    phone: "190"
+    note: "Tunezja: numer alarmowy pogotowia ratunkowego / SAMU. Wybierz 190 bez prefiksu +216."
+
+  - id: policja-197
+    filename: djerba-policja-197.vcf
+    display_name: "Djerba — Policja — 197"
+    organization: "Policja tunezyjska"
+    phone: "197"
+    note: "Tunezja: numer alarmowy policji. Wybierz 197 bez prefiksu +216."
+
+  - id: ratownictwo-198
+    filename: djerba-straz-pozarna-ratownictwo-198.vcf
+    display_name: "Djerba — Straż pożarna i ratownictwo — 198"
+    organization: "Office National de la Protection Civile"
+    phone: "198"
+    note: "Tunezja: ochrona cywilna, straż pożarna, wypadki i ratownictwo. Wybierz 198 bez prefiksu +216."
+
+  - id: gwardia-narodowa-193
+    filename: djerba-gwardia-narodowa-193.vcf
+    display_name: "Djerba — Gwardia Narodowa — 193"
+    organization: "Garde Nationale"
+    phone: "193"
+    note: "Tunezja: numer alarmowy lądowych jednostek Gwardii Narodowej. Wybierz 193 bez prefiksu +216."
+
+  - id: gwardia-morska-194
+    filename: djerba-morska-gwardia-narodowa-194.vcf
+    display_name: "Djerba — Morska Gwardia Narodowa — 194"
+    organization: "Garde Maritime"
+    phone: "194"
+    note: "Tunezja: nagłe zdarzenia na morzu lub przy wybrzeżu. Wybierz 194 bez prefiksu +216."
+
+  - id: ambasada-konsulat
+    filename: djerba-ambasada-rp-konsulat.vcf
+    display_name: "Djerba — Ambasada RP — konsulat"
+    organization: "Ambasada Rzeczypospolitej Polskiej w Tunisie"
+    phone: "+21671196191"
+    phone_type: WORK
+    email: tunis.konsul@msz.gov.pl
+    address:
+      extended: "Les Berges du Lac II"
+      street: "Le Grand Boulevard de la Corniche"
+      locality: "Tunis"
+      postal_code: "2045"
+      country: "Tunezja"
+    note: "Wydział Konsularny Ambasady RP w Tunisie: zwykłe sprawy konsularne i dokumentowe w godzinach pracy."
+
+  - id: ambasada-dyzurny
+    filename: djerba-ambasada-rp-telefon-dyzurny.vcf
+    display_name: "Djerba — Ambasada RP — telefon dyżurny"
+    organization: "Ambasada Rzeczypospolitej Polskiej w Tunisie"
+    phone: "+21698362547"
+    phone_type: CELL
+    email: tunis.wk.dyzurny@msz.gov.pl
+    note: "Tylko nagłe sytuacje wymagające pilnej interwencji konsula, np. ciężki wypadek, zgon lub aresztowanie. W dni robocze od 16:15 do 08:15; w dni wolne od pracy w Polsce i Tunezji całodobowo."
+
+  - id: hotel-club-palm-azur
+    filename: djerba-club-palm-azur.vcf
+    display_name: "Djerba — Club Palm Azur"
+    organization: "Club Palm Azur"
+    phone: "+21675750700"
+    phone_type: WORK
+    address:
+      po_box: "BP 340"
+      extended: "Zone touristique"
+      locality: "Midoun Aghir"
+      postal_code: "4116"
+      country: "Tunezja"
+    note: "Hotel Club Palm Azur w Aghir na Dżerbie — miejsce pobytu grupy."
