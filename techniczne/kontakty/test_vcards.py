@@ -86,12 +86,13 @@ def test(repository_root: Path, source: Path) -> None:
         assert len(fields["ORG"]) == 1
         assert len(fields["TEL"]) == 1
         assert unescape(fields["FN"][0]) == contact["display_name"]
-        assert unescape(fields["ORG"][0]) == contact["organization"]
+        assert unescape(fields["ORG"][0]) == contact["display_name"]
         assert fields["TEL"][0] == contact["phone"]
         assert aggregate_cards[index] == raw
         assert contact["display_name"].startswith(data["prefix"])
         assert contact["display_name"] not in display_names
         display_names.add(contact["display_name"])
+        assert fields["FN"] == fields["ORG"]
 
         if contact.get("email"):
             assert fields["EMAIL"] == [contact["email"]]

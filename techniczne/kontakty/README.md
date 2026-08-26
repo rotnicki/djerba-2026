@@ -7,8 +7,8 @@ Ten katalog zawiera jedno źródło danych, generator i testy wizytówek używan
 - Format: vCard 3.0, UTF-8, zakończenia CRLF.
 - Maksymalna długość fizycznego wiersza: 75 oktetów.
 - `N:;;;;` pozostaje puste, ponieważ są to instytucje, a nie osoby. Zapobiega to zapisaniu całej nazwy jako imienia.
-- `FN` zawiera krótką polską nazwę użytkową zaczynającą się od `Djerba —`.
-- `ORG` zawiera nazwę właściwej instytucji.
+- `FN` i `ORG` zawierają tę samą krótką polską nazwę użytkową zaczynającą się od `Djerba —`. Test iPhone'a wykazał, że przy pustym `N` system pokazuje `ORG`, a nie `FN`.
+- Oficjalna nazwa instytucji pozostaje w źródle danych i — gdy jest potrzebna użytkownikowi — także w `NOTE`.
 - Krótkie numery alarmowe używają prostego `TEL`, bez technicznej etykiety `VOICE`.
 - `EMAIL;TYPE=INTERNET` i `ADR;TYPE=WORK` występują tylko tam, gdzie mają praktyczne zastosowanie. Pole `EMAIL` nie używa niestandardowej dla vCard 3.0 etykiety `WORK`.
 - `NOTE` wyjaśnia zastosowanie numeru; przecinki i średniki są escapowane.

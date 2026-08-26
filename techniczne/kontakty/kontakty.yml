@@ -6,7 +6,7 @@ contacts:
     display_name: "Djerba — Pogotowie ratunkowe — 190"
     organization: "Service d’Aide Médicale Urgente (SAMU)"
     phone: "190"
-    note: "Tunezja: numer alarmowy pogotowia ratunkowego / SAMU. Wybierz 190 bez prefiksu +216."
+    note: "Tunezja: pogotowie ratunkowe, oficjalnie Service d’Aide Médicale Urgente (SAMU). Wybierz 190 bez prefiksu +216."
 
   - id: policja-197
     filename: djerba-policja-197.vcf
@@ -20,7 +20,7 @@ contacts:
     display_name: "Djerba — Straż pożarna i ratownictwo — 198"
     organization: "Office National de la Protection Civile"
     phone: "198"
-    note: "Tunezja: ochrona cywilna, straż pożarna, wypadki i ratownictwo. Wybierz 198 bez prefiksu +216."
+    note: "Tunezja: Office National de la Protection Civile — ochrona cywilna, straż pożarna, wypadki i ratownictwo. Wybierz 198 bez prefiksu +216."
 
   - id: gwardia-narodowa-193
     filename: djerba-gwardia-narodowa-193.vcf

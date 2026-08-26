@@ -62,7 +62,9 @@ def address_value(address: dict[str, str]) -> str:
 def render_card(contact: dict[str, object]) -> bytes:
     lines = ["BEGIN:VCARD", "VERSION:3.0", "N:;;;;"]
     lines += content_line("FN", escape_text(str(contact["display_name"])))
-    lines += content_line("ORG", escape_text(str(contact["organization"])))
+    # iOS displays ORG instead of FN when N is empty.  Use the same concise,
+    # searchable label in both fields so institutions remain distinguishable.
+    lines += content_line("ORG", escape_text(str(contact["display_name"])))
 
     phone_parameters = None
     if contact.get("phone_type"):
