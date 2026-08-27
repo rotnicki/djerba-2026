@@ -33,7 +33,7 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 - [Tunezyjskie Ministerstwo Zdrowia – SAMU i bezpłatny numer pomocy medycznej 190](https://santetunisie.rns.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu)
 - [Tunezyjskie Ministerstwo Spraw Wewnętrznych – numery alarmowe policji, Gwardii Narodowej i ochrony cywilnej](https://www.interieur.gov.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA)
-- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA)
+- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%B1%D8%A8)
 - [Tunezyjska Ochrona Cywilna – numer 198 i działania związane z zagrożeniem pożarowym](https://www.onpc.nat.tn/)
 
 ### Ambasada RP w Tunisie i pomoc konsularna
@@ -120,6 +120,33 @@ Taki upominek jest wyłącznie dobrowolnym, sympatycznym gestem. **Nie należy t
 Coral Travel wskazuje, że napiwki są w krajach turystycznych przyjętym zwyczajem, ale ich wysokość zależy od indywidualnego uznania podróżnego i jakości wykonanej usługi. Upominek z Polski może być dodatkiem, lecz nie zastępuje ani nie stanowi ustalonej formy napiwku.
 
 W grupie pojawił się również pomysł zabrania **Żubrówki**. Alkohol nie jest jednak odpowiednim uniwersalnym prezentem dla każdego pracownika hotelu. Jeżeli ktoś chce wręczyć taki upominek, powinien zrobić to wyłącznie konkretnej dorosłej osobie, gdy wiadomo, że będzie on mile widziany – najlepiej jako podziękowanie, a nie element prośby o dodatkowe świadczenie.
+
+Zasady przewozu oraz tunezyjskie limity celne dotyczące alkoholu są utrzymywane w materiale [Co zabrać](co-zabrac.md).
+
+Źródła i relacje:
+
+- [Coral Travel – aktualne Warunki Imprez Turystycznych i dokumenty](https://www.coraltravel.pl/dokumenty/)
+- [Tripadvisor – Club Palm Azur: relacja grupy 18 osób z czerwca 2026 r. i odpowiedź hotelu](https://www.tripadvisor.com/Hotel_Review-g297948-d302582-Reviews-Hotel_Club_Palm_Azur_Djerba-Midoun_Djerba_Island_Medenine_Governorate.html)
+- [GOV.UK – Tunezja: zasady kulturowe i informacje o legalnej sprzedaży alkoholu w hotelach i barach](https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security)
+
+### Posiłki i All Inclusive
+
+Aktualnie publikowany dla Club Palm Azur harmonogram All Inclusive podaje:
+
+- **śniadanie:** 07:30–10:00;
+- **późne śniadanie:** 10:00–11:00;
+- **obiad:** 12:30–14:30;
+- **naleśniki i ciasta przy basenie:** 15:00–17:00;
+- **kolacja:** 19:30–21:00;
+- lokalne napoje w wyznaczonych barach: 10:00–01:00.
+
+Przy kolacji w restauracjach obowiązuje strój bardziej formalny; aktualny opis hotelu wskazuje dla panów **długie spodnie**. Restauracje à la carte wymagają wcześniejszej rezerwacji.
+
+To są godziny publikowane przed naszym wyjazdem. Hotel może zmienić bieżący harmonogram, dlatego po przyjeździe warto sprawdzić informacje przekazane przez recepcję i restaurację.
+
+[Itaka – Club Palm Azur: aktualne godziny posiłków, All Inclusive i zasady restauracji](https://www.itaka.pl/wczasy/tunezja/djerba/hotel-club-palm-azur%2CDJEPALM/)
+
+## Wylot i organizacja na lotnisku
 
 Asysta dla osób z niepełnosprawnościami / PRM powinna być zgłoszona przed podróżą. W przypadku naszej imprezy potrzebę asysty zgłasza się sprzedawcy / Coral Travel, który przekazuje informację przewoźnikowi oraz służbom w miejscu podróży. Coral Travel wskazuje również, że po przyjeździe na lotnisko osoba korzystająca z wcześniej zgłoszonej asysty powinna osobiście zgłosić swoją obecność w informacji lotniskowej.
 
@@ -230,3 +257,84 @@ W mObywatelu:
 7. podaj lub sprawdź dane kontaktowe;
 8. wybierz sposób otrzymywania powiadomień;
 9. sprawdź całe zgłoszenie i wyślij je.
+
+**Praktycznie potwierdzone przy rejestracji naszego wyjazdu:** wyszukanie hotelu po nazwie i wybranie go z listy działa w mObywatelu; nie trzeba ręcznie wpisywać całego adresu Club Palm Azur. Po wskazaniu hotelu aplikacja aktualizuje dane miejsca pobytu. To obserwacja z rzeczywiście wykonanego zgłoszenia, a nie informacja zaczerpnięta z ogólnej instrukcji ministerialnej.
+
+Ministerstwo Cyfryzacji podaje, że nową podróż w mObywatelu może zarejestrować każdy pełnoletni użytkownik aplikacji. Zgłoszenie można później edytować albo usunąć.
+
+Rodzic może dodać swoje dzieci jako współuczestników podróży, a także zgłosić podróż dziecka, nawet jeśli sam nie bierze w niej udziału.
+
+[Ministerstwo Cyfryzacji – Odyseusz w aplikacji mObywatel i instrukcja zgłoszenia podróży](https://www.gov.pl/web/cyfryzacja/bezpieczne-podroze-z-mobywatelem-usluga-odyseusz-juz-dostepna-w-aplikacji)
+
+#### 2. Przez portal Odyseusz
+
+Podróż można również zgłosić przez internetowy portal Odyseusz. Nowa wersja systemu umożliwia bezpieczne logowanie m.in. z wykorzystaniem:
+
+- aplikacji mObywatel;
+- Profilu Zaufanego;
+- e-dowodu;
+- bankowości elektronicznej.
+
+Po zalogowaniu większość danych identyfikacyjnych może zostać uzupełniona automatycznie. Użytkownik wskazuje przede wszystkim miejsce i termin podróży oraz dane kontaktowe.
+
+[MSZ – nowa wersja Odyseusza: logowanie i rejestracja podróży](https://www.gov.pl/web/dyplomacja/odyseusz-dostepny-w-aplikacji-mobywatel-rejestracja-podrozy-jeszcze-prostsza)
+
+[Odyseusz MSZ – portal rejestracji podróży](https://odyseusz.gov.pl/)
+
+### Jakie dane warto przygotować
+
+Do zgłoszenia potrzebne są przede wszystkim:
+
+- **Tunezja** jako kraj podróży;
+- miejsce pobytu – w mObywatelu najlepiej wyszukać po nazwie **Club Palm Azur** i wybrać hotel z listy;
+- termin: **31 sierpnia–7 września 2026 r.**;
+- dane kontaktowe – co najmniej adres e-mail albo numer telefonu;
+- dane wymagane przez system do identyfikacji użytkownika.
+
+W mObywatelu dane kontaktowe mogą zostać pobrane automatycznie z Rejestru Danych Kontaktowych. Jeżeli ich tam nie ma, trzeba podać co najmniej adres e-mail lub numer telefonu.
+
+Dla naszego pobytu nie trzeba ograniczać zgłoszenia do ogólnego „Dżerba” albo „Aghir”. Skoro wyszukiwarka mObywatela rozpoznaje **Club Palm Azur**, warto wskazać właśnie konkretny hotel. Daje to systemowi bardziej precyzyjną informację o miejscu pobytu.
+
+### Jak przychodzą komunikaty
+
+W zależności od sposobu korzystania z usługi i ustawień Odyseusz może przekazywać komunikaty przez:
+
+- powiadomienia PUSH;
+- SMS;
+- e-mail.
+
+W mObywatelu podczas zgłoszenia można wskazać e-mail, SMS albo oba kanały. Po zarejestrowaniu podróży system może przekazywać komunikaty związane zarówno z krajem, jak i konkretnym miejscem pobytu.
+
+[MSZ – powiadomienia w nowej wersji Odyseusza](https://www.gov.pl/web/dyplomacja/odyseusz-dostepny-w-aplikacji-mobywatel-rejestracja-podrozy-jeszcze-prostsza)
+
+### Jak podejść do rejestracji naszej grupy
+
+Dla **pełnoletnich uczestników** najbezpieczniejszym i najprostszym rozwiązaniem jest, aby każdy zgłosił własną podróż. Oficjalna instrukcja mObywatela opisuje możliwość dodawania dzieci przez rodzica, ale nie opisuje mechanizmu, w którym jeden dorosły uczestnik zgłasza w swoim imieniu wszystkich pozostałych dorosłych członków grupy.
+
+Dlatego nie zakładamy, że jedna osoba powinna „zarejestrować całą osiemnastkę”. Możemy natomiast przed wyjazdem wspólnie przejść przez formularz, tak aby wszyscy wpisali te same podstawowe dane pobytu.
+
+Jeżeli w grupie są osoby niepełnoletnie, ich zgłoszenie można obsłużyć zgodnie z funkcją rodzica/opiekuna opisaną przez mObywatel.
+
+### Odyseusz nie zastępuje innych zabezpieczeń
+
+Rejestracja w Odyseuszu **nie zastępuje**:
+
+- ubezpieczenia turystycznego;
+- organizatora wyjazdu i rezydenta Coral Travel;
+- miejscowego numeru alarmowego i służb ratunkowych;
+- ubezpieczyciela w przypadku problemów zdrowotnych lub szkody;
+- kontaktu z rodziną albo osobą bliską w Polsce;
+- śledzenia bieżących komunikatów MSZ.
+
+Centralny Ośrodek Informatyki w informacji o nowej usłudze Odyseusz podkreśla wprost, że system nie zastępuje ubezpieczenia ani zdrowego rozsądku – jest dodatkowym narzędziem ułatwiającym dostęp do informacji i kontakt w sytuacji kryzysowej.
+
+[Centralny Ośrodek Informatyki – czym Odyseusz pomaga i czego nie zastępuje](https://www.coi.gov.pl/aktualnosci/odyseusz-juz-w-mobywatelu-wsparcie-dla-wyjezdzajacych-za-granice)
+
+## Do ponownego sprawdzenia tuż przed wyjazdem
+
+Poniższe punkty nie są brakami w obecnych informacjach, lecz rzeczami, które mogą zmienić się nawet krótko przed podróżą albo wymagają działania samych uczestników:
+
+- sprawdzić ponownie bieżące komunikaty Ministerstwa Spraw Zagranicznych i profil Tunezji w Odyseuszu, w tym ogólny poziom ostrzeżenia i ewentualne ostrzeżenia regionalne;
+- ponownie potwierdzić numery alarmowe oraz dane kontaktowe Ambasady RP w Tunisie;
+- upewnić się, że osoby korzystające z Odyseusza mają poprawne dane kontaktowe i rzeczywiście otrzymują komunikaty;
+- po przyjeździe sprawdzić aktualne godziny posiłków, barów i innych usług hotelowych, ponieważ hotel może zmieniać harmonogram operacyjny.
