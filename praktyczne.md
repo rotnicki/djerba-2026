@@ -33,7 +33,7 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 - [Tunezyjskie Ministerstwo Zdrowia – SAMU i bezpłatny numer pomocy medycznej 190](https://santetunisie.rns.tn/fr/sante-en-tunisie/medecine-d-urgence/les-services-d-aide-medicale-urgente-samu)
 - [Tunezyjskie Ministerstwo Spraw Wewnętrznych – numery alarmowe policji, Gwardii Narodowej i ochrony cywilnej](https://www.interieur.gov.tn/actualite/3268/%D8%A8%D9%84%D8%A7%D8%BA)
-- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%B1%D8%A8)
+- [Tunezyjskie Ministerstwo Spraw Wewnętrznych – bezpieczeństwo na plażach i numery 193, 194, 197 oraz 198](https://www.interieur.gov.tn/actualite/28518/%D8%A8%D9%80%D9%80%D9%80%D9%80%D9%84%D8%A7%D8%BA)
 - [Tunezyjska Ochrona Cywilna – numer 198 i działania związane z zagrożeniem pożarowym](https://www.onpc.nat.tn/)
 
 ### Ambasada RP w Tunisie i pomoc konsularna
