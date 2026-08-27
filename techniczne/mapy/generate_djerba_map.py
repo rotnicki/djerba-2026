@@ -65,6 +65,15 @@ POIS = (
         "anchor": "start",
     },
     {
+        "number": "L",
+        "kind": "airport",
+        "name": "Lotnisko Dżerba-Zarzis (DJE)",
+        "way": 183797360,
+        "label_dx": -18,
+        "label_dy": 30,
+        "anchor": "end",
+    },
+    {
         "number": "1",
         "kind": "place",
         "name": "Houmt Souk i fort",
@@ -383,8 +392,8 @@ def make_svg(data: DjerbaData) -> str:
     lines = [
         '<svg class="place-map__graphic" viewBox="0 0 960 760" role="img"',
         '  aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">',
-        '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>',
-        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
+        '  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel, lotnisko i miejsca z Atlasu</title>',
+        '  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H w rombie, a lotnisko Dżerba-Zarzis literą L w kwadracie. Midoun pokazano jako mały nienumerowany punkt. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>',
         f'  <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 {SNAPSHOT_SHA256}</metadata>',
         '  <defs aria-hidden="true">',
         '    <clipPath id="djerba-map-clip">',
@@ -470,12 +479,18 @@ def make_svg(data: DjerbaData) -> str:
     for point in poi_layout:
         item = point["item"]
         x, y = point["marker_x"], point["marker_y"]
-        marker_class = "place-map__marker place-map__marker--hotel" if item["kind"] == "hotel" else "place-map__marker"
+        marker_class = f'place-map__marker place-map__marker--{item["kind"]}'
         lines.append(f'    <g class="{marker_class}">')
         if item["kind"] == "hotel":
             size = MARKER_RADIUS
             points = f"{x:.1f},{y-size:.1f} {x+size:.1f},{y:.1f} {x:.1f},{y+size:.1f} {x-size:.1f},{y:.1f}"
             lines.append(f'      <polygon points="{points}"/>')
+        elif item["kind"] == "airport":
+            size = MARKER_RADIUS
+            lines.append(
+                f'      <rect x="{x-size:.1f}" y="{y-size:.1f}" '
+                f'width="{2*size:.1f}" height="{2*size:.1f}" rx="3"/>'
+            )
         else:
             lines.append(f'      <circle cx="{x:.1f}" cy="{y:.1f}" r="{MARKER_RADIUS}"/>')
         lines.append(f'      <text class="place-map__marker-text" x="{x:.1f}" y="{y + 5.5:.1f}" text-anchor="middle">{item["number"]}</text>')

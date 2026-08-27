@@ -194,6 +194,8 @@ code {
   --map-point-text: #ffffff;
   --map-hotel: #005d6a;
   --map-hotel-text: #ffffff;
+  --map-airport: #005d6a;
+  --map-airport-text: #ffffff;
   --map-label: #17252a;
   --map-muted-label: #3e565e;
   --map-border: #315c68;
@@ -306,7 +308,8 @@ code {
 }
 
 .place-map__marker circle,
-.place-map__marker polygon {
+.place-map__marker polygon,
+.place-map__marker rect {
   fill: var(--map-point);
   stroke: var(--map-point-text);
   stroke-width: 2;
@@ -317,6 +320,11 @@ code {
   stroke: var(--map-hotel-text);
 }
 
+.place-map__marker--airport rect {
+  fill: var(--map-airport);
+  stroke: var(--map-airport-text);
+}
+
 .place-map__marker-text {
   fill: var(--map-point-text);
   font: 800 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -324,6 +332,10 @@ code {
 
 .place-map__marker--hotel .place-map__marker-text {
   fill: var(--map-hotel-text);
+}
+
+.place-map__marker--airport .place-map__marker-text {
+  fill: var(--map-airport-text);
 }
 
 .place-map__leader {
@@ -514,6 +526,8 @@ code {
     --map-point-text: #17120a;
     --map-hotel: #65d4e2;
     --map-hotel-text: #071517;
+    --map-airport: #65d4e2;
+    --map-airport-text: #071517;
     --map-label: #f7fafb;
     --map-muted-label: #d2e0e4;
     --map-border: #9bcbd8;
@@ -544,6 +558,8 @@ code {
     --map-point-text: HighlightText;
     --map-hotel: CanvasText;
     --map-hotel-text: Canvas;
+    --map-airport: CanvasText;
+    --map-airport-text: Canvas;
     --map-label: CanvasText;
     --map-muted-label: CanvasText;
     --map-border: CanvasText;

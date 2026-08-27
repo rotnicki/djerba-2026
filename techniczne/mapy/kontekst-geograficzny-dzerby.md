@@ -1,6 +1,6 @@
 # Kontekst geograficzny mapy Dżerby
 
-Status: korekta styku kontynentu z krawędzią przygotowana 24 sierpnia 2026 r.
+Status: korekta styku kontynentu z krawędzią przygotowana 24 sierpnia 2026 r.; suma kontrolna i kontrola kolizji z lotniskiem zaktualizowane 27 sierpnia 2026 r.
 
 Ten dokument uzupełnia główną specyfikację `mapa-dzerby.md` o zmianę kadru i zawartości mapy wykonaną po ocenie użytkownika.
 
@@ -82,7 +82,7 @@ python techniczne/mapy/generate_djerba_map.py \
 
 SHA-256 wynikowego SVG:
 
-`4061bc6669d29115073c113f76142b14e07002967d5a9186562338b61cc4722f`
+`3d296d81fd81a709caac1673d8b369c056d2e63e261edf2a2f8cd7d70602f3ef`
 
 Potwierdzono lokalnie:
 
@@ -98,5 +98,6 @@ Potwierdzono lokalnie:
 - render w trybie jasnym i ciemnym;
 - brak kolizji podpisu grobli z punktami, podziałką i znacznikiem północy.
 - jednoznaczne połączenie podpisu linią prowadzącą z właściwą ścieżką RR117.
+- brak kolizji kwadratowego znacznika L i podpisu lotniska z Houmt Souk, Erriadh i linią brzegową.
 
 Ręczny test VoiceOver pozostaje do wykonania po publikacji.

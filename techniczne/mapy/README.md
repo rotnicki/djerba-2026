@@ -72,7 +72,7 @@ Pierwsza uproszczona mapa została przygotowana dla dawnej sekcji `Atlas miejsc`
 - Guellalę;
 - Djerba Explore;
 - Ras Rmel;
-- pomocniczo Midoun i El Kantarę;
+- pomocniczo lotnisko Dżerba-Zarzis, Midoun i El Kantarę;
 - zarys wyspy oraz wybrane drogi główne.
 
 Kod SVG znajduje się w `_includes/maps/djerba.svg` i jest osadzany inline przez Jekyll. Pełny zapis decyzji, parametrów danych, modelu dostępności, kolorów, procedury generowania i wyników kontroli znajduje się w dokumencie [Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie](mapa-dzerby.md).

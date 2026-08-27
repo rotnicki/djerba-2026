@@ -1,7 +1,7 @@
 <svg class="place-map__graphic" viewBox="0 0 960 760" role="img"
   aria-labelledby="djerba-map-title djerba-map-desc" xmlns="http://www.w3.org/2000/svg">
-  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel i miejsca z Atlasu</title>
-  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
+  <title id="djerba-map-title">Mapa orientacyjna Dżerby: hotel, lotnisko i miejsca z Atlasu</title>
+  <desc id="djerba-map-desc">Mapa pokazuje zarys Dżerby, pobliskie wysepki, fragment kontynentalnej Tunezji oraz Groblę El Kantara, zwaną drogą rzymską. Grobla jest jednym połączeniem drogowym, a jej podpis łączy linia z przebiegiem RR117. Hotel Club Palm Azur oznaczono literą H w rombie, a lotnisko Dżerba-Zarzis literą L w kwadracie. Midoun pokazano jako mały nienumerowany punkt. Numery od 1 do 6 wskazują Houmt Souk, Erriadh i Djerbahood, synagogę El Ghriba, Guellalę, Djerba Explore oraz Ras Rmel. Punkty 2 i 3 dzieli w rzeczywistości około 740 metrów; ich koła są minimalnie rozsunięte, aby się nie stykały. W prawym dolnym rogu znajduje się podziałka od 0 do 10 kilometrów. Szczegółowy opis położenia znajduje się pod mapą.</desc>
   <metadata>OpenStreetMap snapshot tunisia-260822.osm.pbf, SHA-256 4629c6f40e1749f266fa339ba484f473414cbb026c7b6267a47f16715266bfaf</metadata>
   <defs aria-hidden="true">
     <clipPath id="djerba-map-clip">
@@ -178,6 +178,7 @@
   <g class="place-map__points" aria-hidden="true">
     <g class="place-map__leaders">
       <path class="place-map__leader" d="M 688.4 392.5 L 698.4 415.5"/>
+      <path class="place-map__leader" d="M 323.0 193.6 L 313.0 218.6"/>
       <path class="place-map__leader" d="M 451.0 176.1 L 461.0 153.1"/>
       <path class="place-map__leader" d="M 434.8 283.2 L 422.8 250.2"/>
       <path class="place-map__leader" d="M 456.4 310.4 L 468.4 337.4"/>
@@ -190,33 +191,38 @@
       <polygon points="688.4,377.5 703.4,392.5 688.4,407.5 673.4,392.5"/>
       <text class="place-map__marker-text" x="688.4" y="398.0" text-anchor="middle">H</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--airport">
+      <rect x="308.0" y="178.6" width="30.0" height="30.0" rx="3"/>
+      <text class="place-map__marker-text" x="323.0" y="199.1" text-anchor="middle">L</text>
+    </g>
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="451.0" cy="176.1" r="15"/>
       <text class="place-map__marker-text" x="451.0" y="181.6" text-anchor="middle">1</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="434.8" cy="283.2" r="15"/>
       <text class="place-map__marker-text" x="434.8" y="288.7" text-anchor="middle">2</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="456.4" cy="310.4" r="15"/>
       <text class="place-map__marker-text" x="456.4" y="315.9" text-anchor="middle">3</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="444.0" cy="453.9" r="15"/>
       <text class="place-map__marker-text" x="444.0" y="459.4" text-anchor="middle">4</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="726.6" cy="291.1" r="15"/>
       <text class="place-map__marker-text" x="726.6" y="296.6" text-anchor="middle">5</text>
     </g>
-    <g class="place-map__marker">
+    <g class="place-map__marker place-map__marker--place">
       <circle cx="503.0" cy="121.8" r="15"/>
       <text class="place-map__marker-text" x="503.0" y="127.3" text-anchor="middle">6</text>
     </g>
     </g>
     <g class="place-map__labels">
       <text class="place-map__point-label" x="706.4" y="420.5" text-anchor="start">Hotel Club Palm Azur</text>
+      <text class="place-map__point-label" x="305.0" y="223.6" text-anchor="end">Lotnisko Dżerba-Zarzis (DJE)</text>
       <text class="place-map__point-label" x="469.0" y="158.1" text-anchor="start">Houmt Souk i fort</text>
       <text class="place-map__point-label" x="414.8" y="255.2" text-anchor="end">Erriadh i Djerbahood</text>
       <text class="place-map__point-label" x="476.4" y="342.4" text-anchor="start">Synagoga El Ghriba</text>

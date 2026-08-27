@@ -26,12 +26,12 @@ Mapy są orientacyjne i nie służą do nawigacji. Każda ma krótką nazwę i o
   <div class="place-map__viewport" role="region" aria-label="Mapa Dżerby. Na małym ekranie można ją przewijać poziomo." tabindex="0">
     {% include maps/djerba.svg %}
   </div>
-  <figcaption>Orientacyjna mapa wyspy, hotelu i miejsc opisanych w Atlasie. Linie pokazują tylko wybrane główne drogi; mapa nie służy do nawigacji. Dane mapowe: <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, ODbL</a>.</figcaption>
+  <figcaption>Orientacyjna mapa wyspy, hotelu, lotniska i miejsc opisanych w Atlasie. Linie pokazują tylko wybrane główne drogi; mapa nie służy do nawigacji. Dane mapowe: <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, ODbL</a>.</figcaption>
 </figure>
 
 ### Opis mapy Dżerby i relacje przestrzenne {#opis-mapy-dzerby}
 
-Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejonie Aghir. Na mapie jest punktem odniesienia oznaczonym literą **H**. Pozostałe oznaczenia to:
+Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejonie Aghir. Na mapie oznaczono go literą **H** w rombie. Lotnisko Dżerba-Zarzis (DJE) oznaczono literą **L** w kwadracie. Numery oznaczają miejsca opisane w Atlasie:
 
 1. **Houmt Souk i fort Borj Ghazi Mustapha** — główne miasto, bazar i fort Dżerby;
 2. **Erriadh i Djerbahood** — murale w starej miejscowości;
@@ -41,11 +41,11 @@ Hotel Club Palm Azur leży przy południowo-wschodnim wybrzeżu Dżerby, w rejon
 6. **Ras Rmel** — rejs i plaża.
 {: .place-map-key }
 
-Najbliżej hotelu z zaznaczonych atrakcji znajduje się Djerba Explore, około 6,5 km w linii prostej na północ. Midoun, pokazane jako punkt orientacyjny, leży około 5,5 km na północny zachód od hotelu.
+Najbliżej hotelu z zaznaczonych atrakcji znajduje się Djerba Explore, około 6,7 km w linii prostej na północ i nieco na wschód. Midoun, pokazane jako mały nienumerowany punkt orientacyjny, leży około 5,6 km niemal na północ od hotelu, tylko nieznacznie na zachód.
 
-Erriadh z Djerbahood i synagoga El Ghriba tworzą bliską parę miejsc w środkowo-zachodniej części wyspy; dzieli je mniej niż kilometr. Od hotelu oba punkty leżą około 16 km w linii prostej na zachód. Dalej na północnym zachodzie znajdują się Houmt Souk i Ras Rmel, oba około 20 km w linii prostej od hotelu.
+Erriadh z Djerbahood oraz synagoga El Ghriba tworzą bliską parę miejsc; dzieli je mniej niż kilometr. Od hotelu oba punkty leżą około 16 km w linii prostej, na zachód i wyraźnie na północ. Houmt Souk i Ras Rmel znajdują się dalej, około 20 km od hotelu, w północno-zachodniej części wyspy. Ras Rmel leży bardziej na północ, a Houmt Souk bardziej na zachód.
 
-Guellala leży około 16 km na zachód i lekko na południe od hotelu. El Kantara, oznaczona pomocniczo przy południowym krańcu wyspy, wskazuje kierunek grobli i wyjazdu na kontynent. Podane odległości służą tylko porównaniu położenia; trasy drogowe są dłuższe.
+Guellala leży około 16 km na zachód i nieco na południe od hotelu. Lotnisko Dżerba-Zarzis znajduje się w północno-zachodniej części wyspy, około 26 km od hotelu w linii prostej, na zachód i wyraźnie na północ. El Kantara, oznaczona pomocniczo przy południowym krańcu wyspy, wskazuje kierunek grobli i wyjazdu na kontynent. Podane odległości służą tylko porównaniu położenia; trasy drogowe są dłuższe.
 
 ### Dżerba jako całość – wyspa z własnym systemem osadnictwa {#dzerba-jako-calosc}
 

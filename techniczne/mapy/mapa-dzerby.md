@@ -1,8 +1,8 @@
 # Mapa Dżerby — specyfikacja, wdrożenie i odtwarzanie
 
-Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r.; od przebudowy materiałów o wycieczkach publikowana w `atlas-miejsc.md`**.
+Status: **pierwsza wersja pilotażowa wdrożona 24 sierpnia 2026 r.; 27 sierpnia 2026 r. dodano lotnisko Dżerba-Zarzis i skorygowano opis relacji przestrzennych; mapa jest publikowana w `atlas-miejsc.md`**.
 
-Korekty po ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników, poprawiono legendę HTML na listę numerowaną oraz uzupełniono jej punkty o krótkie etykiety opisowe zgodne z Atlasem.
+Korekty po ocenie użytkownika: dodano brakującą podziałkę 0–10 km, rozsunięto oznaczenia 2 i 3, przeniesiono linie prowadzące pod warstwę znaczników, poprawiono legendę HTML na listę numerowaną, uzupełniono jej punkty o krótkie etykiety opisowe zgodne z Atlasem oraz dodano kwadratowy znacznik L dla lotniska Dżerba-Zarzis.
 
 Ten dokument jest technicznym zapisem ustaleń podjętych przed wygenerowaniem pierwszej mapy Dżerby, jej aktualnej implementacji oraz procedury ponownego utworzenia i sprawdzenia. Nie jest treścią dla uczestników wyjazdu.
 
@@ -36,7 +36,7 @@ Pierwsza wersja celowo pokazuje jedynie:
 - wybrane drogi główne;
 - hotel Club Palm Azur jako stały punkt odniesienia;
 - miejsca z części Atlasu dotyczącej Dżerby;
-- dwa pomocnicze punkty orientacyjne: Midoun i El Kantarę;
+- trzy pomocnicze punkty orientacyjne: lotnisko Dżerba-Zarzis, Midoun i El Kantara;
 - nazwy miejsc, strzałkę północy i liniową podziałkę od 0 do 10 km.
 
 Nie dodano wszystkich dróg lokalnych, budynków, granic administracyjnych, przypadkowych punktów usługowych ani dekoracyjnych szczegółów terenu. Takie dane zwiększałyby zagęszczenie bez poprawy realizacji celu mapy.
@@ -85,6 +85,7 @@ Numery obiektów OpenStreetMap są celowo zapisane w generatorze, aby mapa była
 | Oznaczenie | Miejsce | Obiekt OSM | Rola na mapie |
 | --- | --- | --- | --- |
 | H | hotel Club Palm Azur | węzeł `1123865146` | główny punkt odniesienia, romb |
+| L | lotnisko Dżerba-Zarzis (DJE) | obiekt typu `way` `183797360` | pomocniczy punkt orientacyjny, kwadrat |
 | 1 | Houmt Souk i fort Borj Ghazi Mustapha | węzeł `9335010754` | atrakcja, położenie przy forcie |
 | 2 | Erriadh i Djerbahood | węzeł `297765267` | atrakcja |
 | 3 | synagoga El Ghriba | węzeł `297765095` | atrakcja |
@@ -140,7 +141,7 @@ Pierwsza wersja jest statyczną, atomową grafiką:
 - główny element SVG ma `role="img"`;
 - `aria-labelledby` wskazuje elementy `title` i `desc`;
 - `title` identyfikuje mapę;
-- `desc` objaśnia znaczenie litery H i numerów 1–6, informuje o podziałce 0–10 km oraz wskazuje, że dokładniejszy opis znajduje się pod mapą;
+- `desc` objaśnia znaczenie liter H i L, nienumerowanego punktu Midoun oraz numerów 1–6, informuje o podziałce 0–10 km i wskazuje, że dokładniejszy opis znajduje się pod mapą;
 - wewnętrzne warstwy dróg, etykiet i punktów mają `aria-hidden="true"`.
 
 Nie wystawiono każdej drogi, linii brzegowej i etykiety jako osobnego przystanku czytnika ekranu. Surowa kolejność setek elementów SVG nie przekazywałaby relacji przestrzennych i znacznie wydłużałaby nawigację.
@@ -166,6 +167,7 @@ Odległości w tekście obliczono geodezyjnie dla elipsoidy WGS84 i zaokrąglono
 Informacja nie zależy wyłącznie od koloru:
 
 - hotel ma romb oraz literę H;
+- lotnisko ma kwadrat oraz literę L;
 - atrakcje mają koła oraz numery;
 - każdy punkt ma widoczną nazwę;
 - dodatkowa lista pod mapą ponownie łączy oznaczenia z nazwami.
@@ -200,6 +202,8 @@ OpenStreetMap jest źródłem danych, nie wzorem kolorystycznym. Mapa ma własny
 | tekst atrakcji | `#ffffff` | `#17120a` |
 | hotel | `#005d6a` | `#65d4e2` |
 | tekst hotelu | `#ffffff` | `#071517` |
+| lotnisko | `#005d6a` | `#65d4e2` |
+| tekst lotniska | `#ffffff` | `#071517` |
 | główne etykiety | `#17252a` | `#f7fafb` |
 | etykiety pomocnicze | `#3e565e` | `#d2e0e4` |
 | obrys wyspy | `#315c68` | `#9bcbd8` |
@@ -216,6 +220,7 @@ Zmierzony kontrast głównych par kolorów:
 | obrys / woda | 6,19:1 | 8,01:1 |
 | tekst znacznika atrakcji / znacznik | 10,04:1 | 10,27:1 |
 | tekst hotelu / znacznik hotelu | 7,57:1 | 10,69:1 |
+| tekst lotniska / znacznik lotniska | 7,57:1 | 10,69:1 |
 
 Wartości dotyczą zdefiniowanych głównych teł. Przy każdej zmianie palety należy ponownie sprawdzić tekst według WCAG 2.2, kryterium 1.4.3 oraz informacyjne elementy nietekstowe według kryterium 1.4.11.
 
@@ -269,9 +274,9 @@ Generator:
 8. dodaje podziałkę 0–10 km, znaczniki, etykiety, tytuł, opis i metadane snapshotu;
 9. zapisuje plik wynikowy.
 
-W środowisku użytym 24 sierpnia 2026 r. dwukrotne uruchomienie po korekcie dało identyczny wynik. Aktualny SHA-256 wygenerowanego `_includes/maps/djerba.svg` wynosi:
+W środowisku użytym 24 sierpnia 2026 r. dwukrotne uruchomienie po korekcie dało identyczny wynik. Po dodaniu lotniska 27 sierpnia 2026 r. aktualny SHA-256 wygenerowanego `_includes/maps/djerba.svg` wynosi:
 
-`4061bc6669d29115073c113f76142b14e07002967d5a9186562338b61cc4722f`
+`3d296d81fd81a709caac1673d8b369c056d2e63e261edf2a2f8cd7d70602f3ef`
 
 Historyczna suma pierwszej wersji przed dodaniem podziałki i korektą kolizji wynosiła:
 
@@ -304,6 +309,7 @@ Kontrole wykonane dla pierwszego wdrożenia:
 - deterministyczne generowanie SVG — potwierdzone;
 - poprawność XML, unikatowe identyfikatory, `title`, `desc`, rola i nazwa — potwierdzone;
 - render jasny i ciemny — sprawdzony wizualnie;
+- kwadratowy znacznik L i podpis lotniska — sprawdzone bez kolizji z punktami i etykietami;
 - kontrast głównych par — obliczony i zapisany wyżej;
 - struktura wynikowego HTML i osadzenie inline — potwierdzone;
 - publikacja GitHub Pages — zakończona powodzeniem;
