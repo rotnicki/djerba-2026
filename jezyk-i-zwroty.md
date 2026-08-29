@@ -4,6 +4,17 @@ Stan weryfikacji: 29 sierpnia 2026 r.
 
 Ten materiał ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie jest kursem języka arabskiego ani francuskiego.
 
+## Nagranie z wymową
+
+Nagranie jest dźwiękowym uzupełnieniem tej ściągi. Zawiera najważniejsze zwroty i podstawowe liczby; służy przede wszystkim odsłuchaniu wymowy. Pełne zapisy, znaczenia i przybliżona wymowa po polsku znajdują się dalej na tej samej stronie.
+
+<audio controls preload="metadata" aria-label="Nagranie z wymową zwrotów na Dżerbę">
+  <source src="{{ '/assets/audio/przewodnik-jezykowy-djerba.mp3' | relative_url }}" type="audio/mpeg">
+  Twoja przeglądarka nie obsługuje odtwarzacza audio.
+</audio>
+
+[Otwórz lub pobierz przewodnik językowy na Dżerbę w formacie MP3 (7 min 42 s, 7,4 MB)]({{ '/assets/audio/przewodnik-jezykowy-djerba.mp3' | relative_url }})
+
 ## Jakimi językami mówi się na Dżerbie
 
 Oficjalny tunezyjski urząd turystyczny podaje, że językiem Tunezji jest arabski, a francuski jest szeroko używany. Angielski występuje przede wszystkim w strefach turystycznych.
