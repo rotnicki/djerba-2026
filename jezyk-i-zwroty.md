@@ -1,6 +1,6 @@
 # Język i podstawowe zwroty
 
-Stan weryfikacji: 22 sierpnia 2026 r.
+Stan weryfikacji: 29 sierpnia 2026 r.
 
 Ten materiał ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie jest kursem języka arabskiego ani francuskiego.
 
@@ -88,11 +88,13 @@ Tunezyjski arabski nie ma jednego powszechnie stosowanego sposobu zapisu alfabet
 
 **إي**{: lang="ar-TN" dir="rtl"} — ey – wymowa po polsku: **ej** – tak, bardzo częste w mowie potocznej.
 
-**لا**{: lang="ar-TN" dir="rtl"} — la – wymowa po polsku: **la** – nie.
+**لا**{: lang="ar-TN" dir="rtl"} — le / la – wymowa po polsku: **le** – nie; forma „la” również będzie zrozumiała.
 
 **ما نفهمش**{: lang="ar-TN" dir="rtl"} — ma nefhemch – wymowa po polsku: **ma nefhemsz** – nie rozumiem.
 
-**شوية**{: lang="ar-TN" dir="rtl"} — chwayya / chwaya – wymowa po polsku: **szłajja** – trochę / odrobinę; w odpowiednim kontekście może pomóc poprosić, żeby coś robić wolniej.
+**شوية**{: lang="ar-TN" dir="rtl"} — chwayya / chwaya – wymowa po polsku: **szłajja** – trochę / odrobinę.
+
+**بالشويّة**{: lang="ar-TN" dir="rtl"} — bechwaya – wymowa po polsku: **beszłajja** – powoli / wolniej.
 
 ### Zakupy
 
@@ -148,11 +150,15 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 **Où est… ?**{: lang="fr"} – wymowa po polsku: **u e…?** – gdzie jest…?
 
+**Où sont les toilettes ?**{: lang="fr"} – wymowa po polsku: **u są le tualet?** – gdzie jest toaleta?
+
 **À gauche**{: lang="fr"} – wymowa po polsku: **a gosz** – w lewo.
 
 **À droite**{: lang="fr"} – wymowa po polsku: **a druat** – w prawo.
 
 **Tout droit**{: lang="fr"} – wymowa po polsku: **tu drua** – prosto.
+
+**À quelle heure ?**{: lang="fr"} – wymowa po polsku: **a kel er?** – o której godzinie?
 
 **Combien pour aller à… ?**{: lang="fr"} – wymowa po polsku: **kąbję pur ale a…?** – ile kosztuje przejazd do…?
 
@@ -168,7 +174,7 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 **C'est un prix fixe ?**{: lang="fr"} – wymowa po polsku: **se ę pri fiks?** – czy to stała cena?
 
-**Je paie par carte**{: lang="fr"} – wymowa po polsku: **że pe par kart** – płacę kartą.
+**Je peux payer par carte ?**{: lang="fr"} – wymowa po polsku: **że pe peje par kart?** – czy mogę zapłacić kartą?
 
 **Je paie en espèces**{: lang="fr"} – wymowa po polsku: **że pe ą espes** – płacę gotówką.
 
@@ -196,6 +202,8 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 **J'ai besoin d'un médecin**{: lang="fr"} – wymowa po polsku: w przybliżeniu **że bezłę dę medsę** – potrzebuję lekarza.
 
+**Appelez une ambulance**{: lang="fr"} – wymowa po polsku: **aple in ąbiląs** – proszę wezwać karetkę.
+
 **Appelez la police**{: lang="fr"} – wymowa po polsku: **aple la polis** – proszę wezwać policję.
 
 **J'ai perdu…**{: lang="fr"} – wymowa po polsku: **że perdu…** – zgubiłem / zgubiłam…
@@ -208,7 +216,87 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 **Donnez-moi votre bras, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **done mua wotr bra, sil wu ple** – proszę podać mi ramię.
 
-**Prévenez-moi s'il y a une marche, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **prewene mua sil ja in marsz, sil wu ple** – proszę powiedzieć / ostrzec mnie, jeśli jest stopień.
+**Prévenez-moi s'il y a une marche ou un obstacle, s'il vous plaît**{: lang="fr"} – wymowa po polsku: **prewene mua sil ja in marsz u ę nobstakl, sil wu ple** – proszę powiedzieć / ostrzec mnie, jeśli jest stopień lub przeszkoda.
+
+## Liczby po francusku – ceny, godziny i numery
+
+Liczby po francusku mogą przydać się przy cenach, godzinach, numerach pokoi i w transporcie. Najpierw podajemy cyfrę, następnie francuski zapis oznaczony właściwym językiem, uproszczoną wymowę po polsku i polskie znaczenie. Sama cyfra pozostaje częścią polskiego tekstu; oznaczenie `lang="fr"` obejmuje francuski zapis słowny.
+
+### Od zera do dwudziestu
+
+**0** — **zéro**{: lang="fr"} – wymowa po polsku: **zero** – zero.
+
+**1** — **un**{: lang="fr"} – wymowa po polsku: **ę** – jeden.
+
+**2** — **deux**{: lang="fr"} – wymowa po polsku: **de** – dwa.
+
+**3** — **trois**{: lang="fr"} – wymowa po polsku: **trua** – trzy.
+
+**4** — **quatre**{: lang="fr"} – wymowa po polsku: **katr** – cztery.
+
+**5** — **cinq**{: lang="fr"} – wymowa po polsku: **sęk** – pięć.
+
+**6** — **six**{: lang="fr"} – wymowa po polsku: **sis** – sześć.
+
+**7** — **sept**{: lang="fr"} – wymowa po polsku: **set** – siedem.
+
+**8** — **huit**{: lang="fr"} – wymowa po polsku: **łit** – osiem.
+
+**9** — **neuf**{: lang="fr"} – wymowa po polsku: **nef** – dziewięć.
+
+**10** — **dix**{: lang="fr"} – wymowa po polsku: **dis** – dziesięć.
+
+**11** — **onze**{: lang="fr"} – wymowa po polsku: **ąz** – jedenaście.
+
+**12** — **douze**{: lang="fr"} – wymowa po polsku: **duz** – dwanaście.
+
+**13** — **treize**{: lang="fr"} – wymowa po polsku: **trez** – trzynaście.
+
+**14** — **quatorze**{: lang="fr"} – wymowa po polsku: **katorz** – czternaście.
+
+**15** — **quinze**{: lang="fr"} – wymowa po polsku: **kęz** – piętnaście.
+
+**16** — **seize**{: lang="fr"} – wymowa po polsku: **sez** – szesnaście.
+
+**17** — **dix-sept**{: lang="fr"} – wymowa po polsku: **dis set** – siedemnaście.
+
+**18** — **dix-huit**{: lang="fr"} – wymowa po polsku: **diz łit** – osiemnaście.
+
+**19** — **dix-neuf**{: lang="fr"} – wymowa po polsku: **diz nef** – dziewiętnaście.
+
+**20** — **vingt**{: lang="fr"} – wymowa po polsku: **wę** – dwadzieścia.
+
+### Od dwudziestu do stu
+
+Powyżej dwudziestu nie wypisujemy każdej liczby osobno. Podajemy dziesiątki oraz przykłady pokazujące regularny sposób tworzenia liczb i szczególne formy od siedemdziesięciu do dziewięćdziesięciu dziewięciu.
+
+**21** — **vingt et un**{: lang="fr"} – wymowa po polsku: **węte ę** – dwadzieścia jeden.
+
+**30** — **trente**{: lang="fr"} – wymowa po polsku: **trąt** – trzydzieści.
+
+**35** — **trente-cinq**{: lang="fr"} – wymowa po polsku: **trąt sęk** – trzydzieści pięć.
+
+**40** — **quarante**{: lang="fr"} – wymowa po polsku: **karąt** – czterdzieści.
+
+**50** — **cinquante**{: lang="fr"} – wymowa po polsku: **sękąt** – pięćdziesiąt.
+
+**60** — **soixante**{: lang="fr"} – wymowa po polsku: **słasąt** – sześćdziesiąt.
+
+**70** — **soixante-dix**{: lang="fr"} – wymowa po polsku: **słasąt dis** – siedemdziesiąt.
+
+**71** — **soixante et onze**{: lang="fr"} – wymowa po polsku: **słasąt e ąz** – siedemdziesiąt jeden.
+
+**80** — **quatre-vingts**{: lang="fr"} – wymowa po polsku: **katr wę** – osiemdziesiąt.
+
+**81** — **quatre-vingt-un**{: lang="fr"} – wymowa po polsku: **katr wę ę** – osiemdziesiąt jeden.
+
+**90** — **quatre-vingt-dix**{: lang="fr"} – wymowa po polsku: **katr wę dis** – dziewięćdziesiąt.
+
+**91** — **quatre-vingt-onze**{: lang="fr"} – wymowa po polsku: **katr wę ąz** – dziewięćdziesiąt jeden.
+
+**99** — **quatre-vingt-dix-neuf**{: lang="fr"} – wymowa po polsku: **katr wę diz nef** – dziewięćdziesiąt dziewięć.
+
+**100** — **cent**{: lang="fr"} – wymowa po polsku: **są** – sto.
 
 ## Angielski – kiedy wystarczy
 
@@ -218,7 +306,7 @@ Nie warto jednak zakładać, że osoba prowadząca mały sklep, taksówkarz albo
 
 ## Co warto rzeczywiście zapamiętać przed wyjazdem
 
-Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamiętać około dziesięciu:
+Jeśli ktoś nie chce uczyć się większej liczby zwrotów, warto zacząć od następującego krótkiego zestawu:
 
 **aslema** – wymowa: **aslema** – dzień dobry.
 
@@ -228,17 +316,21 @@ Jeśli ktoś nie chce uczyć się większej liczby zwrotów, wystarczy zapamięt
 
 **beslema** – wymowa: **beslema** – do widzenia.
 
+**ey** – wymowa: **ej** – tak.
+
+**le** – wymowa: **le** – nie.
+
 **qaddech?** – wymowa: **kaddesz?** – ile?
 
-**la** – wymowa: **la** – nie.
+**Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
 
-**Bonjour**{: lang="fr"} – wymowa: **bążur** – dzień dobry.
-
-**Merci**{: lang="fr"} – wymowa: **mersi** – dziękuję.
+**Plus lentement, s'il vous plaît**{: lang="fr"} – wymowa: **pli lątmą, sil wu ple** – wolniej, proszę.
 
 **Combien ça coûte ?**{: lang="fr"} – wymowa: **kąbję sa kut?** – ile to kosztuje?
 
-**Je ne comprends pas**{: lang="fr"} – wymowa: **że ne kąprą pa** – nie rozumiem.
+**Où sont les toilettes ?**{: lang="fr"} – wymowa: **u są le tualet?** – gdzie jest toaleta?
+
+**Aidez-moi, s'il vous plaît**{: lang="fr"} – wymowa: **ede mua, sil wu ple** – proszę mi pomóc.
 
 ## Czego nie komplikować
 
@@ -264,5 +356,10 @@ Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokaza
 - [Defense Language Institute Foreign Language Center – Tunisian Cultural Orientation](https://fieldsupport.dliflc.edu/products/tunisian/bw_co/tunisian.pdf)
 - [Defense Language Institute Foreign Language Center – Arabic-Tunisian Language Survival Kits](https://fieldsupport.dliflc.edu/productList.aspx?v=lsk)
 - [Derja.Ninja – słownik tunezyjskiego arabskiego i zasady transliteracji](https://derja.ninja/)
+- [Ithaca Bound Languages – „tak” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/yes-in-tunisian-arabic/)
+- [Ithaca Bound Languages – „nie” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/no-in-tunisian-arabic/)
+- [Ithaca Bound Languages – „powoli” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/slowly-in-tunisian-arabic/)
+- [TV5MONDE – podstawowe liczby po francusku](https://apprendre.tv5monde.com/fr/aides/vocabulaire-les-nombres)
+- [Académie française – zapis, odczytywanie i odmiana liczebników](https://www.academie-francaise.fr/questions-de-langue)
 - [Francuski portal publiczny Mon Parcours Handicap – terminologia dotycząca osób niewidomych i słabowidzących](https://www.monparcourshandicap.gouv.fr/actualite/handicap-visuel-le-point-sur-les-chiens-guides)
 - [W3C WAI – WCAG 2.2, Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
