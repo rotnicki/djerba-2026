@@ -62,13 +62,12 @@ def main() -> None:
     parser.add_argument("repository_root", type=Path)
     arguments = parser.parse_args()
 
-    paths = sorted((arguments.repository_root / "assets").rglob("*.vcf"))
-    assert len(paths) == 9
+    paths = sorted((arguments.repository_root / "assets" / "kontakty").glob("djerba-*.vcf"))
+    assert len(paths) == 8
     for path in paths:
-        expected_count = 8 if path.name == "dzerba-2026-kontakty.vcf" else 1
-        test_with_vobject(path, expected_count)
-        test_with_vobjectx(path, expected_count)
-        print(f"OK: {path} ({expected_count} vCard)")
+        test_with_vobject(path, 1)
+        test_with_vobjectx(path, 1)
+        print(f"OK: {path} (1 vCard)")
 
 
 if __name__ == "__main__":

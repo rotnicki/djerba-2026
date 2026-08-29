@@ -452,34 +452,6 @@ code {
   background: var(--color-surface);
 }
 
-.vcard-share-button {
-  display: inline-block;
-  min-height: 2.75rem;
-  padding: .65rem 1rem;
-  border: 1px solid var(--color-border-strong);
-  border-radius: .45rem;
-  font: inherit;
-  font-weight: 700;
-  color: var(--color-text);
-  background: var(--color-surface-strong);
-  cursor: pointer;
-}
-
-.vcard-share-button:hover {
-  background: var(--color-surface);
-}
-
-.vcard-share-button:disabled {
-  cursor: not-allowed;
-  opacity: .65;
-}
-
-.vcard-share-status {
-  min-height: 1.5em;
-  margin-top: .65rem;
-  color: var(--color-text-muted);
-}
-
 .site-footer {
   border-top: 1px solid var(--color-border);
   padding-block: 1rem 2rem;
@@ -499,7 +471,6 @@ code {
   .nav-list li + li { margin-top: .35rem; }
   .home-section-list li + li { margin-top: .9rem; }
   .home-image-credit { margin-top: 4rem; }
-  .vcard-share-button { width: 100%; }
 }
 
 @media (prefers-color-scheme: dark) {

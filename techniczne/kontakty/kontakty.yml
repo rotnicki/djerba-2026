@@ -62,7 +62,7 @@ contacts:
 
   - id: hotel-club-palm-azur
     filename: djerba-club-palm-azur.vcf
-    display_name: "Djerba — Club Palm Azur"
+    display_name: "Djerba — Hotel Club Palm Azur"
     organization: "Club Palm Azur"
     phone: "+21675750700"
     phone_type: WORK

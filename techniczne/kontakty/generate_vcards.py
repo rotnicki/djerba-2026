@@ -90,15 +90,9 @@ def generate(source: Path, repository_root: Path) -> None:
     output_directory = repository_root / "assets" / "kontakty"
     output_directory.mkdir(parents=True, exist_ok=True)
 
-    cards: list[bytes] = []
     for contact in contacts:
         card = render_card(contact)
-        cards.append(card)
         (output_directory / contact["filename"]).write_bytes(card)
-
-    (repository_root / "assets" / "dzerba-2026-kontakty.vcf").write_bytes(
-        b"".join(cards)
-    )
 
 
 def main() -> None:

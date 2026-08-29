@@ -21,11 +21,24 @@ Numery alarmowe w Tunezji są ogólnokrajowe, więc obowiązują również na D�
 
 Do połączenia z lokalnym numerem alarmowym potrzebna jest działająca usługa głosowa w sieci komórkowej. Sama podróżna eSIM przeznaczona wyłącznie do transmisji danych nie zapewnia zwykłych połączeń telefonicznych. W nagłej sytuacji najpierw należy kontaktować się z właściwą miejscową służbą. Ambasada nie zastępuje pogotowia, policji ani straży pożarnej.
 
-- **190 — pogotowie ratunkowe / SAMU, pomoc medyczna w nagłych przypadkach.** Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej.
-- **197 — policja.** Dzwonić m.in. przy napadzie, kradzieży z zagrożeniem, przemocy, bezpośrednim zagrożeniu bezpieczeństwa albo gdy potrzebna jest pilna interwencja policji.
-- **198 — ochrona cywilna: straż pożarna, wypadki i ratownictwo.** Tunezyjska *Protection Civile* realizuje m.in. zadania straży pożarnej i ratownictwa. Dzwonić przy pożarze, wypadku lub innym zdarzeniu wymagającym interwencji ratowniczej.
-- **193 — Gwardia Narodowa.** Numer alarmowy lądowych jednostek Gwardii Narodowej; może być właściwy m.in. poza obszarami obsługiwanymi przez policję.
-- **194 — morska Gwardia Narodowa.** Przydatna w nagłych zdarzeniach na morzu lub przy wybrzeżu, gdy potrzebna jest interwencja służb morskich.
+Każdy opisany niżej numer lub adres można zapisać w telefonie z osobnego pliku vCard. Osobne pliki są celowe: działają bardziej przewidywalnie niż jeden plik zawierający wiele kontaktów, szczególnie po otwarciu bezpośrednio ze strony na iPhonie. Wszystkie zapisane nazwy zaczynają się od `Djerba —`, dzięki czemu można je później łatwo odnaleźć w Kontaktach.
+
+Na iPhonie po otwarciu linku należy wybrać **„Utwórz nowy kontakt”**, a następnie zapisać kontakt. Na Androidzie plik może od razu otworzyć się w aplikacji Kontakty albo zostać pobrany; w drugim przypadku należy otworzyć pobrany plik `.vcf` i wybrać import do Kontaktów.
+
+**190 — pogotowie ratunkowe / SAMU**
+: Pomoc medyczna w nagłych przypadkach. Dzwonić przy stanie zagrożenia zdrowia lub życia, np. utracie przytomności, poważnym urazie, silnej duszności, bólu w klatce piersiowej albo innym nagłym stanie wymagającym pilnej pomocy medycznej. SAMU to *Service d’Aide Médicale Urgente*, czyli tunezyjski system przedszpitalnej pomocy medycznej. [Pobierz kontakt: Djerba — Pogotowie ratunkowe — 190](assets/kontakty/djerba-pogotowie-190.vcf)
+
+**197 — policja**
+: Dzwonić m.in. przy napadzie, kradzieży z zagrożeniem, przemocy, bezpośrednim zagrożeniu bezpieczeństwa albo gdy potrzebna jest pilna interwencja policji. [Pobierz kontakt: Djerba — Policja — 197](assets/kontakty/djerba-policja-197.vcf)
+
+**198 — ochrona cywilna: straż pożarna, wypadki i ratownictwo**
+: Tunezyjska *Protection Civile* realizuje m.in. zadania straży pożarnej i ratownictwa. Dzwonić przy pożarze, wypadku lub innym zdarzeniu wymagającym interwencji ratowniczej. [Pobierz kontakt: Djerba — Straż pożarna i ratownictwo — 198](assets/kontakty/djerba-straz-pozarna-ratownictwo-198.vcf)
+
+**193 — Gwardia Narodowa**
+: Numer alarmowy lądowych jednostek Gwardii Narodowej; może być właściwy m.in. poza obszarami obsługiwanymi przez policję. [Pobierz kontakt: Djerba — Gwardia Narodowa — 193](assets/kontakty/djerba-gwardia-narodowa-193.vcf)
+
+**194 — morska Gwardia Narodowa**
+: Przydatna w nagłych zdarzeniach na morzu lub przy wybrzeżu, gdy potrzebna jest interwencja służb morskich. [Pobierz kontakt: Djerba — Morska Gwardia Narodowa — 194](assets/kontakty/djerba-morska-gwardia-narodowa-194.vcf)
 
 Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przypadku zdarzenia w hotelu można powiedzieć lub pokazać nazwę **Club Palm Azur, Aghir, Djerba** i poprosić recepcję lub obsługę o pomoc w przekazaniu lokalizacji służbom.
 
@@ -38,13 +51,11 @@ Przy zgłoszeniu warto od razu podać możliwie dokładną lokalizację. W przyp
 
 ### Ambasada RP w Tunisie i pomoc konsularna
 
-W zwykłych sprawach konsularnych, w tym dotyczących dokumentów, należy kontaktować się z Wydziałem Konsularnym Ambasady RP w Tunisie:
+**Wydział Konsularny Ambasady RP w Tunisie**
+: Kontakt w zwykłych sprawach konsularnych, w tym dotyczących dokumentów. Telefon w godzinach pracy: **+216 71 196 191**; e-mail: **tunis.konsul@msz.gov.pl**; adres: Le Grand Boulevard de la Corniche, 2045 Les Berges du Lac II, Tunis. [Pobierz kontakt: Djerba — Ambasada RP — konsulat](assets/kontakty/djerba-ambasada-rp-konsulat.vcf)
 
-- **telefon w godzinach pracy:** +216 71 196 191;
-- **e-mail:** tunis.konsul@msz.gov.pl;
-- **adres:** Le Grand Boulevard de la Corniche, 2045 Les Berges du Lac II, Tunis.
-
-W sytuacjach nagłych wymagających pilnej interwencji konsula działa **telefon dyżurny +216 98 362 547**. Ambasada wskazuje wprost takie przypadki jak **wypadek, zgon lub aresztowanie**. Numer dyżurny działa w dni robocze od 16:15 do 08:15, a w dni wolne od pracy w Polsce i Tunezji — całodobowo. Adres e-mail dyżurny: **tunis.wk.dyzurny@msz.gov.pl**.
+**Telefon dyżurny Ambasady RP w Tunisie**
+: Numer **+216 98 362 547** służy tylko do nagłych sytuacji wymagających pilnej interwencji konsula, takich jak wypadek, zgon lub aresztowanie. Działa w dni robocze od 16:15 do 08:15, a w dni wolne od pracy w Polsce i Tunezji — całodobowo. Adres e-mail dyżurny: **tunis.wk.dyzurny@msz.gov.pl**. [Pobierz kontakt: Djerba — Ambasada RP — telefon dyżurny](assets/kontakty/djerba-ambasada-rp-telefon-dyzurny.vcf)
 
 Praktyczna kolejność działania:
 
@@ -83,6 +94,8 @@ Aktualne dane kontaktowe hotelu publikowane przez Coral Travel:
 
 - **adres:** BP 340, Zone touristique, Midoun Aghir 4116;
 - **telefon:** +216 75 750 700.
+
+[Pobierz kontakt: Djerba — Hotel Club Palm Azur](assets/kontakty/djerba-club-palm-azur.vcf)
 
 [Coral Travel – Club Palm Azur: aktualny opis hotelu i dane kontaktowe](https://www.coraltravel.pl/hotel/tunezja/club-palm-azur-djerba/)
 

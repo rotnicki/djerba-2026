@@ -14,7 +14,7 @@ Ten katalog zawiera jedno źródło danych, generator i testy wizytówek używan
 - `NOTE` wyjaśnia zastosowanie numeru; przecinki i średniki są escapowane.
 - `CATEGORIES` zostało pominięte, ponieważ importery nie tworzą z niego niezawodnie listy kontaktów. Wspólne wyszukiwanie zapewnia prefiks `Djerba —`.
 
-Paczka zbiorcza jest dokładnym połączeniem ośmiu plików pojedynczych. Utrzymywane są oba warianty, ponieważ poprawność wielokontaktowego VCF nie gwarantuje, że każda przeglądarka przekaże go bezpośrednio do systemowego importera.
+Publiczna strona udostępnia wyłącznie osiem plików pojedynczych. Test na rzeczywistym iPhonie wykazał, że pojedynczy plik otwiera poprawny podgląd i udostępnia polecenie „Utwórz nowy kontakt”. Plik wielokontaktowy otwarty bezpośrednio ze strony pokazywał tylko pierwszy kontakt, a przekazanie go przez arkusz udostępniania do Kontaktów nie powodowało importu. Dlatego wariant zbiorczy został usunięty, aby nie sugerować użytkownikom niesprawdzonej ścieżki.
 
 ## Generowanie
 
@@ -28,7 +28,7 @@ python3 techniczne/kontakty/generate_vcards.py
 python3 techniczne/kontakty/test_vcards.py . techniczne/kontakty/kontakty.yml
 ```
 
-Test sprawdza m.in. UTF-8, CRLF, zawijanie do 75 oktetów, liczbę i kolejność kontaktów, obowiązkowe pola oraz identyczność paczki z plikami pojedynczymi.
+Test sprawdza m.in. UTF-8, CRLF, zawijanie do 75 oktetów, liczbę kontaktów, obowiązkowe pola oraz zgodność nazw i odnośników na stronie z jednym źródłem danych.
 
 ## Testy niezależnymi parserami
 
@@ -41,4 +41,4 @@ Testy wykonują walidowany odczyt i ponowny odczyt po serializacji w bibliotekac
 
 ## Ograniczenie testów automatycznych
 
-Automatyczne testy potwierdzają poprawność plików i danych, ale nie mogą zagwarantować, że przeglądarka mobilna uruchomi systemowy importer kontaktów. Apple oficjalnie opisuje na iPhonie import załącznika `.vcf` z wiadomości e-mail lub wiadomości. Dlatego po opublikowaniu izolowanej strony testowej pozostaje jeden krótki test na rzeczywistym iPhonie: paczka zbiorcza i jeden kontakt pojedynczy.
+Automatyczne testy potwierdzają poprawność plików i danych, ale nie zastępują zachowania systemowego importera telefonu. Przed wdrożeniem docelowym ręcznie sprawdzono na rzeczywistym iPhonie wszystkie osiem plików pojedynczych oraz końcową nazwę wzorcowego kontaktu. Po każdej zmianie struktury vCard trzeba ponowić przynajmniej reprezentatywny test na urządzeniu.

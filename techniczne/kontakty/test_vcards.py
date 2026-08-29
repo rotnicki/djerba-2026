@@ -36,13 +36,6 @@ def unfold(raw: bytes) -> list[str]:
     return logical
 
 
-def split_cards(raw: bytes) -> list[bytes]:
-    marker = b"END:VCARD\r\n"
-    chunks = raw.split(marker)
-    assert chunks[-1] == b"", "Unexpected data after final vCard"
-    return [chunk + marker for chunk in chunks[:-1]]
-
-
 def unescape(value: str) -> str:
     return re.sub(
         r"\\([\\,;nN])",
@@ -66,18 +59,13 @@ def properties(card: bytes) -> dict[str, list[str]]:
 def test(repository_root: Path, source: Path) -> None:
     data = yaml.safe_load(source.read_text(encoding="utf-8"))
     contacts = data["contacts"]
-    aggregate_path = repository_root / "assets" / "dzerba-2026-kontakty.vcf"
-    aggregate = aggregate_path.read_bytes()
-    aggregate_cards = split_cards(aggregate)
-    assert len(aggregate_cards) == len(contacts) == 8
+    assert len(contacts) == 8
+    assert not (repository_root / "assets" / "dzerba-2026-kontakty.vcf").exists()
 
-    expected_aggregate = b""
     display_names: set[str] = set()
-    for index, contact in enumerate(contacts):
+    for contact in contacts:
         path = repository_root / "assets" / "kontakty" / contact["filename"]
         raw = path.read_bytes()
-        expected_aggregate += raw
-        assert split_cards(raw) == [raw]
         fields = properties(raw)
 
         assert fields["VERSION"] == ["3.0"]
@@ -88,7 +76,6 @@ def test(repository_root: Path, source: Path) -> None:
         assert unescape(fields["FN"][0]) == contact["display_name"]
         assert unescape(fields["ORG"][0]) == contact["display_name"]
         assert fields["TEL"][0] == contact["phone"]
-        assert aggregate_cards[index] == raw
         assert contact["display_name"].startswith(data["prefix"])
         assert contact["display_name"] not in display_names
         display_names.add(contact["display_name"])
@@ -105,18 +92,17 @@ def test(repository_root: Path, source: Path) -> None:
         if contact.get("note"):
             assert unescape(fields["NOTE"][0]) == contact["note"]
 
-    assert aggregate == expected_aggregate
-
-    test_page = repository_root / "test-kontakty-vcard.md"
-    page_text = test_page.read_text(encoding="utf-8")
+    page_text = (repository_root / "praktyczne.md").read_text(encoding="utf-8")
     links = re.findall(r"\]\(([^)]+\.vcf)\)", page_text)
     labels = re.findall(r"\[([^]]+)\]\([^)]+\.vcf\)", page_text)
-    assert len(links) == len(labels) == 9
-    assert len(set(links)) == len(set(labels)) == 9
+    expected_links = [f"assets/kontakty/{contact['filename']}" for contact in contacts]
+    expected_labels = [f"Pobierz kontakt: {contact['display_name']}" for contact in contacts]
+    assert links == expected_links
+    assert labels == expected_labels
+    assert len(set(links)) == len(set(labels)) == 8
     assert all((repository_root / link).is_file() for link in links)
-    assert all(label.startswith("Pobierz ") for label in labels)
-    print(f"OK: {len(contacts)} individual cards and one aggregate card file")
-    print("OK: 9 existing targets with unique descriptive link labels")
+    print(f"OK: {len(contacts)} individual vCard files")
+    print("OK: 8 existing targets with exact, unique descriptive link labels")
 
 
 def main() -> None:
