@@ -220,7 +220,7 @@ Polska wymowa poniżej jest celowo uproszczona. Nie zastępuje nagrania native s
 
 ## Liczby po francusku – ceny, godziny i numery
 
-Liczby po francusku mogą przydać się przy cenach, godzinach, numerach pokoi i w transporcie. Najpierw podajemy cyfrę, następnie francuski zapis oznaczony właściwym językiem, uproszczoną wymowę po polsku i polskie znaczenie. Sama cyfra pozostaje częścią polskiego tekstu; oznaczenie `lang="fr"` obejmuje francuski zapis słowny.
+Liczby po francusku mogą przydać się przy cenach, godzinach, numerach pokoi i w transporcie. Przy każdej liczbie podajemy francuski zapis, uproszczoną wymowę po polsku i polskie znaczenie.
 
 ### Od zera do dwudziestu
 
