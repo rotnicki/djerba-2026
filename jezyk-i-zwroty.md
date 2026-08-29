@@ -359,7 +359,6 @@ Oryginalny zapis arabski pozostaje w materiale po to, aby można go było pokaza
 - [Ithaca Bound Languages – „tak” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/yes-in-tunisian-arabic/)
 - [Ithaca Bound Languages – „nie” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/no-in-tunisian-arabic/)
 - [Ithaca Bound Languages – „powoli” w tunezyjskim arabskim](https://www.ithacaboundlanguages.com/slowly-in-tunisian-arabic/)
-- [TV5MONDE – podstawowe liczby po francusku](https://apprendre.tv5monde.com/fr/aides/vocabulaire-les-nombres)
 - [Académie française – zapis, odczytywanie i odmiana liczebników](https://www.academie-francaise.fr/questions-de-langue)
 - [Francuski portal publiczny Mon Parcours Handicap – terminologia dotycząca osób niewidomych i słabowidzących](https://www.monparcourshandicap.gouv.fr/actualite/handicap-visuel-le-point-sur-les-chiens-guides)
 - [W3C WAI – WCAG 2.2, Language of Parts](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)
