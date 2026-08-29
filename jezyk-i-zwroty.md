@@ -9,11 +9,11 @@ Ten materiał ma służyć jako praktyczna ściąga językowa na Dżerbę. Nie j
 Nagranie jest dźwiękowym uzupełnieniem tej ściągi. Zawiera najważniejsze zwroty i podstawowe liczby; służy przede wszystkim odsłuchaniu wymowy. Pełne zapisy, znaczenia i przybliżona wymowa po polsku znajdują się dalej na tej samej stronie.
 
 <audio controls preload="metadata" aria-label="Nagranie z wymową zwrotów na Dżerbę">
-  <source src="{{ '/assets/audio/przewodnik-jezykowy-djerba.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="assets/audio/przewodnik-jezykowy-djerba.mp3" type="audio/mpeg">
   Twoja przeglądarka nie obsługuje odtwarzacza audio.
 </audio>
 
-[Otwórz lub pobierz przewodnik językowy na Dżerbę w formacie MP3 (7 min 42 s, 7,4 MB)]({{ '/assets/audio/przewodnik-jezykowy-djerba.mp3' | relative_url }})
+[Otwórz lub pobierz przewodnik językowy na Dżerbę w formacie MP3 (7 min 42 s, 7,4 MB)](assets/audio/przewodnik-jezykowy-djerba.mp3)
 
 ## Jakimi językami mówi się na Dżerbie
 
