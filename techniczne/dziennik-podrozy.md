@@ -69,11 +69,24 @@ Pierwszy odcinek podróży:
 
 Pociąg odjechał z Poznania Głównego punktualnie o 05:36.
 
+#### Warszawa Zachodnia – brak zamówionej asysty i opóźnienie dalszej podróży
+
+Po przyjeździe na Warszawę Zachodnią zamówiona wcześniej asysta nie pojawiła się na peronie. Powstał przez to poważny problem z kontynuowaniem podróży.
+
+Kierownik pociągu próbował wezwać właściwą osobę przez dostępne środki łączności — radio, telefon lub inne połączenie służbowe — jednak nie udało się skutecznie zorganizować asysty. Ostatecznie na peronie znaleziono pracownika w kamizelce, który okazał się informatorem PKP Intercity. Choć nie pełnił formalnie roli asysty i nie należało to do jego zwykłych obowiązków, pomógł w dotarciu dalej i faktycznie przejął jej rolę.
+
+Z powodu oczekiwania na asystę nie udało się zdążyć na planowane połączenie o 08:31 w kierunku lotniska. Dalsza podróż odbywa się następnym pociągiem kolei miejskiej, odjeżdżającym o 08:47. Planowany przyjazd na lotnisko: 09:02.
+
 ### Wrażenia i obserwacje
 
-Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było pozytywne. Cały proces — od spotkania w hali dworca, przez przejazd windą i doprowadzenie do wagonu, aż po przekazanie drużynie konduktorskiej — odbył się prawidłowo i bez problemów.
+Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było pozytywne. Cały proces w Poznaniu — od spotkania w hali dworca, przez przejazd windą i doprowadzenie do wagonu, aż po przekazanie drużynie konduktorskiej — odbył się prawidłowo i bez problemów.
+
+Sytuacja na Warszawie Zachodniej była dokładnym przeciwieństwem tego doświadczenia. Brak zamówionej asysty spowodował realne opóźnienie dalszej podróży i utratę planowanego połączenia o 08:31. Pomoc została ostatecznie zapewniona dzięki pracownikowi informacji PKP Intercity, który podjął się jej mimo że nie była to jego formalna rola.
 
 ### Miejsca i wydarzenia
+
+- Poznań Główny — rozpoczęcie podróży i prawidłowo zrealizowana asysta.
+- Warszawa Zachodnia — brak zamówionej asysty, utrata planowanego połączenia 08:31 i przejazd kolejnym pociągiem o 08:47.
 
 ### Zdjęcia, nagrania i materiały
 
