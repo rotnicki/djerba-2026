@@ -9,30 +9,35 @@ Status: wersja robocza, niepublikowana na stronie.
 - Sam fakt zapisania treści w tym pliku nie oznacza zgody na jej publikację.
 - Przy wpisach można stosować status: `Publikacja: nie`, `Publikacja: do rozważenia`, `Publikacja: tak` albo `Publikacja: opublikowano`.
 - Reprezentatywne zdjęcia i inne materiały wizualne przechowujemy roboczo na Google Drive w folderze `Dżerba 2026/Dziennik podróży/Zdjęcia`, z uporządkowanymi nazwami plików.
+- Źródłem archiwalnym zdjęcia jest jedna możliwie oryginalna kopia przesłana bezpośrednio z urządzenia na Google Drive. Kopii przesłanych przez czat nie traktujemy jako archiwalnych, ponieważ mogą mieć uboższe metadane.
+- Nie tworzymy osobnego folderu „Oryginały” ani dodatkowych kopii tego samego materiału. Duplikaty robocze usuwamy po upewnieniu się, że właściwy oryginał znajduje się na Dysku.
 - Jeżeli wybrane treści będą publikowane sukcesywnie, są redagowane i przenoszone do osobnego publicznego pliku dziennika na stronie. Ten plik pozostaje źródłem roboczym.
-- Przy publikacji wybrane zdjęcia mogą zostać przeniesione do zasobów publicznej strony.
+- Przy publikacji wybrane zdjęcia mogą zostać skopiowane do zasobów publicznej strony; kopia publikacyjna jest wtedy celowa i odrębna od archiwum roboczego.
 - Po wyjeździe dziennik może zostać zredagowany i wykorzystany do utworzenia docelowej sekcji „Dziennik podróży” na stronie.
 
 ## Standard nazw zdjęć i procedura publikacji
 
 ### Nazewnictwo zdjęć
 
-- Podstawowy format nazwy zdjęcia: `RRRR-MM-DD-HHMMSS-opis.jpg`.
+- Podstawowy format nazwy zdjęcia: `RRRR-MM-DD-HHMMSS-opis.ext`.
+- Zachowujemy oryginalny format pliku, np. HEIC, jeżeli taki został zapisany przez urządzenie.
 - Data i czas mają odpowiadać chwili wykonania zdjęcia, a nie chwili przesłania do czatu, Google Drive ani repozytorium.
-- Pierwszym źródłem czasu jest oryginalne pole EXIF `DateTimeOriginal`.
+- Pierwszym źródłem czasu jest oryginalne pole EXIF `DateTimeOriginal`; jeżeli format wykorzystuje równoważne metadane XMP, można użyć zgodnej wartości `CreateDate` po jej zweryfikowaniu.
 - Jeżeli dwa lub więcej zdjęć mają ten sam czas do sekundy, po czasie dodajemy numer kolejny, np. `-01`, `-02`.
-- Jeżeli `DateTimeOriginal` nie jest dostępne, czasu nie zgadujemy. Plik pozostaje z nazwą bez czasu do momentu uzyskania wiarygodnej informacji o godzinie wykonania.
+- Jeżeli wiarygodny czas wykonania nie jest dostępny, czasu nie zgadujemy.
 - Samo przemianowanie pliku na Google Drive nie może zmieniać zawartości obrazu ani jego osadzonych metadanych.
 
 ### Procedura robocza i publikacyjna
 
 1. Reprezentatywne zdjęcie jest wybierane do konkretnego wpisu dziennika.
-2. Sprawdzamy, czy dostępny jest oryginalny czas wykonania zdjęcia.
-3. Zdjęcie otrzymuje nazwę zgodną z przyjętym standardem i jest przechowywane roboczo w `Dżerba 2026/Dziennik podróży/Zdjęcia` na Google Drive.
-4. W dzienniku zapisujemy nazwę pliku, jego znaczenie, status publikacji, opis i proponowany tekst alternatywny.
-5. Samo umieszczenie zdjęcia na Google Drive nie oznacza zgody na publikację.
-6. Do publicznej strony trafiają wyłącznie materiały oznaczone do publikacji i po ewentualnej redakcji treści oraz tekstów alternatywnych.
-7. Po publikacji status materiału w dzienniku zmieniamy na `Publikacja: opublikowano`.
+2. Oryginalny plik jest przesyłany bezpośrednio z urządzenia do `Dżerba 2026/Dziennik podróży/Zdjęcia` na Google Drive.
+3. Sprawdzamy metadane i ustalamy oryginalny czas wykonania.
+4. Plik otrzymuje nazwę zgodną z przyjętym standardem, bez konwersji i bez ingerencji w jego metadane.
+5. Jeżeli wcześniej powstała kopia tego samego zdjęcia przez czat, usuwamy ją z archiwum roboczego po potwierdzeniu obecności oryginału.
+6. W dzienniku zapisujemy nazwę pliku, jego znaczenie, status publikacji, opis i proponowany tekst alternatywny.
+7. Samo umieszczenie zdjęcia na Google Drive nie oznacza zgody na publikację.
+8. Do publicznej strony trafiają wyłącznie materiały oznaczone do publikacji i po ewentualnej redakcji treści oraz tekstów alternatywnych.
+9. Po publikacji status materiału w dzienniku zmieniamy na `Publikacja: opublikowano`.
 
 ## Zasada zapisu wpisów
 
@@ -74,16 +79,17 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
-- wybrane zdjęcie: pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
-- obecna nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
-- czas wykonania: do uzupełnienia — otrzymana kopia pliku nie zawiera EXIF `DateTimeOriginal`;
-- po ustaleniu wiarygodnego czasu plik ma zostać przemianowany zgodnie ze standardem `RRRR-MM-DD-HHMMSS-opis.jpg`;
+- wybrane zdjęcie: oryginalny plik `IMG_1074.HEIC`, pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
+- czas wykonania: 31 sierpnia 2026, 05:11:19;
+- nazwa robocza po uporządkowaniu: `2026-08-31-051119-poznan-glowny-start-podrozy.heic`;
 - lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
 - status: `Publikacja: do rozważenia`;
 - opis: selfie wykonane przed rozpoczęciem podróży, z charakterystyczną podświetloną fasadą dworca Poznań Główny i księżycem widocznym na porannym niebie;
 - proponowany tekst alternatywny: „Mikołaj przed dworcem Poznań Główny przed rozpoczęciem podróży. W tle podświetlona fasada dworca, nad nią ciemne poranne niebo i księżyc.”
 
-Drugie zdjęcie z tej samej serii pozostaje zdjęciem zapasowym.
+Wcześniejsza kopia JPG utworzona z pliku przesłanego przez czat została usunięta z Google Drive po potwierdzeniu obecności oryginalnego HEIC.
+
+Drugie, alternatywne ujęcie z tej samej serii pozostaje osobnym zdjęciem, a nie duplikatem. Oryginalny `IMG_1073.HEIC` wykonano o 05:10:48 i uporządkowano jako `2026-08-31-051048-poznan-glowny-alternatywne.heic`.
 
 ## 1 września 2026
 
