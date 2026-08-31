@@ -8,7 +8,9 @@ Status: wersja robocza, niepublikowana na stronie.
 - Zapisujemy tutaj na bieżąco także treści surowe, prywatne, nieuporządkowane i wymagające późniejszej redakcji.
 - Sam fakt zapisania treści w tym pliku nie oznacza zgody na jej publikację.
 - Przy wpisach można stosować status: `Publikacja: nie`, `Publikacja: do rozważenia`, `Publikacja: tak` albo `Publikacja: opublikowano`.
+- Reprezentatywne zdjęcia i inne materiały wizualne przechowujemy roboczo na Google Drive w folderze `Dżerba 2026/Dziennik podróży/Zdjęcia`, z uporządkowanymi nazwami plików.
 - Jeżeli wybrane treści będą publikowane sukcesywnie, są redagowane i przenoszone do osobnego publicznego pliku dziennika na stronie. Ten plik pozostaje źródłem roboczym.
+- Przy publikacji wybrane zdjęcia mogą zostać przeniesione do zasobów publicznej strony.
 - Po wyjeździe dziennik może zostać zredagowany i wykorzystany do utworzenia docelowej sekcji „Dziennik podróży” na stronie.
 
 ## Zasada zapisu wpisów
@@ -52,7 +54,8 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
 - wybrane zdjęcie: pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
-- proponowana nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
+- nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
+- lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
 - status: `Publikacja: do rozważenia`;
 - opis: selfie wykonane przed rozpoczęciem podróży, z charakterystyczną podświetloną fasadą dworca Poznań Główny i księżycem widocznym na porannym niebie;
 - proponowany tekst alternatywny: „Mikołaj przed dworcem Poznań Główny przed rozpoczęciem podróży. W tle podświetlona fasada dworca, nad nią ciemne poranne niebo i księżyc.”
