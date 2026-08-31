@@ -21,7 +21,29 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
+#### Poznań Główny – asysta i rozpoczęcie podróży
+
+Podróż rozpoczęła się na stacji Poznań Główny. Asysta kolejowa, zgłoszona telefonicznie kilka dni wcześniej, zadziałała prawidłowo.
+
+Spotkanie z pracownikiem asysty odbyło się w hali dworca. Przejął mnie pan z ochrony, który zaprowadził mnie windą na peron, a następnie bezpośrednio do właściwego wagonu. Przy wagonie przekazał mnie drużynie konduktorskiej.
+
+Drużyna konduktorska przejęła również mój bagaż, zaprowadziła mnie do zarezerwowanego miejsca i wskazała je. Całe przekazanie między asystą dworcową a obsługą pociągu przebiegło sprawnie.
+
+Pierwszy odcinek podróży:
+
+- pociąg: IC 7206 „Warta”;
+- relacja: Poznań Główny – Warszawa Zachodnia;
+- planowy odjazd z Poznania Głównego: 05:36;
+- planowy przyjazd do Warszawy Zachodniej: 08:22;
+- wagon: 12;
+- miejsce: 51;
+- bilet zakupiony: 1 sierpnia 2026.
+
+Pociąg odjechał z Poznania Głównego punktualnie o 05:36.
+
 ### Wrażenia i obserwacje
+
+Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było pozytywne. Cały proces — od spotkania w hali dworca, przez przejazd windą i doprowadzenie do wagonu, aż po przekazanie drużynie konduktorskiej — odbył się prawidłowo i bez problemów.
 
 ### Miejsca i wydarzenia
 
