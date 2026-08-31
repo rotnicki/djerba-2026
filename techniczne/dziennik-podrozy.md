@@ -79,7 +79,7 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
-- wybrane zdjęcie: oryginalny plik `IMG_1074.HEIC`, pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
+- wybrane zdjęcie: oryginalny plik `IMG_1074.HEIC`, wykonany przed dworcem Poznań Główny;
 - czas wykonania: 31 sierpnia 2026, 05:11:19;
 - nazwa robocza po uporządkowaniu: `2026-08-31-051119-poznan-glowny-start-podrozy.heic`;
 - lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
@@ -88,8 +88,6 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 - proponowany tekst alternatywny: „Mikołaj przed dworcem Poznań Główny przed rozpoczęciem podróży. W tle podświetlona fasada dworca, nad nią ciemne poranne niebo i księżyc.”
 
 Wcześniejsza kopia JPG utworzona z pliku przesłanego przez czat została usunięta z Google Drive po potwierdzeniu obecności oryginalnego HEIC.
-
-Drugie, alternatywne ujęcie z tej samej serii pozostaje osobnym zdjęciem, a nie duplikatem. Oryginalny `IMG_1073.HEIC` wykonano o 05:10:48 i uporządkowano jako `2026-08-31-051048-poznan-glowny-alternatywne.heic`.
 
 #### W drodze do Warszawy
 
