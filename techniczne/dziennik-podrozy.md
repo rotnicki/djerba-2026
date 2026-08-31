@@ -75,7 +75,21 @@ Po przyjeździe na Warszawę Zachodnią zamówiona wcześniej asysta nie pojawi�
 
 Kierownik pociągu próbował wezwać właściwą osobę przez dostępne środki łączności — radio, telefon lub inne połączenie służbowe — jednak nie udało się skutecznie zorganizować asysty. Ostatecznie na peronie znaleziono pracownika w kamizelce, który okazał się informatorem PKP Intercity. Choć nie pełnił formalnie roli asysty i nie należało to do jego zwykłych obowiązków, pomógł w dotarciu dalej i faktycznie przejął jej rolę.
 
-Z powodu oczekiwania na asystę nie udało się zdążyć na planowane połączenie o 08:31 w kierunku lotniska. Dalsza podróż odbyła się następnym pociągiem kolei miejskiej, odjeżdżającym o 08:47. Planowany przyjazd na lotnisko: 09:02.
+Z powodu oczekiwania na asystę nie udało się zdążyć na planowane połączenie o 08:31 w kierunku lotniska. Dalsza podróż odbyła się następnym pociągiem, odjeżdżającym z Warszawy Zachodniej o 08:47.
+
+#### Lotnisko Chopina – przyjazd, asysta i wejście na pokład
+
+Pociąg o 08:47 dowiózł mnie na lotnisko zgodnie z planem, tuż po 09:00, około 09:02. Na miejscu odebrał mnie Darek („od Agnieszki”). Razem z nim i grupą przemieściłem się do punktu informacyjnego.
+
+Po pewnym czasie grupę przejęła pracowniczka asysty lotniskowej. Od tego momentu prowadziła całą zorganizowaną grupę przez kolejne etapy przygotowania do lotu. Odprawa, nadanie bagażu i kontrola bezpieczeństwa przebiegły sprawnie. Po zakończeniu formalności pozostał już tylko krótki czas do rozpoczęcia wejścia na pokład.
+
+Również samo wejście do samolotu i pomoc na pokładzie przebiegły bardzo sprawnie. Obsługa związana z lotem Enter Air asystowała grupie przy wejściu i pomogła w odnalezieniu właściwych miejsc. Cały etap od przejęcia grupy na lotnisku do zajęcia miejsc w samolocie oceniam jako profesjonalny i bezproblemowy.
+
+#### Lot Warszawa – Dżerba
+
+Planowana godzina odlotu wynosiła 11:35. Około 11:50 czasu polskiego samolot rozpoczął kołowanie, czyli około 15 minut później niż planowano.
+
+Lot przebiegł bezproblemowo. Samolot przyziemił na Dżerbie około 14:00 czasu lokalnego, co odpowiada około 15:00 czasu polskiego. Od rozpoczęcia kołowania w Warszawie około 11:50 do przyziemienia na Dżerbie około 14:00 czasu lokalnego upłynęło około 3 godz. 10 min. Jest to czas liczony od rozpoczęcia kołowania do przyziemienia, a nie wyłącznie czas lotu w powietrzu.
 
 #### Dżerba – lądowanie i przyjazd do hotelu
 
@@ -89,12 +103,16 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 
 Sytuacja na Warszawie Zachodniej była dokładnym przeciwieństwem tego doświadczenia. Brak zamówionej asysty spowodował realne opóźnienie dalszej podróży i utratę planowanego połączenia o 08:31. Pomoc została ostatecznie zapewniona dzięki pracownikowi informacji PKP Intercity, który podjął się jej mimo że nie była to jego formalna rola.
 
-Mimo problemów na Warszawie Zachodniej dalsza podróż zakończyła się bezpiecznie: około 14:00 czasu lokalnego samolot wylądował na Dżerbie, a po transferze grupa dotarła do hotelu i została zakwaterowana.
+Po dotarciu na Lotnisko Chopina sytuacja ponownie przebiegała bardzo sprawnie. Asysta lotniskowa przejęła całą grupę i profesjonalnie przeprowadziła ją przez formalności, kontrolę bezpieczeństwa oraz wejście na pokład. Równie sprawna była pomoc przy zajmowaniu miejsc w samolocie.
+
+Mimo problemów na Warszawie Zachodniej dalsza podróż zakończyła się bezpiecznie. Lot przebiegł bezproblemowo, a około 14:00 czasu lokalnego samolot wylądował na Dżerbie. Po transferze grupa dotarła do hotelu i została zakwaterowana.
 
 ### Miejsca i wydarzenia
 
 - Poznań Główny — rozpoczęcie podróży i prawidłowo zrealizowana asysta.
 - Warszawa Zachodnia — brak zamówionej asysty, utrata planowanego połączenia 08:31 i przejazd kolejnym pociągiem o 08:47.
+- Lotnisko Chopina — przyjazd około 09:02, przejęcie grupy przez asystę, sprawna odprawa, nadanie bagażu, kontrola bezpieczeństwa i wejście na pokład.
+- Lot Warszawa – Dżerba — rozpoczęcie kołowania około 11:50 czasu polskiego, przyziemienie około 14:00 czasu lokalnego; około 3 godz. 10 min od rozpoczęcia kołowania do przyziemienia.
 - Dżerba — lądowanie około 14:00 czasu lokalnego.
 - Hotel — przyjazd orientacyjnie około 15:30 i wejście do pokoi około 16:30.
 
