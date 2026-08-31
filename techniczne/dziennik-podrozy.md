@@ -49,6 +49,16 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 
 ### Zdjęcia, nagrania i materiały
 
+#### Zdjęcie reprezentatywne – rozpoczęcie podróży
+
+- wybrane zdjęcie: pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
+- proponowana nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
+- status: `Publikacja: do rozważenia`;
+- opis: selfie wykonane przed rozpoczęciem podróży, z charakterystyczną podświetloną fasadą dworca Poznań Główny i księżycem widocznym na porannym niebie;
+- proponowany tekst alternatywny: „Mikołaj przed dworcem Poznań Główny przed rozpoczęciem podróży. W tle podświetlona fasada dworca, nad nią ciemne poranne niebo i księżyc.”
+
+Drugie zdjęcie z tej samej serii pozostaje zdjęciem zapasowym.
+
 ## 1 września 2026
 
 Publikacja: do rozważenia
