@@ -91,6 +91,18 @@ Wcześniejsza kopia JPG utworzona z pliku przesłanego przez czat została usuni
 
 Drugie, alternatywne ujęcie z tej samej serii pozostaje osobnym zdjęciem, a nie duplikatem. Oryginalny `IMG_1073.HEIC` wykonano o 05:10:48 i uporządkowano jako `2026-08-31-051048-poznan-glowny-alternatywne.heic`.
 
+#### W drodze do Warszawy
+
+- wybrane zdjęcie: oryginalny plik `IMG_1078.HEIC`;
+- czas wykonania: 31 sierpnia 2026, 06:38:20;
+- nazwa robocza po uporządkowaniu: `2026-08-31-063820-w-pociagu-do-warszawy.heic`;
+- lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
+- status: `Publikacja: do rozważenia`;
+- opis: selfie wykonane podczas podróży pociągiem do Warszawy; w kadrze widać wnętrze wagonu, niebieską zasłonę, fotel z pomarańczowym zagłówkiem PKP Intercity oraz fragment półki bagażowej;
+- proponowany tekst alternatywny: „Mikołaj siedzący w pociągu w drodze do Warszawy. W tle niebieska zasłona, fotel z pomarańczowym zagłówkiem PKP Intercity i fragment półki bagażowej.”
+
+Wcześniejsze, mniej czytelne ujęcie `IMG_1077.HEIC` zostało usunięte z Google Drive po wybraniu lepszego zdjęcia `IMG_1078.HEIC`.
+
 ## 1 września 2026
 
 Publikacja: do rozważenia
