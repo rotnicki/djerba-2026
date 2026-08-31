@@ -13,6 +13,27 @@ Status: wersja robocza, niepublikowana na stronie.
 - Przy publikacji wybrane zdjęcia mogą zostać przeniesione do zasobów publicznej strony.
 - Po wyjeździe dziennik może zostać zredagowany i wykorzystany do utworzenia docelowej sekcji „Dziennik podróży” na stronie.
 
+## Standard nazw zdjęć i procedura publikacji
+
+### Nazewnictwo zdjęć
+
+- Podstawowy format nazwy zdjęcia: `RRRR-MM-DD-HHMMSS-opis.jpg`.
+- Data i czas mają odpowiadać chwili wykonania zdjęcia, a nie chwili przesłania do czatu, Google Drive ani repozytorium.
+- Pierwszym źródłem czasu jest oryginalne pole EXIF `DateTimeOriginal`.
+- Jeżeli dwa lub więcej zdjęć mają ten sam czas do sekundy, po czasie dodajemy numer kolejny, np. `-01`, `-02`.
+- Jeżeli `DateTimeOriginal` nie jest dostępne, czasu nie zgadujemy. Plik pozostaje z nazwą bez czasu do momentu uzyskania wiarygodnej informacji o godzinie wykonania.
+- Samo przemianowanie pliku na Google Drive nie może zmieniać zawartości obrazu ani jego osadzonych metadanych.
+
+### Procedura robocza i publikacyjna
+
+1. Reprezentatywne zdjęcie jest wybierane do konkretnego wpisu dziennika.
+2. Sprawdzamy, czy dostępny jest oryginalny czas wykonania zdjęcia.
+3. Zdjęcie otrzymuje nazwę zgodną z przyjętym standardem i jest przechowywane roboczo w `Dżerba 2026/Dziennik podróży/Zdjęcia` na Google Drive.
+4. W dzienniku zapisujemy nazwę pliku, jego znaczenie, status publikacji, opis i proponowany tekst alternatywny.
+5. Samo umieszczenie zdjęcia na Google Drive nie oznacza zgody na publikację.
+6. Do publicznej strony trafiają wyłącznie materiały oznaczone do publikacji i po ewentualnej redakcji treści oraz tekstów alternatywnych.
+7. Po publikacji status materiału w dzienniku zmieniamy na `Publikacja: opublikowano`.
+
 ## Zasada zapisu wpisów
 
 Każdy dzień ma własną sekcję. W razie potrzeby można dodawać godzinę przy konkretnym wydarzeniu. Nie trzeba wypełniać wszystkich podsekcji — służą jako stały szkielet.
@@ -54,7 +75,9 @@ Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było 
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
 - wybrane zdjęcie: pierwsze z dwóch zdjęć wykonanych przed dworcem Poznań Główny;
-- nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
+- obecna nazwa pliku: `2026-08-31-poznan-glowny-start-podrozy.jpg`;
+- czas wykonania: do uzupełnienia — otrzymana kopia pliku nie zawiera EXIF `DateTimeOriginal`;
+- po ustaleniu wiarygodnego czasu plik ma zostać przemianowany zgodnie ze standardem `RRRR-MM-DD-HHMMSS-opis.jpg`;
 - lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
 - status: `Publikacja: do rozważenia`;
 - opis: selfie wykonane przed rozpoczęciem podróży, z charakterystyczną podświetloną fasadą dworca Poznań Główny i księżycem widocznym na porannym niebie;
