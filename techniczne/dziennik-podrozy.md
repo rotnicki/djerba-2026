@@ -101,6 +101,28 @@ Lot zakończył się szczęśliwym lądowaniem na Dżerbie. Samolot przyziemił 
 
 Do hotelu grupa dotarła około 15:30. Wcześniejsze przybliżenie wzmacnia zdjęcie wykonane na terenie hotelu o 15:31:41. Do pokoi hotelowych udało się wejść około 16:30; zdjęcie pokoju wykonane o 16:26:47 jest zgodne z tym oszacowaniem.
 
+#### Odpoczynek po zakwaterowaniu
+
+Po wejściu do pokoi był czas na krótki odpoczynek po podróży. Odpoczywałem w swoim pokoju; mój przewodnik Paweł również był w sąsiednim pokoju. Po całym dniu podróży taki przystanek przed kolacją był bardzo potrzebny.
+
+#### 18:30 – pierwsza kolacja w hotelu
+
+O 18:30 poszliśmy na kolację do głównej restauracji hotelowej. Restauracja jest bardzo duża, podobnie jak cały obiekt, i ma wiele oddzielnych stanowisk z różnymi rodzajami potraw.
+
+Pierwsza kolacja była udana. Zjadłem między innymi ciemny ryż, trochę mięsa z kurczaka oraz duży kawałek bardzo dobrze przygotowanej ryby, która przypominała łososia. Do tego spróbowałem kawałka pizzy, bagietki, szynki i żółtego sera. Z owoców były między innymi mango, brzoskwinia i owoc przypominający śliwkę. Kilka razy piłem sok ananasowy z lodem. Ogólne pierwsze wrażenie z jedzenia było bardzo dobre, także pizza okazała się smaczna.
+
+Szczególnie zaskakującym i sympatycznym detalem są opisy potraw. Oprócz innych języków nazwy dań są podawane również po polsku. To pierwszy raz, kiedy spotkałem się w hotelu za granicą z tak wyraźnym dostosowaniem informacji w restauracji do dużej liczby polskich gości.
+
+#### Wieczór w barze i powrót do pokoju
+
+Po kolacji przeszliśmy do baru. Wypiłem jednego drinka, którego nazwa brzmiała tak samo lub bardzo podobnie do nazwy hotelu — najprawdopodobniej „Palm Azur”. Nazwę warto jeszcze później potwierdzić.
+
+Około 21:00 wróciłem do pokoju. Byłem zmęczony całym dniem podróży i zasnąłem mniej więcej na dwie godziny. Po 23:00 przyszedł Paweł; część uczestników także kończyła już wieczorne spotkanie. Po nocnej drzemce przez jakiś czas nie chciało mi się ponownie spać, choć plan był taki, żeby jeszcze odpocząć przed pierwszym pełnym dniem na Dżerbie.
+
+#### Informacja organizacyjna z dnia
+
+W ciągu dnia jeden z uczestników wyjazdu wraz z osobą towarzyszącą trafił do szpitala. Szczegóły przyczyny, badań i dalszego przebiegu sytuacji nie są na tym etapie pewne, dlatego nie zapisujemy ich w dzienniku jako faktów. Ze względu na prywatność nie zapisujemy tutaj danych identyfikujących ani szczegółów medycznych osoby trzeciej.
+
 ### Wrażenia i obserwacje
 
 Pierwsze doświadczenie z wcześniej zamówioną asystą na tej podróży było pozytywne. Cały proces w Poznaniu — od spotkania w hali dworca, przez przejazd windą i doprowadzenie do wagonu, aż po przekazanie drużynie konduktorskiej — odbył się prawidłowo i bez problemów.
@@ -111,6 +133,12 @@ Po dotarciu na Lotnisko Chopina sytuacja ponownie przebiegała bardzo sprawnie. 
 
 Mimo problemów na Warszawie Zachodniej dalsza podróż zakończyła się bezpiecznie. Lot przebiegł bezproblemowo, a około 14:00 czasu lokalnego samolot wylądował na Dżerbie. Po transferze grupa dotarła do hotelu i została zakwaterowana.
 
+Pierwsze wrażenie z hotelu jest takie, że to naprawdę duży i rozległy kompleks. Grupa została zakwaterowana w różnych częściach obiektu, a przejście między pokojami, restauracją, barem i innymi miejscami prowadzi przez wiele korytarzy oraz częściowo otwartych przestrzeni.
+
+Na zewnątrz panuje wyraźny upał. Pokoje są klimatyzowane, natomiast część przestrzeni wspólnych i korytarzy jest duszna i nie jest klimatyzowana. Niektóre fragmenty obiektu mają charakter półotwarty — są tam między innymi palmy rosnące wewnątrz przestrzeni przykrytych wysoko siatką lub lekkim zadaszeniem. Powoduje to, że hotel bardziej przypomina rozległy kompleks połączonych budynków i dziedzińców niż jeden zamknięty, klimatyzowany gmach.
+
+Drugim charakterystycznym pierwszym wrażeniem jest silna obecność języka polskiego. W restauracji nazwy potraw są opisane również po polsku, a pracownicy recepcji znają wiele podstawowych polskich zwrotów, liczebników i sformułowań związanych z pobytem oraz formułą all inclusive. Przy dużej liczbie gości z Polski jest to bardzo sympatyczne i praktyczne udogodnienie.
+
 ### Miejsca i wydarzenia
 
 - Poznań Główny — rozpoczęcie podróży i prawidłowo zrealizowana asysta.
@@ -119,6 +147,8 @@ Mimo problemów na Warszawie Zachodniej dalsza podróż zakończyła się bezpie
 - Lot Warszawa – Dżerba — rozpoczęcie kołowania około 11:50 czasu polskiego, przyziemienie około 14:00 czasu lokalnego; około 3 godz. 10 min od rozpoczęcia kołowania do przyziemienia.
 - Dżerba — lądowanie około 14:00 czasu lokalnego.
 - Hotel — przyjazd około 15:30 i wejście do pokoi około 16:30, zgodne z czasem zachowanych zdjęć.
+- Restauracja hotelowa — pierwsza kolacja o 18:30; duży wybór jedzenia i polskie nazwy potraw.
+- Bar hotelowy — krótki wieczorny pobyt po kolacji.
 
 ### Zdjęcia, nagrania i materiały
 
@@ -197,6 +227,11 @@ Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ogr
 ## 1 września 2026
 
 Publikacja: do rozważenia
+
+### Plan dnia
+
+- śniadanie w hotelu: 07:30–10:00 według aktualnych informacji dla Palm Azur; plan grupy: około 08:00;
+- 09:00 — spotkanie z rezydentem, między innymi w sprawie wycieczek i organizacji pobytu.
 
 ### Przebieg dnia
 
