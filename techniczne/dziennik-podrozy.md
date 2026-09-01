@@ -34,7 +34,7 @@ Status: wersja robocza, niepublikowana na stronie.
 3. Sprawdzamy metadane i ustalamy oryginalny czas wykonania.
 4. Plik otrzymuje nazwę zgodną z przyjętym standardem, bez konwersji i bez ingerencji w jego metadane.
 5. Jeżeli wcześniej powstała kopia tego samego zdjęcia przez czat, usuwamy ją z archiwum roboczego po potwierdzeniu obecności oryginału.
-6. W dzienniku zapisujemy nazwę pliku, jego znaczenie, status publikacji, opis i proponowany tekst alternatywny.
+6. W dzienniku zapisujemy nazwę pliku, jego znaczenie, status publikacji, opis i proponowany tekst alternatywny. Metadane czasu i lokalizacji mogą służyć także jako pomocnicze punkty chronologiczne wpisu, po sprawdzeniu ich spójności z relacją.
 7. Samo umieszczenie zdjęcia na Google Drive nie oznacza zgody na publikację.
 8. Do publicznej strony trafiają wyłącznie materiały oznaczone do publikacji i po ewentualnej redakcji treści oraz tekstów alternatywnych.
 9. Po publikacji status materiału w dzienniku zmieniamy na `Publikacja: opublikowano`.
@@ -75,13 +75,17 @@ Po przyjeździe na Warszawę Zachodnią zamówiona wcześniej asysta nie pojawi�
 
 Kierownik pociągu próbował wezwać właściwą osobę przez dostępne środki łączności — radio, telefon lub inne połączenie służbowe — jednak nie udało się skutecznie zorganizować asysty. Ostatecznie na peronie znaleziono pracownika w kamizelce, który okazał się informatorem PKP Intercity. Choć nie pełnił formalnie roli asysty i nie należało to do jego zwykłych obowiązków, pomógł w dotarciu dalej i faktycznie przejął jej rolę.
 
-Z powodu oczekiwania na asystę nie udało się zdążyć na planowane połączenie o 08:31 w kierunku lotniska. Dalsza podróż odbyła się następnym pociągiem, odjeżdżającym z Warszawy Zachodniej o 08:47.
+Z powodu oczekiwania na asystę nie udało się zdążyć na planowane połączenie o 08:31 w kierunku lotniska. Dalsza podróż odbyła się następnym połączeniem, planowanym na 08:47 z Warszawy Zachodniej.
+
+Wybrane zdjęcie z tego etapu ma czas 08:48:31 i dokumentuje improwizowaną pomoc na peronie: pracownika w pomarańczowej kamizelce pomagającego z bagażem oraz fragment białej laski. Czas zdjęcia traktujemy jako pomocniczy punkt chronologii, bez nadpisywania nim relacji o rozkładowej godzinie kolejnego połączenia.
 
 #### Lotnisko Chopina – przyjazd, asysta i wejście na pokład
 
-Pociąg o 08:47 dowiózł mnie na lotnisko zgodnie z planem, tuż po 09:00, około 09:02. Na miejscu odebrał mnie Darek („od Agnieszki”). Razem z nim i grupą przemieściłem się do punktu informacyjnego.
+Kolejne połączenie dowiozło mnie na lotnisko tuż po 09:00, około 09:02. Na miejscu odebrał mnie Darek („od Agnieszki”). Razem z nim i grupą przemieściłem się do punktu informacyjnego.
 
 Po pewnym czasie grupę przejęła pracowniczka asysty lotniskowej. Od tego momentu prowadziła całą zorganizowaną grupę przez kolejne etapy przygotowania do lotu. Odprawa, nadanie bagażu i kontrola bezpieczeństwa przebiegły sprawnie. Po zakończeniu formalności pozostał już tylko krótki czas do rozpoczęcia wejścia na pokład.
+
+Wybrane zdjęcia dokumentują dalszy przebieg: o 11:08:21 etap oczekiwania w terminalu, a o 11:26:26 wejście do samolotu Enter Air. Chronologia materiału fotograficznego jest zgodna z relacją o sprawnym przejściu formalności i krótkim czasie do boardingu.
 
 Również samo wejście do samolotu i pomoc na pokładzie przebiegły bardzo sprawnie. Obsługa związana z lotem Enter Air asystowała grupie przy wejściu i pomogła w odnalezieniu właściwych miejsc. Cały etap od przejęcia grupy na lotnisku do zajęcia miejsc w samolocie oceniam jako profesjonalny i bezproblemowy.
 
@@ -89,13 +93,13 @@ Również samo wejście do samolotu i pomoc na pokładzie przebiegły bardzo spr
 
 Planowana godzina odlotu wynosiła 11:35. Około 11:50 czasu polskiego samolot rozpoczął kołowanie, czyli około 15 minut później niż planowano.
 
-Lot przebiegł bezproblemowo. Samolot przyziemił na Dżerbie około 14:00 czasu lokalnego, co odpowiada około 15:00 czasu polskiego. Od rozpoczęcia kołowania w Warszawie około 11:50 do przyziemienia na Dżerbie około 14:00 czasu lokalnego upłynęło około 3 godz. 10 min. Jest to czas liczony od rozpoczęcia kołowania do przyziemienia, a nie wyłącznie czas lotu w powietrzu.
+Lot przebiegł bezproblemowo. Materiał fotograficzny dokumentuje końcowy etap podróży: zdjęcie przy oknie o 13:55:57, widok podczas podejścia do Dżerby o 13:58:55 oraz film rozpoczęty o 13:59:13, pokazujący końcówkę podejścia i lądowanie. Samolot przyziemił około 14:00 czasu lokalnego, co odpowiada około 15:00 czasu polskiego. Od rozpoczęcia kołowania w Warszawie około 11:50 do przyziemienia na Dżerbie około 14:00 czasu lokalnego upłynęło około 3 godz. 10 min. Jest to czas liczony od rozpoczęcia kołowania do przyziemienia, a nie wyłącznie czas lotu w powietrzu.
 
 #### Dżerba – lądowanie i przyjazd do hotelu
 
 Lot zakończył się szczęśliwym lądowaniem na Dżerbie. Samolot przyziemił około 14:00 czasu lokalnego.
 
-Do hotelu grupa dotarła orientacyjnie około 15:30. Ta godzina pozostaje przybliżona i może zostać później doprecyzowana. Do pokoi hotelowych udało się wejść około 16:30.
+Do hotelu grupa dotarła około 15:30. Wcześniejsze przybliżenie wzmacnia zdjęcie wykonane na terenie hotelu o 15:31:41. Do pokoi hotelowych udało się wejść około 16:30; zdjęcie pokoju wykonane o 16:26:47 jest zgodne z tym oszacowaniem.
 
 ### Wrażenia i obserwacje
 
@@ -110,37 +114,85 @@ Mimo problemów na Warszawie Zachodniej dalsza podróż zakończyła się bezpie
 ### Miejsca i wydarzenia
 
 - Poznań Główny — rozpoczęcie podróży i prawidłowo zrealizowana asysta.
-- Warszawa Zachodnia — brak zamówionej asysty, utrata planowanego połączenia 08:31 i przejazd kolejnym pociągiem o 08:47.
+- Warszawa Zachodnia — brak zamówionej asysty, utrata planowanego połączenia 08:31 i skorzystanie z kolejnego połączenia planowanego na 08:47.
 - Lotnisko Chopina — przyjazd około 09:02, przejęcie grupy przez asystę, sprawna odprawa, nadanie bagażu, kontrola bezpieczeństwa i wejście na pokład.
 - Lot Warszawa – Dżerba — rozpoczęcie kołowania około 11:50 czasu polskiego, przyziemienie około 14:00 czasu lokalnego; około 3 godz. 10 min od rozpoczęcia kołowania do przyziemienia.
 - Dżerba — lądowanie około 14:00 czasu lokalnego.
-- Hotel — przyjazd orientacyjnie około 15:30 i wejście do pokoi około 16:30.
+- Hotel — przyjazd około 15:30 i wejście do pokoi około 16:30, zgodne z czasem zachowanych zdjęć.
 
 ### Zdjęcia, nagrania i materiały
 
+Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ograniczony do minimalnej reprezentacji kolejnych etapów dnia. Pozostawiono łącznie 9 zdjęć i 1 film. Z nowej partii zachowano 7 zdjęć i film z lądowania, a 55 słabszych, powtarzalnych albo nieistotnych plików usunięto po zatwierdzeniu selekcji.
+
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
-- wybrane zdjęcie: oryginalny plik `IMG_1074.HEIC`, wykonany przed dworcem Poznań Główny;
-- czas wykonania: 31 sierpnia 2026, 05:11:19;
-- nazwa robocza po uporządkowaniu: `2026-08-31-051119-poznan-glowny-start-podrozy.heic`;
-- lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
+- czas: 05:11:19;
+- plik: `2026-08-31-051119-poznan-glowny-start-podrozy.heic`;
 - status: `Publikacja: do rozważenia`;
-- opis: selfie wykonane przed rozpoczęciem podróży, z charakterystyczną podświetloną fasadą dworca Poznań Główny i księżycem widocznym na porannym niebie;
-- proponowany tekst alternatywny: „Mikołaj przed dworcem Poznań Główny przed rozpoczęciem podróży. W tle podświetlona fasada dworca, nad nią ciemne poranne niebo i księżyc.”
-
-Wcześniejsza kopia JPG utworzona z pliku przesłanego przez czat została usunięta z Google Drive po potwierdzeniu obecności oryginalnego HEIC.
+- opis: selfie przed dworcem Poznań Główny przed rozpoczęciem podróży, z podświetloną fasadą dworca i księżycem.
 
 #### W drodze do Warszawy
 
-- wybrane zdjęcie: oryginalny plik `IMG_1078.HEIC`;
-- czas wykonania: 31 sierpnia 2026, 06:38:20;
-- nazwa robocza po uporządkowaniu: `2026-08-31-063820-w-pociagu-do-warszawy.heic`;
-- lokalizacja robocza: Google Drive, `Dżerba 2026/Dziennik podróży/Zdjęcia`;
+- czas: 06:38:20;
+- plik: `2026-08-31-063820-w-pociagu-do-warszawy.heic`;
 - status: `Publikacja: do rozważenia`;
-- opis: selfie wykonane podczas podróży pociągiem do Warszawy; w kadrze widać wnętrze wagonu, niebieską zasłonę, fotel z pomarańczowym zagłówkiem PKP Intercity oraz fragment półki bagażowej;
-- proponowany tekst alternatywny: „Mikołaj siedzący w pociągu w drodze do Warszawy. W tle niebieska zasłona, fotel z pomarańczowym zagłówkiem PKP Intercity i fragment półki bagażowej.”
+- opis: selfie w pociągu, z wnętrzem wagonu i zagłówkiem PKP Intercity w tle.
 
-Wcześniejsze, mniej czytelne ujęcie `IMG_1077.HEIC` zostało usunięte z Google Drive po wybraniu lepszego zdjęcia `IMG_1078.HEIC`.
+#### Warszawa Zachodnia – pomoc na peronie
+
+- czas: 08:48:31;
+- plik: `2026-08-31-084831-warszawa-zachodnia-pomoc-na-peronie.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: pracownik w pomarańczowej kamizelce pomaga z bagażem; w kadrze widoczny jest także fragment białej laski.
+
+#### Lotnisko Chopina – przed odlotem
+
+- czas: 11:08:21;
+- plik: `2026-08-31-110821-lotnisko-chopina-przed-odlotem.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: wnętrze terminalu i widok w kierunku płyty lotniska przed boardingiem.
+
+#### Wejście do samolotu Enter Air
+
+- czas: 11:26:26;
+- plik: `2026-08-31-112626-wejscie-do-samolotu-enter-air.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: osoba z białą laską przy samolocie Enter Air; widoczny kadłub, silnik i schody prowadzące na pokład.
+
+#### W locie na Dżerbę
+
+- czas: 13:55:57;
+- plik: `2026-08-31-135557-w-locie-na-dzerbe.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: ujęcie przy oknie samolotu podczas końcowego etapu lotu.
+
+#### Podejście do lądowania na Dżerbie
+
+- czas: 13:58:55;
+- plik: `2026-08-31-135855-podejscie-do-ladowania-dzerba.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: skrzydło samolotu, morze i linia brzegowa Dżerby podczas podejścia do lądowania.
+
+#### Lądowanie na Dżerbie – nagranie
+
+- początek nagrania: 13:59:13;
+- plik: `2026-08-31-135913-ladowanie-na-dzerbie.mov`;
+- status: `Publikacja: do rozważenia`;
+- opis: końcówka podejścia, lądowanie i początek dobiegu samolotu po pasie.
+
+#### Przyjazd do hotelu
+
+- czas: 15:31:41;
+- plik: `2026-08-31-153141-przyjazd-do-hotelu.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: teren hotelu z palmami i jasną zabudową; zdjęcie stanowi dobry punkt odniesienia dla godziny przyjazdu.
+
+#### Pokój hotelowy
+
+- czas: 16:26:47;
+- plik: `2026-08-31-162647-pokoj-hotelowy.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: pokój z dwoma łóżkami, dekoracyjnymi poduszkami i płatkami kwiatów; zdjęcie jest zgodne z oszacowaniem wejścia do pokoju około 16:30.
 
 ## 1 września 2026
 
