@@ -117,6 +117,8 @@ Szczególnie zaskakującym i sympatycznym detalem są opisy potraw. Oprócz inny
 
 Po kolacji przeszliśmy do baru. Wypiłem jednego drinka, którego nazwa brzmiała tak samo lub bardzo podobnie do nazwy hotelu — najprawdopodobniej „Palm Azur”. Nazwę warto jeszcze później potwierdzić.
 
+Późniejszy przegląd zdjęć ujawnił ujęcie wykonane o 19:51:14, przedstawiające trzymany w ręku pomarańczowy drink w hotelowym barze. Zdjęcie dobrze dokumentuje ten fragment wieczoru, ale nie pozwala samo w sobie potwierdzić nazwy drinka.
+
 Około 21:00 wróciłem do pokoju. Byłem zmęczony całym dniem podróży i zasnąłem mniej więcej na dwie godziny. Po 23:00 przyszedł Paweł; część uczestników także kończyła już wieczorne spotkanie. Po nocnej drzemce przez jakiś czas nie chciało mi się ponownie spać, choć plan był taki, żeby jeszcze odpocząć przed pierwszym pełnym dniem na Dżerbie.
 
 #### Informacja organizacyjna z dnia
@@ -148,11 +150,11 @@ Drugim charakterystycznym pierwszym wrażeniem jest silna obecność języka pol
 - Dżerba — lądowanie około 14:00 czasu lokalnego.
 - Hotel — przyjazd około 15:30 i wejście do pokoi około 16:30, zgodne z czasem zachowanych zdjęć.
 - Restauracja hotelowa — pierwsza kolacja o 18:30; duży wybór jedzenia i polskie nazwy potraw.
-- Bar hotelowy — krótki wieczorny pobyt po kolacji.
+- Bar hotelowy — krótki wieczorny pobyt po kolacji, udokumentowany zdjęciem z 19:51:14.
 
 ### Zdjęcia, nagrania i materiały
 
-Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ograniczony do minimalnej reprezentacji kolejnych etapów dnia. Pozostawiono łącznie 9 zdjęć i 1 film. Z nowej partii zachowano 7 zdjęć i film z lądowania, a 55 słabszych, powtarzalnych albo nieistotnych plików usunięto po zatwierdzeniu selekcji.
+Po pierwszej selekcji materiału z 31 sierpnia pozostawiono 9 zdjęć i 1 film. Podczas późniejszego przeglądu kolejnej partii plików odnaleziono jeszcze jedno wartościowe zdjęcie wykonane tego samego wieczoru — drink w hotelowym barze o 19:51:14. Ostatecznie archiwalna reprezentacja 31 sierpnia obejmuje 10 zdjęć i 1 film.
 
 Na Facebooku opublikowano pierwszy wpis z podróży, wykorzystujący cztery wybrane zdjęcia: rozpoczęcie podróży przed dworcem Poznań Główny, wejście do samolotu Enter Air, podejście do lądowania na Dżerbie oraz przyjazd do hotelu. Pozostałe materiały zachowują dotychczasowy status roboczy.
 
@@ -226,6 +228,13 @@ Na Facebooku opublikowano pierwszy wpis z podróży, wykorzystujący cztery wybr
 - status: `Publikacja: do rozważenia`;
 - opis: pokój z dwoma łóżkami, dekoracyjnymi poduszkami i płatkami kwiatów; zdjęcie jest zgodne z oszacowaniem wejścia do pokoju około 16:30.
 
+#### Drink w barze hotelowym
+
+- czas: 19:51:14;
+- plik: `2026-08-31-195114-drink-w-barze-hotelowym.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: trzymany w ręku pomarańczowy drink na tle hotelowego baru; zdjęcie dokumentuje wieczorny pobyt po kolacji.
+
 ## 1 września 2026
 
 Publikacja: do rozważenia
@@ -238,6 +247,12 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
+#### Śniadanie i przygotowanie do spotkania
+
+Pełna seria zdjęć wykonanych rano wskazuje, że śniadanie trwało mniej więcej od 08:09 do 08:41. Z tej części dnia zachowano jedno reprezentatywne zdjęcie z 08:11:52, pokazujące stanowisko restauracyjne i kartę z nazwą potrawy podaną także po polsku.
+
+Zdjęcia wykonane w lobby około 08:59–09:00 są zgodne z relacją o rozpoczęciu spotkania z rezydentką o 09:00. Ujęcia te posłużyły jedynie do doprecyzowania chronologii i nie zostały zachowane w minimalistycznym archiwum.
+
 #### 09:00–około 10:30 — spotkanie z rezydentką
 
 O 09:00 rozpoczęło się spotkanie organizacyjne z rezydentką Coral Travel. Zakończyło się około 10:30. Jednym z głównych tematów były wycieczki fakultatywne i możliwości zorganizowania programu odpowiadającego naszej grupie.
@@ -246,9 +261,13 @@ Korekta organizacyjna: cała grupa wyjazdowa liczy 17 osób. W dwóch wykupionyc
 
 Podczas spotkania ostatecznie wykupiliśmy dwie całodniowe wycieczki, każdą w cenie 70 euro od osoby.
 
+#### Droga przez hotel i wyjście na plażę
+
+Po spotkaniu ruszyliśmy w stronę plaży. Pełna seria zdjęć pokazuje teren hotelu od około 11:24. O 11:48:46 powstało zachowane zdjęcie charakterystycznego, półotwartego atrium z wysoką roślinnością i siatką nad przestrzenią wewnętrzną. Pierwsze zdjęcie samej plaży wykonano o 12:03:22.
+
 #### Plaża i pierwsza kąpiel w morzu
 
-Po spotkaniu, jeszcze przed lunchem, poszliśmy na hotelową plażę w cztery osoby. Do wody weszły trzy osoby, a Paweł został na brzegu.
+Na hotelową plażę poszliśmy w cztery osoby. Do wody weszły trzy osoby, a Paweł został na brzegu.
 
 Pierwszym miłym zaskoczeniem był piasek. W porównaniu z innymi plażami, które znałem poza Bałtykiem, tutejszy piasek wydał mi się zaskakująco podobny do bałtyckiego — drobny i przyjemny.
 
@@ -258,17 +277,21 @@ Przy samym brzegu leżało dużo wodorostów. Część z nich była także w pł
 
 Morze było tego dnia spokojne. Nie była to zupełna flauta, ale fale były bardzo małe i łagodne. Dalej od brzegu, orientacyjnie kilkadziesiąt metrów, można było już swobodnie się zanurzyć i pobawić w wodzie.
 
-Wróciliśmy z plaży po 13:00 i przeszliśmy bezpośrednio na lunch.
+Najlepsze zachowane zdjęcie plaży wykonano o 12:27:00. Pokazuje spokojne morze, niewielkie fale oraz wyraźny pas wodorostów przy brzegu. Trzydzieści sekund później, o 12:27:30, rozpoczęto zachowany film pokazujący trzy osoby kąpiące się w morzu.
+
+Pełna seria wskazuje, że jeszcze około 13:05 powstawały zdjęcia na plaży. Około 13:14–13:20 byliśmy już ponownie na terenie kompleksu hotelowego; zachowany portret z hotelowej alei ma czas 13:15:15. Pozwala to umieścić powrót z plaży mniej więcej w tym przedziale.
 
 #### Lunch po plaży
 
-Lunch w hotelu jest podawany od 12:30 do 14:30. Po powrocie z plaży zjadłem dwa kawałki ryby, potrawę opisaną po polsku jako „hamburger”, która w praktyce przypominała raczej polskiego kotleta mielonego, do tego frytki i surówki.
+Lunch w hotelu jest podawany od 12:30 do 14:30. Po powrocie z plaży udaliśmy się do restauracji. Zdjęcie talerza wykonane o 14:02:51 dokumentuje dwa kawałki ryby, okrągłą potrawę przypominającą kotleta mielonego, frytki i surówki.
 
 Do picia ponownie wybrałem chłodny sok ananasowy. Największą atrakcją deserową okazały się małe porcje lodów podawane w osobnych pojemniczkach z małą łopatką. Spróbowałem kilku smaków — między innymi pistacji, banana, truskawki i pomarańczy — i wziąłem jeszcze niewielką dokładkę. Lody były bardzo dobre.
 
+Pełna seria zdjęć pozwala dodatkowo uporządkować końcówkę lunchu: lody były fotografowane około 14:17, a sok około 14:24. Te ujęcia wykorzystano jako pomocnicze punkty chronologii, ale nie zachowano ich w finalnej, minimalistycznej selekcji.
+
 #### Popołudniowy odpoczynek
 
-Po lunchu wróciliśmy z Pawłem do pokoju. Około 14:30 obaj przysnęliśmy i odpoczywaliśmy przez większą część popołudnia, mniej więcej do czasu przed 17:00. Po intensywnym początku pobytu taki odpoczynek w klimatyzowanym pokoju dobrze się przydał.
+Po lunchu wróciliśmy z Pawłem do pokoju. Ponieważ ostatnie zdjęcia z restauracji powstały około 14:24, początek odpoczynku można umieścić około 14:30 lub chwilę później. Obaj przysnęliśmy i odpoczywaliśmy przez większą część popołudnia, mniej więcej do czasu przed 17:00. Po intensywnym początku pobytu taki odpoczynek w klimatyzowanym pokoju dobrze się przydał.
 
 ### Ustalone wycieczki
 
@@ -298,20 +321,70 @@ Spotkanie z rezydentką pozwoliło od razu ustalić dwa najważniejsze wyjazdy n
 
 Pierwsze wejście do morza było pozytywnym doświadczeniem przede wszystkim ze względu na bardzo ciepłą wodę i zaskakująco przyjemny piasek. Wodorosty przy brzegu są zauważalne i miejscami utrudniają wejście do wody, ale po przejściu dalej warunki do kąpieli stają się znacznie przyjemniejsze. Delikatna morska bryza daje trochę ulgi od wysokiej temperatury i wilgotności.
 
+Zdjęcia dobrze potwierdzają wizualną część tych obserwacji: pas wodorostów przy brzegu, spokojne morze z niewielkimi falami oraz półotwarty charakter części hotelu. Temperatura wody, wilgotność, odczuwanie bryzy i zapach pozostają relacją z miejsca — nie są wnioskowane ze zdjęć.
+
 Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracją. Szczególnie zapamiętałem bardzo dobre lody w małych pojemniczkach i ponownie chłodny sok ananasowy.
 
 ### Miejsca i wydarzenia
 
-- Hotel Palm Azur — poranne spotkanie organizacyjne z rezydentką Coral Travel od 09:00 do około 10:30.
-- Plaża hotelowa — pierwsza kąpiel w morzu; bardzo ciepła woda, łagodne fale, dużo wodorostów przy brzegu i delikatna morska bryza.
-- Restauracja hotelowa — lunch po powrocie z plaży; ryba, potrawa przypominająca kotleta mielonego, frytki, surówki, sok ananasowy i lody.
-- Pokój hotelowy — popołudniowy odpoczynek od około 14:30 do czasu przed 17:00.
+- Hotel Palm Azur — śniadanie około 08:09–08:41 oraz spotkanie organizacyjne z rezydentką Coral Travel od 09:00 do około 10:30.
+- Teren hotelu — przejście w stronę plaży; zachowane zdjęcie półotwartego atrium z 11:48:46.
+- Plaża hotelowa — pierwsze zdjęcie około 12:03, kąpiel około 12:27, bardzo ciepła woda, łagodne fale, dużo wodorostów przy brzegu i delikatna morska bryza.
+- Powrót z plaży — około 13:14–13:20 grupa była już ponownie na terenie kompleksu; zachowany portret ma czas 13:15:15.
+- Restauracja hotelowa — lunch; zachowany talerz sfotografowany o 14:02:51, lody około 14:17 i sok około 14:24.
+- Pokój hotelowy — popołudniowy odpoczynek od około 14:30 lub chwilę później do czasu przed 17:00.
 - Ustalono całodniowe zwiedzanie Dżerby na 2 września.
 - Ustalono indywidualnie zorganizowaną jednodniową wycieczkę na Saharę na 4 września.
 
 ### Zdjęcia, nagrania i materiały
 
-Materiały z plaży i lunchu mają zostać przejrzane po przesłaniu ich na Google Drive. Na podstawie metadanych zdjęć można będzie doprecyzować chronologię tego fragmentu dnia i wybrać minimalny zestaw reprezentatywnych ujęć.
+Do folderu trafiła nowa partia 73 plików: 62 zdjęcia HEIC, 9 filmów oraz 2 pliki JPG. Materiał był częściowo wymieszany z plikami pochodzącymi z innych źródeł. Po pełnym przeglądzie fotograficznym, analizie filmów i sprawdzeniu metadanych zatwierdzono bardzo oszczędną selekcję: zachowano 7 plików, a 66 pozostałych trwale usunięto.
+
+Jeden z siedmiu zachowanych plików okazał się zdjęciem wykonanym jeszcze 31 sierpnia i został przypisany do poprzedniego dnia. Do 1 września zachowano finalnie 6 materiałów: 5 zdjęć i 1 film. Ujęcia odrzucone mogły być wykorzystane pomocniczo do ustalenia chronologii przed usunięciem, ale nie są częścią finalnego archiwum.
+
+Po czyszczeniu folder `Dżerba 2026/Dziennik podróży/Zdjęcia` zawiera łącznie 17 wybranych materiałów z dotychczasowych dwóch dni.
+
+#### Polskie opisy potraw w restauracji
+
+- czas: 08:11:52;
+- plik: `2026-09-01-081152-polskie-opisy-potraw-w-restauracji.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: stanowisko w hotelowej restauracji oraz karta z nazwą potrawy podaną w kilku językach, w tym po polsku; materiał dokumentuje charakterystyczne dostosowanie hotelu do polskich gości.
+
+#### Półotwarte atrium hotelu
+
+- czas: 11:48:46;
+- plik: `2026-09-01-114846-otwarte-atrium-hotelu.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: widok skierowany ku górze wewnątrz hotelowego atrium, z wysoką tropikalną roślinnością, jasnymi kondygnacjami i siatką nad otwartą przestrzenią.
+
+#### Plaża i wodorosty
+
+- czas: 12:27:00;
+- plik: `2026-09-01-122700-plaza-i-wodorosty.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: szeroki widok hotelowej plaży i spokojnego morza; przy linii brzegowej widoczny jest wyraźny ciemny pas wodorostów.
+
+#### Kąpiel w morzu – nagranie
+
+- początek nagrania: 12:27:30;
+- plik: `2026-09-01-122730-kapiel-w-morzu.mov`;
+- status: `Publikacja: do rozważenia`;
+- opis: trzy osoby kąpiące się w spokojnym morzu; nagranie dokumentuje pierwszą kąpiel podczas pobytu na Dżerbie.
+
+#### Portret na terenie hotelu
+
+- czas: 13:15:15;
+- plik: `2026-09-01-131515-portret-na-terenie-hotelu.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: portret na hotelowej alei po powrocie z plaży, z roślinnością i zabudową kompleksu w tle.
+
+#### Lunch w hotelu
+
+- czas: 14:02:51;
+- plik: `2026-09-01-140251-lunch-w-hotelu.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: talerz z dwoma kawałkami ryby, okrągłą przypieczoną potrawą przypominającą kotleta mielonego, frytkami oraz surówkami.
 
 ## 2 września 2026
 
