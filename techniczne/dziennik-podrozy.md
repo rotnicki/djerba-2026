@@ -234,7 +234,7 @@ Publikacja: do rozważenia
 
 - śniadanie w hotelu: 07:30–10:00; plan grupy: około 08:00;
 - 09:00 — spotkanie z rezydentką Coral Travel w sprawie organizacji pobytu i wycieczek;
-- po spotkaniu — planowany odpoczynek i wyjście na plażę.
+- po spotkaniu — odpoczynek i wyjście na plażę.
 
 ### Przebieg dnia
 
@@ -245,6 +245,30 @@ O 09:00 rozpoczęło się spotkanie organizacyjne z rezydentką Coral Travel. Za
 Korekta organizacyjna: cała grupa wyjazdowa liczy 17 osób. W dwóch wykupionych wycieczkach ma uczestniczyć 15 osób.
 
 Podczas spotkania ostatecznie wykupiliśmy dwie całodniowe wycieczki, każdą w cenie 70 euro od osoby.
+
+#### Plaża i pierwsza kąpiel w morzu
+
+Po spotkaniu, jeszcze przed lunchem, poszliśmy na hotelową plażę w cztery osoby. Do wody weszły trzy osoby, a Paweł został na brzegu.
+
+Pierwszym miłym zaskoczeniem był piasek. W porównaniu z innymi plażami, które znałem poza Bałtykiem, tutejszy piasek wydał mi się zaskakująco podobny do bałtyckiego — drobny i przyjemny.
+
+Woda była bardzo ciepła, wręcz „jak zupa”, zdecydowanie bardziej do ogrzewania się niż do chłodzenia. Na zewnątrz było bardzo gorąco i dość wilgotno. Od morza wiała delikatna bryza, która dawała pewną ulgę, choć nie chłodziła tak mocno, jak można by oczekiwać przy takim upale.
+
+Przy samym brzegu leżało dużo wodorostów. Część z nich była także w płytkiej wodzie, a miejscami dało się wyczuć lekki zapach rozkładającej się materii organicznej. Nie było to jednak na tyle uciążliwe, żeby uniemożliwić kąpiel. Po przejściu przez strefę przybrzeżną dno stawało się przyjemniejsze i bardziej piaszczyste.
+
+Morze było tego dnia spokojne. Nie była to zupełna flauta, ale fale były bardzo małe i łagodne. Dalej od brzegu, orientacyjnie kilkadziesiąt metrów, można było już swobodnie się zanurzyć i pobawić w wodzie.
+
+Wróciliśmy z plaży po 13:00 i przeszliśmy bezpośrednio na lunch.
+
+#### Lunch po plaży
+
+Lunch w hotelu jest podawany od 12:30 do 14:30. Po powrocie z plaży zjadłem dwa kawałki ryby, potrawę opisaną po polsku jako „hamburger”, która w praktyce przypominała raczej polskiego kotleta mielonego, do tego frytki i surówki.
+
+Do picia ponownie wybrałem chłodny sok ananasowy. Największą atrakcją deserową okazały się małe porcje lodów podawane w osobnych pojemniczkach z małą łopatką. Spróbowałem kilku smaków — między innymi pistacji, banana, truskawki i pomarańczy — i wziąłem jeszcze niewielką dokładkę. Lody były bardzo dobre.
+
+#### Popołudniowy odpoczynek
+
+Po lunchu wróciliśmy z Pawłem do pokoju. Około 14:30 obaj przysnęliśmy i odpoczywaliśmy przez większą część popołudnia, mniej więcej do czasu przed 17:00. Po intensywnym początku pobytu taki odpoczynek w klimatyzowanym pokoju dobrze się przydał.
 
 ### Ustalone wycieczki
 
@@ -272,14 +296,22 @@ Pierwotnie proponowana była dwudniowa wycieczka na Saharę z soboty na niedziel
 
 Spotkanie z rezydentką pozwoliło od razu ustalić dwa najważniejsze wyjazdy na kolejne dni. Zamiast dłuższej, dwudniowej Sahary udało się uzgodnić wariant jednodniowy, lepiej dopasowany do możliwości i oczekiwań grupy.
 
+Pierwsze wejście do morza było pozytywnym doświadczeniem przede wszystkim ze względu na bardzo ciepłą wodę i zaskakująco przyjemny piasek. Wodorosty przy brzegu są zauważalne i miejscami utrudniają wejście do wody, ale po przejściu dalej warunki do kąpieli stają się znacznie przyjemniejsze. Delikatna morska bryza daje trochę ulgi od wysokiej temperatury i wilgotności.
+
+Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracją. Szczególnie zapamiętałem bardzo dobre lody w małych pojemniczkach i ponownie chłodny sok ananasowy.
+
 ### Miejsca i wydarzenia
 
 - Hotel Palm Azur — poranne spotkanie organizacyjne z rezydentką Coral Travel od 09:00 do około 10:30.
+- Plaża hotelowa — pierwsza kąpiel w morzu; bardzo ciepła woda, łagodne fale, dużo wodorostów przy brzegu i delikatna morska bryza.
+- Restauracja hotelowa — lunch po powrocie z plaży; ryba, potrawa przypominająca kotleta mielonego, frytki, surówki, sok ananasowy i lody.
+- Pokój hotelowy — popołudniowy odpoczynek od około 14:30 do czasu przed 17:00.
 - Ustalono całodniowe zwiedzanie Dżerby na 2 września.
 - Ustalono indywidualnie zorganizowaną jednodniową wycieczkę na Saharę na 4 września.
-- Po spotkaniu planowane jest wyjście na plażę.
 
 ### Zdjęcia, nagrania i materiały
+
+Materiały z plaży i lunchu mają zostać przejrzane po przesłaniu ich na Google Drive. Na podstawie metadanych zdjęć można będzie doprecyzować chronologię tego fragmentu dnia i wybrać minimalny zestaw reprezentatywnych ujęć.
 
 ## 2 września 2026
 
