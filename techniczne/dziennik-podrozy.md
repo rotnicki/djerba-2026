@@ -232,20 +232,69 @@ Publikacja: do rozważenia
 
 ### Plan dnia
 
-- śniadanie w hotelu: 07:30–10:00 według aktualnych informacji dla Palm Azur; plan grupy: około 08:00;
-- 09:00 — spotkanie z rezydentem, między innymi w sprawie wycieczek i organizacji pobytu.
+- śniadanie w hotelu: 07:30–10:00; plan grupy: około 08:00;
+- 09:00 — spotkanie z rezydentką Coral Travel w sprawie organizacji pobytu i wycieczek;
+- po spotkaniu — planowany odpoczynek i wyjście na plażę.
 
 ### Przebieg dnia
 
+#### 09:00–około 10:30 — spotkanie z rezydentką
+
+O 09:00 rozpoczęło się spotkanie organizacyjne z rezydentką Coral Travel. Zakończyło się około 10:30. Jednym z głównych tematów były wycieczki fakultatywne i możliwości zorganizowania programu odpowiadającego naszej grupie.
+
+Korekta organizacyjna: cała grupa wyjazdowa liczy 17 osób. W dwóch wykupionych wycieczkach ma uczestniczyć 15 osób.
+
+Podczas spotkania ostatecznie wykupiliśmy dwie całodniowe wycieczki, każdą w cenie 70 euro od osoby.
+
+### Ustalone wycieczki
+
+#### 2 września — całodniowe zwiedzanie Dżerby
+
+- organizator/oferta: Coral Travel;
+- liczba uczestników z grupy: 15 osób;
+- cena: 70 euro od osoby;
+- planowany wyjazd: 08:00;
+- planowany powrót: około 18:00;
+- charakter: całodniowe zwiedzanie wyspy Dżerba;
+- szczegółowy program: do uzupełnienia później.
+
+#### 4 września — jednodniowa Sahara
+
+Pierwotnie proponowana była dwudniowa wycieczka na Saharę z soboty na niedzielę, ale uznaliśmy, że dwa dni to dla naszej grupy zbyt długo. Rezydentka zaproponowała więc przygotowanie specjalnie dla nas jednodniowego wariantu na piątek, 4 września.
+
+- liczba uczestników z grupy: 15 osób;
+- cena: 70 euro od osoby;
+- charakter: całodniowa wycieczka na Saharę, zorganizowana indywidualnie dla grupy;
+- wstępnie zapowiedziane elementy: miejsca związane z „Gwiezdnymi wojnami”, wielbłądy oraz przejazdy jeepami na Saharze;
+- szczegółowy program i godziny: do uzupełnienia później.
+
 ### Wrażenia i obserwacje
 
+Spotkanie z rezydentką pozwoliło od razu ustalić dwa najważniejsze wyjazdy na kolejne dni. Zamiast dłuższej, dwudniowej Sahary udało się uzgodnić wariant jednodniowy, lepiej dopasowany do możliwości i oczekiwań grupy.
+
 ### Miejsca i wydarzenia
+
+- Hotel Palm Azur — poranne spotkanie organizacyjne z rezydentką Coral Travel od 09:00 do około 10:30.
+- Ustalono całodniowe zwiedzanie Dżerby na 2 września.
+- Ustalono indywidualnie zorganizowaną jednodniową wycieczkę na Saharę na 4 września.
+- Po spotkaniu planowane jest wyjście na plażę.
 
 ### Zdjęcia, nagrania i materiały
 
 ## 2 września 2026
 
 Publikacja: do rozważenia
+
+### Plan dnia
+
+#### Całodniowe zwiedzanie Dżerby
+
+- organizator/oferta: Coral Travel;
+- uczestnicy z grupy: 15 osób;
+- cena: 70 euro od osoby;
+- wyjazd: 08:00;
+- powrót: około 18:00;
+- szczegóły programu: do uzupełnienia po uzyskaniu dokładnych informacji lub po wycieczce.
 
 ### Przebieg dnia
 
@@ -270,6 +319,16 @@ Publikacja: do rozważenia
 ## 4 września 2026
 
 Publikacja: do rozważenia
+
+### Plan dnia
+
+#### Jednodniowa wycieczka na Saharę
+
+- wycieczka uzgodniona indywidualnie z rezydentką Coral Travel jako krótsza alternatywa dla standardowej wycieczki dwudniowej;
+- uczestnicy z grupy: 15 osób;
+- cena: 70 euro od osoby;
+- wstępnie zapowiedziane elementy: miejsca związane z „Gwiezdnymi wojnami”, wielbłądy i przejazdy jeepami na Saharze;
+- szczegółowy program i godziny: do uzupełnienia.
 
 ### Przebieg dnia
 
