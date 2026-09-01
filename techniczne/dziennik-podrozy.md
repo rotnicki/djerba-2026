@@ -103,13 +103,13 @@ Do hotelu grupa dotarła około 15:30. Wcześniejsze przybliżenie wzmacnia zdj�
 
 #### Odpoczynek po zakwaterowaniu
 
-Po wejściu do pokoi był czas na krótki odpoczynek po podróży. Odpoczywałem w swoim pokoju; mój przewodnik Paweł również był w sąsiednim pokoju. Po całym dniu podróży taki przystanek przed kolacją był bardzo potrzebny.
+Po wejściu do pokoju był czas na krótki odpoczynek po podróży. Dzielę pokój z moim przewodnikiem Pawłem; obaj odpoczęliśmy przed kolacją. Po całym dniu podróży taki przystanek był bardzo potrzebny.
 
 #### 18:30 – pierwsza kolacja w hotelu
 
 O 18:30 poszliśmy na kolację do głównej restauracji hotelowej. Restauracja jest bardzo duża, podobnie jak cały obiekt, i ma wiele oddzielnych stanowisk z różnymi rodzajami potraw.
 
-Pierwsza kolacja była udana. Zjadłem między innymi ciemny ryż, trochę mięsa z kurczaka oraz duży kawałek bardzo dobrze przygotowanej ryby, która przypominała łososia. Do tego spróbowałem kawałka pizzy, bagietki, szynki i żółtego sera. Z owoców były między innymi mango, brzoskwinia i owoc przypominający śliwkę. Kilka razy piłem sok ananasowy z lodem. Ogólne pierwsze wrażenie z jedzenia było bardzo dobre, także pizza okazała się smaczna.
+Pierwsza kolacja była udana. Zjadłem między innymi ciemny ryż, trochę mięsa z kurczaka oraz duży kawałek bardzo dobrze przygotowanej ryby, która przypominała łososia. Do tego spróbowałem kawałka pizzy, bagietki, szynki i żółtego sera. Z owoców były między innymi mango, brzoskwinia i owoc przypominający śliwkę. Kilka razy piłem sok ananasowy z lodem, a podczas kolacji wypiłem również piwo. Ogólne pierwsze wrażenie z jedzenia było bardzo dobre, także pizza okazała się smaczna.
 
 Szczególnie zaskakującym i sympatycznym detalem są opisy potraw. Oprócz innych języków nazwy dań są podawane również po polsku. To pierwszy raz, kiedy spotkałem się w hotelu za granicą z tak wyraźnym dostosowaniem informacji w restauracji do dużej liczby polskich gości.
 
