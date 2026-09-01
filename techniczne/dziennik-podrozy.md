@@ -154,11 +154,13 @@ Drugim charakterystycznym pierwszym wrażeniem jest silna obecność języka pol
 
 Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ograniczony do minimalnej reprezentacji kolejnych etapów dnia. Pozostawiono łącznie 9 zdjęć i 1 film. Z nowej partii zachowano 7 zdjęć i film z lądowania, a 55 słabszych, powtarzalnych albo nieistotnych plików usunięto po zatwierdzeniu selekcji.
 
+Na Facebooku opublikowano pierwszy wpis z podróży, wykorzystujący cztery wybrane zdjęcia: rozpoczęcie podróży przed dworcem Poznań Główny, wejście do samolotu Enter Air, podejście do lądowania na Dżerbie oraz przyjazd do hotelu. Pozostałe materiały zachowują dotychczasowy status roboczy.
+
 #### Zdjęcie reprezentatywne – rozpoczęcie podróży
 
 - czas: 05:11:19;
 - plik: `2026-08-31-051119-poznan-glowny-start-podrozy.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: selfie przed dworcem Poznań Główny przed rozpoczęciem podróży, z podświetloną fasadą dworca i księżycem.
 
 #### W drodze do Warszawy
@@ -186,7 +188,7 @@ Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ogr
 
 - czas: 11:26:26;
 - plik: `2026-08-31-112626-wejscie-do-samolotu-enter-air.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: osoba z białą laską przy samolocie Enter Air; widoczny kadłub, silnik i schody prowadzące na pokład.
 
 #### W locie na Dżerbę
@@ -200,7 +202,7 @@ Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ogr
 
 - czas: 13:58:55;
 - plik: `2026-08-31-135855-podejscie-do-ladowania-dzerba.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: skrzydło samolotu, morze i linia brzegowa Dżerby podczas podejścia do lądowania.
 
 #### Lądowanie na Dżerbie – nagranie
@@ -214,7 +216,7 @@ Po przeglądzie całej partii materiału z 31 sierpnia folder został celowo ogr
 
 - czas: 15:31:41;
 - plik: `2026-08-31-153141-przyjazd-do-hotelu.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: teren hotelu z palmami i jasną zabudową; zdjęcie stanowi dobry punkt odniesienia dla godziny przyjazdu.
 
 #### Pokój hotelowy
