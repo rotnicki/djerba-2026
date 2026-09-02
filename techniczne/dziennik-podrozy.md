@@ -95,11 +95,13 @@ Planowana godzina odlotu wynosiła 11:35. Około 11:50 czasu polskiego samolot r
 
 Lot przebiegł bezproblemowo. Materiał fotograficzny dokumentuje końcowy etap podróży: zdjęcie przy oknie o 13:55:57, widok podczas podejścia do Dżerby o 13:58:55 oraz film rozpoczęty o 13:59:13, pokazujący końcówkę podejścia i lądowanie. Samolot przyziemił około 14:00 czasu lokalnego, co odpowiada około 15:00 czasu polskiego. Od rozpoczęcia kołowania w Warszawie około 11:50 do przyziemienia na Dżerbie około 14:00 czasu lokalnego upłynęło około 3 godz. 10 min. Jest to czas liczony od rozpoczęcia kołowania do przyziemienia, a nie wyłącznie czas lotu w powietrzu.
 
-#### Dżerba – lądowanie i przyjazd do hotelu
+#### Dżerba – lądowanie, przyjazd do hotelu i opaski all inclusive
 
 Lot zakończył się szczęśliwym lądowaniem na Dżerbie. Samolot przyziemił około 14:00 czasu lokalnego.
 
 Do hotelu grupa dotarła około 15:30. Wcześniejsze przybliżenie wzmacnia zdjęcie wykonane na terenie hotelu o 15:31:41. Do pokoi hotelowych udało się wejść około 16:30; zdjęcie pokoju wykonane o 16:26:47 jest zgodne z tym oszacowaniem.
+
+Po przyjeździe do hotelu otrzymaliśmy niebieskie opaski z nazwą hotelu. Są one oznaczeniem naszego pakietu all inclusive i uprawniają do korzystania z objętych nim posiłków, napojów i usług, w tym z napojów wydawanych w hotelowych barach bez osobnej zapłaty przy każdym zamówieniu.
 
 #### Odpoczynek po zakwaterowaniu
 
@@ -148,7 +150,7 @@ Drugim charakterystycznym pierwszym wrażeniem jest silna obecność języka pol
 - Lotnisko Chopina — przyjazd około 09:02, przejęcie grupy przez asystę, sprawna odprawa, nadanie bagażu, kontrola bezpieczeństwa i wejście na pokład.
 - Lot Warszawa – Dżerba — rozpoczęcie kołowania około 11:50 czasu polskiego, przyziemienie około 14:00 czasu lokalnego; około 3 godz. 10 min od rozpoczęcia kołowania do przyziemienia.
 - Dżerba — lądowanie około 14:00 czasu lokalnego.
-- Hotel — przyjazd około 15:30 i wejście do pokoi około 16:30, zgodne z czasem zachowanych zdjęć.
+- Hotel — przyjazd około 15:30, otrzymanie niebieskich opasek all inclusive i wejście do pokoi około 16:30.
 - Restauracja hotelowa — pierwsza kolacja o 18:30; duży wybór jedzenia i polskie nazwy potraw.
 - Bar hotelowy — krótki wieczorny pobyt po kolacji, udokumentowany zdjęciem z 19:51:14.
 
@@ -293,6 +295,28 @@ Pełna seria zdjęć pozwala dodatkowo uporządkować końcówkę lunchu: lody b
 
 Po lunchu wróciliśmy z Pawłem do pokoju. Ponieważ ostatnie zdjęcia z restauracji powstały około 14:24, początek odpoczynku można umieścić około 14:30 lub chwilę później. Obaj przysnęliśmy i odpoczywaliśmy przez większą część popołudnia, mniej więcej do czasu przed 17:00. Po intensywnym początku pobytu taki odpoczynek w klimatyzowanym pokoju dobrze się przydał.
 
+#### 18:30 — kolacja
+
+Około 18:30 poszliśmy na kolację. Tym razem szczególnie dobrze wypadła jagnięcina podana z kaszą. Spróbowałem również kawałka pizzy, grillowanych kiełbasek oraz kawałka słodkiej tarty. Na deser ponownie były lody — tym razem wybrałem smaki czekoladowy i brzoskwiniowy. Do picia brałem chłodne soki, przede wszystkim tropikalny i ananasowy. Całą kolację oceniam bardzo dobrze.
+
+#### Około 20:30 — wieczór przy plaży i barze
+
+Po kolacji, około 20:30, większą grupą poszliśmy ponownie w stronę plaży, tym razem nie po to, żeby się kąpać, lecz żeby usiąść w części wypoczynkowej pod palmami, przy leżakach. Po drodze znajdował się hotelowy bar nadmorski, z którego mogliśmy korzystać w ramach posiadanych opasek all inclusive.
+
+Wieczorem wypiłem w sumie trzy różne drinki: najprawdopodobniej Piña Coladę, drink „Palm Azur” nazwany tak jak hotel oraz whisky z colą. Nazwę pierwszego drinka będzie można jeszcze później potwierdzić na podstawie dokumentacji fotograficznej, jeżeli będzie widoczna.
+
+Siedzieliśmy razem, rozmawialiśmy i dużo się śmialiśmy. Kolejnym sympatycznym przykładem nastawienia hotelu na polskich gości była obsługa baru. Pracownicy znali różne polskie słowa i zwroty, co spotkało się z bardzo pozytywną reakcją grupy i nawet brawami.
+
+W późniejszej części wieczoru przy scenie puszczano muzykę. Wśród polskich utworów pojawiły się między innymi „Ona tańczy dla mnie” zespołu Weekend oraz „Rapapara” zespołu Łydka Grubasa. To kolejny przykład tego, jak wyraźnie hotel uwzględnia dużą obecność polskich turystów — nie tylko przez język w restauracji i recepcji, lecz także przez muzykę podczas wieczornej rozrywki.
+
+#### Księżyc między palmami
+
+Jednym z najbardziej efektownych wizualnie momentów wieczoru był księżyc widoczny nisko nad horyzontem pomiędzy palmami. W miarę upływu czasu przesuwał się na tle koron palm, tworząc bardzo charakterystyczne kadry. Powstała cała seria zdjęć, część wykonana samodzielnie, a część z pomocą kolegi. Materiał ma zostać później przejrzany i bardzo oszczędnie wyselekcjonowany do dziennika.
+
+#### Po 23:00 — powrót do pokoju
+
+Po 23:00 wróciliśmy do hotelowego pokoju. Po kąpieli rozpoczęło się już przygotowanie do snu, tym bardziej że następnego dnia rano czeka nas całodniowe zwiedzanie Dżerby. Wyjazd został ostatecznie ustalony na 08:15, po śniadaniu.
+
 ### Ustalone wycieczki
 
 #### 2 września — całodniowe zwiedzanie Dżerby
@@ -300,7 +324,7 @@ Po lunchu wróciliśmy z Pawłem do pokoju. Ponieważ ostatnie zdjęcia z restau
 - organizator/oferta: Coral Travel;
 - liczba uczestników z grupy: 15 osób;
 - cena: 70 euro od osoby;
-- planowany wyjazd: 08:00;
+- planowany wyjazd: 08:15;
 - planowany powrót: około 18:00;
 - charakter: całodniowe zwiedzanie wyspy Dżerba;
 - szczegółowy program: do uzupełnienia później.
@@ -323,7 +347,9 @@ Pierwsze wejście do morza było pozytywnym doświadczeniem przede wszystkim ze 
 
 Zdjęcia dobrze potwierdzają wizualną część tych obserwacji: pas wodorostów przy brzegu, spokojne morze z niewielkimi falami oraz półotwarty charakter części hotelu. Temperatura wody, wilgotność, odczuwanie bryzy i zapach pozostają relacją z miejsca — nie są wnioskowane ze zdjęć.
 
-Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracją. Szczególnie zapamiętałem bardzo dobre lody w małych pojemniczkach i ponownie chłodny sok ananasowy.
+Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracją. Szczególnie zapamiętałem bardzo dobre lody w małych pojemniczkach i ponownie chłodny sok ananasowy. Równie dobrze wypadła wieczorna kolacja, zwłaszcza jagnięcina z kaszą oraz kolejne smaki lodów.
+
+Wieczór pokazał jeszcze jeden aspekt nastawienia hotelu na polskich turystów. Po polskich opisach potraw i podstawowych polskich zwrotach używanych przez pracowników pojawiła się także polska muzyka podczas wieczornej rozrywki. W połączeniu z bardzo swobodną atmosferą przy barze i wspólnym siedzeniem pod palmami dało to bardzo pozytywne zakończenie pierwszego pełnego dnia pobytu.
 
 ### Miejsca i wydarzenia
 
@@ -333,7 +359,12 @@ Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracj�
 - Powrót z plaży — około 13:14–13:20 grupa była już ponownie na terenie kompleksu; zachowany portret ma czas 13:15:15.
 - Restauracja hotelowa — lunch; zachowany talerz sfotografowany o 14:02:51, lody około 14:17 i sok około 14:24.
 - Pokój hotelowy — popołudniowy odpoczynek od około 14:30 lub chwilę później do czasu przed 17:00.
-- Ustalono całodniowe zwiedzanie Dżerby na 2 września.
+- Restauracja hotelowa — kolacja około 18:30; między innymi jagnięcina z kaszą, pizza, grillowane kiełbaski, słodka tarta i lody czekoladowe oraz brzoskwiniowe.
+- Nadmorska część hotelu — od około 20:30 wspólny wieczór pod palmami i przy leżakach, korzystanie z baru all inclusive i późniejsza muzyka.
+- Wśród polskich utworów puszczono „Ona tańczy dla mnie” zespołu Weekend oraz „Rapapara” zespołu Łydka Grubasa.
+- Wieczorem powstała seria zdjęć księżyca widocznego między palmami; materiał czeka na selekcję.
+- Po 23:00 — powrót do pokoju i przygotowanie do snu przed wyjazdem następnego dnia.
+- Ustalono całodniowe zwiedzanie Dżerby na 2 września, z wyjazdem o 08:15.
 - Ustalono indywidualnie zorganizowaną jednodniową wycieczkę na Saharę na 4 września.
 
 ### Zdjęcia, nagrania i materiały
@@ -343,6 +374,8 @@ Do folderu trafiła nowa partia 73 plików: 62 zdjęcia HEIC, 9 filmów oraz 2 p
 Jeden z siedmiu zachowanych plików okazał się zdjęciem wykonanym jeszcze 31 sierpnia i został przypisany do poprzedniego dnia. Do 1 września zachowano finalnie 6 materiałów: 5 zdjęć i 1 film. Ujęcia odrzucone mogły być wykorzystane pomocniczo do ustalenia chronologii przed usunięciem, ale nie są częścią finalnego archiwum.
 
 Po czyszczeniu folder `Dżerba 2026/Dziennik podróży/Zdjęcia` zawiera łącznie 17 wybranych materiałów z dotychczasowych dwóch dni.
+
+Dokumentacja fotograficzna z wieczoru 1 września — w szczególności zdjęcia księżyca między palmami oraz ewentualne ujęcia drinków i wieczornego pobytu przy plaży — ma zostać dodana i przejrzana w kolejnym przebiegu. Nie została jeszcze włączona do powyższej liczby wybranych materiałów.
 
 #### Polskie opisy potraw w restauracji
 
@@ -397,7 +430,8 @@ Publikacja: do rozważenia
 - organizator/oferta: Coral Travel;
 - uczestnicy z grupy: 15 osób;
 - cena: 70 euro od osoby;
-- wyjazd: 08:00;
+- śniadanie przed wyjazdem;
+- wyjazd: 08:15;
 - powrót: około 18:00;
 - szczegóły programu: do uzupełnienia po uzyskaniu dokładnych informacji lub po wycieczce.
 
