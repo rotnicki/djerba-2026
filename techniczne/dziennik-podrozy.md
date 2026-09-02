@@ -387,32 +387,34 @@ Po tej operacji folder `Dżerba 2026/Dziennik podróży/Zdjęcia` zawiera łącz
 
 Odrzucone filmy i zdjęcia z późnej części wieczoru zostały przed usunięciem wykorzystane pomocniczo do doprecyzowania chronologii, w szczególności przejścia w stronę plaży i powrotu po 23:00.
 
+2 września wieczorem na Facebooku opublikowano z niewielkim opóźnieniem relację z drugiego dnia pobytu. Do posta wykorzystano 5 zdjęć i 1 film: polskie opisy potraw w restauracji (`IMG_1152`), plażę i wodorosty (`IMG_1188`), film z kąpieli w morzu (`IMG_1191`), portret na terenie hotelu (`IMG_1204`), wieczorną aleję palmową (`IMG_1237`) oraz artystyczne ujęcie księżyca w koronie palmy (`IMG_1255`). Opublikowano także przygotowany opis rozpoczynający się od „Dżerba 2026 — dzień drugi, trochę z opóźnieniem” oraz przygotowane teksty alternatywne dla materiałów.
+
 #### Polskie opisy potraw w restauracji
 
 - czas: 08:11:52;
 - plik: `2026-09-01-081152-polskie-opisy-potraw-w-restauracji.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: stanowisko w hotelowej restauracji oraz karta z nazwą potrawy podaną w kilku językach, w tym po polsku; materiał dokumentuje charakterystyczne dostosowanie hotelu do polskich gości.
 
 #### Plaża i wodorosty
 
 - czas: 12:27:00;
 - plik: `2026-09-01-122700-plaza-i-wodorosty.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: szeroki widok hotelowej plaży i spokojnego morza; przy linii brzegowej widoczny jest wyraźny ciemny pas wodorostów.
 
 #### Kąpiel w morzu – nagranie
 
 - początek nagrania: 12:27:30;
 - plik: `2026-09-01-122730-kapiel-w-morzu.mov`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: trzy osoby kąpiące się w spokojnym morzu; nagranie dokumentuje pierwszą kąpiel podczas pobytu na Dżerbie.
 
 #### Portret na terenie hotelu
 
 - czas: 13:15:15;
 - plik: `2026-09-01-131515-portret-na-terenie-hotelu.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: portret na hotelowej alei po powrocie z plaży, z roślinnością i zabudową kompleksu w tle.
 
 #### Lunch w hotelu
@@ -440,7 +442,7 @@ Odrzucone filmy i zdjęcia z późnej części wieczoru zostały przed usunięci
 
 - czas: 20:22:00;
 - plik: `2026-09-01-202200-wieczorna-aleja-palmowa-do-plazy.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: nocna hotelowa aleja prowadząca w stronę plaży, z oświetlonymi palmami i osobami idącymi w kierunku nadmorskiej części kompleksu.
 
 #### Księżyc między palmami nad plażą
@@ -454,7 +456,7 @@ Odrzucone filmy i zdjęcia z późnej części wieczoru zostały przed usunięci
 
 - czas: 21:47:32;
 - plik: `2026-09-01-214732-ksiezyc-w-koronie-palmy.heic`;
-- status: `Publikacja: do rozważenia`;
+- status: `Publikacja: opublikowano`;
 - opis: bardziej artystyczny, ciaśniejszy kadr, w którym jasny księżyc przeciska się pomiędzy liśćmi korony palmy; zachowany świadomie jako uzupełnienie szerszego ujęcia z 21:14:26.
 
 ## 2 września 2026
