@@ -265,7 +265,7 @@ Podczas spotkania ostatecznie wykupiliśmy dwie całodniowe wycieczki, każdą w
 
 #### Droga przez hotel i wyjście na plażę
 
-Po spotkaniu ruszyliśmy w stronę plaży. Pełna seria zdjęć pokazuje teren hotelu od około 11:24. O 11:48:46 powstało zachowane zdjęcie charakterystycznego, półotwartego atrium z wysoką roślinnością i siatką nad przestrzenią wewnętrzną. Pierwsze zdjęcie samej plaży wykonano o 12:03:22.
+Po spotkaniu ruszyliśmy w stronę plaży. Pełna seria zdjęć pokazuje teren hotelu od około 11:24. Jedno z ujęć atrium z 11:48:46 posłużyło pomocniczo do dokumentacji przestrzeni, ale po późniejszym porównaniu zostało zastąpione lepszym zdjęciem wykonanym wieczorem. Pierwsze zdjęcie samej plaży wykonano o 12:03:22.
 
 #### Plaża i pierwsza kąpiel w morzu
 
@@ -297,13 +297,17 @@ Po lunchu wróciliśmy z Pawłem do pokoju. Ponieważ ostatnie zdjęcia z restau
 
 #### 18:30 — kolacja
 
-Około 18:30 poszliśmy na kolację. Tym razem szczególnie dobrze wypadła jagnięcina podana z kaszą. Spróbowałem również kawałka pizzy, grillowanych kiełbasek oraz kawałka słodkiej tarty. Na deser ponownie były lody — tym razem wybrałem smaki czekoladowy i brzoskwiniowy. Do picia brałem chłodne soki, przede wszystkim tropikalny i ananasowy. Całą kolację oceniam bardzo dobrze.
+Około 18:30 poszliśmy na kolację. O 18:40:34 powstało zdjęcie hotelowego atrium, które po późniejszym porównaniu okazało się lepszą reprezentacją tej przestrzeni niż wcześniejsze ujęcie z południa. Zdjęcie jagnięciny z kaszą wykonano o 18:54:53, co dobrze porządkuje początek kolacji.
 
-#### Około 20:30 — wieczór przy plaży i barze
+Tym razem szczególnie dobrze wypadła jagnięcina podana z kaszą. Spróbowałem również kawałka pizzy, grillowanych kiełbasek oraz kawałka słodkiej tarty. Na deser ponownie były lody — tym razem wybrałem smaki czekoladowy i brzoskwiniowy. Do picia brałem chłodne soki, przede wszystkim tropikalny i ananasowy. Całą kolację oceniam bardzo dobrze.
 
-Po kolacji, około 20:30, większą grupą poszliśmy ponownie w stronę plaży, tym razem nie po to, żeby się kąpać, lecz żeby usiąść w części wypoczynkowej pod palmami, przy leżakach. Po drodze znajdował się hotelowy bar nadmorski, z którego mogliśmy korzystać w ramach posiadanych opasek all inclusive.
+#### Około 20:20–20:30 — wieczór przy plaży i barze
 
-Wieczorem wypiłem w sumie trzy różne drinki: najprawdopodobniej Piña Coladę, drink „Palm Azur” nazwany tak jak hotel oraz whisky z colą. Nazwę pierwszego drinka będzie można jeszcze później potwierdzić na podstawie dokumentacji fotograficznej, jeżeli będzie widoczna.
+Po kolacji większą grupą ruszyliśmy ponownie w stronę plaży, tym razem nie po to, żeby się kąpać, lecz żeby usiąść w części wypoczynkowej pod palmami, przy leżakach. Zdjęcie wieczornej alei palmowej wykonane o 20:22:00 pokazuje, że byliśmy już wtedy w drodze do nadmorskiej części hotelu. Pierwsze zdjęcia napoju przy plaży powstały około 20:31–20:32.
+
+Po drodze znajdował się hotelowy bar nadmorski, z którego mogliśmy korzystać w ramach posiadanych opasek all inclusive.
+
+Wieczorem wypiłem w sumie trzy różne drinki: najprawdopodobniej Piña Coladę, drink „Palm Azur” nazwany tak jak hotel oraz whisky z colą. Nazwę pierwszego drinka będzie można jeszcze później potwierdzić, jeżeli pojawi się wiarygodny materiał pokazujący nazwę.
 
 Siedzieliśmy razem, rozmawialiśmy i dużo się śmialiśmy. Kolejnym sympatycznym przykładem nastawienia hotelu na polskich gości była obsługa baru. Pracownicy znali różne polskie słowa i zwroty, co spotkało się z bardzo pozytywną reakcją grupy i nawet brawami.
 
@@ -311,11 +315,15 @@ W późniejszej części wieczoru przy scenie puszczano muzykę. Wśród polskic
 
 #### Księżyc między palmami
 
-Jednym z najbardziej efektownych wizualnie momentów wieczoru był księżyc widoczny nisko nad horyzontem pomiędzy palmami. W miarę upływu czasu przesuwał się na tle koron palm, tworząc bardzo charakterystyczne kadry. Powstała cała seria zdjęć, część wykonana samodzielnie, a część z pomocą kolegi. Materiał ma zostać później przejrzany i bardzo oszczędnie wyselekcjonowany do dziennika.
+Jednym z najbardziej efektownych wizualnie momentów wieczoru był księżyc widoczny nisko nad horyzontem pomiędzy palmami. W miarę upływu czasu przesuwał się na tle koron palm, tworząc bardzo charakterystyczne kadry.
 
-#### Po 23:00 — powrót do pokoju
+Z dużej serii zachowano dwa różniące się charakterem zdjęcia. Ujęcie z 21:14:26 ma większą wartość dokumentacyjną, ponieważ pokazuje księżyc między palmami razem z plażą i morzem. Drugie zdjęcie, wykonane o 21:47:32, pozostawiono świadomie jako bardziej artystyczny kadr — księżyc przeciska się w nim przez koronę palmy. Pozostałe podobne ujęcia zostały usunięte po porównaniu.
 
-Po 23:00 wróciliśmy do hotelowego pokoju. Po kąpieli rozpoczęło się już przygotowanie do snu, tym bardziej że następnego dnia rano czeka nas całodniowe zwiedzanie Dżerby. Wyjazd został ostatecznie ustalony na 08:15, po śniadaniu.
+#### Po 23:00 — końcówka wieczoru i powrót
+
+Materiały z pełnej, później zredukowanej serii doprecyzowały końcówkę wieczoru. Filmy w strefie leżaków powstawały jeszcze około 22:46, 23:00, 23:07 i 23:08. Około 23:21 wykonano jeszcze zdjęcia przy oświetlonym basenie. Oznacza to, że po 23:00 dopiero zaczynaliśmy wracać z nadmorskiej części przez teren hotelu, a do pokoju dotarliśmy później.
+
+Po powrocie wykąpałem się i rozpoczęło się już przygotowanie do snu, tym bardziej że następnego dnia rano czeka nas całodniowe zwiedzanie Dżerby. Wyjazd został ostatecznie ustalony na 08:15, po śniadaniu.
 
 ### Ustalone wycieczki
 
@@ -351,31 +359,33 @@ Lunch po plaży był kolejnym pozytywnym doświadczeniem z hotelową restauracj�
 
 Wieczór pokazał jeszcze jeden aspekt nastawienia hotelu na polskich turystów. Po polskich opisach potraw i podstawowych polskich zwrotach używanych przez pracowników pojawiła się także polska muzyka podczas wieczornej rozrywki. W połączeniu z bardzo swobodną atmosferą przy barze i wspólnym siedzeniem pod palmami dało to bardzo pozytywne zakończenie pierwszego pełnego dnia pobytu.
 
+Dodatkowym, bardzo charakterystycznym wspomnieniem z wieczoru był księżyc przesuwający się pomiędzy palmami. Z tej serii pozostawiono zarówno jedno ujęcie dokumentujące miejsce, jak i jedno bardziej artystyczne.
+
 ### Miejsca i wydarzenia
 
 - Hotel Palm Azur — śniadanie około 08:09–08:41 oraz spotkanie organizacyjne z rezydentką Coral Travel od 09:00 do około 10:30.
-- Teren hotelu — przejście w stronę plaży; zachowane zdjęcie półotwartego atrium z 11:48:46.
+- Teren hotelu — przejście w stronę plaży; wcześniejsze zdjęcie atrium z 11:48:46 wykorzystano pomocniczo, ale w archiwum zastąpiło je lepsze ujęcie wykonane o 18:40:34.
 - Plaża hotelowa — pierwsze zdjęcie około 12:03, kąpiel około 12:27, bardzo ciepła woda, łagodne fale, dużo wodorostów przy brzegu i delikatna morska bryza.
 - Powrót z plaży — około 13:14–13:20 grupa była już ponownie na terenie kompleksu; zachowany portret ma czas 13:15:15.
 - Restauracja hotelowa — lunch; zachowany talerz sfotografowany o 14:02:51, lody około 14:17 i sok około 14:24.
 - Pokój hotelowy — popołudniowy odpoczynek od około 14:30 lub chwilę później do czasu przed 17:00.
-- Restauracja hotelowa — kolacja około 18:30; między innymi jagnięcina z kaszą, pizza, grillowane kiełbaski, słodka tarta i lody czekoladowe oraz brzoskwiniowe.
-- Nadmorska część hotelu — od około 20:30 wspólny wieczór pod palmami i przy leżakach, korzystanie z baru all inclusive i późniejsza muzyka.
+- Restauracja hotelowa — kolacja około 18:30; zachowane zdjęcie jagnięciny z kaszą ma czas 18:54:53.
+- Nadmorska część hotelu — przejście w jej stronę udokumentowane o 20:22; około 20:31–20:32 byliśmy już przy napojach i strefie wypoczynkowej.
 - Wśród polskich utworów puszczono „Ona tańczy dla mnie” zespołu Weekend oraz „Rapapara” zespołu Łydka Grubasa.
-- Wieczorem powstała seria zdjęć księżyca widocznego między palmami; materiał czeka na selekcję.
-- Po 23:00 — powrót do pokoju i przygotowanie do snu przed wyjazdem następnego dnia.
+- Księżyc — zachowane ujęcie dokumentacyjne z 21:14:26 i dodatkowe artystyczne z 21:47:32.
+- Po 23:00 — rozpoczęcie powrotu z nadmorskiej części; około 23:21 grupa była jeszcze przy oświetlonym basenie, a dopiero później nastąpił powrót do pokoju.
 - Ustalono całodniowe zwiedzanie Dżerby na 2 września, z wyjazdem o 08:15.
 - Ustalono indywidualnie zorganizowaną jednodniową wycieczkę na Saharę na 4 września.
 
 ### Zdjęcia, nagrania i materiały
 
-Do folderu trafiła nowa partia 73 plików: 62 zdjęcia HEIC, 9 filmów oraz 2 pliki JPG. Materiał był częściowo wymieszany z plikami pochodzącymi z innych źródeł. Po pełnym przeglądzie fotograficznym, analizie filmów i sprawdzeniu metadanych zatwierdzono bardzo oszczędną selekcję: zachowano 7 plików, a 66 pozostałych trwale usunięto.
+Pierwsza duża partia materiałów z 31 sierpnia i pierwszej części 1 września została wcześniej zredukowana do 17 wybranych plików.
 
-Jeden z siedmiu zachowanych plików okazał się zdjęciem wykonanym jeszcze 31 sierpnia i został przypisany do poprzedniego dnia. Do 1 września zachowano finalnie 6 materiałów: 5 zdjęć i 1 film. Ujęcia odrzucone mogły być wykorzystane pomocniczo do ustalenia chronologii przed usunięciem, ale nie są częścią finalnego archiwum.
+Kolejna partia obejmowała 41 nowych plików z wieczoru 1 września: zdjęcia, filmy oraz kilka przypadkowo domieszanych plików niezwiązanych z podróżą. Po pełnym przeglądzie zachowano 5 zdjęć, a 36 nowych odrzuconych plików trwale usunięto. Dodatkowo wcześniejsze reprezentatywne zdjęcie atrium z 11:48:46 zostało zastąpione lepszym ujęciem z 18:40:34 i również usunięte z archiwum.
 
-Po czyszczeniu folder `Dżerba 2026/Dziennik podróży/Zdjęcia` zawiera łącznie 17 wybranych materiałów z dotychczasowych dwóch dni.
+Po tej operacji folder `Dżerba 2026/Dziennik podróży/Zdjęcia` zawiera łącznie 21 wybranych materiałów. Z 1 września znajduje się w nim obecnie 10 materiałów: 9 zdjęć i 1 film.
 
-Dokumentacja fotograficzna z wieczoru 1 września — w szczególności zdjęcia księżyca między palmami oraz ewentualne ujęcia drinków i wieczornego pobytu przy plaży — ma zostać dodana i przejrzana w kolejnym przebiegu. Nie została jeszcze włączona do powyższej liczby wybranych materiałów.
+Odrzucone filmy i zdjęcia z późnej części wieczoru zostały przed usunięciem wykorzystane pomocniczo do doprecyzowania chronologii, w szczególności przejścia w stronę plaży i powrotu po 23:00.
 
 #### Polskie opisy potraw w restauracji
 
@@ -383,13 +393,6 @@ Dokumentacja fotograficzna z wieczoru 1 września — w szczególności zdjęcia
 - plik: `2026-09-01-081152-polskie-opisy-potraw-w-restauracji.heic`;
 - status: `Publikacja: do rozważenia`;
 - opis: stanowisko w hotelowej restauracji oraz karta z nazwą potrawy podaną w kilku językach, w tym po polsku; materiał dokumentuje charakterystyczne dostosowanie hotelu do polskich gości.
-
-#### Półotwarte atrium hotelu
-
-- czas: 11:48:46;
-- plik: `2026-09-01-114846-otwarte-atrium-hotelu.heic`;
-- status: `Publikacja: do rozważenia`;
-- opis: widok skierowany ku górze wewnątrz hotelowego atrium, z wysoką tropikalną roślinnością, jasnymi kondygnacjami i siatką nad otwartą przestrzenią.
 
 #### Plaża i wodorosty
 
@@ -418,6 +421,41 @@ Dokumentacja fotograficzna z wieczoru 1 września — w szczególności zdjęcia
 - plik: `2026-09-01-140251-lunch-w-hotelu.heic`;
 - status: `Publikacja: do rozważenia`;
 - opis: talerz z dwoma kawałkami ryby, okrągłą przypieczoną potrawą przypominającą kotleta mielonego, frytkami oraz surówkami.
+
+#### Atrium hotelu z palmami
+
+- czas: 18:40:34;
+- plik: `2026-09-01-184034-atrium-hotelu-z-palmami.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: szeroki widok półotwartego hotelowego atrium, z kilkoma kondygnacjami galerii, wysokimi palmami i otwarciem ku górze; zdjęcie zastąpiło wcześniejsze, mniej czytelne ujęcie tej przestrzeni.
+
+#### Jagnięcina z kaszą – kolacja
+
+- czas: 18:54:53;
+- plik: `2026-09-01-185453-jagniecina-z-kasza-kolacja.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: talerz podczas wieczornej kolacji z jagnięciną podaną na kaszy; reprezentatywne ujęcie głównego dania tego wieczoru.
+
+#### Wieczorna aleja palmowa
+
+- czas: 20:22:00;
+- plik: `2026-09-01-202200-wieczorna-aleja-palmowa-do-plazy.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: nocna hotelowa aleja prowadząca w stronę plaży, z oświetlonymi palmami i osobami idącymi w kierunku nadmorskiej części kompleksu.
+
+#### Księżyc między palmami nad plażą
+
+- czas: 21:14:26;
+- plik: `2026-09-01-211426-ksiezyc-miedzy-palmami-nad-plaza.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: księżyc nisko nad morzem pomiędzy palmami, z plażą i falochronem w kadrze; główne dokumentacyjne ujęcie wieczornego księżyca.
+
+#### Księżyc w koronie palmy – ujęcie artystyczne
+
+- czas: 21:47:32;
+- plik: `2026-09-01-214732-ksiezyc-w-koronie-palmy.heic`;
+- status: `Publikacja: do rozważenia`;
+- opis: bardziej artystyczny, ciaśniejszy kadr, w którym jasny księżyc przeciska się pomiędzy liśćmi korony palmy; zachowany świadomie jako uzupełnienie szerszego ujęcia z 21:14:26.
 
 ## 2 września 2026
 
