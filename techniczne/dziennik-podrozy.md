@@ -477,9 +477,25 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
+#### Około 06:30–08:15 — pobudka, śniadanie i przygotowanie do wyjazdu
+
+Około 06:30 obudziliśmy się z Pawłem, moim przewodnikiem, nieco wcześniej niż zwykle, żeby spokojnie przygotować się do całodziennego zwiedzania wyspy. Pozostali uczestnicy grupy również zaczynali dzień wcześniej ze względu na poranny wyjazd.
+
+Około 07:30 poszliśmy na śniadanie. Godzinę rozpoczęcia wycieczki wcześniej uzgodniono na 08:15 zamiast 08:00 właśnie po to, żeby grupa mogła bez pośpiechu zjeść śniadanie. Z Pawłem zeszliśmy do restauracji już całkowicie przygotowani do wyjazdu i zabraliśmy ze sobą cały potrzebny na dzień ekwipunek. Dzięki temu po śniadaniu nie trzeba było wracać do pokoju i tracić czasu przed zbiórką.
+
+#### 08:15 — punktualny wyjazd i prowadzenie wycieczki
+
+Autobus przyjechał punktualnie. Zgodnie z wcześniejszą zapowiedzią wycieczkę prowadziła pani Katarzyna — rezydentka Coral Travel, z którą grupa spotkała się poprzedniego dnia podczas spotkania organizacyjnego. Obsługuje jako rezydentka kilka hoteli na Dżerbie i jednocześnie prowadzi wycieczki po wyspie jako przewodniczka.
+
+Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas dzisiejszego wyjazdu ponownie o tym mówiła, że mieszka na Dżerbie od około czterech lat. Informację tę zapisujemy jako jej własną relację. Dzięki temu w czasie objazdu mogła odnosić się nie tylko do informacji turystycznych, ale także do codziennego życia na wyspie.
+
 ### Wrażenia i obserwacje
 
 ### Miejsca i wydarzenia
+
+- Hotel Club Palm Azur — pobudka około 06:30, śniadanie około 07:30 i przygotowanie do całodziennego wyjazdu bez konieczności powrotu do pokoju.
+- 08:15 — punktualny przyjazd autobusu i rozpoczęcie objazdu Dżerby.
+- Prowadząca wycieczkę: pani Katarzyna, rezydentka Coral Travel obsługująca kilka hoteli na Dżerbie i prowadząca również wycieczki po wyspie; według jej własnej relacji mieszka na Dżerbie od około czterech lat.
 
 ### Zdjęcia, nagrania i materiały
 
