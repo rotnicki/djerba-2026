@@ -572,13 +572,15 @@ Pierwszym daniem był **brik** — smażony, złożony płat cienkiego ciasta z 
 
 Drugie danie składało się z przyprawionych kawałków mięsa, najprawdopodobniej kurczaka, frytek, makaronu w sosie oraz sałatki (`IMG_1430.HEIC`–`IMG_1431.HEIC`, około 14:03). Na zakończenie podano tunezyjskie ciastko, najprawdopodobniej **makroudh** — kruche ciasto z semoliny, zwykle z daktylowym nadzieniem (`IMG_1432.HEIC`–`IMG_1434.HEIC`, około 14:19). Cały obiad oceniam pozytywnie.
 
-#### Około 14:47–16:06 — dalszy przejazd i zakupy w El Yassamina Center
+#### Około 14:47–16:25 — obiekty widziane z autokaru, zakupy i przejazd do Djerba Explore
 
-Po obiedzie ruszyliśmy dalej. Zdjęcia wykonane z autobusu między 14:47 a 14:54 pokazują zabudowę Houmt Souk i drogę wzdłuż wybrzeża. Później zatrzymaliśmy się w sklepie **El Yassamina Center**, nastawionym na grupy turystyczne i klientów Coral Travel.
+Po obiedzie ruszyliśmy dalej północną częścią wyspy. Nie zwiedzaliśmy już kolejnych zabytków pieszo, lecz oglądaliśmy je z autokaru, a pani Katarzyna opowiadała o mijanych miejscach. Zdjęcia `IMG_1435.HEIC`–`IMG_1444.HEIC`, wykonane około 14:47, pokazują między innymi miejski amfiteatr lub teatr plenerowy w Houmt Souk oraz okolice fortu **Borj Ghazi Mustapha**, nazywanego również **Borj El Kebir**. Fort stoi przy porcie Houmt Souk i jest największą zachowaną twierdzą na Dżerbie. Przejechaliśmy jedynie w jego pobliżu — nie wysiadaliśmy i nie zwiedzaliśmy wnętrza. Podobnie było z amfiteatrem: został pokazany i sfotografowany z autobusu, ale nie stanowił osobnego postoju.
 
-Prezentację częściowo współprowadziła pani Katarzyna, która dobrze znała pracujących tam mężczyzn. Przedstawiła ich grupie, a oni krótko opowiedzieli o sobie i o sklepie. Według informacji przekazanej na miejscu punkt współpracował z naszym biurem podróży, co miało wiązać się z promocyjnymi ofertami w rodzaju „jeden plus jeden gratis”. Sprzedawcy mówili niemal całkowicie po polsku, byli bardzo sympatyczni i łatwo nawiązywali kontakt z grupą.
+Następnie zatrzymaliśmy się w sklepie **Ste El Yassamina Center**, nastawionym na grupy turystyczne i klientów Coral Travel. Prezentację częściowo współprowadziła pani Katarzyna, która dobrze znała pracujących tam mężczyzn. Przedstawiła ich grupie, a oni krótko opowiedzieli o sobie i o sklepie. Według informacji przekazanej na miejscu punkt współpracował z naszym biurem podróży, co miało wiązać się z promocyjnymi ofertami w rodzaju „jeden plus jeden gratis”. Sprzedawcy mówili niemal całkowicie po polsku, byli bardzo sympatyczni i łatwo nawiązywali kontakt z grupą.
 
-Za **131 dinarów**, płacąc kartą, kupiłem zestaw produktów spożywczych i innych: napój gazowany przypominający cydr lub gazowany cedron oraz dwie małe butelki figowego ekstraktu lub koncentratu przeznaczonego do rozcieńczania i picia. Dokładna marka napoju, skład obu figowych produktów oraz pełna lista pozostałych zakupów wymagają jeszcze odczytania etykiet albo rachunku.
+Za **131 dinarów**, płacąc kartą o 15:36, kupiłem zestaw produktów spożywczych i innych: litrowy napój gazowany w puszce, przypominający cydr lub gazowany cedron, oraz dwie małe butelki figowego ekstraktu lub koncentratu przeznaczonego do rozcieńczania i picia. Dokładna marka napoju, skład obu figowych produktów oraz pełna lista pozostałych zakupów wymagają jeszcze odczytania etykiet albo rachunku.
+
+Po zakupach pojechaliśmy dalej w stronę Djerba Explore i farmy krokodyli. Po drodze minęliśmy **latarnię morską Taguermess**, o której opowiadała przewodniczka. Także przy niej nie było postoju ani zwiedzania — oglądaliśmy ją tylko podczas przejazdu. Nie przypisujemy jej na razie do konkretnego zdjęcia, ponieważ widoczne na niektórych ujęciach czerwono-białe konstrukcje mogą należeć do infrastruktury technicznej i nie wystarczają do pewnej identyfikacji latarni. Następnym rzeczywistym przystankiem był dopiero kompleks Djerba Explore.
 
 #### Około 16:25–17:41 — Djerba Explore i park krokodyli
 
@@ -620,7 +622,9 @@ Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z 
 - Djerbahood w Erriadh — około 12:17–12:40; szybki spacer wąskimi uliczkami i oglądanie murali, w tym pracy z wielbłądem podpisanej AnekBanek i Dean One Art (`IMG_1395.HEIC`).
 - Houmt Souk — od około 12:53; bazar i sklep z przyprawami; zakup werbeny za około 10 TND, gotówką pożyczoną od Pawła.
 - Restauracja nad morzem, roboczo Esskifa — około 13:40–14:19; herbata, brik, danie z mięsem lub kurczakiem, frytkami, makaronem i sałatką oraz ciastko prawdopodobnie makroudh.
-- El Yassamina Center — popołudniowa prezentacja i zakupy za 131 TND kartą: napój gazowany, dwie butelki figowego koncentratu do rozcieńczania i inne produkty.
+- Miejski amfiteatr lub teatr plenerowy w Houmt Souk oraz fort Borj Ghazi Mustapha, zwany też Borj El Kebir — obiekty pokazane przez przewodniczkę i widziane około 14:47 wyłącznie z autokaru; bez postoju i zwiedzania.
+- Ste El Yassamina Center — popołudniowa prezentacja i płatność o 15:36; zakupy za 131 TND kartą: litrowy napój gazowany w puszce, dwie butelki figowego koncentratu do rozcieńczania i inne produkty.
+- Latarnia morska Taguermess — mijana z autokaru w drodze do Djerba Explore; bez postoju i zwiedzania.
 - Djerba Explore — około 16:25–17:41; tradycyjna zabudowa, bliski kontakt z wielbłądem, granaty i park krokodyli.
 
 ### Zdjęcia, nagrania i materiały
