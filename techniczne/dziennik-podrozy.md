@@ -472,8 +472,8 @@ Publikacja: do rozważenia
 - cena: 70 euro od osoby;
 - śniadanie przed wyjazdem;
 - wyjazd: 08:15;
-- powrót: około 18:00;
-- szczegóły programu: do uzupełnienia po uzyskaniu dokładnych informacji lub po wycieczce.
+- powrót do hotelu: około 18:14;
+- główne punkty trasy: południowe wybrzeże i meczet Sidi Yati, Guellala, Muzeum Guellala, synagoga El Ghriba, Erriadh i Djerbahood, Houmt Souk, obiad nad morzem oraz Djerba Explore z parkiem krokodyli.
 
 ### Przebieg dnia
 
@@ -481,44 +481,156 @@ Publikacja: do rozważenia
 
 Około 06:30 obudziliśmy się z Pawłem, moim przewodnikiem, nieco wcześniej niż zwykle, żeby spokojnie przygotować się do całodziennego zwiedzania wyspy. Pozostali uczestnicy grupy również zaczynali dzień wcześniej ze względu na poranny wyjazd.
 
-Około 07:30 poszliśmy na śniadanie. Godzinę rozpoczęcia wycieczki wcześniej uzgodniono na 08:15 zamiast 08:00 właśnie po to, żeby grupa mogła bez pośpiechu zjeść śniadanie. Z Pawłem zeszliśmy do restauracji już całkowicie przygotowani do wyjazdu i zabraliśmy ze sobą cały potrzebny na dzień ekwipunek. Dzięki temu po śniadaniu nie trzeba było wracać do pokoju i tracić czasu przed zbiórką.
+Około 07:30 poszliśmy na śniadanie. Godzinę rozpoczęcia wycieczki wcześniej uzgodniono na 08:15 zamiast 08:00 właśnie po to, żeby grupa mogła bez pośpiechu zjeść śniadanie. Z Pawłem zeszliśmy do restauracji już całkowicie przygotowani do wyjazdu i zabraliśmy ze sobą cały potrzebny na dzień ekwipunek. Dzięki temu po śniadaniu nie trzeba było wracać do pokoju i tracić czasu przed zbiórką. Zdjęcie `IMG_1277.HEIC`, wykonane o 07:55:41, dokumentuje końcówkę śniadania.
 
 #### 08:15 — punktualny wyjazd i prowadzenie wycieczki
 
 Autobus przyjechał punktualnie. Zgodnie z wcześniejszą zapowiedzią wycieczkę prowadziła pani Katarzyna — rezydentka Coral Travel, z którą grupa spotkała się poprzedniego dnia podczas spotkania organizacyjnego. Obsługuje jako rezydentka kilka hoteli na Dżerbie i jednocześnie prowadzi wycieczki po wyspie jako przewodniczka.
 
-Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas dzisiejszego wyjazdu ponownie o tym mówiła, że mieszka na Dżerbie od około czterech lat. Informację tę zapisujemy jako jej własną relację. Dzięki temu w czasie objazdu mogła odnosić się nie tylko do informacji turystycznych, ale także do codziennego życia na wyspie.
+Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas wyjazdu ponownie o tym mówiła, że mieszka na Dżerbie od około czterech lat. Informację tę zapisujemy jako jej własną relację. Dzięki temu w czasie objazdu mogła odnosić się nie tylko do informacji turystycznych, lecz także do codziennego życia na wyspie.
 
-#### Początek trasy — strefa turystyczna i kierunek El Kantara
+#### 08:15–08:40 — strefa turystyczna, El Kantara i przejazd na południe wyspy
 
 Po wyjeździe z Club Palm Azur ruszyliśmy wzdłuż południowo-wschodniej części wyspy. Pani Katarzyna zwróciła uwagę, że nasz hotel leży przy południowym krańcu głównego pasa hotelowego Dżerby i — według jej relacji — jest ostatnim hotelem tej strefy, gdy jedzie się od północy wzdłuż wschodniego wybrzeża ku południu.
 
-We francuskojęzycznych materiałach tę część wyspy określa się po prostu jako **zone touristique** — strefę turystyczną. Niezależne źródła potwierdzają, że po wschodniej stronie Dżerby ciągnie się ona na **ponad 20 km między Aghir na południu a Houmt Souk na północy**. Podawane podczas wycieczki około **22 km** dobrze odpowiada więc skali tego pasa, choć dokładną liczbę traktujemy jako przybliżenie. 
+We francuskojęzycznych materiałach tę część wyspy określa się jako **zone touristique**. Rozciąga się ona wzdłuż wschodniego wybrzeża, mniej więcej między Aghir na południu a rejonem Houmt Souk na północy. Podawane podczas wycieczki około 22 km dobrze oddaje skalę pasa hotelowego, choć liczbę traktujemy jako przybliżenie.
 
-Jechaliśmy dalej w kierunku południowego krańca Dżerby, gdzie znajduje się **El Kantara** i tak zwana **droga rzymska** — po francusku *chaussée romaine*. W pewnym momencie grobla była widoczna po lewej stronie autobusu. Na specjalnym rondzie nie pojechaliśmy jednak w jej stronę, lecz odbiliśmy bardziej w głąb wyspy.
+Jechaliśmy dalej w kierunku południowego krańca Dżerby, gdzie znajduje się **El Kantara** i tak zwana **droga rzymska** — po francusku *chaussée romaine*. W pewnym momencie grobla była widoczna po lewej stronie autobusu. Na specjalnym rondzie nie pojechaliśmy jednak w jej stronę, lecz odbiliśmy bardziej w głąb wyspy. El Kantara jest stałym drogowym połączeniem Dżerby z kontynentem; drugim połączeniem dla samochodów pozostaje przeprawa promowa Ajim–Jorf.
 
-El Kantara jest stałym drogowym połączeniem Dżerby z kontynentem. Tunezyjskie źródła infrastrukturalne podają, że rzymska droga ma około **7 km** i łączy południe wyspy z półwyspem Zarzis. Nie jest to jednak jedyny sposób wydostania się z Dżerby: po stronie południowo-zachodniej funkcjonują także promy samochodowe **Ajim–Jorf**. Jest bardzo prawdopodobne, że z drogi rzymskiej skorzystamy 4 września podczas wyjazdu na Saharę.
+#### Około 08:40–08:53 — nadmorski meczet Sidi Yati
 
-#### Pierwszy postój — najprawdopodobniej meczet Fadhloun
+Pierwszym postojem był biały, warowny meczet stojący bardzo blisko morza w południowej części Dżerby. Wcześniejsza robocza identyfikacja tego miejsca jako meczetu Fadhloun była błędna i zostaje wycofana. Zdjęcia `IMG_1285.HEIC`–`IMG_1298.HEIC`, ich czasy oraz pozycja GPS około **33.7068 N, 10.8616 E** wskazują jednoznacznie na **meczet Sidi Yati** w nadmorskim rejonie na południe od Guellali.
 
-Pierwszym odwiedzanym obiektem był stary meczet położony już bardziej w głębi wyspy. Z opisu trasy, lokalizacji i informacji przekazanych na miejscu najbardziej prawdopodobną identyfikacją jest **meczet Fadhloun** w rejonie Khazroun niedaleko Midoun. Na tym etapie zapisujemy tę identyfikację jako bardzo prawdopodobną; ostatecznie będziemy mogli ją potwierdzić na podstawie zdjęć z tego postoju.
+Obiekt oglądaliśmy z zewnątrz; nie wchodziliśmy do sali modlitwy. Charakterystyczna zwarta, biała bryła z kopułami dobrze wpisuje się w dawny system obronno-obserwacyjnych meczetów Dżerby. Położenie niemal przy samym brzegu morza dodatkowo wzmacnia tę identyfikację.
 
-UNESCO potwierdza, że **Mosquée Fadhloun** znajduje się w Khazroun, powstała w **XI wieku** i jest jednym z elementów wpisu „Djerba: Testimony to a settlement pattern in an island territory”. Dokumentacja nominacyjna UNESCO wskazuje również, że po renowacji obiekt jest zarządzany jako miejsce udostępniane do zwiedzania. To dobrze pasuje do informacji przekazanej przez przewodniczkę, że jest to wyjątkowy na wyspie meczet dostępny dla turystów.
+Szczególnie pozytywnym i zaskakującym elementem z punktu widzenia osoby niewidomej była mała przestrzenna makieta meczetu, ustawiona na niskiej podstawie i dostępna do dotykania. Mogłem rękami poznać układ bryły, kopuł i poszczególnych części budynku. Zdjęcia `IMG_1287.HEIC` i `IMG_1288.HEIC`, wykonane o 08:41:44 i 08:42:04, pokazują właśnie oglądanie makiety dotykiem. Jej dokładny materiał — kamień, ceramika, gips lub cement — pozostaje do potwierdzenia, ale sama możliwość dotykowego poznania obiektu była bardzo wartościowa i stanowiła rzadki przykład praktycznej dostępności.
 
-Nasza grupa zatrzymała się przy meczecie i oglądała obiekt oraz jego otoczenie, ale **nie wchodziliśmy do samej sali modlitwy**.
+#### Około 09:05–09:31 — Guellala, pokaz garncarstwa i sklep Le Petit Artisan
+
+Kolejnym punktem był warsztat i sklep garncarski **Le Petit Artisan** w Guellali. Lokalizację potwierdzają zdjęcia `IMG_1299.HEIC`–`IMG_1323.HEIC` oraz GPS około **33.7286 N, 10.8589 E**. Oglądaliśmy pokaz pracy garncarza, otoczeni dużą liczbą naczyń, dzbanów i ceramicznych dekoracji.
+
+Jednym z najbardziej zapamiętanych elementów była prezentacja specjalnego naczynia nazywanego przez sprzedawcę **„magicznym wielbłądem”**. Do naczynia wlewano mleko i kawę, a następnie obracano je i ustawiano w różnych pozycjach, demonstrując pomysłowe mieszanie oraz nalewanie napoju przypominającego cappuccino. Pokaz miał lekki, żartobliwy charakter. Sprzedawcy znali podstawowe polskie zwroty, witali grupę słowami „dzień dobry”, żegnali po polsku i chętnie włączali polskie słowa do prezentacji.
+
+W sklepie kupiłem za **20 dinarów tunezyjskich**, kartą, ceramiczną zawieszkę. Widoczny na niej znak ma formę trójkąta połączonego z łukiem i najbardziej przypomina stylizowany **symbol Tanit**, znany z tradycji punickiej. Ten sam lub bardzo podobny znak pojawia się na sfotografowanej bramie w kompleksie muzealnym (`IMG_1333.HEIC`). Identyfikację zapisujemy na razie jako bardzo prawdopodobną, ponieważ nie mamy jeszcze zbliżenia samej zakupionej zawieszki ani etykiety produktu.
+
+#### Około 09:40–10:38 — Muzeum Guellala
+
+Następnie zwiedzaliśmy **Muzeum Guellala**. Zdjęcia `IMG_1324.HEIC`–`IMG_1355.HEIC` dokumentują rozległy biały kompleks, dziedzińce oraz ekspozycje przedstawiające garncarstwo, stroje, wnętrza i sceny z tradycyjnego życia mieszkańców Dżerby. W muzeum znalazła się też ciemniejsza brama z wypukłymi symbolami, wśród których widać znak przypominający Tanit oraz rękę Fatimy.
+
+W muzeum kupiłem **cztery magnesy za łączną cenę 5 dinarów**. Były to: siedzący wielbłąd w ciemnych okularach z napisem odnoszącym się do Dżerby, flaga Tunezji oraz dwie ręce Fatimy — jedna w kolorze piaskowym, druga błękitna. Zapłaciłem gotówką pożyczoną od Pawła. Ważne: 5 dinarów było ceną całego kompletu czterech magnesów, a nie ceną jednego egzemplarza.
+
+#### Około 11:23–11:38 — synagoga El Ghriba
+
+Po przejeździe z Guellali dotarliśmy do **synagogi El Ghriba** w rejonie Erriadh. Zdjęcia `IMG_1356.HEIC`–`IMG_1381.HEIC` oraz materiały grupowe wykonane przez przewodniczkę potwierdzają zarówno wnętrze synagogi, jak i teren całego kompleksu.
+
+Już przy wejściu zwracała uwagę wyraźna kontrola bezpieczeństwa: przechodziliśmy przez bramki, a wejścia i zachowania odwiedzających były pilnowane. Środki te mają historyczne uzasadnienie. W 2002 roku przed synagogą przeprowadzono zamach z użyciem ciężarówki-pułapki, a w 2023 roku w czasie pielgrzymki doszło w pobliżu do kolejnego śmiertelnego ataku. To wyjaśnia, dlaczego ochrona tego miejsca pozostaje tak rygorystyczna.
+
+Przy wejściu do samej synagogi pilnowano również zasad dotyczących stroju. Mężczyźni musieli mieć nakrycie głowy; osoby, które go nie miały, otrzymywały jarmułki. Moja czapka z daszkiem została zaakceptowana. Kobiety z odsłoniętymi ramionami musiały założyć chusty. Jedna z uczestniczek naszej grupy zdjęła chustę wewnątrz z powodu upału, ale pracownicy natychmiast poprosili ją o ponowne założenie; zwróciła jej na to uwagę również nasza przewodniczka.
+
+Wnętrze zapamiętałem jako bardzo dekoracyjne: dominowały niebieskie elementy, wzorzyste płytki, kolumny, łuki, kolorowe przeszklenia i żyrandole. Kontrastowało ono z prostotą pomieszczeń dla pielgrzymów w sąsiednim budynku.
+
+#### Około 11:30–11:38 — dziedziniec i dom dla pielgrzymów przy El Ghribie
+
+Weszliśmy również na dziedziniec sąsiadującego z synagogą budynku przeznaczonego dla pielgrzymów. Zaglądaliśmy do poszczególnych pomieszczeń. Były urządzone bardzo skromnie: znajdowało się tam przede wszystkim proste miejsce do siedzenia lub spania, niewiele wyposażenia, przesuwane lub proste drzwi, a miejscami wiadro albo miska. Równie minimalistyczne były toalety i część do mycia. Zdjęcia `IMG_1364.HEIC`–`IMG_1377.HEIC` dobrze dokumentują dziedziniec, pokoje i zaplecze sanitarne.
+
+#### Około 11:42–12:00 — perfumeria w pobliżu synagogi
+
+Po wyjściu z kompleksu El Ghriby odwiedziliśmy pobliski sklep z perfumami i olejkami zapachowymi. Kolejność potwierdza `IMG_1382.HEIC`, wykonane o 11:42:35, już po zdjęciach przy synagodze. Na podstawie potwierdzenia transakcji nazwę sprzedawcy lub punktu zapisujemy roboczo jako **Chahrazed Sebai**; nie mamy jeszcze pewności, czy jest to oficjalna nazwa sklepu, czy dane właścicielki rachunku.
+
+Kupiłem zestaw czterech tłustych ekstraktów perfumeryjnych — tak zwyczajowo je określam — za **110 dinarów**, płacąc kartą. Były to odpowiedniki lub kompozycje opisywane jako:
+
+- Armani — dokładny wariant pozostaje do ustalenia;
+- Chanel No. 5;
+- Habibi;
+- zapach zbliżony do jaśminu.
+
+Sprzedawczyni również próbowała mówić po polsku. Materiały wykonane przez przewodniczkę pokazują prezentację zapachów, używanie zakraplacza oraz duże metalowe naczynie służące jako element ekspozycji lub prezentacji procesu.
+
+#### Około 12:17–12:40 — Erriadh i Djerbahood
+
+Następnie przeszliśmy wąskimi uliczkami **Erriadh**, oglądając murale projektu **Djerbahood**. Przejście było dość szybkie, dlatego nie przy każdym dziele był czas na dłuższe zatrzymanie. Zdjęcia `IMG_1383.HEIC`–`IMG_1403.HEIC` pokazują między innymi czarno-białe twarze z czerwonymi elementami, postać na ciemnym tle, wielbłąda, dwa fenki wypełnione misterną miejską ornamentyką, Aladyna i Dżasminę, kota w czerwonym fezie oraz portret kobiety w niebieskim kole.
+
+Przewodniczka wykonała też kilka grupowych zdjęć na tle murali. Pliki te przyszły przez WhatsApp, dlatego zachowały niższą jakość i nie mają wiarygodnego EXIF, GPS ani oryginalnej godziny wykonania. Ich miejsce w chronologii można jednak odtworzyć na podstawie treści oraz porównania z fotografiami z iPhone’a.
+
+W projekcie Djerbahood uczestniczyli polscy artyści, między innymi **M-City, czyli Mariusz Waras**, znany z szablonowych, industrialnych kompozycji, oraz **NeSpoon**, wykorzystująca motywy koronek. Na obecnym etapie nie udało się jednak odpowiedzialnie przypisać konkretnego ciemnego muralu zapamiętanego z przejścia któremuś z nich. Nazwa, którą zapamiętałem fonetycznie jako coś w rodzaju „Maka Anka”, może dotyczyć innego artysty albo została zniekształcona w pamięci; pozostawiamy to do dalszej identyfikacji i nie wpisujemy autorstwa na podstawie zgadywania.
+
+#### Około 12:53–13:12 — Houmt Souk i zakupy w sklepie z przyprawami
+
+Po Djerbahood pojechaliśmy do **Houmt Souk**. Zdjęcia od `IMG_1404.HEIC` pokazują wjazd do miasta, a `IMG_1413.HEIC` i `IMG_1414.HEIC`, wykonane około 13:02, arkadowe przejście bazaru ze stoiskami. W jednym ze sklepów z przyprawami kupiłem za około **10 dinarów** suszoną **werbenę** — produkt określany po francusku jako *verveine*, używany między innymi do naparu. Zapłaciłem gotówką pożyczoną od Pawła. Opakowanie widać na `IMG_1416.HEIC` i `IMG_1417.HEIC` z godziny 13:11:59–13:12:00.
+
+Sprzedawca dobrze radził sobie z podstawową polszczyzną i prowadził prezentację z humorem. Wymieniał zastosowania przypraw „na grilla”, do pieczeni i kurczaka, a nawet „do pierników z Torunia”. Ta łamana, ale trafnie dobrana polszczyzna była sympatycznym zaskoczeniem i jednym z charakterystycznych wspomnień z zakupów.
+
+#### Około 13:40–14:19 — obiad nad morzem w Houmt Souk
+
+Obiad jedliśmy w lokalu nad wodą, w rejonie starego portu Houmt Souk; na podstawie położenia GPS około **33.8868 N, 10.8532 E** i wyglądu miejsca roboczo identyfikujemy go jako restaurację **Esskifa**. Nazwa lokalu wymaga jeszcze ostatecznego potwierdzenia szyldem lub rachunkiem.
+
+Przy odpływie odsłonięte dno i brzeg nie wyglądały najlepiej — było widać sporo śmieci, a nawet porzucone opony. Mimo tego samo miejsce było przyjemnie położone, a jedzenie okazało się całkiem smaczne.
+
+Najpierw dostaliśmy herbatę w małych szklankach zdobionych wzorem. Była słodka, z nutami mięty lub ziół, a chwilami wydawała mi się nawet lekko słonawa, przez co miała ciekawy słodko-słony charakter (`IMG_1424.HEIC`–`IMG_1425.HEIC`, około 13:50).
+
+Pierwszym daniem był **brik** — smażony, złożony płat cienkiego ciasta z nadzieniem, najprawdopodobniej z jajkiem i dodatkiem tuńczyka lub innego farszu. Brzeg był twardy i bardzo chrupiący, niemal jak chipsy, natomiast środek pozostawał miękki i smaczny (`IMG_1426.HEIC`–`IMG_1429.HEIC`). To najprawdopodobniej właśnie nazwę *brik* zapamiętałem niedokładnie jako „burg”, „bułę” albo inną nazwę na literę B.
+
+Drugie danie składało się z przyprawionych kawałków mięsa, najprawdopodobniej kurczaka, frytek, makaronu w sosie oraz sałatki (`IMG_1430.HEIC`–`IMG_1431.HEIC`, około 14:03). Na zakończenie podano tunezyjskie ciastko, najprawdopodobniej **makroudh** — kruche ciasto z semoliny, zwykle z daktylowym nadzieniem (`IMG_1432.HEIC`–`IMG_1434.HEIC`, około 14:19). Cały obiad oceniam pozytywnie.
+
+#### Około 14:47–16:06 — dalszy przejazd i zakupy w El Yassamina Center
+
+Po obiedzie ruszyliśmy dalej. Zdjęcia wykonane z autobusu między 14:47 a 14:54 pokazują zabudowę Houmt Souk i drogę wzdłuż wybrzeża. Później zatrzymaliśmy się w sklepie **El Yassamina Center**, nastawionym na grupy turystyczne i klientów Coral Travel.
+
+Prezentację częściowo współprowadziła pani Katarzyna, która dobrze znała pracujących tam mężczyzn. Przedstawiła ich grupie, a oni krótko opowiedzieli o sobie i o sklepie. Według informacji przekazanej na miejscu punkt współpracował z naszym biurem podróży, co miało wiązać się z promocyjnymi ofertami w rodzaju „jeden plus jeden gratis”. Sprzedawcy mówili niemal całkowicie po polsku, byli bardzo sympatyczni i łatwo nawiązywali kontakt z grupą.
+
+Za **131 dinarów**, płacąc kartą, kupiłem zestaw produktów spożywczych i innych: napój gazowany przypominający cydr lub gazowany cedron oraz dwie małe butelki figowego ekstraktu lub koncentratu przeznaczonego do rozcieńczania i picia. Dokładna marka napoju, skład obu figowych produktów oraz pełna lista pozostałych zakupów wymagają jeszcze odczytania etykiet albo rachunku.
+
+#### Około 16:25–17:41 — Djerba Explore i park krokodyli
+
+Ostatnim dużym punktem programu był kompleks **Djerba Explore**. Zdjęcia `IMG_1457.HEIC`–`IMG_1514.HEIC` i współrzędne około **33.820–33.821 N, 11.046–11.050 E** potwierdzają pobyt od około 16:25 do 17:41.
+
+Najpierw odwiedziliśmy część stylizowaną na tradycyjną zabudowę i gospodarstwo. Przewodniczka opowiadała grupie na dziedzińcu, a później odbyła się bezpośrednia prezentacja wielbłąda. Mogliśmy podejść bardzo blisko i go dotknąć; zdjęcia z około 16:28–16:30 pokazują kontakt uczestników ze zwierzęciem. Oglądaliśmy również rosnące na terenie kompleksu granaty.
+
+Później przeszliśmy do parku krokodyli. Widać było zarówno mniejsze krokodyle, które można było ostrożnie potrzymać pod nadzorem, jak i liczne duże zwierzęta leżące przy basenach oraz na piaszczystych wybiegach. Zdjęcia od `IMG_1485.HEIC` dokumentują trzymanie małego krokodyla, przejście przez skalne i zadaszone części ekspozycji, baseny oraz grupy dużych krokodyli. Ostatnie fotografie przy wyjściu wykonaliśmy około 17:41.
+
+#### Około 18:14 — powrót do Club Palm Azur
+
+Do hotelu wróciliśmy około 18:14, nieco później niż orientacyjnie planowana godzina 18:00. Potwierdzają to zdjęcia wykonane już w pokoju (`IMG_1515.HEIC`–`IMG_1522.HEIC`) i ich hotelowa lokalizacja GPS.
+
+#### Około 18:59–19:20 — wieczorna kolacja w hotelu
+
+Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z sosem i mięsem, a na deser kawałek ciasta oraz lody. Pod stołami kręciły się hotelowe koty — szary pręgowany i rudy — które pojawiają się na kilku fotografiach między 19:13 a 19:17. Szczegóły rozmów i dalszego przebiegu wieczoru pozostają jeszcze do dopowiedzenia.
 
 ### Wrażenia i obserwacje
 
+- Najbardziej pozytywnym zaskoczeniem związanym z dostępnością była dotykowa makieta meczetu Sidi Yati. Pozwoliła osobie niewidomej samodzielnie poznać bryłę zabytku, zamiast ograniczać zwiedzanie do słownego opisu.
+- Bardzo charakterystyczna dla całego dnia była polszczyzna sprzedawców. W niemal każdym miejscu zakupowym słyszeliśmy „dzień dobry” i „do widzenia”, a prezentacje zawierały polskie słowa, żarty i odniesienia do polskich klientów.
+- Szczególnie zapamiętałem sprzedawcę przypraw mówiącego o grillu, kurczaku i piernikach z Torunia, żartobliwy pokaz „magicznego wielbłąda” w sklepie garncarskim, próbującą mówić po polsku sprzedawczynię perfum oraz niemal płynnie mówiących po polsku pracowników El Yassamina Center.
+- W synagodze El Ghriba wyraźnie odczuwało się troskę o bezpieczeństwo oraz konsekwentne pilnowanie reguł religijnych dotyczących nakrycia głowy i zasłonięcia ramion.
+- Barwne, bogato zdobione wnętrze synagogi mocno kontrastowało z bardzo prostymi pokojami i zapleczem dla pielgrzymów.
+- Spacer przez Djerbahood był ciekawy, ale zbyt szybki, by dokładnie obejrzeć i omówić większość murali. Identyfikacja konkretnych dzieł i autorów wymaga dalszej pracy ze zdjęciami.
+- Obiad nad morzem był smaczny i pozwolił spróbować charakterystycznych potraw, choć widok odsłoniętego przez odpływ, zaśmieconego brzegu z oponami psuł wrażenie otoczenia.
+- Zakupy miały nie tylko handlowy, lecz także prezentacyjny i towarzyski charakter. Sprzedawcy byli nastawieni na polskie grupy, często dobrze rozumieli swoich klientów i budowali sympatyczną atmosferę.
+
 ### Miejsca i wydarzenia
 
-- Hotel Club Palm Azur — pobudka około 06:30, śniadanie około 07:30 i przygotowanie do całodziennego wyjazdu bez konieczności powrotu do pokoju.
-- 08:15 — punktualny przyjazd autobusu i rozpoczęcie objazdu Dżerby.
-- Prowadząca wycieczkę: pani Katarzyna, rezydentka Coral Travel obsługująca kilka hoteli na Dżerbie i prowadząca również wycieczki po wyspie; według jej własnej relacji mieszka na Dżerbie od około czterech lat.
-- Początek trasy — Club Palm Azur leży według relacji przewodniczki na południowym krańcu głównej `zone touristique`. Strefa turystyczna wschodniej Dżerby rozciąga się na ponad 20 km między Aghir a Houmt Souk; około 22 km traktujemy jako wiarygodne przybliżenie.
-- El Kantara — z autobusu widoczna była grobla/droga rzymska. Na rondzie grupa skręciła jednak w głąb wyspy. Grobla jest stałym drogowym połączeniem z kontynentem; drugim połączeniem dla samochodów jest przeprawa promowa Ajim–Jorf.
-- Pierwszy postój — najprawdopodobniej meczet Fadhloun w Khazroun, pochodzący z XI wieku i należący do zespołu wpisanego na listę UNESCO; identyfikacja do ostatecznego potwierdzenia zdjęciami.
+- Club Palm Azur — śniadanie i wyjazd o 08:15; powrót około 18:14; wieczorna kolacja.
+- El Kantara — widok drogi rzymskiej podczas przejazdu, następnie skręt w głąb wyspy.
+- Meczet Sidi Yati — około 08:40–08:53; nadmorski meczet warowny, oglądanie z zewnątrz i dotykowa makieta. Lokalizacja potwierdzona GPS; wcześniejsza identyfikacja jako Fadhloun była błędna.
+- Le Petit Artisan w Guellali — około 09:05–09:31; pokaz garncarstwa i „magicznego wielbłąda”; zakup ceramicznej zawieszki za 20 TND kartą.
+- Muzeum Guellala — około 09:40–10:38; ekspozycje etnograficzne; zakup czterech magnesów za łącznie 5 TND, gotówką pożyczoną od Pawła.
+- Synagoga El Ghriba — około 11:23–11:38; kontrola bezpieczeństwa, zasady stroju, zwiedzanie wnętrza.
+- Dom dla pielgrzymów przy El Ghribie — skromne pokoje, dziedziniec i minimalistyczne zaplecze sanitarne.
+- Perfumeria w pobliżu El Ghriby — około 11:42–12:00; cztery ekstrakty zapachowe za 110 TND kartą; nazwa sprzedawcy lub punktu: Chahrazed Sebai, do doprecyzowania.
+- Djerbahood w Erriadh — około 12:17–12:40; szybki spacer wąskimi uliczkami i oglądanie murali.
+- Houmt Souk — od około 12:53; bazar i sklep z przyprawami; zakup werbeny za około 10 TND, gotówką pożyczoną od Pawła.
+- Restauracja nad morzem, roboczo Esskifa — około 13:40–14:19; herbata, brik, danie z mięsem lub kurczakiem, frytkami, makaronem i sałatką oraz ciastko prawdopodobnie makroudh.
+- El Yassamina Center — popołudniowa prezentacja i zakupy za 131 TND kartą: napój gazowany, dwie butelki figowego koncentratu do rozcieńczania i inne produkty.
+- Djerba Explore — około 16:25–17:41; tradycyjna zabudowa, bliski kontakt z wielbłądem, granaty i park krokodyli.
 
 ### Zdjęcia, nagrania i materiały
+
+- Nowa, jeszcze niezatwierdzona partia z 2 września obejmuje obecnie **232 unikalne oryginalne zdjęcia z iPhone’a**, od `IMG_1277.HEIC` do `IMG_1535.HEIC`, z przerwami w numeracji. Materiały mają zachowane godziny EXIF, a większość także GPS.
+- W archiwum znajdują się ponadto zdjęcia grupowe wykonane przez przewodniczkę i przesłane przez WhatsApp. Są skompresowane i pozbawione wiarygodnego oryginalnego czasu, EXIF oraz GPS; służą jako materiał uzupełniający, a ich kolejność ustalamy przez porównanie treści z serią iPhone’a.
+- Do relacji wykorzystano także zrzuty potwierdzeń płatności: 20 TND za ceramikę, 110 TND za ekstrakty perfumeryjne i 131 TND w El Yassamina Center. Zakupy gotówkowe to 5 TND za komplet czterech magnesów oraz około 10 TND za werbenę; gotówkę w obu przypadkach pożyczył Paweł.
+- Filmy z 2 września nie są jeszcze objęte tą wersją analizy, ponieważ w chwili rozpoczęcia pracy nadal się przesyłały. Zostaną przeanalizowane osobno po zakończeniu wysyłania.
+- **Nie zatwierdzono jeszcze selekcji tej partii. Nie wolno usuwać ani przemianowywać żadnego zdjęcia lub filmu z 2 września bez odrębnej, wyraźnej zgody.**
+- Do dalszego potwierdzenia pozostają: dokładna nazwa restauracji nad morzem, oficjalna nazwa perfumerii, wariant zapachu Armani, marka i skład produktów z El Yassamina Center, materiał dotykowej makiety, ostateczna interpretacja symbolu na ceramicznej zawieszce oraz autor konkretnego ciemnego muralu zapamiętanego jako polski.
 
 ## 3 września 2026
 
