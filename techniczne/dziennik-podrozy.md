@@ -588,6 +588,8 @@ Ostatnim dużym punktem programu był kompleks **Djerba Explore**. Zdjęcia `IMG
 
 Najpierw odwiedziliśmy część stylizowaną na tradycyjną zabudowę i gospodarstwo. Przewodniczka opowiadała grupie na dziedzińcu, a później odbyła się bezpośrednia prezentacja wielbłąda. Mogliśmy podejść bardzo blisko i go dotknąć; zdjęcia z około 16:28–16:30 pokazują kontakt uczestników ze zwierzęciem. Oglądaliśmy również rosnące na terenie kompleksu granaty.
 
+Opiekun zwierzęcia nazywał wielbłąda prawdopodobnie **Władimir**, natomiast nasza grupa żartobliwie mówiła na niego **Władek**. Mężczyzna dobrze radził sobie z podstawowymi polskimi zwrotami i prowadził prezentację w zabawny sposób, zachęcając uczestników do nagrywania. Na jego polecenie wielbłąd ruszył, ciągnąc linę połączoną z dużym bukłakiem lub pojemnikiem zanurzonym w studni. Zwierzę wyciągnęło pojemnik do góry, a zgromadzona w nim woda zaczęła się wylewać. Była to demonstracja tradycyjnego sposobu czerpania wody przy pomocy wielbłąda.
+
 Później przeszliśmy do parku krokodyli. Od wejścia mieliśmy jeszcze do pokonania dość długą drogę przez rozległy teren kompleksu, kolejne bramki i kontrolowane przejścia. Około 16:40 dotarliśmy w okolice mostku stanowiącego jeden z łączników pomiędzy kolejnymi basenami i wybiegami. Krokodyle mogły znajdować się także w wodzie i przestrzeni bezpośrednio pod mostkami. Z tego miejsca czekaliśmy na zapowiedziane karmienie.
 
 Regularny pokaz karmienia rozpoczął się około 17:00. Pracownicy pojawili się po obu stronach mostków ze skrzyniami zawierającymi surowe mięso i rzucali jego kawałki krokodylom. Obserwowaliśmy z bliska, jak zwierzęta chwytają i połykają pokarm; towarzyszyły temu wyraźne odgłosy uderzających szczęk oraz plusk wody. Nie wszystkie krokodyle reagowały równie szybko — część pozostawała niemal nieruchoma i sprawiała wrażenie zbyt leniwej, żeby sięgnąć po mięso. Oficjalna informacja parku potwierdza, że pokaz karmienia odbywa się o 17:00, z wyjątkiem poniedziałków, a krokodyle otrzymują podczas niego surowego kurczaka.
@@ -667,12 +669,52 @@ Obudziliśmy się dopiero około 01:30 w nocy. Wtedy stwierdziliśmy, że skoro 
 
 ### Zdjęcia, nagrania i materiały
 
-- Nowa, jeszcze niezatwierdzona partia z 2 września obejmuje obecnie **232 unikalne oryginalne zdjęcia z iPhone’a**, od `IMG_1277.HEIC` do `IMG_1535.HEIC`, z przerwami w numeracji. Materiały mają zachowane godziny EXIF, a większość także GPS.
-- W archiwum znajdują się ponadto zdjęcia grupowe wykonane przez przewodniczkę i przesłane przez WhatsApp. Są skompresowane i pozbawione wiarygodnego oryginalnego czasu, EXIF oraz GPS; służą jako materiał uzupełniający, a ich kolejność ustalamy przez porównanie treści z serią iPhone’a.
+- Partia z 2 września obejmowała **232 unikalne oryginalne zdjęcia z iPhone’a**, od `IMG_1277.HEIC` do `IMG_1535.HEIC`, z przerwami w numeracji. Zatwierdzono i przemianowano 28 reprezentatywnych zdjęć z iPhone’a.
+- Do zatwierdzonej selekcji włączono ponadto 5 zdjęć grupowych wykonanych przez przewodniczkę i przesłanych przez WhatsApp. Pliki te są skompresowane i pozbawione wiarygodnego oryginalnego czasu, EXIF oraz GPS; godziny w ich nazwach są orientacyjne i zostały ustalone na podstawie treści oraz sąsiednich zdjęć z iPhone’a.
 - Do relacji wykorzystano także zrzuty potwierdzeń płatności: 20 TND za ceramikę, 110 TND za ekstrakty perfumeryjne i 131 TND w El Yassamina Center. Zakupy gotówkowe to 5 TND za komplet czterech magnesów oraz około 10 TND za werbenę; gotówkę w obu przypadkach pożyczył Paweł.
 - Filmy z 2 września nie są jeszcze objęte tą wersją analizy, ponieważ w chwili rozpoczęcia pracy nadal się przesyłały. Zostaną przeanalizowane osobno po zakończeniu wysyłania.
-- **Nie zatwierdzono jeszcze selekcji tej partii. Nie wolno usuwać ani przemianowywać żadnego zdjęcia lub filmu z 2 września bez odrębnej, wyraźnej zgody.**
+- **Selekcja 33 zdjęć została zatwierdzona, a wybrane pliki przemianowano na Google Drive. Pozostałych zdjęć i filmów jeszcze nie usunięto; ich kasowanie wymaga osobnej wyraźnej zgody.**
 - Do dalszego potwierdzenia pozostają: dokładna nazwa restauracji nad morzem, oficjalna nazwa perfumerii, wariant zapachu Armani, marka i skład produktów z El Yassamina Center, materiał dotykowej makiety, ostateczna interpretacja symbolu na ceramicznej zawieszce, oficjalny tytuł muralu z wielbłądem oraz pełne dane osoby używającej pseudonimu Anek Banek.
+
+#### Zatwierdzone mapowanie nazw — 2 września
+
+Poniższe mapowanie zachowujemy do późniejszej selekcji materiałów na Facebooka. Przy wskazywaniu plików do publikacji używamy oryginalnych nazw z iPhone’a. W pięciu ostatnich wierszach czas w nazwie jest orientacyjny, ponieważ zdjęcia przewodniczki zostały przesłane przez WhatsApp bez wiarygodnych metadanych.
+
+| Nazwa oryginalna | Nazwa archiwalna |
+|---|---|
+| `IMG_1288.HEIC` | `2026-09-02-084204-sidi-yati-dotykowa-makieta-meczetu.heic` |
+| `IMG_1290.HEIC` | `2026-09-02-084425-meczet-sidi-yati-widok-zewnetrzny.heic` |
+| `IMG_1300.HEIC` | `2026-09-02-090639-guellala-pokaz-garncarstwa.heic` |
+| `IMG_1328.HEIC` | `2026-09-02-094210-muzeum-guellala-dziedziniec.heic` |
+| `IMG_1333.HEIC` | `2026-09-02-095520-muzeum-guellala-drzwi-z-symbolami-dzerby.heic` |
+| `IMG_1338.HEIC` | `2026-09-02-101014-muzeum-guellala-tradycyjne-wnetrze.heic` |
+| `IMG_1361.HEIC` | `2026-09-02-112728-synagoga-al-ghriba-wnetrze.heic` |
+| `IMG_1364.HEIC` | `2026-09-02-113041-dom-pielgrzymow-dziedziniec.heic` |
+| `IMG_1369.HEIC` | `2026-09-02-113244-dom-pielgrzymow-skromne-pomieszczenie.heic` |
+| `IMG_1381.HEIC` | `2026-09-02-113808-synagoga-al-ghriba-tablica-i-menora.heic` |
+| `IMG_1382.HEIC` | `2026-09-02-114235-sklep-z-ekstraktami-perfumeryjnymi.heic` |
+| `IMG_1395.HEIC` | `2026-09-02-122914-djerbahood-mural-wielblad-anekbanek-dean-one.heic` |
+| `IMG_1397.HEIC` | `2026-09-02-123119-djerbahood-mural-fenek.heic` |
+| `IMG_1413.HEIC` | `2026-09-02-130225-houmt-souk-uliczka-targowa.heic` |
+| `IMG_1416.HEIC` | `2026-09-02-131159-houmt-souk-werbena-ze-sklepu-z-przyprawami.heic` |
+| `IMG_1418.HEIC` | `2026-09-02-134045-houmt-souk-restauracja-nad-morzem-i-odplyw.heic` |
+| `IMG_1427.HEIC` | `2026-09-02-135352-tunezyjski-brik-na-obiad.heic` |
+| `IMG_1430.HEIC` | `2026-09-02-140332-obiad-frytki-mieso-makaron-i-salatka.heic` |
+| `IMG_1439.HEIC` | `2026-09-02-144726-amfiteatr-houmt-souk-z-autokaru.heic` |
+| `IMG_1441.HEIC` | `2026-09-02-144740-borj-el-kebir-z-autokaru.heic` |
+| `IMG_1456.HEIC` | `2026-09-02-161154-latarnia-taguermess-z-autokaru.heic` |
+| `IMG_1462.HEIC` | `2026-09-02-163026-djerba-explore-spotkanie-z-wielbladem.heic` |
+| `IMG_1485.HEIC` | `2026-09-02-171458-djerba-explore-maly-krokodyl-w-rekach.heic` |
+| `IMG_1504.HEIC` | `2026-09-02-172801-djerba-explore-przeszklona-hala-krokodyli.heic` |
+| `IMG_1508.HEIC` | `2026-09-02-173149-djerba-explore-krokodyle-przy-basenie.heic` |
+| `IMG_1517.HEIC` | `2026-09-02-181412-hotelowa-dekoracja-lozka-z-recznikow-i-ubran.heic` |
+| `IMG_1525.HEIC` | `2026-09-02-190524-kolacja-spaghetti-i-pizza.heic` |
+| `IMG_1531.HEIC` | `2026-09-02-191718-koty-w-restauracji-hotelowej.heic` |
+| `60a2d404-fbd5-44ca-a9ff-338871b08bd3.JPG` | `2026-09-02-084800-grupa-nad-morzem-przy-sidi-yati.jpg` |
+| `b435aa1d-7f07-4861-8c58-ed06abd66e13.JPG` | `2026-09-02-092500-grupa-w-sklepie-garncarskim-guellala.jpg` |
+| `35045128-dc7b-4fca-be44-84ab92eaef65.JPG` | `2026-09-02-112000-grupa-przy-synagodze-al-ghriba.jpg` |
+| `b0e97828-7ef3-428d-ad43-a5e765c2965a.JPG` | `2026-09-02-114300-prezentacja-w-sklepie-z-ekstraktami-perfumeryjnymi.jpg` |
+| `ee7f3e85-b329-46c8-9d45-9de3ea549d97.JPG` | `2026-09-02-123000-grupa-przy-muralu-z-wielbladem-djerbahood.jpg` |
 
 ## 3 września 2026
 
