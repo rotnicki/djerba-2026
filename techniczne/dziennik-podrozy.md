@@ -552,7 +552,7 @@ Następnie przeszliśmy wąskimi uliczkami **Erriadh**, oglądając murale proje
 
 Przewodniczka wykonała też kilka grupowych zdjęć na tle murali. Pliki te przyszły przez WhatsApp, dlatego zachowały niższą jakość i nie mają wiarygodnego EXIF, GPS ani oryginalnej godziny wykonania. Ich miejsce w chronologii można jednak odtworzyć na podstawie treści oraz porównania z fotografiami z iPhone’a.
 
-W projekcie Djerbahood uczestniczyli polscy artyści, między innymi **M-City, czyli Mariusz Waras**, znany z szablonowych, industrialnych kompozycji, oraz **NeSpoon**, wykorzystująca motywy koronek. Na obecnym etapie nie udało się jednak odpowiedzialnie przypisać konkretnego ciemnego muralu zapamiętanego z przejścia któremuś z nich. Nazwa, którą zapamiętałem fonetycznie jako coś w rodzaju „Maka Anka”, może dotyczyć innego artysty albo została zniekształcona w pamięci; pozostawiamy to do dalszej identyfikacji i nie wpisujemy autorstwa na podstawie zgadywania.
+Wśród oglądanych prac udało się zidentyfikować kolorowy mural przedstawiający pomarańczowego wielbłąda w szerokim kapeluszu, palącego długą fajkę, ze szklanką pomarańczowego napoju obok. Mural został sfotografowany na `IMG_1395.HEIC` o 12:29:14. Na jego powierzchni są widoczne podpisy **AnekBanek** oraz **Dean One Art**, dlatego najbezpieczniej uznać go za ich wspólną pracę. Dean One jest polskim graficiarzem związanym z Bytomiem. Nie udało się natomiast potwierdzić oficjalnego tytułu muralu ani pełnych danych osoby używającej pseudonimu Anek Banek. Zapamiętana fonetycznie nazwa w rodzaju „Maka Anka” najprawdopodobniej odnosiła się właśnie do podpisu **AnekBanek**. W szerszym projekcie Djerbahood uczestniczyli również inni polscy artyści, między innymi **M-City, czyli Mariusz Waras**, oraz **NeSpoon**, jednak tego konkretnego muralu nie należy przypisywać żadnemu z nich.
 
 #### Około 12:53–13:12 — Houmt Souk i zakupy w sklepie z przyprawami
 
@@ -603,7 +603,7 @@ Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z 
 - Szczególnie zapamiętałem sprzedawcę przypraw mówiącego o grillu, kurczaku i piernikach z Torunia, żartobliwy pokaz „magicznego wielbłąda” w sklepie garncarskim, próbującą mówić po polsku sprzedawczynię perfum oraz niemal płynnie mówiących po polsku pracowników El Yassamina Center.
 - W synagodze El Ghriba wyraźnie odczuwało się troskę o bezpieczeństwo oraz konsekwentne pilnowanie reguł religijnych dotyczących nakrycia głowy i zasłonięcia ramion.
 - Barwne, bogato zdobione wnętrze synagogi mocno kontrastowało z bardzo prostymi pokojami i zapleczem dla pielgrzymów.
-- Spacer przez Djerbahood był ciekawy, ale zbyt szybki, by dokładnie obejrzeć i omówić większość murali. Identyfikacja konkretnych dzieł i autorów wymaga dalszej pracy ze zdjęciami.
+- Spacer przez Djerbahood był ciekawy, ale zbyt szybki, by dokładnie obejrzeć i omówić większość murali. Udało się już rozpoznać mural z wielbłądem jako wspólną pracę podpisaną AnekBanek i Dean One Art; identyfikacja pozostałych dzieł nadal wymaga dalszej pracy ze zdjęciami.
 - Obiad nad morzem był smaczny i pozwolił spróbować charakterystycznych potraw, choć widok odsłoniętego przez odpływ, zaśmieconego brzegu z oponami psuł wrażenie otoczenia.
 - Zakupy miały nie tylko handlowy, lecz także prezentacyjny i towarzyski charakter. Sprzedawcy byli nastawieni na polskie grupy, często dobrze rozumieli swoich klientów i budowali sympatyczną atmosferę.
 
@@ -617,7 +617,7 @@ Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z 
 - Synagoga El Ghriba — około 11:23–11:38; kontrola bezpieczeństwa, zasady stroju, zwiedzanie wnętrza.
 - Dom dla pielgrzymów przy El Ghribie — skromne pokoje, dziedziniec i minimalistyczne zaplecze sanitarne.
 - Perfumeria w pobliżu El Ghriby — około 11:42–12:00; cztery ekstrakty zapachowe za 110 TND kartą; nazwa sprzedawcy lub punktu: Chahrazed Sebai, do doprecyzowania.
-- Djerbahood w Erriadh — około 12:17–12:40; szybki spacer wąskimi uliczkami i oglądanie murali.
+- Djerbahood w Erriadh — około 12:17–12:40; szybki spacer wąskimi uliczkami i oglądanie murali, w tym pracy z wielbłądem podpisanej AnekBanek i Dean One Art (`IMG_1395.HEIC`).
 - Houmt Souk — od około 12:53; bazar i sklep z przyprawami; zakup werbeny za około 10 TND, gotówką pożyczoną od Pawła.
 - Restauracja nad morzem, roboczo Esskifa — około 13:40–14:19; herbata, brik, danie z mięsem lub kurczakiem, frytkami, makaronem i sałatką oraz ciastko prawdopodobnie makroudh.
 - El Yassamina Center — popołudniowa prezentacja i zakupy za 131 TND kartą: napój gazowany, dwie butelki figowego koncentratu do rozcieńczania i inne produkty.
@@ -630,7 +630,7 @@ Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z 
 - Do relacji wykorzystano także zrzuty potwierdzeń płatności: 20 TND za ceramikę, 110 TND za ekstrakty perfumeryjne i 131 TND w El Yassamina Center. Zakupy gotówkowe to 5 TND za komplet czterech magnesów oraz około 10 TND za werbenę; gotówkę w obu przypadkach pożyczył Paweł.
 - Filmy z 2 września nie są jeszcze objęte tą wersją analizy, ponieważ w chwili rozpoczęcia pracy nadal się przesyłały. Zostaną przeanalizowane osobno po zakończeniu wysyłania.
 - **Nie zatwierdzono jeszcze selekcji tej partii. Nie wolno usuwać ani przemianowywać żadnego zdjęcia lub filmu z 2 września bez odrębnej, wyraźnej zgody.**
-- Do dalszego potwierdzenia pozostają: dokładna nazwa restauracji nad morzem, oficjalna nazwa perfumerii, wariant zapachu Armani, marka i skład produktów z El Yassamina Center, materiał dotykowej makiety, ostateczna interpretacja symbolu na ceramicznej zawieszce oraz autor konkretnego ciemnego muralu zapamiętanego jako polski.
+- Do dalszego potwierdzenia pozostają: dokładna nazwa restauracji nad morzem, oficjalna nazwa perfumerii, wariant zapachu Armani, marka i skład produktów z El Yassamina Center, materiał dotykowej makiety, ostateczna interpretacja symbolu na ceramicznej zawieszce, oficjalny tytuł muralu z wielbłądem oraz pełne dane osoby używającej pseudonimu Anek Banek.
 
 ## 3 września 2026
 
