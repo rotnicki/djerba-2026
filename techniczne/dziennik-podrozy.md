@@ -610,6 +610,14 @@ Po zdjęciach przy wyjściu, wykonanych około 17:41, wracaliśmy w stronę auto
 
 Pierwsze fotografie wykonane już w pokoju hotelowym, `IMG_1515.HEIC`–`IMG_1517.HEIC`, mają czas 18:14:09–18:14:12 i lokalizację Club Palm Azur. Oznacza to, że autokar musiał przyjechać do hotelu kilka minut wcześniej. Zapamiętana godzina około 18:09 jest więc wiarygodna, choć sam materiał fotograficzny pozwala bezpośrednio potwierdzić jedynie, że o 18:14 byliśmy już w pokoju. Przejazd z Djerba Explore do hotelu trwał kilkanaście minut.
 
+#### Około 18:14–18:18 — zabawna niespodzianka przygotowana w pokoju
+
+Po powrocie zastaliśmy świeżo przygotowane łóżka oraz zabawne dekoracje ułożone przez obsługę hotelową z ręcznika i naszych rzeczy do spania. Na jednym łóżku powstały trzy różne kompozycje: z jasnobrązowego ręcznika, z moich czarnych spodenek do spania oraz z białej koszulki do spania.
+
+Układ z ręcznika najbardziej przypominał dwa łabędzie zwrócone ku sobie, z uniesionymi szyjami tworzącymi wspólną kompozycję. Czarne spodenki zostały rozłożone w kształt dużego motyla albo kokardy. Biała koszulka również tworzyła figurę przypominającą motyla, ewentualnie dekoracyjny kwiat lub rozetę. Kompozycje ozdobiono intensywnie różowymi kwiatami lub płatkami. Na podstawie zdjęć nie można pewnie stwierdzić, czy były to róże.
+
+Całość dokumentują `IMG_1515.HEIC`–`IMG_1522.HEIC`, wykonane od 18:14:09 do 18:17:46. Pierwsze ujęcia pokazują całe łóżko, a późniejsze — poszczególne dekoracje z bliska. Było to bardzo zabawne i sympatyczne doświadczenie. Mieliśmy dużo radości z tego, że obsługa zadbała o nas w tak nietypowy, pomysłowy i osobisty sposób.
+
 #### Około 18:59–19:20 — wieczorna kolacja w hotelu
 
 Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z sosem i mięsem, a na deser kawałek ciasta oraz lody. Pod stołami kręciły się hotelowe koty — szary pręgowany i rudy — które pojawiają się na kilku fotografiach między 19:13 a 19:17. Szczegóły rozmów i dalszego przebiegu wieczoru pozostają jeszcze do dopowiedzenia.
