@@ -620,7 +620,19 @@ Całość dokumentują `IMG_1515.HEIC`–`IMG_1522.HEIC`, wykonane od 18:14:09 d
 
 #### Około 18:59–19:20 — wieczorna kolacja w hotelu
 
-Wieczorem poszliśmy na kolację. Zdjęcia pokazują żółty napój, makaron z sosem i mięsem, a na deser kawałek ciasta oraz lody. Pod stołami kręciły się hotelowe koty — szary pręgowany i rudy — które pojawiają się na kilku fotografiach między 19:13 a 19:17. Szczegóły rozmów i dalszego przebiegu wieczoru pozostają jeszcze do dopowiedzenia.
+Krótko przed 19:00 poszliśmy na kolację do restauracji hotelowej. Pierwsze zdjęcia, `IMG_1523.HEIC`–`IMG_1524.HEIC`, wykonane o 18:59:02–18:59:03, pokazują szklankę żółtego napoju, prawdopodobnie soku lub napoju owocowego. Dokładnego rodzaju nie można ustalić na podstawie samego wyglądu.
+
+Na `IMG_1525.HEIC`–`IMG_1526.HEIC` z 19:05:24–19:05:29 widać spaghetti w czerwono-brązowym sosie oraz dwa kawałki mięsa; na jednym leży plasterek cytryny. Zdjęcia nie pozwalają wiarygodnie rozpoznać gatunku mięsa ani dokładnej nazwy potrawy.
+
+Pod stołami ponownie pojawiły się hotelowe koty. `IMG_1527.HEIC`–`IMG_1533.HEIC`, wykonane od 19:13:39 do 19:17:30, pokazują szarego pręgowanego kota i rudego kota kręcących się w pobliżu naszych nóg, a chwilami leżących lub bawiących się razem. Ich obecność była zabawnym, charakterystycznym elementem hotelowych posiłków.
+
+Na deser wybrałem kilka różnych rzeczy. `IMG_1534.HEIC`–`IMG_1535.HEIC` z 19:19:36–19:19:40 pokazują dwie porcje lodów umieszczone w małym waflu lub miseczce waflowej, podłużny kawałek ciasta z błyszczącą polewą oraz różowy deser przypominający krem, mus albo niewielkie ciastko. Smaków i dokładnych nazw nie da się potwierdzić wyłącznie ze zdjęcia.
+
+#### Przed 20:00 – 01:30 — nieplanowany długi sen
+
+Po kolacji wróciliśmy do pokoju jeszcze przed 20:00. Planowaliśmy później wyjść ponownie z hotelu — na plażę albo w okolice basenu, gdzie miała pójść także część naszej grupy. Położyliśmy się jednak z Pawłem tylko na chwilę, nadal w zwykłych ubraniach, i obaj niespodziewanie zasnęliśmy.
+
+Obudziliśmy się dopiero około 01:30 w nocy. Wtedy stwierdziliśmy, że skoro przespaliśmy już znaczną część nocy w ubraniach, trzeba przynajmniej przebrać się w rzeczy do spania. Planowane wieczorne wyjście nie doszło więc do skutku, a zmęczenie po całodziennej wycieczce dookoła wyspy okazało się silniejsze od wcześniejszych planów.
 
 ### Wrażenia i obserwacje
 
