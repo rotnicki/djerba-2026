@@ -588,7 +588,13 @@ Ostatnim dużym punktem programu był kompleks **Djerba Explore**. Zdjęcia `IMG
 
 Najpierw odwiedziliśmy część stylizowaną na tradycyjną zabudowę i gospodarstwo. Przewodniczka opowiadała grupie na dziedzińcu, a później odbyła się bezpośrednia prezentacja wielbłąda. Mogliśmy podejść bardzo blisko i go dotknąć; zdjęcia z około 16:28–16:30 pokazują kontakt uczestników ze zwierzęciem. Oglądaliśmy również rosnące na terenie kompleksu granaty.
 
-Później przeszliśmy do parku krokodyli. Widać było zarówno mniejsze krokodyle, które można było ostrożnie potrzymać pod nadzorem, jak i liczne duże zwierzęta leżące przy basenach oraz na piaszczystych wybiegach. Zdjęcia od `IMG_1485.HEIC` dokumentują trzymanie małego krokodyla, przejście przez skalne i zadaszone części ekspozycji, baseny oraz grupy dużych krokodyli. Ostatnie fotografie przy wyjściu wykonaliśmy około 17:41.
+Później przeszliśmy do parku krokodyli. Od wejścia mieliśmy jeszcze do pokonania dość długą drogę przez rozległy teren kompleksu, kolejne bramki i kontrolowane przejścia. Około 16:40 dotarliśmy w okolice mostku stanowiącego jeden z łączników pomiędzy kolejnymi basenami i wybiegami. Krokodyle mogły znajdować się także w wodzie i przestrzeni bezpośrednio pod mostkami. Z tego miejsca czekaliśmy na zapowiedziane karmienie.
+
+Regularny pokaz karmienia rozpoczął się około 17:00. Pracownicy pojawili się po obu stronach mostków ze skrzyniami zawierającymi surowe mięso i rzucali jego kawałki krokodylom. Obserwowaliśmy z bliska, jak zwierzęta chwytają i połykają pokarm; towarzyszyły temu wyraźne odgłosy uderzających szczęk oraz plusk wody. Nie wszystkie krokodyle reagowały równie szybko — część pozostawała niemal nieruchoma i sprawiała wrażenie zbyt leniwej, żeby sięgnąć po mięso. Oficjalna informacja parku potwierdza, że pokaz karmienia odbywa się o 17:00, z wyjątkiem poniedziałków, a krokodyle otrzymują podczas niego surowego kurczaka.
+
+Według informacji przekazanej przez przewodniczkę zwierzęta otrzymują także specjalnie przygotowany pokarm w postaci pasty, natomiast karmienie mięsem ma częściowo charakter widowiska organizowanego dla turystów. Informację o paście zapisujemy jako relację przewodniczki, ponieważ nie została jeszcze potwierdzona w oficjalnych materiałach parku.
+
+Widać było zarówno mniejsze krokodyle, które można było ostrożnie potrzymać pod nadzorem, jak i liczne duże zwierzęta leżące przy basenach oraz na piaszczystych wybiegach. Zdjęcia od `IMG_1485.HEIC` dokumentują trzymanie małego krokodyla, przejście przez skalne i zadaszone części ekspozycji, baseny oraz grupy dużych krokodyli. Ostatnie fotografie przy wyjściu wykonaliśmy około 17:41.
 
 #### Około 18:14 — powrót do Club Palm Azur
 
