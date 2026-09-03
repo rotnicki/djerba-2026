@@ -594,6 +594,10 @@ Regularny pokaz karmienia rozpoczął się około 17:00. Pracownicy pojawili si�
 
 Według informacji przekazanej przez przewodniczkę zwierzęta otrzymują także specjalnie przygotowany pokarm w postaci pasty, natomiast karmienie mięsem ma częściowo charakter widowiska organizowanego dla turystów. Informację o paście zapisujemy jako relację przewodniczki, ponieważ nie została jeszcze potwierdzona w oficjalnych materiałach parku.
 
+Tuż po karmieniu nastąpił jeden z najbardziej niezwykłych momentów całej wizyty: można było wziąć na ręce bardzo młodego krokodyla i zrobić sobie z nim zdjęcie. Według informacji przekazanej na miejscu zwierzę miało około jednego–dwóch miesięcy. Krokodyl był bardzo ciekawy w dotyku. Trzymając go, czułem delikatne pulsowanie przypominające bicie serca oraz niewielkie ruchy jego ciała. Dawało to wyjątkowe poczucie bezpośredniego kontaktu z żywym zwierzęciem.
+
+Pyszczek krokodyla był zabezpieczony plastikową opaską zaciskową, potocznie nazywaną trytytką. Miało to zapobiec ugryzieniu lub przypadkowemu zranieniu ostrymi zębami, które mają nawet tak młode krokodyle. Dla mnie, jako osoby niewidomej, było to szczególnie wartościowe doświadczenie sensoryczne — możliwość poznania zwierzęcia przez dotyk, wyczucia jego kształtu, powierzchni ciała, delikatnego pulsowania i ruchu. Bliskość z przyrodą zrobiła na mnie ogromne wrażenie.
+
 Widać było zarówno mniejsze krokodyle, które można było ostrożnie potrzymać pod nadzorem, jak i liczne duże zwierzęta leżące przy basenach oraz na piaszczystych wybiegach. Zdjęcia od `IMG_1485.HEIC` dokumentują trzymanie małego krokodyla, przejście przez skalne i zadaszone części ekspozycji, baseny oraz grupy dużych krokodyli. Ostatnie fotografie przy wyjściu wykonaliśmy około 17:41.
 
 #### Około 18:14 — powrót do Club Palm Azur
