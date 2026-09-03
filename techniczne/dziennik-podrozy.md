@@ -489,6 +489,24 @@ Autobus przyjechał punktualnie. Zgodnie z wcześniejszą zapowiedzią wycieczk�
 
 Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas dzisiejszego wyjazdu ponownie o tym mówiła, że mieszka na Dżerbie od około czterech lat. Informację tę zapisujemy jako jej własną relację. Dzięki temu w czasie objazdu mogła odnosić się nie tylko do informacji turystycznych, ale także do codziennego życia na wyspie.
 
+#### Początek trasy — strefa turystyczna i kierunek El Kantara
+
+Po wyjeździe z Club Palm Azur ruszyliśmy wzdłuż południowo-wschodniej części wyspy. Pani Katarzyna zwróciła uwagę, że nasz hotel leży przy południowym krańcu głównego pasa hotelowego Dżerby i — według jej relacji — jest ostatnim hotelem tej strefy, gdy jedzie się od północy wzdłuż wschodniego wybrzeża ku południu.
+
+We francuskojęzycznych materiałach tę część wyspy określa się po prostu jako **zone touristique** — strefę turystyczną. Niezależne źródła potwierdzają, że po wschodniej stronie Dżerby ciągnie się ona na **ponad 20 km między Aghir na południu a Houmt Souk na północy**. Podawane podczas wycieczki około **22 km** dobrze odpowiada więc skali tego pasa, choć dokładną liczbę traktujemy jako przybliżenie. 
+
+Jechaliśmy dalej w kierunku południowego krańca Dżerby, gdzie znajduje się **El Kantara** i tak zwana **droga rzymska** — po francusku *chaussée romaine*. W pewnym momencie grobla była widoczna po lewej stronie autobusu. Na specjalnym rondzie nie pojechaliśmy jednak w jej stronę, lecz odbiliśmy bardziej w głąb wyspy.
+
+El Kantara jest stałym drogowym połączeniem Dżerby z kontynentem. Tunezyjskie źródła infrastrukturalne podają, że rzymska droga ma około **7 km** i łączy południe wyspy z półwyspem Zarzis. Nie jest to jednak jedyny sposób wydostania się z Dżerby: po stronie południowo-zachodniej funkcjonują także promy samochodowe **Ajim–Jorf**. Jest bardzo prawdopodobne, że z drogi rzymskiej skorzystamy 4 września podczas wyjazdu na Saharę.
+
+#### Pierwszy postój — najprawdopodobniej meczet Fadhloun
+
+Pierwszym odwiedzanym obiektem był stary meczet położony już bardziej w głębi wyspy. Z opisu trasy, lokalizacji i informacji przekazanych na miejscu najbardziej prawdopodobną identyfikacją jest **meczet Fadhloun** w rejonie Khazroun niedaleko Midoun. Na tym etapie zapisujemy tę identyfikację jako bardzo prawdopodobną; ostatecznie będziemy mogli ją potwierdzić na podstawie zdjęć z tego postoju.
+
+UNESCO potwierdza, że **Mosquée Fadhloun** znajduje się w Khazroun, powstała w **XI wieku** i jest jednym z elementów wpisu „Djerba: Testimony to a settlement pattern in an island territory”. Dokumentacja nominacyjna UNESCO wskazuje również, że po renowacji obiekt jest zarządzany jako miejsce udostępniane do zwiedzania. To dobrze pasuje do informacji przekazanej przez przewodniczkę, że jest to wyjątkowy na wyspie meczet dostępny dla turystów.
+
+Nasza grupa zatrzymała się przy meczecie i oglądała obiekt oraz jego otoczenie, ale **nie wchodziliśmy do samej sali modlitwy**.
+
 ### Wrażenia i obserwacje
 
 ### Miejsca i wydarzenia
@@ -496,6 +514,9 @@ Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas dzisiej
 - Hotel Club Palm Azur — pobudka około 06:30, śniadanie około 07:30 i przygotowanie do całodziennego wyjazdu bez konieczności powrotu do pokoju.
 - 08:15 — punktualny przyjazd autobusu i rozpoczęcie objazdu Dżerby.
 - Prowadząca wycieczkę: pani Katarzyna, rezydentka Coral Travel obsługująca kilka hoteli na Dżerbie i prowadząca również wycieczki po wyspie; według jej własnej relacji mieszka na Dżerbie od około czterech lat.
+- Początek trasy — Club Palm Azur leży według relacji przewodniczki na południowym krańcu głównej `zone touristique`. Strefa turystyczna wschodniej Dżerby rozciąga się na ponad 20 km między Aghir a Houmt Souk; około 22 km traktujemy jako wiarygodne przybliżenie.
+- El Kantara — z autobusu widoczna była grobla/droga rzymska. Na rondzie grupa skręciła jednak w głąb wyspy. Grobla jest stałym drogowym połączeniem z kontynentem; drugim połączeniem dla samochodów jest przeprawa promowa Ajim–Jorf.
+- Pierwszy postój — najprawdopodobniej meczet Fadhloun w Khazroun, pochodzący z XI wieku i należący do zespołu wpisanego na listę UNESCO; identyfikacja do ostatecznego potwierdzenia zdjęciami.
 
 ### Zdjęcia, nagrania i materiały
 
