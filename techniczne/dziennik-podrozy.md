@@ -594,15 +594,21 @@ Regularny pokaz karmienia rozpoczął się około 17:00. Pracownicy pojawili si�
 
 Według informacji przekazanej przez przewodniczkę zwierzęta otrzymują także specjalnie przygotowany pokarm w postaci pasty, natomiast karmienie mięsem ma częściowo charakter widowiska organizowanego dla turystów. Informację o paście zapisujemy jako relację przewodniczki, ponieważ nie została jeszcze potwierdzona w oficjalnych materiałach parku.
 
-Tuż po karmieniu nastąpił jeden z najbardziej niezwykłych momentów całej wizyty: można było wziąć na ręce bardzo młodego krokodyla i zrobić sobie z nim zdjęcie. Według informacji przekazanej na miejscu zwierzę miało około jednego–dwóch miesięcy. Krokodyl był bardzo ciekawy w dotyku. Trzymając go, czułem delikatne pulsowanie przypominające bicie serca oraz niewielkie ruchy jego ciała. Dawało to wyjątkowe poczucie bezpośredniego kontaktu z żywym zwierzęciem.
+Tuż po karmieniu nastąpił jeden z najbardziej niezwykłych momentów całej wizyty: można było wziąć na ręce bardzo młodego krokodyla i zrobić sobie z nim zdjęcie. Zdjęcia `IMG_1485.HEIC`–`IMG_1487.HEIC`, wykonane od 17:14:58 do 17:15:01, dokładnie dokumentują ten moment. Według informacji przekazanej na miejscu zwierzę miało około jednego–dwóch miesięcy. Krokodyl był bardzo ciekawy w dotyku. Trzymając go, czułem delikatne pulsowanie przypominające bicie serca oraz niewielkie ruchy jego ciała. Dawało to wyjątkowe poczucie bezpośredniego kontaktu z żywym zwierzęciem.
 
 Pyszczek krokodyla był zabezpieczony plastikową opaską zaciskową, potocznie nazywaną trytytką. Miało to zapobiec ugryzieniu lub przypadkowemu zranieniu ostrymi zębami, które mają nawet tak młode krokodyle. Dla mnie, jako osoby niewidomej, było to szczególnie wartościowe doświadczenie sensoryczne — możliwość poznania zwierzęcia przez dotyk, wyczucia jego kształtu, powierzchni ciała, delikatnego pulsowania i ruchu. Bliskość z przyrodą zrobiła na mnie ogromne wrażenie.
 
-Widać było zarówno mniejsze krokodyle, które można było ostrożnie potrzymać pod nadzorem, jak i liczne duże zwierzęta leżące przy basenach oraz na piaszczystych wybiegach. Zdjęcia od `IMG_1485.HEIC` dokumentują trzymanie małego krokodyla, przejście przez skalne i zadaszone części ekspozycji, baseny oraz grupy dużych krokodyli. Ostatnie fotografie przy wyjściu wykonaliśmy około 17:41.
+Po trzymaniu małego krokodyla mieliśmy jeszcze czas na dalszy spacer po parku. Zdjęcia z okresu od około 17:20 do 17:32 pokazują przejścia wśród sztucznych skał, baseny oraz liczne duże krokodyle odpoczywające przy wodzie. `IMG_1498.HEIC` z 17:24:15 przedstawia basen widziany przez otwór w pseudo-skalnej konstrukcji, a `IMG_1499.HEIC` i `IMG_1501.HEIC` z 17:26:46–17:27:04 pokazują krokodyle obserwowane z góry przy metalowej kracie lub pomoście.
+
+Zdjęcia `IMG_1504.HEIC`–`IMG_1505.HEIC` z 17:28:01–17:28:04 dokumentują dużą, jasną halę przykrytą łukowym, częściowo przezroczystym dachem. Kolejne fotografie, zwłaszcza `IMG_1506.HEIC`–`IMG_1509.HEIC` z 17:31:27–17:31:53, pokazują basen, sztuczne skały, niewielki wodospad i grupy krokodyli. Oglądaliśmy również żółwie. To wspomnienie zapisujemy jako pewny element zwiedzania, ale w aktualnie dostępnej serii nie udało się jeszcze jednoznacznie odnaleźć zdjęcia, które je przedstawia.
+
+Zdjęcia `IMG_1511.HEIC`–`IMG_1512.HEIC` z 17:39:41–17:39:42 wykonano jeszcze na terenie parku, natomiast `IMG_1513.HEIC`–`IMG_1514.HEIC` z 17:41:07–17:41:08 pokazują już drogę przy budynku wejściowym lub wyjściowym. Potwierdza to, że około 17:41 rozpoczynaliśmy wyjście i powrót w stronę autokaru.
 
 #### Około 18:14 — powrót do Club Palm Azur
 
-Do hotelu wróciliśmy około 18:14, nieco później niż orientacyjnie planowana godzina 18:00. Potwierdzają to zdjęcia wykonane już w pokoju (`IMG_1515.HEIC`–`IMG_1522.HEIC`) i ich hotelowa lokalizacja GPS.
+Po zdjęciach przy wyjściu, wykonanych około 17:41, wracaliśmy w stronę autokaru. Dokładnej chwili odjazdu nie dokumentuje żadne zdjęcie; na podstawie czasu potrzebnego na dojście, zebranie grupy i przejazd można ją ostrożnie szacować na około 17:50–18:00.
+
+Pierwsze fotografie wykonane już w pokoju hotelowym, `IMG_1515.HEIC`–`IMG_1517.HEIC`, mają czas 18:14:09–18:14:12 i lokalizację Club Palm Azur. Oznacza to, że autokar musiał przyjechać do hotelu kilka minut wcześniej. Zapamiętana godzina około 18:09 jest więc wiarygodna, choć sam materiał fotograficzny pozwala bezpośrednio potwierdzić jedynie, że o 18:14 byliśmy już w pokoju. Przejazd z Djerba Explore do hotelu trwał kilkanaście minut.
 
 #### Około 18:59–19:20 — wieczorna kolacja w hotelu
 
