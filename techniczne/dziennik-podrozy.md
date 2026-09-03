@@ -477,195 +477,118 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
-#### Około 06:30–08:15 — pobudka, śniadanie i przygotowanie do wyjazdu
+#### Poranek, wyjazd i przejazd na południe wyspy
 
-Około 06:30 obudziliśmy się z Pawłem, moim przewodnikiem, nieco wcześniej niż zwykle, żeby spokojnie przygotować się do całodziennego zwiedzania wyspy. Pozostali uczestnicy grupy również zaczynali dzień wcześniej ze względu na poranny wyjazd.
+Około 06:30 obudziliśmy się z Pawłem wcześniej niż zwykle, żeby spokojnie przygotować się do całodziennego zwiedzania Dżerby. Na śniadanie zeszliśmy około 07:30 już z całym potrzebnym ekwipunkiem, dzięki czemu nie musieliśmy później wracać do pokoju.
 
-Około 07:30 poszliśmy na śniadanie. Godzinę rozpoczęcia wycieczki wcześniej uzgodniono na 08:15 zamiast 08:00 właśnie po to, żeby grupa mogła bez pośpiechu zjeść śniadanie. Z Pawłem zeszliśmy do restauracji już całkowicie przygotowani do wyjazdu i zabraliśmy ze sobą cały potrzebny na dzień ekwipunek. Dzięki temu po śniadaniu nie trzeba było wracać do pokoju i tracić czasu przed zbiórką. Zdjęcie `IMG_1277.HEIC`, wykonane o 07:55:41, dokumentuje końcówkę śniadania.
+Autobus przyjechał punktualnie i o 08:15 wyruszyliśmy z Club Palm Azur. Wycieczkę prowadziła pani Katarzyna, rezydentka Coral Travel, którą poznaliśmy poprzedniego dnia. Mieszka na Dżerbie od około czterech lat, dlatego podczas jazdy łączyła informacje o zwiedzanych miejscach z opowieściami o codziennym życiu na wyspie.
 
-#### 08:15 — punktualny wyjazd i prowadzenie wycieczki
+Najpierw jechaliśmy wzdłuż południowej części pasa hotelowego, a później w kierunku El Kantary i tak zwanej drogi rzymskiej, czyli stałego połączenia Dżerby z kontynentem. Grobla była przez pewien czas widoczna z autobusu, lecz na rondzie odbiliśmy w głąb wyspy i pojechaliśmy do pierwszego miejsca zwiedzania.
 
-Autobus przyjechał punktualnie. Zgodnie z wcześniejszą zapowiedzią wycieczkę prowadziła pani Katarzyna — rezydentka Coral Travel, z którą grupa spotkała się poprzedniego dnia podczas spotkania organizacyjnego. Obsługuje jako rezydentka kilka hoteli na Dżerbie i jednocześnie prowadzi wycieczki po wyspie jako przewodniczka.
+#### Meczet Sidi Yati
 
-Pani Katarzyna wspominała już podczas spotkania 1 września, a podczas wyjazdu ponownie o tym mówiła, że mieszka na Dżerbie od około czterech lat. Informację tę zapisujemy jako jej własną relację. Dzięki temu w czasie objazdu mogła odnosić się nie tylko do informacji turystycznych, lecz także do codziennego życia na wyspie.
+Pierwszym przystankiem był meczet Sidi Yati, biały i zwarty budynek stojący bardzo blisko morza na południe od Guellali. Oglądaliśmy go tylko z zewnątrz. Jego kopuły, grube mury i położenie przy brzegu nadawały mu charakter warownego punktu obserwacyjnego.
 
-#### 08:15–08:40 — strefa turystyczna, El Kantara i przejazd na południe wyspy
+Największym pozytywnym zaskoczeniem była niewielka przestrzenna makieta meczetu ustawiona na niskiej podstawie. Można było jej swobodnie dotykać, dzięki czemu mogłem rękami poznać układ murów, kopuł i poszczególnych części budynku. Dla mnie, jako osoby niewidomej, była to rzadka możliwość samodzielnego poznania bryły zabytku, a nie tylko wysłuchania jego opisu. Nie udało się jednoznacznie ustalić, z jakiego materiału wykonano model, ale sama dostępność tego rozwiązania zrobiła na mnie bardzo dobre wrażenie.
 
-Po wyjeździe z Club Palm Azur ruszyliśmy wzdłuż południowo-wschodniej części wyspy. Pani Katarzyna zwróciła uwagę, że nasz hotel leży przy południowym krańcu głównego pasa hotelowego Dżerby i — według jej relacji — jest ostatnim hotelem tej strefy, gdy jedzie się od północy wzdłuż wschodniego wybrzeża ku południu.
+#### Guellala — garncarstwo i muzeum
 
-We francuskojęzycznych materiałach tę część wyspy określa się jako **zone touristique**. Rozciąga się ona wzdłuż wschodniego wybrzeża, mniej więcej między Aghir na południu a rejonem Houmt Souk na północy. Podawane podczas wycieczki około 22 km dobrze oddaje skalę pasa hotelowego, choć liczbę traktujemy jako przybliżenie.
+Około 09:05 dotarliśmy do warsztatu i sklepu Le Petit Artisan w Guellali. Oglądaliśmy pokaz pracy garncarza, otoczeni dzbanami, wazonami, misami i różnymi ceramicznymi dekoracjami.
 
-Jechaliśmy dalej w kierunku południowego krańca Dżerby, gdzie znajduje się **El Kantara** i tak zwana **droga rzymska** — po francusku *chaussée romaine*. W pewnym momencie grobla była widoczna po lewej stronie autobusu. Na specjalnym rondzie nie pojechaliśmy jednak w jej stronę, lecz odbiliśmy bardziej w głąb wyspy. El Kantara jest stałym drogowym połączeniem Dżerby z kontynentem; drugim połączeniem dla samochodów pozostaje przeprawa promowa Ajim–Jorf.
+Szczególnie zabawna była prezentacja naczynia nazywanego przez sprzedawcę „magicznym wielbłądem”. Wlewano do niego mleko i kawę, a następnie obracano je i ustawiano w różnych pozycjach. Miało to pokazać pomysłowy sposób mieszania i nalewania napoju przypominającego cappuccino. Sprzedawcy witali nas po polsku, używali podstawowych polskich zwrotów i prowadzili pokaz z dużą dawką humoru.
 
-#### Około 08:40–08:53 — nadmorski meczet Sidi Yati
+W sklepie kupiłem za 20 dinarów ceramiczną zawieszkę z charakterystycznym znakiem przypominającym symbol Tanit. Zapłaciłem kartą.
 
-Pierwszym postojem był biały, warowny meczet stojący bardzo blisko morza w południowej części Dżerby. Wcześniejsza robocza identyfikacja tego miejsca jako meczetu Fadhloun była błędna i zostaje wycofana. Zdjęcia `IMG_1285.HEIC`–`IMG_1298.HEIC`, ich czasy oraz pozycja GPS około **33.7068 N, 10.8616 E** wskazują jednoznacznie na **meczet Sidi Yati** w nadmorskim rejonie na południe od Guellali.
+Następnie odwiedziliśmy Muzeum Guellala. Jest to rozległy, biały kompleks z dziedzińcami i ekspozycjami pokazującymi tradycyjne stroje, garncarstwo, wnętrza domów oraz sceny z codziennego życia mieszkańców Dżerby. Jednym z charakterystycznych elementów była ciemna brama z wypukłymi symbolami, wśród których można było rozpoznać znak przypominający Tanit oraz rękę Fatimy.
 
-Obiekt oglądaliśmy z zewnątrz; nie wchodziliśmy do sali modlitwy. Charakterystyczna zwarta, biała bryła z kopułami dobrze wpisuje się w dawny system obronno-obserwacyjnych meczetów Dżerby. Położenie niemal przy samym brzegu morza dodatkowo wzmacnia tę identyfikację.
+W muzeum kupiłem cztery magnesy: siedzącego wielbłąda w ciemnych okularach z napisem odnoszącym się do Dżerby, flagę Tunezji oraz dwie ręce Fatimy — piaskową i błękitną. Cały komplet kosztował 5 dinarów. Zapłaciłem gotówką pożyczoną od Pawła.
 
-Szczególnie pozytywnym i zaskakującym elementem z punktu widzenia osoby niewidomej była mała przestrzenna makieta meczetu, ustawiona na niskiej podstawie i dostępna do dotykania. Mogłem rękami poznać układ bryły, kopuł i poszczególnych części budynku. Zdjęcia `IMG_1287.HEIC` i `IMG_1288.HEIC`, wykonane o 08:41:44 i 08:42:04, pokazują właśnie oglądanie makiety dotykiem. Jej dokładny materiał — kamień, ceramika, gips lub cement — pozostaje do potwierdzenia, ale sama możliwość dotykowego poznania obiektu była bardzo wartościowa i stanowiła rzadki przykład praktycznej dostępności.
+#### El Ghriba, dom pielgrzymów i perfumeria
 
-#### Około 09:05–09:31 — Guellala, pokaz garncarstwa i sklep Le Petit Artisan
+Kolejnym ważnym miejscem była synagoga El Ghriba w rejonie Erriadh. Już przy wejściu zwracała uwagę kontrola bezpieczeństwa i przejście przez bramki. Rygorystyczna ochrona jest zrozumiała w kontekście wcześniejszych ataków na synagogę i jej otoczenie, między innymi w 2002 i 2023 roku.
 
-Kolejnym punktem był warsztat i sklep garncarski **Le Petit Artisan** w Guellali. Lokalizację potwierdzają zdjęcia `IMG_1299.HEIC`–`IMG_1323.HEIC` oraz GPS około **33.7286 N, 10.8589 E**. Oglądaliśmy pokaz pracy garncarza, otoczeni dużą liczbą naczyń, dzbanów i ceramicznych dekoracji.
+Przy wejściu do samej synagogi pilnowano zasad stroju. Mężczyźni musieli mieć nakrycie głowy, a osoby, które go nie miały, otrzymywały jarmułki. Moja czapka z daszkiem została zaakceptowana. Kobiety z odsłoniętymi ramionami zakładały chusty. Jedna z uczestniczek zdjęła swoją wewnątrz z powodu gorąca, ale pracownicy od razu poprosili ją o ponowne założenie.
 
-Jednym z najbardziej zapamiętanych elementów była prezentacja specjalnego naczynia nazywanego przez sprzedawcę **„magicznym wielbłądem”**. Do naczynia wlewano mleko i kawę, a następnie obracano je i ustawiano w różnych pozycjach, demonstrując pomysłowe mieszanie oraz nalewanie napoju przypominającego cappuccino. Pokaz miał lekki, żartobliwy charakter. Sprzedawcy znali podstawowe polskie zwroty, witali grupę słowami „dzień dobry”, żegnali po polsku i chętnie włączali polskie słowa do prezentacji.
+Wnętrze było bogato dekorowane. Wyróżniały się niebieskie elementy, wzorzyste płytki, kolumny, łuki, kolorowe przeszklenia i żyrandole. Zupełnie inaczej wyglądał sąsiedni dom dla pielgrzymów. Weszliśmy na jego dziedziniec i zaglądaliśmy do bardzo skromnie urządzonych pomieszczeń. Były tam przede wszystkim proste miejsca do siedzenia lub spania, przesuwane drzwi oraz pojedyncze wiadra albo miski. Równie minimalistyczne było zaplecze sanitarne. Kontrast między bogatym wnętrzem synagogi a prostotą domu pielgrzymów był bardzo wyraźny.
 
-W sklepie kupiłem za **20 dinarów tunezyjskich**, kartą, ceramiczną zawieszkę. Widoczny na niej znak ma formę trójkąta połączonego z łukiem i najbardziej przypomina stylizowany **symbol Tanit**, znany z tradycji punickiej. Ten sam lub bardzo podobny znak pojawia się na sfotografowanej bramie w kompleksie muzealnym (`IMG_1333.HEIC`). Identyfikację zapisujemy na razie jako bardzo prawdopodobną, ponieważ nie mamy jeszcze zbliżenia samej zakupionej zawieszki ani etykiety produktu.
+Po wyjściu odwiedziliśmy pobliski sklep z perfumami i olejkami zapachowymi. Za 110 dinarów kupiłem cztery tłuste ekstrakty perfumeryjne: odpowiednik zapachu Armani, odpowiednik Chanel No. 5, Habibi oraz kompozycję zbliżoną do jaśminu. Sprzedawczyni również próbowała mówić po polsku, a prezentacja zapachów miała sympatyczny i bezpośredni charakter.
 
-#### Około 09:40–10:38 — Muzeum Guellala
+#### Djerbahood, Houmt Souk i obiad nad morzem
 
-Następnie zwiedzaliśmy **Muzeum Guellala**. Zdjęcia `IMG_1324.HEIC`–`IMG_1355.HEIC` dokumentują rozległy biały kompleks, dziedzińce oraz ekspozycje przedstawiające garncarstwo, stroje, wnętrza i sceny z tradycyjnego życia mieszkańców Dżerby. W muzeum znalazła się też ciemniejsza brama z wypukłymi symbolami, wśród których widać znak przypominający Tanit oraz rękę Fatimy.
+Następnie przeszliśmy wąskimi uliczkami Erriadh, oglądając murale projektu Djerbahood. Spacer był dość szybki, dlatego nie przy każdym dziele mieliśmy czas na dłuższy postój. Widzieliśmy między innymi portrety, fenki, kota w czerwonym fezie, postacie z baśni oraz kolorowego wielbłąda w szerokim kapeluszu. Ten ostatni mural był podpisany przez AnekBanek i polskiego artystę Dean One Art. Przewodniczka zrobiła grupie kilka zdjęć na tle murali.
 
-W muzeum kupiłem **cztery magnesy za łączną cenę 5 dinarów**. Były to: siedzący wielbłąd w ciemnych okularach z napisem odnoszącym się do Dżerby, flaga Tunezji oraz dwie ręce Fatimy — jedna w kolorze piaskowym, druga błękitna. Zapłaciłem gotówką pożyczoną od Pawła. Ważne: 5 dinarów było ceną całego kompletu czterech magnesów, a nie ceną jednego egzemplarza.
+Po Djerbahood pojechaliśmy do Houmt Souk. Przeszliśmy przez arkadową część bazaru i odwiedziliśmy sklep z przyprawami. Kupiłem tam za około 10 dinarów suszoną werbenę do przygotowywania naparu, ponownie płacąc gotówką pożyczoną od Pawła.
 
-#### Około 11:23–11:38 — synagoga El Ghriba
+Sprzedawca dobrze radził sobie z podstawową polszczyzną i prowadził prezentację z dużym humorem. Opowiadał o przyprawach „na grilla”, do kurczaka i pieczeni, a nawet „do pierników z Torunia”. Ta łamana, ale zaskakująco dobrze dobrana polszczyzna stała się jednym z najbardziej sympatycznych wspomnień z zakupów.
 
-Po przejeździe z Guellali dotarliśmy do **synagogi El Ghriba** w rejonie Erriadh. Zdjęcia `IMG_1356.HEIC`–`IMG_1381.HEIC` oraz materiały grupowe wykonane przez przewodniczkę potwierdzają zarówno wnętrze synagogi, jak i teren całego kompleksu.
+Około 13:40 dotarliśmy do restauracji nad wodą w rejonie starego portu. Przy odpływie odsłonięty brzeg nie wyglądał najlepiej — było na nim sporo śmieci, a nawet porzucone opony. Sam obiad był jednak smaczny.
 
-Już przy wejściu zwracała uwagę wyraźna kontrola bezpieczeństwa: przechodziliśmy przez bramki, a wejścia i zachowania odwiedzających były pilnowane. Środki te mają historyczne uzasadnienie. W 2002 roku przed synagogą przeprowadzono zamach z użyciem ciężarówki-pułapki, a w 2023 roku w czasie pielgrzymki doszło w pobliżu do kolejnego śmiertelnego ataku. To wyjaśnia, dlaczego ochrona tego miejsca pozostaje tak rygorystyczna.
+Najpierw dostaliśmy słodką herbatę podaną w małych, zdobionych szklankach. Miała nuty mięty lub innych ziół, a chwilami wydawała mi się nawet lekko słonawa. Pierwszym daniem był brik: cienkie, smażone ciasto z chrupiącym brzegiem i miękkim farszem. Drugie danie składało się z przyprawionego mięsa, prawdopodobnie kurczaka, frytek, makaronu oraz sałatki. Na zakończenie dostaliśmy tunezyjskie słodkie ciastko, najprawdopodobniej makroudh.
 
-Przy wejściu do samej synagogi pilnowano również zasad dotyczących stroju. Mężczyźni musieli mieć nakrycie głowy; osoby, które go nie miały, otrzymywały jarmułki. Moja czapka z daszkiem została zaakceptowana. Kobiety z odsłoniętymi ramionami musiały założyć chusty. Jedna z uczestniczek naszej grupy zdjęła chustę wewnątrz z powodu upału, ale pracownicy natychmiast poprosili ją o ponowne założenie; zwróciła jej na to uwagę również nasza przewodniczka.
+#### Przejazd przez Houmt Souk i zakupy przed Djerba Explore
 
-Wnętrze zapamiętałem jako bardzo dekoracyjne: dominowały niebieskie elementy, wzorzyste płytki, kolumny, łuki, kolorowe przeszklenia i żyrandole. Kontrastowało ono z prostotą pomieszczeń dla pielgrzymów w sąsiednim budynku.
+Po obiedzie ruszyliśmy dalej północną częścią wyspy. Z autokaru zobaczyliśmy miejski amfiteatr oraz zewnętrzne mury fortu Borj Ghazi Mustapha, nazywanego również Borj El Kebir. Nie zatrzymywaliśmy się przy nich, ale pani Katarzyna opowiadała o mijanych obiektach.
 
-#### Około 11:30–11:38 — dziedziniec i dom dla pielgrzymów przy El Ghribie
+Następnie zatrzymaliśmy się w Ste El Yassamina Center, sklepie nastawionym na grupy turystyczne i współpracującym z Coral Travel. Prezentację częściowo prowadziła pani Katarzyna, która dobrze znała pracujących tam mężczyzn. Sprzedawcy mówili niemal całkowicie po polsku, żartowali z grupą i przedstawiali promocyjne oferty w rodzaju „jeden plus jeden gratis”.
 
-Weszliśmy również na dziedziniec sąsiadującego z synagogą budynku przeznaczonego dla pielgrzymów. Zaglądaliśmy do poszczególnych pomieszczeń. Były urządzone bardzo skromnie: znajdowało się tam przede wszystkim proste miejsce do siedzenia lub spania, niewiele wyposażenia, przesuwane lub proste drzwi, a miejscami wiadro albo miska. Równie minimalistyczne były toalety i część do mycia. Zdjęcia `IMG_1364.HEIC`–`IMG_1377.HEIC` dobrze dokumentują dziedziniec, pokoje i zaplecze sanitarne.
+W sklepie spędziliśmy mniej więcej godzinę. Za 131 dinarów kupiłem między innymi litrowy napój gazowany w puszce oraz dwie małe butelki figowego koncentratu przeznaczonego do rozcieńczania i picia. Zapłaciłem kartą.
 
-#### Około 11:42–12:00 — perfumeria w pobliżu synagogi
+Po wyjeździe ze sklepu minęliśmy jeszcze czerwono-białą latarnię morską Taguermess. Podobnie jak fort i amfiteatr oglądaliśmy ją tylko z autokaru. Następnym właściwym przystankiem był kompleks Djerba Explore.
 
-Po wyjściu z kompleksu El Ghriby odwiedziliśmy pobliski sklep z perfumami i olejkami zapachowymi. Kolejność potwierdza `IMG_1382.HEIC`, wykonane o 11:42:35, już po zdjęciach przy synagodze. Na podstawie potwierdzenia transakcji nazwę sprzedawcy lub punktu zapisujemy roboczo jako **Chahrazed Sebai**; nie mamy jeszcze pewności, czy jest to oficjalna nazwa sklepu, czy dane właścicielki rachunku.
+#### Djerba Explore i park krokodyli
 
-Kupiłem zestaw czterech tłustych ekstraktów perfumeryjnych — tak zwyczajowo je określam — za **110 dinarów**, płacąc kartą. Były to odpowiedniki lub kompozycje opisywane jako:
+Do Djerba Explore dotarliśmy około 16:25. Najpierw odwiedziliśmy część stylizowaną na tradycyjne gospodarstwo. Mogliśmy podejść bardzo blisko do wielbłąda i go dotknąć. Oglądaliśmy również rosnące na terenie kompleksu granaty.
 
-- Armani — dokładny wariant pozostaje do ustalenia;
-- Chanel No. 5;
-- Habibi;
-- zapach zbliżony do jaśminu.
+Opiekun nazywał wielbłąda prawdopodobnie Władimir, a nasza grupa szybko zaczęła mówić na niego Władek. Mężczyzna znał podstawowe polskie zwroty i prowadził pokaz w zabawny sposób. Zachęcał do nagrywania, a następnie polecił wielbłądowi ruszyć. Zwierzę, ciągnąc linę, wyciągnęło ze studni duży bukłak lub pojemnik z wodą. Po podniesieniu woda zaczęła się z niego wylewać. Była to prezentacja tradycyjnego sposobu czerpania wody przy pomocy wielbłąda.
 
-Sprzedawczyni również próbowała mówić po polsku. Materiały wykonane przez przewodniczkę pokazują prezentację zapachów, używanie zakraplacza oraz duże metalowe naczynie służące jako element ekspozycji lub prezentacji procesu.
+Później przeszliśmy przez rozległy teren parku krokodyli. Około 16:40 dotarliśmy do jednego z mostków pomiędzy basenami i tam czekaliśmy na karmienie. O 17:00 pracownicy przynieśli skrzynie z mięsem i zaczęli rzucać jego kawałki krokodylom. Towarzyszyły temu odgłosy uderzających szczęk i plusk wody. Niektóre zwierzęta reagowały błyskawicznie, inne pozostawały niemal nieruchome. Przewodniczka opowiadała, że krokodyle otrzymują także specjalnie przygotowany pokarm, a karmienie mięsem jest częściowo pokazem dla turystów.
 
-#### Około 12:17–12:40 — Erriadh i Djerbahood
+Tuż po karmieniu można było wziąć na ręce bardzo młodego krokodyla. Zwierzę, które dostałem, miało według informacji przekazanej na miejscu około jednego–dwóch miesięcy. Jego pyszczek zabezpieczono plastikową opaską zaciskową, żeby nie mogło nikogo ugryźć ani zranić ostrymi zębami.
 
-Następnie przeszliśmy wąskimi uliczkami **Erriadh**, oglądając murale projektu **Djerbahood**. Przejście było dość szybkie, dlatego nie przy każdym dziele był czas na dłuższe zatrzymanie. Zdjęcia `IMG_1383.HEIC`–`IMG_1403.HEIC` pokazują między innymi czarno-białe twarze z czerwonymi elementami, postać na ciemnym tle, wielbłąda, dwa fenki wypełnione misterną miejską ornamentyką, Aladyna i Dżasminę, kota w czerwonym fezie oraz portret kobiety w niebieskim kole.
+Trzymanie krokodyla było jednym z najmocniejszych doświadczeń całego dnia. Czułem jego kształt, powierzchnię ciała, delikatne ruchy oraz pulsowanie przypominające bicie serca. Dla mnie, jako osoby niewidomej, była to wyjątkowa możliwość bezpośredniego i bezpiecznego kontaktu z żywym zwierzęciem.
 
-Przewodniczka wykonała też kilka grupowych zdjęć na tle murali. Pliki te przyszły przez WhatsApp, dlatego zachowały niższą jakość i nie mają wiarygodnego EXIF, GPS ani oryginalnej godziny wykonania. Ich miejsce w chronologii można jednak odtworzyć na podstawie treści oraz porównania z fotografiami z iPhone’a.
+Po tym spotkaniu mieliśmy jeszcze czas na spacer. Oglądaliśmy baseny, sztuczne skały, niewielki wodospad i liczne dorosłe krokodyle. Weszliśmy także do dużej, jasnej hali przykrytej łukowym, częściowo przezroczystym dachem. W parku znajdowały się również żółwie.
 
-Wśród oglądanych prac udało się zidentyfikować kolorowy mural przedstawiający pomarańczowego wielbłąda w szerokim kapeluszu, palącego długą fajkę, ze szklanką pomarańczowego napoju obok. Mural został sfotografowany na `IMG_1395.HEIC` o 12:29:14. Na jego powierzchni są widoczne podpisy **AnekBanek** oraz **Dean One Art**, dlatego najbezpieczniej uznać go za ich wspólną pracę. Dean One jest polskim graficiarzem związanym z Bytomiem. Nie udało się natomiast potwierdzić oficjalnego tytułu muralu ani pełnych danych osoby używającej pseudonimu Anek Banek. Zapamiętana fonetycznie nazwa w rodzaju „Maka Anka” najprawdopodobniej odnosiła się właśnie do podpisu **AnekBanek**. W szerszym projekcie Djerbahood uczestniczyli również inni polscy artyści, między innymi **M-City, czyli Mariusz Waras**, oraz **NeSpoon**, jednak tego konkretnego muralu nie należy przypisywać żadnemu z nich.
+#### Powrót do hotelu i wieczór
 
-#### Około 12:53–13:12 — Houmt Souk i zakupy w sklepie z przyprawami
+Z kompleksu zaczęliśmy wychodzić około 17:40, a do Club Palm Azur wróciliśmy mniej więcej o 18:10. Kilka minut później byliśmy już w pokoju.
 
-Po Djerbahood pojechaliśmy do **Houmt Souk**. Zdjęcia od `IMG_1404.HEIC` pokazują wjazd do miasta, a `IMG_1413.HEIC` i `IMG_1414.HEIC`, wykonane około 13:02, arkadowe przejście bazaru ze stoiskami. W jednym ze sklepów z przyprawami kupiłem za około **10 dinarów** suszoną **werbenę** — produkt określany po francusku jako *verveine*, używany między innymi do naparu. Zapłaciłem gotówką pożyczoną od Pawła. Opakowanie widać na `IMG_1416.HEIC` i `IMG_1417.HEIC` z godziny 13:11:59–13:12:00.
+Na świeżo przygotowanych łóżkach czekała zabawna niespodzianka. Obsługa ułożyła dekoracje z ręcznika oraz naszych rzeczy do spania. Ręcznik przypominał dwa łabędzie zwrócone ku sobie, natomiast moje czarne spodenki i biała koszulka zostały ułożone w kształty przypominające motyle lub kokardy. Całość ozdobiono intensywnie różowymi kwiatami albo płatkami. Mieliśmy dużo radości z tej pomysłowej i bardzo osobistej dekoracji.
 
-Sprzedawca dobrze radził sobie z podstawową polszczyzną i prowadził prezentację z humorem. Wymieniał zastosowania przypraw „na grilla”, do pieczeni i kurczaka, a nawet „do pierników z Torunia”. Ta łamana, ale trafnie dobrana polszczyzna była sympatycznym zaskoczeniem i jednym z charakterystycznych wspomnień z zakupów.
+Krótko przed 19:00 poszliśmy na kolację. Zjadłem między innymi spaghetti, prawdopodobnie z jagnięciną, oraz dwa kawałki pizzy. Na deser Paweł przygotował mi zestaw lodów i różnych słodkości.
 
-#### Około 13:40–14:19 — obiad nad morzem w Houmt Souk
+Między stolikami spokojnie przechadzały się hotelowe koty — szary pręgowany i rudy. Koty były stałym elementem restauracji, czasem ocierały się o nogi gości, a niekiedy podgryzały lub kłóciły między sobą.
 
-Obiad jedliśmy w lokalu nad wodą, w rejonie starego portu Houmt Souk; na podstawie położenia GPS około **33.8868 N, 10.8532 E** i wyglądu miejsca roboczo identyfikujemy go jako restaurację **Esskifa**. Nazwa lokalu wymaga jeszcze ostatecznego potwierdzenia szyldem lub rachunkiem.
-
-Przy odpływie odsłonięte dno i brzeg nie wyglądały najlepiej — było widać sporo śmieci, a nawet porzucone opony. Mimo tego samo miejsce było przyjemnie położone, a jedzenie okazało się całkiem smaczne.
-
-Najpierw dostaliśmy herbatę w małych szklankach zdobionych wzorem. Była słodka, z nutami mięty lub ziół, a chwilami wydawała mi się nawet lekko słonawa, przez co miała ciekawy słodko-słony charakter (`IMG_1424.HEIC`–`IMG_1425.HEIC`, około 13:50).
-
-Pierwszym daniem był **brik** — smażony, złożony płat cienkiego ciasta z nadzieniem, najprawdopodobniej z jajkiem i dodatkiem tuńczyka lub innego farszu. Brzeg był twardy i bardzo chrupiący, niemal jak chipsy, natomiast środek pozostawał miękki i smaczny (`IMG_1426.HEIC`–`IMG_1429.HEIC`). To najprawdopodobniej właśnie nazwę *brik* zapamiętałem niedokładnie jako „burg”, „bułę” albo inną nazwę na literę B.
-
-Drugie danie składało się z przyprawionych kawałków mięsa, najprawdopodobniej kurczaka, frytek, makaronu w sosie oraz sałatki (`IMG_1430.HEIC`–`IMG_1431.HEIC`, około 14:03). Na zakończenie podano tunezyjskie ciastko, najprawdopodobniej **makroudh** — kruche ciasto z semoliny, zwykle z daktylowym nadzieniem (`IMG_1432.HEIC`–`IMG_1434.HEIC`, około 14:19). Cały obiad oceniam pozytywnie.
-
-#### Około 14:47–16:25 — obiekty widziane z autokaru, zakupy i przejazd do Djerba Explore
-
-Po obiedzie ruszyliśmy dalej północną częścią wyspy. Nie zwiedzaliśmy już kolejnych zabytków pieszo, lecz oglądaliśmy je z autokaru, a pani Katarzyna opowiadała o mijanych miejscach. Metadane zdjęć pozwalają dokładniej odtworzyć kolejność przejazdu: `IMG_1435.HEIC`–`IMG_1439.HEIC`, wykonane od 14:47:15 do 14:47:26, pokazują miejski amfiteatr lub teatr plenerowy w Houmt Souk, a `IMG_1441.HEIC`–`IMG_1442.HEIC`, wykonane od 14:47:40 do 14:47:45, pokazują zewnętrzne mury fortu **Borj Ghazi Mustapha**, nazywanego również **Borj El Kebir**. Fort stoi przy porcie Houmt Souk i jest największą zachowaną twierdzą na Dżerbie. Oba obiekty oglądaliśmy wyłącznie podczas przejazdu — nie wysiadaliśmy ani nie zwiedzaliśmy ich wnętrz. Choć w pamięci kolejność mogła się układać odwrotnie, seria zdjęć wskazuje, że najpierw minęliśmy amfiteatr, a około 20 sekund później fort.
-
-Następnie zatrzymaliśmy się w sklepie **Ste El Yassamina Center**, nastawionym na grupy turystyczne i klientów Coral Travel. Prezentację częściowo współprowadziła pani Katarzyna, która dobrze znała pracujących tam mężczyzn. Przedstawiła ich grupie, a oni krótko opowiedzieli o sobie i o sklepie. Według informacji przekazanej na miejscu punkt współpracował z naszym biurem podróży, co miało wiązać się z promocyjnymi ofertami w rodzaju „jeden plus jeden gratis”. Sprzedawcy mówili niemal całkowicie po polsku, byli bardzo sympatyczni i łatwo nawiązywali kontakt z grupą.
-
-W sklepie przebywaliśmy w przybliżeniu od 15:00 do 16:00. Za **131 dinarów**, płacąc kartą o 15:36 czasu lokalnego Tunezji, kupiłem zestaw produktów spożywczych i innych: litrowy napój gazowany w puszce, przypominający cydr lub gazowany cedron, oraz dwie małe butelki figowego ekstraktu lub koncentratu przeznaczonego do rozcieńczania i picia. Godzina transakcji pasuje do czasu pobytu odtworzonego z relacji i chronologii zdjęć. Dokładna marka napoju, skład obu figowych produktów oraz pełna lista pozostałych zakupów wymagają jeszcze odczytania etykiet albo rachunku.
-
-Po zakupach pojechaliśmy dalej w stronę Djerba Explore i farmy krokodyli. Zdjęcia `IMG_1454.HEIC`–`IMG_1456.HEIC`, wykonane od 16:11:47 do 16:11:54, przedstawiają mijaną z autokaru **latarnię morską Taguermess**. Identyfikację potwierdzają wygląd czerwono-białej wieży oraz zapisane współrzędne około **33.823 N, 11.042 E**, zgodne z położeniem latarni. Także przy niej nie było postoju ani zwiedzania — oglądaliśmy ją tylko podczas przejazdu, a przewodniczka o niej opowiadała. Następnym rzeczywistym przystankiem był kompleks Djerba Explore, do którego dotarliśmy około 16:25.
-
-#### Około 16:25–17:41 — Djerba Explore i park krokodyli
-
-Ostatnim dużym punktem programu był kompleks **Djerba Explore**. Zdjęcia `IMG_1457.HEIC`–`IMG_1514.HEIC` i współrzędne około **33.820–33.821 N, 11.046–11.050 E** potwierdzają pobyt od około 16:25 do 17:41.
-
-Najpierw odwiedziliśmy część stylizowaną na tradycyjną zabudowę i gospodarstwo. Przewodniczka opowiadała grupie na dziedzińcu, a później odbyła się bezpośrednia prezentacja wielbłąda. Mogliśmy podejść bardzo blisko i go dotknąć; zdjęcia z około 16:28–16:30 pokazują kontakt uczestników ze zwierzęciem. Oglądaliśmy również rosnące na terenie kompleksu granaty.
-
-Opiekun zwierzęcia nazywał wielbłąda prawdopodobnie **Władimir**, natomiast nasza grupa żartobliwie mówiła na niego **Władek**. Mężczyzna dobrze radził sobie z podstawowymi polskimi zwrotami i prowadził prezentację w zabawny sposób, zachęcając uczestników do nagrywania. Na jego polecenie wielbłąd ruszył, ciągnąc linę połączoną z dużym bukłakiem lub pojemnikiem zanurzonym w studni. Zwierzę wyciągnęło pojemnik do góry, a zgromadzona w nim woda zaczęła się wylewać. Była to demonstracja tradycyjnego sposobu czerpania wody przy pomocy wielbłąda.
-
-Później przeszliśmy do parku krokodyli. Od wejścia mieliśmy jeszcze do pokonania dość długą drogę przez rozległy teren kompleksu, kolejne bramki i kontrolowane przejścia. Około 16:40 dotarliśmy w okolice mostku stanowiącego jeden z łączników pomiędzy kolejnymi basenami i wybiegami. Krokodyle mogły znajdować się także w wodzie i przestrzeni bezpośrednio pod mostkami. Z tego miejsca czekaliśmy na zapowiedziane karmienie.
-
-Regularny pokaz karmienia rozpoczął się około 17:00. Pracownicy pojawili się po obu stronach mostków ze skrzyniami zawierającymi surowe mięso i rzucali jego kawałki krokodylom. Obserwowaliśmy z bliska, jak zwierzęta chwytają i połykają pokarm; towarzyszyły temu wyraźne odgłosy uderzających szczęk oraz plusk wody. Nie wszystkie krokodyle reagowały równie szybko — część pozostawała niemal nieruchoma i sprawiała wrażenie zbyt leniwej, żeby sięgnąć po mięso. Oficjalna informacja parku potwierdza, że pokaz karmienia odbywa się o 17:00, z wyjątkiem poniedziałków, a krokodyle otrzymują podczas niego surowego kurczaka.
-
-Według informacji przekazanej przez przewodniczkę zwierzęta otrzymują także specjalnie przygotowany pokarm w postaci pasty, natomiast karmienie mięsem ma częściowo charakter widowiska organizowanego dla turystów. Informację o paście zapisujemy jako relację przewodniczki, ponieważ nie została jeszcze potwierdzona w oficjalnych materiałach parku.
-
-Tuż po karmieniu nastąpił jeden z najbardziej niezwykłych momentów całej wizyty: można było wziąć na ręce bardzo młodego krokodyla i zrobić sobie z nim zdjęcie. Zdjęcia `IMG_1485.HEIC`–`IMG_1487.HEIC`, wykonane od 17:14:58 do 17:15:01, dokładnie dokumentują ten moment. Według informacji przekazanej na miejscu zwierzę miało około jednego–dwóch miesięcy. Krokodyl był bardzo ciekawy w dotyku. Trzymając go, czułem delikatne pulsowanie przypominające bicie serca oraz niewielkie ruchy jego ciała. Dawało to wyjątkowe poczucie bezpośredniego kontaktu z żywym zwierzęciem.
-
-Pyszczek krokodyla był zabezpieczony plastikową opaską zaciskową, potocznie nazywaną trytytką. Miało to zapobiec ugryzieniu lub przypadkowemu zranieniu ostrymi zębami, które mają nawet tak młode krokodyle. Dla mnie, jako osoby niewidomej, było to szczególnie wartościowe doświadczenie sensoryczne — możliwość poznania zwierzęcia przez dotyk, wyczucia jego kształtu, powierzchni ciała, delikatnego pulsowania i ruchu. Bliskość z przyrodą zrobiła na mnie ogromne wrażenie.
-
-Po trzymaniu małego krokodyla mieliśmy jeszcze czas na dalszy spacer po parku. Zdjęcia z okresu od około 17:20 do 17:32 pokazują przejścia wśród sztucznych skał, baseny oraz liczne duże krokodyle odpoczywające przy wodzie. `IMG_1498.HEIC` z 17:24:15 przedstawia basen widziany przez otwór w pseudo-skalnej konstrukcji, a `IMG_1499.HEIC` i `IMG_1501.HEIC` z 17:26:46–17:27:04 pokazują krokodyle obserwowane z góry przy metalowej kracie lub pomoście.
-
-Zdjęcia `IMG_1504.HEIC`–`IMG_1505.HEIC` z 17:28:01–17:28:04 dokumentują dużą, jasną halę przykrytą łukowym, częściowo przezroczystym dachem. Kolejne fotografie, zwłaszcza `IMG_1506.HEIC`–`IMG_1509.HEIC` z 17:31:27–17:31:53, pokazują basen, sztuczne skały, niewielki wodospad i grupy krokodyli. Oglądaliśmy również żółwie. To wspomnienie zapisujemy jako pewny element zwiedzania, ale w aktualnie dostępnej serii nie udało się jeszcze jednoznacznie odnaleźć zdjęcia, które je przedstawia.
-
-Zdjęcia `IMG_1511.HEIC`–`IMG_1512.HEIC` z 17:39:41–17:39:42 wykonano jeszcze na terenie parku, natomiast `IMG_1513.HEIC`–`IMG_1514.HEIC` z 17:41:07–17:41:08 pokazują już drogę przy budynku wejściowym lub wyjściowym. Potwierdza to, że około 17:41 rozpoczynaliśmy wyjście i powrót w stronę autokaru.
-
-#### Około 18:14 — powrót do Club Palm Azur
-
-Po zdjęciach przy wyjściu, wykonanych około 17:41, wracaliśmy w stronę autokaru. Dokładnej chwili odjazdu nie dokumentuje żadne zdjęcie; na podstawie czasu potrzebnego na dojście, zebranie grupy i przejazd można ją ostrożnie szacować na około 17:50–18:00.
-
-Pierwsze fotografie wykonane już w pokoju hotelowym, `IMG_1515.HEIC`–`IMG_1517.HEIC`, mają czas 18:14:09–18:14:12 i lokalizację Club Palm Azur. Oznacza to, że autokar musiał przyjechać do hotelu kilka minut wcześniej. Zapamiętana godzina około 18:09 jest więc wiarygodna, choć sam materiał fotograficzny pozwala bezpośrednio potwierdzić jedynie, że o 18:14 byliśmy już w pokoju. Przejazd z Djerba Explore do hotelu trwał kilkanaście minut.
-
-#### Około 18:14–18:18 — zabawna niespodzianka przygotowana w pokoju
-
-Po powrocie zastaliśmy świeżo przygotowane łóżka oraz zabawne dekoracje ułożone przez obsługę hotelową z ręcznika i naszych rzeczy do spania. Na jednym łóżku powstały trzy różne kompozycje: z jasnobrązowego ręcznika, z moich czarnych spodenek do spania oraz z białej koszulki do spania.
-
-Układ z ręcznika najbardziej przypominał dwa łabędzie zwrócone ku sobie, z uniesionymi szyjami tworzącymi wspólną kompozycję. Czarne spodenki zostały rozłożone w kształt dużego motyla albo kokardy. Biała koszulka również tworzyła figurę przypominającą motyla, ewentualnie dekoracyjny kwiat lub rozetę. Kompozycje ozdobiono intensywnie różowymi kwiatami lub płatkami. Na podstawie zdjęć nie można pewnie stwierdzić, czy były to róże.
-
-Całość dokumentują `IMG_1515.HEIC`–`IMG_1522.HEIC`, wykonane od 18:14:09 do 18:17:46. Pierwsze ujęcia pokazują całe łóżko, a późniejsze — poszczególne dekoracje z bliska. Było to bardzo zabawne i sympatyczne doświadczenie. Mieliśmy dużo radości z tego, że obsługa zadbała o nas w tak nietypowy, pomysłowy i osobisty sposób.
-
-#### Około 18:59–19:20 — wieczorna kolacja w hotelu
-
-Krótko przed 19:00 poszliśmy na kolację do restauracji hotelowej. Pierwsze zdjęcia, `IMG_1523.HEIC`–`IMG_1524.HEIC`, wykonane o 18:59:02–18:59:03, pokazują szklankę żółtego napoju, prawdopodobnie soku lub napoju owocowego. Dokładnego rodzaju nie można ustalić na podstawie samego wyglądu.
-
-Na `IMG_1525.HEIC`–`IMG_1526.HEIC` z 19:05:24–19:05:29 widać spaghetti w czerwono-brązowym sosie, prawdopodobnie z jagnięciną, oraz dwa trójkątne kawałki pizzy. Jagnięcinę zapisujemy jako rozpoznanie z pamięci, ponieważ ze zdjęcia nie da się jednoznacznie ustalić rodzaju mięsa.
-
-Między stołami ponownie pojawiły się hotelowe koty. `IMG_1527.HEIC`–`IMG_1533.HEIC`, wykonane od 19:13:39 do 19:17:30, pokazują szarego pręgowanego kota i rudego kota chodzących w pobliżu naszych nóg. Koty były stałym, zupełnie normalnym elementem hotelu, szczególnie restauracji. Prawdopodobnie kręciły się między stolikami z nadzieją na otrzymanie jedzenia, czasami ocierały się o nogi gości. Zdarzało im się także lekko podgryzać lub kłócić między sobą, ale na ogół spokojnie przechadzały się po sali. Ich częsta obecność stała się jednym z charakterystycznych hotelowych zjawisk.
-
-Na deser Paweł przygotował mi zestaw kilku różnych słodkości. `IMG_1534.HEIC`–`IMG_1535.HEIC` z 19:19:36–19:19:40 pokazują lody podane w niewielkim kubeczku oraz ułożone obok różne słodkie wypieki i desery, wśród nich kawałek słodkiej tarty z błyszczącą polewą oraz różowy deser. Dokładnych smaków i nazw pozostałych słodkości nie udało się już odtworzyć z pamięci ani jednoznacznie rozpoznać na zdjęciach.
-
-#### Przed 20:00 – 01:30 — nieplanowany długi sen
-
-Po kolacji wróciliśmy do pokoju jeszcze przed 20:00. Planowaliśmy później wyjść ponownie z hotelu — na plażę albo w okolice basenu, gdzie miała pójść także część naszej grupy. Położyliśmy się jednak z Pawłem tylko na chwilę, nadal w zwykłych ubraniach, i obaj niespodziewanie zasnęliśmy.
-
-Obudziliśmy się dopiero około 01:30 w nocy. Wtedy stwierdziliśmy, że skoro przespaliśmy już znaczną część nocy w ubraniach, trzeba przynajmniej przebrać się w rzeczy do spania. Planowane wieczorne wyjście nie doszło więc do skutku, a zmęczenie po całodziennej wycieczce dookoła wyspy okazało się silniejsze od wcześniejszych planów.
+Po kolacji wróciliśmy do pokoju jeszcze przed 20:00. Planowaliśmy później wyjść na plażę albo w okolice basenu, lecz położyliśmy się tylko na chwilę i obaj zasnęliśmy w zwykłych ubraniach. Obudziliśmy się dopiero około 01:30 w nocy. Zmęczenie po całodniowej wycieczce okazało się silniejsze od wszystkich wieczornych planów.
 
 ### Wrażenia i obserwacje
 
-- Najbardziej pozytywnym zaskoczeniem związanym z dostępnością była dotykowa makieta meczetu Sidi Yati. Pozwoliła osobie niewidomej samodzielnie poznać bryłę zabytku, zamiast ograniczać zwiedzanie do słownego opisu.
-- Bardzo charakterystyczna dla całego dnia była polszczyzna sprzedawców. W niemal każdym miejscu zakupowym słyszeliśmy „dzień dobry” i „do widzenia”, a prezentacje zawierały polskie słowa, żarty i odniesienia do polskich klientów.
-- Szczególnie zapamiętałem sprzedawcę przypraw mówiącego o grillu, kurczaku i piernikach z Torunia, żartobliwy pokaz „magicznego wielbłąda” w sklepie garncarskim, próbującą mówić po polsku sprzedawczynię perfum oraz niemal płynnie mówiących po polsku pracowników El Yassamina Center.
-- W synagodze El Ghriba wyraźnie odczuwało się troskę o bezpieczeństwo oraz konsekwentne pilnowanie reguł religijnych dotyczących nakrycia głowy i zasłonięcia ramion.
-- Barwne, bogato zdobione wnętrze synagogi mocno kontrastowało z bardzo prostymi pokojami i zapleczem dla pielgrzymów.
-- Spacer przez Djerbahood był ciekawy, ale zbyt szybki, by dokładnie obejrzeć i omówić większość murali. Udało się już rozpoznać mural z wielbłądem jako wspólną pracę podpisaną AnekBanek i Dean One Art; identyfikacja pozostałych dzieł nadal wymaga dalszej pracy ze zdjęciami.
-- Obiad nad morzem był smaczny i pozwolił spróbować charakterystycznych potraw, choć widok odsłoniętego przez odpływ, zaśmieconego brzegu z oponami psuł wrażenie otoczenia.
-- Zakupy miały nie tylko handlowy, lecz także prezentacyjny i towarzyski charakter. Sprzedawcy byli nastawieni na polskie grupy, często dobrze rozumieli swoich klientów i budowali sympatyczną atmosferę.
-- Hotelowe koty, zwłaszcza te przechadzające się między stolikami w restauracji, były stałym i charakterystycznym elementem pobytu. Zwykle zachowywały się spokojnie, czasem ocierały się o nogi gości, a niekiedy lekko podgryzały lub kłóciły między sobą.
+Najważniejszym doświadczeniem związanym z dostępnością była dotykowa makieta meczetu Sidi Yati. Dzięki niej mogłem samodzielnie poznać bryłę budynku, zamiast ograniczać się do opisu przewodnika. Podobnie wyjątkowe, choć zupełnie inne, było trzymanie młodego krokodyla i możliwość poznania żywego zwierzęcia przez dotyk.
+
+Bardzo charakterystycznym elementem całego dnia była polszczyzna sprzedawców. W sklepach słyszeliśmy „dzień dobry” i „do widzenia”, a prezentacje były pełne polskich słów, żartów i odniesień. Najbardziej zapamiętałem przyprawy „do pierników z Torunia”, pokaz „magicznego wielbłąda”, sprzedawczynię perfum próbującą mówić po polsku oraz pracowników El Yassamina Center, z którymi można było porozumieć się niemal całkowicie po polsku.
+
+W El Ghribie mocno odczuwało się troskę o bezpieczeństwo oraz konsekwentne przestrzeganie zasad religijnych. Bogato zdobione wnętrze synagogi wyraźnie kontrastowało ze skromnymi pokojami i zapleczem domu dla pielgrzymów.
+
+Spacer przez Djerbahood był ciekawy, ale zbyt szybki, żeby spokojnie poznać większość murali. Obiad nad morzem pozwolił natomiast spróbować kilku charakterystycznych smaków, zwłaszcza briku i słodkiej herbaty, choć widok zaśmieconego brzegu podczas odpływu pogarszał wrażenie otoczenia.
+
+Najmocniejsza część dnia wiązała się ze zwierzętami w Djerba Explore: zabawny Władimir zwany przez nas Władkiem, pokaz wyciągania wody, karmienie krokodyli i późniejsze spotkanie z młodym krokodylem. Sympatycznym zakończeniem były dekoracje przygotowane przez obsługę hotelową, koty w restauracji oraz nieplanowany sen, który najlepiej pokazał, jak intensywny był to dzień.
 
 ### Miejsca i wydarzenia
 
-- Club Palm Azur — śniadanie i wyjazd o 08:15; powrót około 18:14; wieczorna kolacja.
-- El Kantara — widok drogi rzymskiej podczas przejazdu, następnie skręt w głąb wyspy.
-- Meczet Sidi Yati — około 08:40–08:53; nadmorski meczet warowny, oglądanie z zewnątrz i dotykowa makieta. Lokalizacja potwierdzona GPS; wcześniejsza identyfikacja jako Fadhloun była błędna.
-- Le Petit Artisan w Guellali — około 09:05–09:31; pokaz garncarstwa i „magicznego wielbłąda”; zakup ceramicznej zawieszki za 20 TND kartą.
-- Muzeum Guellala — około 09:40–10:38; ekspozycje etnograficzne; zakup czterech magnesów za łącznie 5 TND, gotówką pożyczoną od Pawła.
-- Synagoga El Ghriba — około 11:23–11:38; kontrola bezpieczeństwa, zasady stroju, zwiedzanie wnętrza.
-- Dom dla pielgrzymów przy El Ghribie — skromne pokoje, dziedziniec i minimalistyczne zaplecze sanitarne.
-- Perfumeria w pobliżu El Ghriby — około 11:42–12:00; cztery ekstrakty zapachowe za 110 TND kartą; nazwa sprzedawcy lub punktu: Chahrazed Sebai, do doprecyzowania.
-- Djerbahood w Erriadh — około 12:17–12:40; szybki spacer wąskimi uliczkami i oglądanie murali, w tym pracy z wielbłądem podpisanej AnekBanek i Dean One Art (`IMG_1395.HEIC`).
-- Houmt Souk — od około 12:53; bazar i sklep z przyprawami; zakup werbeny za około 10 TND, gotówką pożyczoną od Pawła.
-- Restauracja nad morzem, roboczo Esskifa — około 13:40–14:19; herbata, brik, danie z mięsem lub kurczakiem, frytkami, makaronem i sałatką oraz ciastko prawdopodobnie makroudh.
-- Miejski amfiteatr lub teatr plenerowy w Houmt Souk — widziany i fotografowany z autokaru od 14:47:15 do 14:47:26; bez postoju i zwiedzania.
-- Fort Borj Ghazi Mustapha, zwany też Borj El Kebir — zewnętrzne mury widziane i fotografowane z autokaru od 14:47:40 do 14:47:45; bez postoju i zwiedzania.
-- Ste El Yassamina Center — pobyt w przybliżeniu od 15:00 do 16:00; prezentacja i płatność kartą o 15:36 czasu lokalnego; zakupy za 131 TND: litrowy napój gazowany w puszce, dwie butelki figowego koncentratu do rozcieńczania i inne produkty.
-- Latarnia morska Taguermess — potwierdzona na `IMG_1454.HEIC`–`IMG_1456.HEIC` i mijana z autokaru od 16:11:47 do 16:11:54 w drodze do Djerba Explore; bez postoju i zwiedzania.
-- Djerba Explore — około 16:25–17:41; tradycyjna zabudowa, bliski kontakt z wielbłądem, granaty i park krokodyli.
+- Club Palm Azur — śniadanie, wyjazd o 08:15 oraz powrót około 18:10.
+- El Kantara — widok drogi rzymskiej podczas przejazdu na południe wyspy.
+- Meczet Sidi Yati — zwiedzanie z zewnątrz i dostępna dotykowo makieta budynku.
+- Le Petit Artisan w Guellali — pokaz garncarstwa, prezentacja „magicznego wielbłąda” i zakup ceramicznej zawieszki za 20 TND.
+- Muzeum Guellala — ekspozycje etnograficzne i zakup czterech magnesów za łącznie 5 TND.
+- El Ghriba — kontrola bezpieczeństwa, zasady stroju, zwiedzanie synagogi i sąsiedniego domu dla pielgrzymów.
+- Perfumeria w pobliżu El Ghriby — zakup czterech ekstraktów zapachowych za 110 TND.
+- Djerbahood w Erriadh — spacer wśród murali, w tym pracy podpisanej przez AnekBanek i Dean One Art.
+- Houmt Souk — bazar, zakup werbeny oraz obiad w restauracji nad wodą.
+- Amfiteatr i fort Borj El Kebir — obiekty oglądane wyłącznie z autokaru.
+- Ste El Yassamina Center — prezentacja i zakupy za 131 TND.
+- Latarnia morska Taguermess — widziana z autokaru w drodze do Djerba Explore.
+- Djerba Explore — spotkanie z wielbłądem, pokaz czerpania wody, karmienie krokodyli i trzymanie młodego krokodyla.
+- Club Palm Azur — dekoracje w pokoju, kolacja, hotelowe koty i odpoczynek po wycieczce.
 
 ### Zdjęcia, nagrania i materiały
 
