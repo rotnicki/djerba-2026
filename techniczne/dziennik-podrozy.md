@@ -622,11 +622,11 @@ Całość dokumentują `IMG_1515.HEIC`–`IMG_1522.HEIC`, wykonane od 18:14:09 d
 
 Krótko przed 19:00 poszliśmy na kolację do restauracji hotelowej. Pierwsze zdjęcia, `IMG_1523.HEIC`–`IMG_1524.HEIC`, wykonane o 18:59:02–18:59:03, pokazują szklankę żółtego napoju, prawdopodobnie soku lub napoju owocowego. Dokładnego rodzaju nie można ustalić na podstawie samego wyglądu.
 
-Na `IMG_1525.HEIC`–`IMG_1526.HEIC` z 19:05:24–19:05:29 widać spaghetti w czerwono-brązowym sosie oraz dwa kawałki mięsa; na jednym leży plasterek cytryny. Zdjęcia nie pozwalają wiarygodnie rozpoznać gatunku mięsa ani dokładnej nazwy potrawy.
+Na `IMG_1525.HEIC`–`IMG_1526.HEIC` z 19:05:24–19:05:29 widać spaghetti w czerwono-brązowym sosie, prawdopodobnie z jagnięciną, oraz dwa trójkątne kawałki pizzy. Jagnięcinę zapisujemy jako rozpoznanie z pamięci, ponieważ ze zdjęcia nie da się jednoznacznie ustalić rodzaju mięsa.
 
-Pod stołami ponownie pojawiły się hotelowe koty. `IMG_1527.HEIC`–`IMG_1533.HEIC`, wykonane od 19:13:39 do 19:17:30, pokazują szarego pręgowanego kota i rudego kota kręcących się w pobliżu naszych nóg, a chwilami leżących lub bawiących się razem. Ich obecność była zabawnym, charakterystycznym elementem hotelowych posiłków.
+Między stołami ponownie pojawiły się hotelowe koty. `IMG_1527.HEIC`–`IMG_1533.HEIC`, wykonane od 19:13:39 do 19:17:30, pokazują szarego pręgowanego kota i rudego kota chodzących w pobliżu naszych nóg. Koty były stałym, zupełnie normalnym elementem hotelu, szczególnie restauracji. Prawdopodobnie kręciły się między stolikami z nadzieją na otrzymanie jedzenia, czasami ocierały się o nogi gości. Zdarzało im się także lekko podgryzać lub kłócić między sobą, ale na ogół spokojnie przechadzały się po sali. Ich częsta obecność stała się jednym z charakterystycznych hotelowych zjawisk.
 
-Na deser wybrałem kilka różnych rzeczy. `IMG_1534.HEIC`–`IMG_1535.HEIC` z 19:19:36–19:19:40 pokazują dwie porcje lodów umieszczone w małym waflu lub miseczce waflowej, podłużny kawałek ciasta z błyszczącą polewą oraz różowy deser przypominający krem, mus albo niewielkie ciastko. Smaków i dokładnych nazw nie da się potwierdzić wyłącznie ze zdjęcia.
+Na deser Paweł przygotował mi zestaw kilku różnych słodkości. `IMG_1534.HEIC`–`IMG_1535.HEIC` z 19:19:36–19:19:40 pokazują lody podane w niewielkim kubeczku oraz ułożone obok różne słodkie wypieki i desery, wśród nich kawałek słodkiej tarty z błyszczącą polewą oraz różowy deser. Dokładnych smaków i nazw pozostałych słodkości nie udało się już odtworzyć z pamięci ani jednoznacznie rozpoznać na zdjęciach.
 
 #### Przed 20:00 – 01:30 — nieplanowany długi sen
 
@@ -644,6 +644,7 @@ Obudziliśmy się dopiero około 01:30 w nocy. Wtedy stwierdziliśmy, że skoro 
 - Spacer przez Djerbahood był ciekawy, ale zbyt szybki, by dokładnie obejrzeć i omówić większość murali. Udało się już rozpoznać mural z wielbłądem jako wspólną pracę podpisaną AnekBanek i Dean One Art; identyfikacja pozostałych dzieł nadal wymaga dalszej pracy ze zdjęciami.
 - Obiad nad morzem był smaczny i pozwolił spróbować charakterystycznych potraw, choć widok odsłoniętego przez odpływ, zaśmieconego brzegu z oponami psuł wrażenie otoczenia.
 - Zakupy miały nie tylko handlowy, lecz także prezentacyjny i towarzyski charakter. Sprzedawcy byli nastawieni na polskie grupy, często dobrze rozumieli swoich klientów i budowali sympatyczną atmosferę.
+- Hotelowe koty, zwłaszcza te przechadzające się między stolikami w restauracji, były stałym i charakterystycznym elementem pobytu. Zwykle zachowywały się spokojnie, czasem ocierały się o nogi gości, a niekiedy lekko podgryzały lub kłóciły między sobą.
 
 ### Miejsca i wydarzenia
 
