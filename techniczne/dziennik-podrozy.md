@@ -659,7 +659,7 @@ Jeszcze przed 10:00 byliśmy już przy dużym hotelowym basenie. Większość cz
 
 Do wody wszedłem raz. Bardzo przyjemnym i orzeźwiającym doświadczeniem były dysze umieszczone w ścianie basenu. Wypuszczały intensywne strumienie chłodnej wody, przypominające mocny, zimny deszcz.
 
-Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. Przy basenie działa bar, do którego wystarczy podejść i poprosić o wybrany napój. Wszystko objęte pakietem otrzymujemy bez dodatkowej opłaty na podstawie opaski all inclusive, noszonej na ręce od początku pobytu.
+Przez dalszą część przedpołudnia odpoczywałem na leżaku przy basenie. Przy basenie działa bar, do którego wystarczy podejść i poprosić o wybrany napój. Wszystko objęte pakietem otrzymujemy bez dodatkowej opłaty na podstawie opaski all inclusive, noszonej na ręce od początku pobytu.
 
 Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo przyjemny, mocno zmrożony pomarańczowy sorbet z drobnymi kawałkami lodu. Obsługa ponownie tworzyła przyjazną i pełną humoru atmosferę. Podczas podawania napojów pracownicy śpiewali znane polskie piosenki, między innymi „Żono moja” zespołu Masters. Wywoływało to dużo śmiechu i rozbawienia.
 
@@ -673,7 +673,7 @@ Na deser były lody podane w kubeczku. W hotelu można było wybierać spośród
 
 #### Odpoczynek w pokoju
 
-Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
+Po lunchu wróciliśmy do pokoju. Na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
 
 Po obejrzeniu dekoracji położyłem się na krótką popołudniową drzemkę, która trwała mniej więcej do 16:00.
 
