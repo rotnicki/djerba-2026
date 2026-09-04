@@ -677,7 +677,7 @@ Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżk
 
 #### Popołudnie na plaży
 
-Około 16:50 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
+Po 16:00 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
 
 Pobyt był krótki i spokojny. Przyjemnie było odpoczywać z widokiem na morze i rząd palm.
 
@@ -706,14 +706,14 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 - Basen hotelowy — pobyt rozpoczęty jeszcze przed 10:00, jedno wejście do wody, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
 - Bar przy basenie — drinki i zmrożony pomarańczowy sorbet dostępne w ramach opaski all inclusive oraz obsługa śpiewająca współczesne polskie piosenki.
 - Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
-- Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
+- Plaża hotelowa — krótki pobyt rozpoczęty po 16:00, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
 
 ### Zdjęcia, nagrania i materiały
 
 - Nowa partia z 3 września obejmuje 34 oryginalne zdjęcia z iPhone’a w zakresie `IMG_1571`–`IMG_1609`, z przerwami w numeracji, oraz dwa filmy z iPhone’a: `IMG_1576.MOV` i `IMG_1579.MOV`.
 - W potwierdzonym zakresie nie ma plików `IMG_1587`, `IMG_1596` i `IMG_1597`. Sam brak numerów nie przesądza jeszcze, czy materiały nie zostały wykonane, usunięte wcześniej czy tylko nie zostały przesłane.
 - W folderze znajdują się także dwa filmy o losowych nazwach, przesłane prawdopodobnie przez komunikator. Pokazują grupowe aktywności w hotelowym basenie, lecz nie zawierają wiarygodnej pierwotnej daty wykonania.
-- Materiał fotograficzny potwierdza kolejność głównych części dnia: basen około 10:20, odpoczynek przy basenie od 10:47 do około 12:30, lunch od 13:33, dekoracje w pokoju około 14:11, plażę od 16:50 do 17:56 oraz kolację od 19:04.
+- Materiał fotograficzny potwierdza kolejność głównych części dnia: basen około 10:20, odpoczynek przy basenie od 10:47 do około 12:30, lunch od 13:33, dekoracje w pokoju około 14:11, zdjęcia na plaży od 16:50 do 17:56 oraz kolację od 19:04.
 - Selekcja materiałów z 3 września nie została jeszcze zatwierdzona. Żaden plik z tej partii nie został na tym etapie przemianowany ani usunięty.
 
 ## 4 września 2026
