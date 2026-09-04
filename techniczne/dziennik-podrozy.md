@@ -675,6 +675,8 @@ Na deser były lody podane w kubeczku. W hotelu można było wybierać spośród
 
 Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
 
+Po obejrzeniu dekoracji była jeszcze krótka popołudniowa drzemka. Dopiero po odpoczynku, po 16:00, wyszliśmy na hotelową plażę.
+
 #### Popołudnie na plaży
 
 Po 16:00 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
@@ -685,7 +687,7 @@ Pobyt był krótki i spokojny. Przyjemnie było odpoczywać z widokiem na morze 
 
 Na kolację poszliśmy około 19:00. Najpierw zjadłem krewetki i małża w pomarańczowym sosie. Później była sałatka z sałatą, ogórkiem i tartą marchewką oraz kawałkiem grillowanej ryby. Na deser ponownie wybrałem lody w kubeczku. Przy stole piliśmy także słodkie napoje owocowe, podobne do tych podawanych podczas pozostałych posiłków.
 
-Po kolacji nie szliśmy już na żadną wieczorną imprezę ani dodatkowe zajęcia. Następnego dnia czekała nas całodniowa wycieczka na Saharę: śniadanie zaplanowano już na 05:30, a wyjazd na 06:00. Żeby zdążyć się przygotować, trzeba było wstać jeszcze przed 05:00, dlatego tego wieczoru zależało nam przede wszystkim na wcześniejszym położeniu się spać.
+Po kolacji nie szliśmy już na żadną wieczorną imprezę ani dodatkowe zajęcia. Następnego dnia czekała nas całodniowa wycieczka na Saharę: śniadanie zaplanowano już na 05:30, a wyjazd na 06:00. Żeby zdążyć się przygotować, trzeba było wstać jeszcze przed 05:00, dlatego tego wieczoru poszliśmy dość wcześnie spać.
 
 Cały spokojny dzień spełnił swoją rolę: pozwolił odpocząć po intensywnym zwiedzaniu wyspy i nabrać sił przed kolejną wycieczką.
 
@@ -707,7 +709,7 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 - Restauracja hotelowa — spokojne śniadanie po 08:00, lunch około 13:30 i kolacja od około 19:00.
 - Basen hotelowy — pobyt rozpoczęty jeszcze przed 10:00, jedno wejście do wody, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
 - Bar przy basenie — drinki i zmrożony pomarańczowy sorbet dostępne w ramach opaski all inclusive oraz obsługa śpiewająca współczesne polskie piosenki.
-- Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
+- Pokój hotelowy — kolejne dekoracje przygotowane przez obsługę oraz krótka popołudniowa drzemka przed wyjściem na plażę.
 - Plaża hotelowa — krótki pobyt rozpoczęty po 16:00, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
 
 ### Zdjęcia, nagrania i materiały
