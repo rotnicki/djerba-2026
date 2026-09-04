@@ -675,11 +675,11 @@ Na deser były lody podane w kubeczku. W hotelu można było wybierać spośród
 
 Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
 
-Po obejrzeniu dekoracji była jeszcze krótka popołudniowa drzemka. Dopiero po odpoczynku, po 16:00, wyszliśmy na hotelową plażę.
+Po obejrzeniu dekoracji położyłem się na krótką popołudniową drzemkę, która trwała mniej więcej do 16:00.
 
 #### Popołudnie na plaży
 
-Po 16:00 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
+Niedługo po przebudzeniu wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
 
 Pobyt był krótki i spokojny. Przyjemnie było odpoczywać z widokiem na morze i rząd palm.
 
