@@ -649,15 +649,21 @@ Publikacja: do rozważenia
 
 Po bardzo intensywnej wycieczce dookoła Dżerby poprzedniego dnia 3 września przeznaczyliśmy na odpoczynek. Nie opuszczaliśmy terenu Club Palm Azur. Był to przede wszystkim dzień basenowy, uzupełniony krótkim pobytem na hotelowej plaży i spokojnymi posiłkami.
 
+#### Poranek i śniadanie
+
+Wstaliśmy bez pośpiechu, tak aby pójść na śniadanie niedługo po 08:00. Od początku był to dzień prowadzony na luzie, bez szybkich przygotowań do wyjazdu i bez napiętego programu zwiedzania.
+
 #### Przedpołudnie przy basenie
 
-Około 10:20 byłem już w dużym hotelowym basenie. Pływałem, stałem w wodzie i odpoczywałem, korzystając z dużo spokojniejszego rytmu dnia. Zdjęcia z tej części pobytu pokazują również grupowe aktywności w basenie.
+Około 10:20 byliśmy już przy dużym hotelowym basenie. Większość czasu spędziłem na leżaku pod parasolem. Duża część naszej grupy odpoczywała blisko siebie, na sąsiednich leżakach i pod podobnymi parasolami.
 
-Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. W tym czasie piłem napoje przynoszone z hotelowego baru — między innymi pomarańczowy oraz zielonkawy. Ich dokładnych nazw nie udało się potwierdzić.
+Do wody wszedłem raz. Bardzo przyjemnym i orzeźwiającym doświadczeniem były dysze umieszczone w ścianie basenu. Wypuszczały intensywne strumienie chłodnej wody, przypominające mocny, zimny deszcz. Zdjęcia i nagrania pokazują także grupowe aktywności odbywające się w basenie.
+
+Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. Piłem między innymi żółte napoje z owoców tropikalnych oraz sok ananasowy. Oba były przepyszne, choć po pewnym czasie ich intensywna słodycz zaczynała być odczuwalna.
 
 #### Lunch
 
-Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, panierowane kawałki oraz grillowane warzywa, między innymi bakłażan i cukinia. Na podstawie samych zdjęć nie da się pewnie rozstrzygnąć, czy panierowanym składnikiem było mięso, czy ryba, dlatego pozostawiamy tę informację otwartą.
+Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, kawałki mięsa z kurczaka w rodzaju nuggetsów oraz grillowane warzywa, między innymi bakłażan i cukinia.
 
 Na deser były lody podane w kubeczku. Widoczne są co najmniej dwa smaki, lecz ich dokładnego rodzaju nie ustalamy wyłącznie na podstawie wyglądu.
 
@@ -669,7 +675,9 @@ Z tego dnia zachowało się również przesłane przez komunikator, żartobliwe 
 
 #### Popołudnie na plaży
 
-Około 16:50 wyszliśmy na hotelową plażę. Odpoczywałem na leżaku, zrobiłem kilka zdjęć i piłem napój. Pobyt był krótki i spokojny. Około 17:56 powstało szerokie ujęcie morza oraz rzędu palm widzianych z leżaka, dobrze oddające atmosferę tego popołudnia.
+Około 16:50 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z hotelowego baru. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
+
+Pobyt był krótki i spokojny. Około 17:56 powstało szerokie ujęcie morza oraz rzędu palm widzianych z leżaka, dobrze oddające atmosferę tego popołudnia.
 
 #### Kolacja i wieczór
 
@@ -681,7 +689,9 @@ Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpo
 
 Najważniejszą cechą tego dnia był wyraźnie wolniejszy rytm. Po wielu godzinach zwiedzania, przejazdów i licznych wrażeń z 2 września dobrze było nie opuszczać hotelu i nie realizować żadnego napiętego programu.
 
-Basen, leżak, napoje z baru i krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemny był spokojny widok morza i palm późnym popołudniem.
+Basen, leżak, napoje z baru i krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemne były chłodne strumienie wody z basenowych dysz oraz spokojny widok morza i palm późnym popołudniem.
+
+Mimo dość dokładnego posmarowania się kremem przeciwsłonecznym delikatnie mocniej opaliłem plecy. Nie było to poważne oparzenie, ale skóra odczuła działanie słońca. Na szczęście miałem ze sobą piankę z pantenolem i inne preparaty łagodzące, których użyłem po powrocie.
 
 Po raz kolejny pozytywnie zaskoczyła pomysłowość obsługi hotelowej. Dekoracje układane z ręczników, ubrań i elementów pościeli nie były koniecznym elementem obsługi, ale wprowadzały dużo humoru i sprawiały wrażenie osobistego gestu wobec gości.
 
@@ -690,10 +700,10 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 ### Miejsca i wydarzenia
 
 - Club Palm Azur — cały dzień spędzony bez opuszczania terenu hotelu.
-- Basen hotelowy — pływanie około 10:20 oraz późniejszy odpoczynek na leżaku z napojami.
-- Restauracja hotelowa — lunch około 13:30 i kolacja od około 19:00.
+- Restauracja hotelowa — spokojne śniadanie po 08:00, lunch około 13:30 i kolacja od około 19:00.
+- Basen hotelowy — jedno wejście do wody około 10:20, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
 - Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
-- Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56.
+- Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
 
 ### Zdjęcia, nagrania i materiały
 
