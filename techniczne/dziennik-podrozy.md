@@ -685,7 +685,9 @@ Pobyt był krótki i spokojny. Przyjemnie było odpoczywać z widokiem na morze 
 
 Na kolację poszliśmy około 19:00. Najpierw zjadłem krewetki i małża w pomarańczowym sosie. Później była sałatka z sałatą, ogórkiem i tartą marchewką oraz kawałkiem grillowanej ryby. Na deser ponownie wybrałem lody w kubeczku. Przy stole piliśmy także słodkie napoje owocowe, podobne do tych podawanych podczas pozostałych posiłków.
 
-Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpocząć po intensywnym zwiedzaniu wyspy i nabrać sił przed kolejną wycieczką.
+Po kolacji nie szliśmy już na żadną wieczorną imprezę ani dodatkowe zajęcia. Następnego dnia czekała nas całodniowa wycieczka na Saharę: śniadanie zaplanowano już na 05:30, a wyjazd na 06:00. Żeby zdążyć się przygotować, trzeba było wstać jeszcze przed 05:00, dlatego tego wieczoru zależało nam przede wszystkim na wcześniejszym położeniu się spać.
+
+Cały spokojny dzień spełnił swoją rolę: pozwolił odpocząć po intensywnym zwiedzaniu wyspy i nabrać sił przed kolejną wycieczką.
 
 ### Wrażenia i obserwacje
 
@@ -728,7 +730,9 @@ Publikacja: do rozważenia
 - uczestnicy z grupy: 15 osób;
 - cena: 70 euro od osoby;
 - wstępnie zapowiedziane elementy: miejsca związane z „Gwiezdnymi wojnami”, wielbłądy i przejazdy jeepami na Saharze;
-- szczegółowy program i godziny: do uzupełnienia.
+- śniadanie przed wyjazdem: 05:30;
+- wyjazd z hotelu: 06:00;
+- szczegółowy dalszy program i godziny: do uzupełnienia.
 
 ### Przebieg dnia
 
