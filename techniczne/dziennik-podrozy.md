@@ -645,11 +645,64 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
+#### Spokojny dzień w hotelu
+
+Po bardzo intensywnej wycieczce dookoła Dżerby poprzedniego dnia 3 września przeznaczyliśmy na odpoczynek. Nie opuszczaliśmy terenu Club Palm Azur. Był to przede wszystkim dzień basenowy, uzupełniony krótkim pobytem na hotelowej plaży i spokojnymi posiłkami.
+
+#### Przedpołudnie przy basenie
+
+Około 10:20 byłem już w dużym hotelowym basenie. Pływałem, stałem w wodzie i odpoczywałem, korzystając z dużo spokojniejszego rytmu dnia. Zdjęcia z tej części pobytu pokazują również grupowe aktywności w basenie.
+
+Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. W tym czasie piłem napoje przynoszone z hotelowego baru — między innymi pomarańczowy oraz zielonkawy. Ich dokładnych nazw nie udało się potwierdzić.
+
+#### Lunch
+
+Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, panierowane kawałki oraz grillowane warzywa, między innymi bakłażan i cukinia. Na podstawie samych zdjęć nie da się pewnie rozstrzygnąć, czy panierowanym składnikiem było mięso, czy ryba, dlatego pozostawiamy tę informację otwartą.
+
+Na deser były lody podane w kubeczku. Widoczne są co najmniej dwa smaki, lecz ich dokładnego rodzaju nie ustalamy wyłącznie na podstawie wyglądu.
+
+#### Odpoczynek w pokoju
+
+Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
+
+Z tego dnia zachowało się również przesłane przez komunikator, żartobliwe zdjęcie portretowe: mam na nim chustę owiniętą wokół głowy i dolnej części twarzy, okulary przeciwsłoneczne oraz czerwony kwiat. Plik nie ma wiarygodnych metadanych pozwalających umieścić go dokładnie w chronologii dnia.
+
+#### Popołudnie na plaży
+
+Około 16:50 wyszliśmy na hotelową plażę. Odpoczywałem na leżaku, zrobiłem kilka zdjęć i piłem napój. Pobyt był krótki i spokojny. Około 17:56 powstało szerokie ujęcie morza oraz rzędu palm widzianych z leżaka, dobrze oddające atmosferę tego popołudnia.
+
+#### Kolacja i wieczór
+
+Na kolację poszliśmy około 19:00. Najpierw zjadłem krewetki i małża w pomarańczowym sosie. Później była sałatka z sałatą, ogórkiem i tartą marchewką oraz kawałkiem grillowanej ryby. Na deser ponownie wybrałem lody w kubeczku. Przy stole piliśmy także pomarańczowy i żółty napój.
+
+Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpocząć po intensywnym zwiedzaniu wyspy i nabrać sił przed kolejną wycieczką.
+
 ### Wrażenia i obserwacje
+
+Najważniejszą cechą tego dnia był wyraźnie wolniejszy rytm. Po wielu godzinach zwiedzania, przejazdów i licznych wrażeń z 2 września dobrze było nie opuszczać hotelu i nie realizować żadnego napiętego programu.
+
+Basen, leżak, napoje z baru i krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemny był spokojny widok morza i palm późnym popołudniem.
+
+Po raz kolejny pozytywnie zaskoczyła pomysłowość obsługi hotelowej. Dekoracje układane z ręczników, ubrań i elementów pościeli nie były koniecznym elementem obsługi, ale wprowadzały dużo humoru i sprawiały wrażenie osobistego gestu wobec gości.
+
+Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, a możliwość spróbowania owoców morza podczas wieczornego posiłku była ciekawym uzupełnieniem spokojnego dnia.
 
 ### Miejsca i wydarzenia
 
+- Club Palm Azur — cały dzień spędzony bez opuszczania terenu hotelu.
+- Basen hotelowy — pływanie około 10:20 oraz późniejszy odpoczynek na leżaku z napojami.
+- Restauracja hotelowa — lunch około 13:30 i kolacja od około 19:00.
+- Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
+- Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56.
+
 ### Zdjęcia, nagrania i materiały
+
+- Nowa partia z 3 września obejmuje 34 oryginalne zdjęcia z iPhone’a w zakresie `IMG_1571`–`IMG_1609`, z przerwami w numeracji, oraz dwa filmy z iPhone’a: `IMG_1576.MOV` i `IMG_1579.MOV`.
+- W potwierdzonym zakresie nie ma plików `IMG_1587`, `IMG_1596` i `IMG_1597`. Sam brak numerów nie przesądza jeszcze, czy materiały nie zostały wykonane, usunięte wcześniej czy tylko nie zostały przesłane.
+- W folderze znajdują się także dwa filmy o losowych nazwach, przesłane prawdopodobnie przez komunikator. Pokazują grupowe aktywności w hotelowym basenie, lecz nie zawierają wiarygodnej pierwotnej daty wykonania.
+- Dodatkowy skompresowany plik JPG o losowej nazwie przedstawia żartobliwy portret w pokoju. Ze względu na brak wiarygodnych metadanych jego dokładna godzina pozostaje nieustalona.
+- Materiał fotograficzny potwierdza kolejność głównych części dnia: basen około 10:20, odpoczynek przy basenie od 10:47 do około 12:30, lunch od 13:33, dekoracje w pokoju około 14:11, plażę od 16:50 do 17:56 oraz kolację od 19:04.
+- Selekcja materiałów z 3 września nie została jeszcze zatwierdzona. Żaden plik z tej partii nie został na tym etapie przemianowany ani usunięty.
 
 ## 4 września 2026
 
