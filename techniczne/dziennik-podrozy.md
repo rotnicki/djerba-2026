@@ -665,7 +665,7 @@ Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo
 
 #### Lunch
 
-Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, kawałki mięsa z kurczaka w rodzaju nuggetsów oraz grillowane warzywa, między innymi bakłażan i cukinia.
+Około 13:30 poszliśmy na lunch bezpośrednio znad basenu, prosto do hotelowej restauracji. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, kawałki mięsa z kurczaka w rodzaju nuggetsów oraz grillowane warzywa, między innymi bakłażan i cukinia.
 
 Do posiłku piłem słodkie żółte napoje — sok ananasowy albo napój z owoców tropikalnych. Były przepyszne, chociaż przy częstszym piciu ich intensywna słodycz stawała się wyraźnie odczuwalna. Takie napoje wybierałem przede wszystkim podczas śniadań, obiadów i kolacji.
 
