@@ -655,13 +655,13 @@ Wstaliśmy bez pośpiechu, tak aby pójść na śniadanie niedługo po 08:00. Od
 
 #### Przedpołudnie przy basenie
 
-Około 10:20 byliśmy już przy dużym hotelowym basenie. Większość czasu spędziłem na leżaku pod parasolem. Duża część naszej grupy odpoczywała blisko siebie, na sąsiednich leżakach i pod podobnymi parasolami.
+Jeszcze przed 10:00 byliśmy już przy dużym hotelowym basenie. Większość czasu spędziłem na leżaku pod parasolem. Duża część naszej grupy odpoczywała blisko siebie, na sąsiednich leżakach i pod podobnymi parasolami.
 
-Do wody wszedłem raz. Bardzo przyjemnym i orzeźwiającym doświadczeniem były dysze umieszczone w ścianie basenu. Wypuszczały intensywne strumienie chłodnej wody, przypominające mocny, zimny deszcz. Zdjęcia i nagrania pokazują także grupowe aktywności odbywające się w basenie.
+Do wody wszedłem raz. Bardzo przyjemnym i orzeźwiającym doświadczeniem były dysze umieszczone w ścianie basenu. Wypuszczały intensywne strumienie chłodnej wody, przypominające mocny, zimny deszcz.
 
 Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. Przy basenie działa bar, do którego wystarczy podejść i poprosić o wybrany napój. Wszystko objęte pakietem otrzymujemy bez dodatkowej opłaty na podstawie opaski all inclusive, noszonej na ręce od początku pobytu.
 
-Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo przyjemny, mocno zmrożony pomarańczowy sorbet z drobnymi kawałkami lodu. Obsługa ponownie tworzyła przyjazną i pełną humoru atmosferę. Podczas podawania napojów pracownicy śpiewali znane współczesne piosenki po polsku, co wywoływało dużo śmiechu i rozbawienia.
+Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo przyjemny, mocno zmrożony pomarańczowy sorbet z drobnymi kawałkami lodu. Obsługa ponownie tworzyła przyjazną i pełną humoru atmosferę. Podczas podawania napojów pracownicy śpiewali znane polskie piosenki, między innymi „Żono moja” zespołu Masters. Wywoływało to dużo śmiechu i rozbawienia.
 
 #### Lunch
 
@@ -669,19 +669,17 @@ Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami
 
 Do posiłku piłem słodkie żółte napoje — sok ananasowy albo napój z owoców tropikalnych. Były przepyszne, chociaż przy częstszym piciu ich intensywna słodycz stawała się wyraźnie odczuwalna. Takie napoje wybierałem przede wszystkim podczas śniadań, obiadów i kolacji.
 
-Na deser były lody podane w kubeczku. Widoczne są co najmniej dwa smaki, lecz ich dokładnego rodzaju nie ustalamy wyłącznie na podstawie wyglądu.
+Na deser były lody podane w kubeczku. W hotelu można było wybierać spośród wielu smaków, między innymi czekoladowego, bananowego, pomarańczowego, pistacjowego i śmietankowego.
 
 #### Odpoczynek w pokoju
 
 Po lunchu wróciliśmy do pokoju. Około 14:11 na świeżo przygotowanym łóżku czekały kolejne dekoracje ułożone przez obsługę hotelową. Czarne spodenki zostały złożone w kształt przypominający kokardę albo motyla, a ozdobny pas tkaniny na łóżku uformowano w dekoracyjny, kwiatowy kształt. Był to kolejny sympatyczny przykład pomysłowości obsługi.
 
-Z tego dnia zachowało się również przesłane przez komunikator, żartobliwe zdjęcie portretowe: mam na nim chustę owiniętą wokół głowy i dolnej części twarzy, okulary przeciwsłoneczne oraz czerwony kwiat. Plik nie ma wiarygodnych metadanych pozwalających umieścić go dokładnie w chronologii dnia.
-
 #### Popołudnie na plaży
 
-Około 16:50 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z hotelowego baru. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
+Około 16:50 wyszliśmy na hotelową plażę. Usiedliśmy na leżakach tyłem do słońca. Popołudniowe słońce nie było już tak ostre, dlatego siedziało się bardzo przyjemnie. Wypiliśmy po piwie z drugiego hotelowego baru, położonego bliżej plaży. Dzięki opaskom all inclusive napoje z baru można było bez dodatkowej opłaty zabierać także na leżaki przy plaży.
 
-Pobyt był krótki i spokojny. Około 17:56 powstało szerokie ujęcie morza oraz rzędu palm widzianych z leżaka, dobrze oddające atmosferę tego popołudnia.
+Pobyt był krótki i spokojny. Przyjemnie było odpoczywać z widokiem na morze i rząd palm.
 
 #### Kolacja i wieczór
 
@@ -693,7 +691,7 @@ Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpo
 
 Najważniejszą cechą tego dnia był wyraźnie wolniejszy rytm. Po wielu godzinach zwiedzania, przejazdów i licznych wrażeń z 2 września dobrze było nie opuszczać hotelu i nie realizować żadnego napiętego programu.
 
-Basen, leżak, drinki i pomarańczowy sorbet z baru oraz krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemne były chłodne strumienie wody z basenowych dysz oraz spokojny widok morza i palm późnym popołudniem. Kolejnym sympatycznym polskim akcentem była obsługa baru śpiewająca znane polskie piosenki.
+Basen, leżak, drinki i pomarańczowy sorbet z baru oraz krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemne były chłodne strumienie wody z basenowych dysz oraz spokojny widok morza i palm późnym popołudniem. Kolejnym sympatycznym polskim akcentem była obsługa baru śpiewająca znane polskie piosenki, w tym „Żono moja” zespołu Masters.
 
 Mimo dość dokładnego posmarowania się kremem przeciwsłonecznym delikatnie mocniej opaliłem plecy. Nie było to poważne oparzenie, ale skóra odczuła działanie słońca. Na szczęście miałem ze sobą piankę z pantenolem i inne preparaty łagodzące, których użyłem po powrocie.
 
@@ -705,7 +703,7 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 
 - Club Palm Azur — cały dzień spędzony bez opuszczania terenu hotelu.
 - Restauracja hotelowa — spokojne śniadanie po 08:00, lunch około 13:30 i kolacja od około 19:00.
-- Basen hotelowy — jedno wejście do wody około 10:20, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
+- Basen hotelowy — pobyt rozpoczęty jeszcze przed 10:00, jedno wejście do wody, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
 - Bar przy basenie — drinki i zmrożony pomarańczowy sorbet dostępne w ramach opaski all inclusive oraz obsługa śpiewająca współczesne polskie piosenki.
 - Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
 - Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
@@ -715,7 +713,6 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 - Nowa partia z 3 września obejmuje 34 oryginalne zdjęcia z iPhone’a w zakresie `IMG_1571`–`IMG_1609`, z przerwami w numeracji, oraz dwa filmy z iPhone’a: `IMG_1576.MOV` i `IMG_1579.MOV`.
 - W potwierdzonym zakresie nie ma plików `IMG_1587`, `IMG_1596` i `IMG_1597`. Sam brak numerów nie przesądza jeszcze, czy materiały nie zostały wykonane, usunięte wcześniej czy tylko nie zostały przesłane.
 - W folderze znajdują się także dwa filmy o losowych nazwach, przesłane prawdopodobnie przez komunikator. Pokazują grupowe aktywności w hotelowym basenie, lecz nie zawierają wiarygodnej pierwotnej daty wykonania.
-- Dodatkowy skompresowany plik JPG o losowej nazwie przedstawia żartobliwy portret w pokoju. Ze względu na brak wiarygodnych metadanych jego dokładna godzina pozostaje nieustalona.
 - Materiał fotograficzny potwierdza kolejność głównych części dnia: basen około 10:20, odpoczynek przy basenie od 10:47 do około 12:30, lunch od 13:33, dekoracje w pokoju około 14:11, plażę od 16:50 do 17:56 oraz kolację od 19:04.
 - Selekcja materiałów z 3 września nie została jeszcze zatwierdzona. Żaden plik z tej partii nie został na tym etapie przemianowany ani usunięty.
 
