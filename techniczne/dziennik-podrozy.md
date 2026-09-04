@@ -659,11 +659,15 @@ Około 10:20 byliśmy już przy dużym hotelowym basenie. Większość czasu sp�
 
 Do wody wszedłem raz. Bardzo przyjemnym i orzeźwiającym doświadczeniem były dysze umieszczone w ścianie basenu. Wypuszczały intensywne strumienie chłodnej wody, przypominające mocny, zimny deszcz. Zdjęcia i nagrania pokazują także grupowe aktywności odbywające się w basenie.
 
-Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. Piłem między innymi żółte napoje z owoców tropikalnych oraz sok ananasowy. Oba były przepyszne, choć po pewnym czasie ich intensywna słodycz zaczynała być odczuwalna.
+Od około 10:47 do 12:30 odpoczywałem na leżaku przy basenie. Przy basenie działa bar, do którego wystarczy podejść i poprosić o wybrany napój. Wszystko objęte pakietem otrzymujemy bez dodatkowej opłaty na podstawie opaski all inclusive, noszonej na ręce od początku pobytu.
+
+Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo przyjemny, mocno zmrożony pomarańczowy sorbet z drobnymi kawałkami lodu. Obsługa ponownie tworzyła przyjazną i pełną humoru atmosferę. Podczas podawania napojów pracownicy śpiewali znane współczesne piosenki po polsku, co wywoływało dużo śmiechu i rozbawienia.
 
 #### Lunch
 
 Na lunch poszliśmy około 13:30. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, kawałki mięsa z kurczaka w rodzaju nuggetsów oraz grillowane warzywa, między innymi bakłażan i cukinia.
+
+Do posiłku piłem słodkie żółte napoje — sok ananasowy albo napój z owoców tropikalnych. Były przepyszne, chociaż przy częstszym piciu ich intensywna słodycz stawała się wyraźnie odczuwalna. Takie napoje wybierałem przede wszystkim podczas śniadań, obiadów i kolacji.
 
 Na deser były lody podane w kubeczku. Widoczne są co najmniej dwa smaki, lecz ich dokładnego rodzaju nie ustalamy wyłącznie na podstawie wyglądu.
 
@@ -681,7 +685,7 @@ Pobyt był krótki i spokojny. Około 17:56 powstało szerokie ujęcie morza ora
 
 #### Kolacja i wieczór
 
-Na kolację poszliśmy około 19:00. Najpierw zjadłem krewetki i małża w pomarańczowym sosie. Później była sałatka z sałatą, ogórkiem i tartą marchewką oraz kawałkiem grillowanej ryby. Na deser ponownie wybrałem lody w kubeczku. Przy stole piliśmy także pomarańczowy i żółty napój.
+Na kolację poszliśmy około 19:00. Najpierw zjadłem krewetki i małża w pomarańczowym sosie. Później była sałatka z sałatą, ogórkiem i tartą marchewką oraz kawałkiem grillowanej ryby. Na deser ponownie wybrałem lody w kubeczku. Przy stole piliśmy także słodkie napoje owocowe, podobne do tych podawanych podczas pozostałych posiłków.
 
 Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpocząć po intensywnym zwiedzaniu wyspy i nabrać sił przed kolejną wycieczką.
 
@@ -689,7 +693,7 @@ Wieczór pozostał spokojny. Cały dzień spełnił swoją rolę: pozwolił odpo
 
 Najważniejszą cechą tego dnia był wyraźnie wolniejszy rytm. Po wielu godzinach zwiedzania, przejazdów i licznych wrażeń z 2 września dobrze było nie opuszczać hotelu i nie realizować żadnego napiętego programu.
 
-Basen, leżak, napoje z baru i krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemne były chłodne strumienie wody z basenowych dysz oraz spokojny widok morza i palm późnym popołudniem.
+Basen, leżak, drinki i pomarańczowy sorbet z baru oraz krótki pobyt na plaży stworzyły prosty, ale potrzebny dzień wypoczynku. Szczególnie przyjemne były chłodne strumienie wody z basenowych dysz oraz spokojny widok morza i palm późnym popołudniem. Kolejnym sympatycznym polskim akcentem była obsługa baru śpiewająca znane polskie piosenki.
 
 Mimo dość dokładnego posmarowania się kremem przeciwsłonecznym delikatnie mocniej opaliłem plecy. Nie było to poważne oparzenie, ale skóra odczuła działanie słońca. Na szczęście miałem ze sobą piankę z pantenolem i inne preparaty łagodzące, których użyłem po powrocie.
 
@@ -702,6 +706,7 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 - Club Palm Azur — cały dzień spędzony bez opuszczania terenu hotelu.
 - Restauracja hotelowa — spokojne śniadanie po 08:00, lunch około 13:30 i kolacja od około 19:00.
 - Basen hotelowy — jedno wejście do wody około 10:20, chłodne dysze przypominające intensywny deszcz oraz odpoczynek grupy na leżakach pod parasolami.
+- Bar przy basenie — drinki i zmrożony pomarańczowy sorbet dostępne w ramach opaski all inclusive oraz obsługa śpiewająca współczesne polskie piosenki.
 - Pokój hotelowy — odpoczynek i kolejne dekoracje przygotowane przez obsługę.
 - Plaża hotelowa — krótki pobyt od około 16:50 do około 17:56, odpoczynek tyłem do popołudniowego słońca i piwo z hotelowego baru w ramach all inclusive.
 
