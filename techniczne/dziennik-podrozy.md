@@ -595,8 +595,8 @@ Najmocniejsza część dnia wiązała się ze zwierzętami w Djerba Explore: zab
 - Partia z 2 września obejmowała **232 unikalne oryginalne zdjęcia z iPhone’a**, od `IMG_1277.HEIC` do `IMG_1535.HEIC`, z przerwami w numeracji. Zatwierdzono i przemianowano 28 reprezentatywnych zdjęć z iPhone’a.
 - Do zatwierdzonej selekcji włączono ponadto 5 zdjęć grupowych wykonanych przez przewodniczkę i przesłanych przez WhatsApp. Pliki te są skompresowane i pozbawione wiarygodnego oryginalnego czasu, EXIF oraz GPS; godziny w ich nazwach są orientacyjne i zostały ustalone na podstawie treści oraz sąsiednich zdjęć z iPhone’a.
 - Do relacji wykorzystano także zrzuty potwierdzeń płatności: 20 TND za ceramikę, 110 TND za ekstrakty perfumeryjne i 131 TND w El Yassamina Center. Zakupy gotówkowe to 5 TND za komplet czterech magnesów oraz około 10 TND za werbenę; gotówkę w obu przypadkach pożyczył Paweł.
-- W folderze znajduje się obecnie film `IMG_1495.MOV` z 2 września. Nie został usunięty i pozostaje do osobnej analizy razem z ewentualnymi kolejnymi filmami po zakończeniu ich przesyłania.
-- **Selekcja 33 zdjęć została zatwierdzona, a wybrane pliki przemianowano na Google Drive. Po odrębnej zgodzie trwale usunięto 222 niewybrane zdjęcia: 209 plików HEIC z iPhone’a oraz 13 plików JPG od przewodniczki. Żaden film nie został usunięty. Folder zawiera po operacji 55 plików: 52 zdjęcia i 3 filmy.**
+- Wcześniej odnotowano w folderze film `IMG_1495.MOV` z 2 września. Podczas kontroli 5 września pliku nie odnaleziono ani w folderze `Zdjęcia`, ani przez wyszukiwanie na Google Drive, dlatego wcześniejszą informację o jego bieżącej obecności uznajemy za nieaktualną. W folderze pozostają inne nieprzemianowane filmy z 2 września; zgodnie z decyzją nie były objęte tą operacją i nie zostały usunięte.
+- **Selekcja 33 zdjęć została zatwierdzona, a wybrane pliki przemianowano na Google Drive. Po odrębnej zgodzie trwale usunięto 222 niewybrane zdjęcia: 209 plików HEIC z iPhone’a oraz 13 plików JPG od przewodniczki. Żaden film nie został usunięty. Folder zawierał bezpośrednio po tej operacji 55 plików: 52 zdjęcia i 3 filmy. Podczas dodatkowej kontroli 5 września wykryto i usunięto dwie zaległe, nieprzemianowane fotografie z 2 września: `IMG_1488.HEIC` i `IMG_1500.HEIC`. Filmów podczas tej kontroli nie ruszano.**
 - Do dalszego potwierdzenia pozostają: dokładna nazwa restauracji nad morzem, oficjalna nazwa perfumerii, wariant zapachu Armani, marka i skład produktów z El Yassamina Center, materiał dotykowej makiety, ostateczna interpretacja symbolu na ceramicznej zawieszce, oficjalny tytuł muralu z wielbłądem oraz pełne dane osoby używającej pseudonimu Anek Banek.
 
 #### Zatwierdzone mapowanie nazw — 2 września
@@ -758,6 +758,8 @@ Publikacja: do rozważenia
 ### Miejsca i wydarzenia
 
 ### Zdjęcia, nagrania i materiały
+
+- Podczas kontroli folderu 5 września usunięto pojedynczy dodatkowy plik JPG o losowej nazwie `789a0e32-caca-4890-b61a-b7673ce76ac6.JPG`, rozpoznany wcześniej jako materiał z przygotowań do wyjazdu na Saharę. Plik nie był uporządkowany zgodnie z konwencją archiwalną. Filmów nie ruszano.
 
 ## 5 września 2026
 
