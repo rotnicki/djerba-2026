@@ -52,33 +52,39 @@ To pierwsze ujęcie odpowiadające wspomnieniu o „drodze ku słońcu”.
 
 ## Etap kontrolny 6 – `IMG_1864`: potwierdzenie przejazdu bezpośrednio przy wodzie
 
-`IMG_1864.HEIC` sprawdzono jako osobny mikrokrok.
-
-- czas wykonania: **16:55:25**, zaledwie **2 sekundy po `IMG_1863`**;
+- czas: **16:55:25**;
 - GPS około **33.62830 N, 10.94551 E**;
-- zapisany `GPSHPositioningError` około **9,38 m**, a więc zdecydowanie lepszy niż w `IMG_1863`;
-- zdjęcie wykonane przez szybę autokaru;
-- kadr przedstawia otwartą wodę, bardzo silne odbicie słońca oraz barierę/element konstrukcji drogi na pierwszym planie;
-- para `IMG_1863–1864` jednoznacznie dokumentuje jazdę drogą biegnącą bezpośrednio przez lub wzdłuż akwenu w rejonie El Kantara.
+- `GPSHPositioningError` około **9,38 m**;
+- przez szybę autokaru widać otwartą wodę, silne odbicie słońca oraz barierę/konstrukcję drogi.
 
-Wniosek: **16:55:23–16:55:25** to już właściwa seria przejazdu przy wodzie związana z powrotem przez El Kantara / Chaussée Romaine. `IMG_1864` jest znacznie lepszą kotwicą GPS niż `IMG_1863`.
+Wniosek: `IMG_1864` jest dobrą kotwicą GPS właściwej serii przejazdu przy wodzie w rejonie El Kantara.
 
 ## Etap kontrolny 7 – `IMG_1865`: dalszy przejazd tym samym odcinkiem
 
-`IMG_1865.HEIC` sprawdzono jako kolejny osobny mikrokrok.
-
-- czas wykonania: **16:55:39**;
+- czas: **16:55:39**;
 - GPS około **33.629825 N, 10.943542 E**;
-- zapisany `GPSHPositioningError` około **4,75 m**, czyli bardzo dobra dokładność;
-- plik powstał **14 sekund po `IMG_1864`**;
-- pozycja przesuwa się dalej na północny zachód względem `IMG_1864`, zgodnie z ciągłym przejazdem tym samym korytarzem drogowym przy wodzie.
+- `GPSHPositioningError` około **4,75 m**;
+- 14 sekund po `IMG_1864` pozycja przesuwa się dalej zgodnie z ciągłym przejazdem.
 
-Wniosek: `IMG_1864–1865` tworzą dwie bardzo dobre kotwice GPS w odstępie 14 sekund i potwierdzają ciągłość przejazdu przez odcinek El Kantara / Route Romaine. Przy końcowym zestawieniu z OSM należy użyć przede wszystkim tych dwóch punktów, a `IMG_1863` traktować pomocniczo ze względu na jego duży błąd GPS.
+Wniosek: `IMG_1864–1865` tworzą dwie bardzo dobre kotwice GPS.
+
+## Etap kontrolny 8 – `IMG_1866`: dalsze ujęcie akwenu, ale GPS o bardzo małej wartości precyzyjnej
+
+`IMG_1866.HEIC` sprawdzono jako kolejny osobny mikrokrok.
+
+- czas wykonania: **16:58:45**;
+- zapisany GPS około **33.65542 N, 10.92629 E**;
+- `GPSHPositioningError` wynosi aż około **1236 m**, więc tego punktu nie wolno używać do dokładnego przypisania drogi;
+- wizualnie zdjęcie przedstawia nadal **rozległy akwen**, niskie słońce częściowo przesłonięte chmurami i bardzo jasne odbicie na wodzie;
+- na pierwszym planie wyraźnie widać **metalową barierę / rurową konstrukcję przy drodze**, co potwierdza wykonywanie zdjęcia z jadącego pojazdu na odcinku bezpośrednio przy wodzie;
+- zdjęcie wykonano **3 min 06 s po `IMG_1865`**.
+
+Wniosek: obraz `IMG_1866` potwierdza, że kilka minut po serii `1863–1865` autokar nadal znajdował się w wodnym krajobrazie związanym z przejazdem El Kantara / południowym wjazdem na Dżerbę. Natomiast jego własna współrzędna GPS ma ponad kilometrową deklarowaną niepewność, dlatego w rekonstrukcji geometrii należy opierać się przede wszystkim na `IMG_1864–1865`, a `IMG_1866` wykorzystywać jako dowód wizualno-czasowy.
 
 ## Robocza sekwencja powrotu
 
-**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:39 przejazd bezpośrednio przy wodzie w rejonie El Kantara, z intensywnym blaskiem słońca → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
+**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:39 seria bardzo dobrych kotwic przejazdu przy wodzie w rejonie El Kantara → 16:58:45 nadal rozległy akwen i infrastruktura drogowa przy wodzie, lecz z niedokładnym GPS → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
 
 ## Następny mikrokrok
 
-Sprawdzić wyłącznie `IMG_1866`, zapisać wynik i dopiero potem przejść do `IMG_1867`.
+Sprawdzić wyłącznie `IMG_1867`, zapisać wynik i dopiero potem przejść do `IMG_1868`.
