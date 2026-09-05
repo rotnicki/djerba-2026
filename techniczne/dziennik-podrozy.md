@@ -724,16 +724,16 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 
 Poniższe mapowanie zachowujemy do późniejszej selekcji materiałów na Facebooka. Przy wskazywaniu plików do publikacji używamy oryginalnych nazw z iPhone’a. Oryginalne nazwy zostały odtworzone z pola `originalFilename` zachowanego w metadanych wersji plików na Google Drive.
 
-| Nazwa oryginalna | Nazwa archiwalna |
-|---|---|
-| `IMG_1575.HEIC` | `2026-09-03-102021-kapiel-w-basenie-hotelowym.heic` |
-| `IMG_1578.HEIC` | `2026-09-03-104748-odpoczynek-z-napojem-przy-basenie.heic` |
-| `IMG_1588.HEIC` | `2026-09-03-133305-krem-warzywny-z-grzanka.heic` |
-| `IMG_1589.HEIC` | `2026-09-03-133311-lunch-nuggetsy-frytki-i-warzywa.heic` |
-| `IMG_1594.HEIC` | `2026-09-03-141103-hotelowa-dekoracja-z-ubran.heic` |
-| `IMG_1602.HEIC` | `2026-09-03-175616-widok-z-plazy-na-morze-i-palmy.heic` |
-| `IMG_1605.HEIC` | `2026-09-03-191055-krewetki-i-malz-w-sosie.heic` |
-| `IMG_1609.HEIC` | `2026-09-03-193417-lody-na-deser.heic` |
+| Nazwa oryginalna | Nazwa archiwalna | Status publikacji |
+|---|---|---|
+| `IMG_1575.HEIC` | `2026-09-03-102021-kapiel-w-basenie-hotelowym.heic` | `Publikacja: opublikowano na Facebooku` |
+| `IMG_1578.HEIC` | `2026-09-03-104748-odpoczynek-z-napojem-przy-basenie.heic` | `Publikacja: opublikowano na Facebooku` |
+| `IMG_1588.HEIC` | `2026-09-03-133305-krem-warzywny-z-grzanka.heic` | `Publikacja: do rozważenia` |
+| `IMG_1589.HEIC` | `2026-09-03-133311-lunch-nuggetsy-frytki-i-warzywa.heic` | `Publikacja: do rozważenia` |
+| `IMG_1594.HEIC` | `2026-09-03-141103-hotelowa-dekoracja-z-ubran.heic` | `Publikacja: opublikowano na Facebooku` |
+| `IMG_1602.HEIC` | `2026-09-03-175616-widok-z-plazy-na-morze-i-palmy.heic` | `Publikacja: opublikowano na Facebooku` |
+| `IMG_1605.HEIC` | `2026-09-03-191055-krewetki-i-malz-w-sosie.heic` | `Publikacja: opublikowano na Facebooku` |
+| `IMG_1609.HEIC` | `2026-09-03-193417-lody-na-deser.heic` | `Publikacja: do rozważenia` |
 
 ## 4 września 2026
 
