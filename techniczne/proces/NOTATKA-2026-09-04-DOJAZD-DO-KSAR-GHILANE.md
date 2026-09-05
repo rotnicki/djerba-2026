@@ -99,13 +99,42 @@ Warto rozróżniać ten postój od późniejszego pieszego spaceru po pustyni w 
 
 GPS `IMG_1634` około 33.68070 N, 10.91637 E niemal pokrywa się z mapowymi obiektami El Kantara. W lokalnym OSM znajduje się tam wprost atrakcja nazwana **El Kantara (Roman Causeway)**. Jest to obecnie mocne potwierdzenie, że poranna seria około 06:14 dokumentuje przejazd przez rejon historycznej grobli.
 
+Dodatkowa analiza sieci drogowej pokazuje, że `IMG_1634` leży praktycznie na **RR117**, a `IMG_1636` około minutę później zaledwie około 10 m od odcinka oznaczonego w OSM jako **Route Romaine Djerba - Zarzis / الطريق الرومانية جربة - جرجيس**, ref. `RR117`, alt_name `Chaussée Romaine`. To jest najmocniejsze dotąd techniczne powiązanie zdjęć z właściwą drogą grobli.
+
 ### Punkt panoramiczny
 
-GPS około 33.2604 N, 10.2760 E. Najbliższe nazwane elementy OSM nie pozwalają jeszcze bezpiecznie nadać punktowi własnej nazwy. Ksar Jouamaa znajduje się w szerszym sąsiedztwie, ale około 2 km od miejsca zdjęć. Dlatego nie zapisujemy „postój w Ksar Jouamaa” jako faktu, lecz **„postój panoramiczny w górzystym terenie w rejonie Ksar Jouamaa”**.
+GPS około 33.2604 N, 10.2760 E. Punkt znajduje się około 38–41 m od asfaltowej **RR113 – Medenine - Beni Khedech Road / Route Medenine - Beni Khedech**. Najbliżej zdjęć przebiega też kamienista ścieżka, około 20 m od miejsca fotografowania, co dobrze pasuje do krótkiego zjazdu/zejścia na zatoczkę lub punkt widokowy przy głównej drodze.
+
+Ksar Jouamaa znajduje się w szerszym sąsiedztwie, około 1,9–2,3 km od punktu. Oficjalny tunezyjski dokument archeologiczny dotyczący Ksar Jouamaa podaje dojazd **RR113 z Médenine w stronę Béni Khedech**, a następnie zjazd z tej drogi do samego ksaru. To potwierdza, że grupa rzeczywiście była na właściwym korytarzu drogowym, ale nie dowodzi, że zatrzymała się przy samym Ksar Jouamaa. Dlatego zachowujemy nazwę roboczą **„postój panoramiczny przy RR113 w rejonie Ksar Jouamaa”**.
 
 ### Postój na piasku
 
-GPS około 33.08874 N, 9.89545 E. Brak jednoznacznego nazwanego POI w bezpośrednim otoczeniu w lokalnym OSM. Zachowujemy opis funkcjonalny i współrzędne.
+GPS około 33.08874 N, 9.89545 E. Punkt leży około **62 m od asfaltowej drogi oznaczonej w OSM jako `Beni Khedache - Ksar Ghilane`** i około **14 m od bocznego szutrowego tracku**. To bardzo dobrze tłumaczy, dlaczego autokar mógł zjechać z asfaltu i zatrzymać się bezpośrednio na piaszczystym terenie. Nie ma tu nazwanego POI; najbardziej precyzyjny opis to **„krótki postój przy drodze Beni Khedache–Ksar Ghilane, na bocznym piaszczysto-szutrowym zjeździe”**.
+
+## Prawdopodobny przebieg drogi – rekonstrukcja na podstawie GPS i OSM
+
+To nie jest ślad GPS pojazdu, lecz rekonstrukcja z punktów zdjęć i ciągłości sieci drogowej. Poziom pewności jest wysoki dla dróg znajdujących się bezpośrednio pod punktami zdjęć i niższy dla odcinków bez fotografii.
+
+1. **Club Palm Azur → południe Dżerby** – lokalnymi asfaltowymi drogami hotelowej części wyspy w stronę El Kantara.
+2. **El Kantara → stały ląd** – około 06:14–06:15 przejazd **RR117**, czyli drogą mapowaną w OSM także jako **Route Romaine Djerba–Zarzis / Chaussée Romaine**. To właściwy współczesny korytarz drogowy przebiegający po historycznym połączeniu Dżerby ze stałym lądem.
+3. **Po zejściu z grobli** – `IMG_1639` z 06:24 leży około 5 m od **RR115**, więc po RR117 grupa przeszła na RR115. Lokalny OSM pokazuje bezpośrednią ciągłość/połączenie RR117 z RR115.
+4. **Dalszy odcinek w stronę Médenine** – sieć OSM pokazuje, że RR115 łączy się z **RN1**. Nie mamy zdjęcia z samego węzła, dlatego przejazd RN1 jest rekonstrukcją sieciową, a nie bezpośrednim dowodem fotograficznym.
+5. **Médenine → Béni Khedech** – punkt panoramiczny leży przy **RR113**, oficjalnie opisywanej jako droga Médenine–Béni Khedech. Sieć OSM pokazuje połączenie RN1 z RR113 w rejonie Médenine. Zatem najbardziej prawdopodobny ciąg po RR115 to wejście na RN1, dojazd do Médenine i następnie skręt na RR113 w stronę Béni Khedech.
+6. **Postój panoramiczny 08:00–08:10** – przy RR113, około 2 km od Ksar Jouamaa, pośród górzystego i silnie urzeźbionego terenu.
+7. **Po postoju → w stronę Ksar Ghilane** – dalszy przejazd na zachód/południowy zachód przez okolice Béni Khedech. `IMG_1673` z 09:00 znajduje się około 12 m od drogi **Beni Khedache - Ksar Ghilane**. To potwierdza, że przed drugim postojem grupa była już na właściwej drodze prowadzącej bezpośrednio ku oazie.
+8. **Postój z piaskiem 09:02–09:05+** – zjazd około kilkudziesięciu metrów od asfaltowej drogi Beni Khedache–Ksar Ghilane na boczny szutrowy/piaszczysty track.
+9. **Dalszy dojazd do Ksar Ghilane** – powrót na korytarz Beni Khedache–Ksar Ghilane, a w bezpośrednim otoczeniu oazy przejście na sieć piaszczystych dróg/tracków. `IMG_1705` przy oazie jest już około 20–30 m od lokalnych piaszczystych tras, m.in. `Piste Parc Jebil-Ksar Ghilane`.
+
+Najkrótszy roboczy zapis trasy brzmi zatem:
+
+**Club Palm Azur → El Kantara / RR117 (Roman Causeway) → RR115 → prawdopodobnie RN1 → Médenine → RR113 w stronę Béni Khedech → postój panoramiczny przy RR113 → droga Béni Khedech–Ksar Ghilane → postój na piasku przy bocznym tracku → Ksar Ghilane.**
+
+## Ocena pewności rekonstrukcji
+
+- **bardzo wysoka:** RR117 przy El Kantara, RR115 przy `IMG_1639`, RR113 przy punkcie panoramicznym, droga Beni Khedache–Ksar Ghilane przy `IMG_1673` i postoju z piaskiem;
+- **wysoka:** ogólny ciąg El Kantara → stały ląd → Médenine → Béni Khedech → Ksar Ghilane;
+- **średnia:** przejazd konkretnie RN1 pomiędzy RR115 a RR113 – wynika z układu sieci drogowej i logiki trasy, ale brak zdjęcia/GPS z tego odcinka;
+- **niska / nieustalona:** dokładna nazwa samego punktu panoramicznego i ewentualna oficjalna nazwa postoju z piaskiem.
 
 ## Ważne rozróżnienia do dziennika
 
@@ -117,7 +146,7 @@ GPS około 33.08874 N, 9.89545 E. Brak jednoznacznego nazwanego POI w bezpośred
 
 ## Co jeszcze pozostaje do sprawdzenia
 
-- czy pomiędzy znanymi plikami istnieją dodatkowe fotografie/filmy z grobli lub postoju panoramicznego, których nie było w pobranej próbce;
-- czy lokalne OSM albo wiarygodne źródła zewnętrzne pozwolą zidentyfikować konkretną nazwę punktu panoramicznego przy 33.2604 N, 10.2760 E;
+- czy lokalne lub zewnętrzne źródła pozwolą nadać konkretną nazwę punktowi panoramicznemu przy 33.2604 N, 10.2760 E;
+- czy istnieje lokalna/nawigacyjna nazwa bocznego tracku przy postoju z piaskiem;
 - dokładny koniec postoju z piaskiem po `IMG_1694.MOV` i przebieg dalszej drogi do `IMG_1705` o 10:11;
 - pełna inwentaryzacja numerów i duplikatów pozostaje osobnym zadaniem; żadnych zdjęć ani filmów w ramach tej analizy nie usunięto ani nie przemianowano.
