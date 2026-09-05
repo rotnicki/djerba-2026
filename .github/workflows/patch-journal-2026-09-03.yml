@@ -1,0 +1,62 @@
+name: Jednorazowe uzupełnienie mapowania zdjęć 3 września
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-journal-2026-09-03.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch-journal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Uzupełnij dziennik
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('techniczne/dziennik-podrozy.md')
+          text = path.read_text(encoding='utf-8')
+
+          old = '- Selekcja materiałów z 3 września nie została jeszcze zatwierdzona. Żaden plik z tej partii nie został na tym etapie przemianowany ani usunięty.'
+
+          new = '''- Selekcja zdjęć z 3 września została zakończona. Z 34 oryginalnych zdjęć z iPhone’a zachowano 8 reprezentatywnych ujęć i przemianowano je na Google Drive zgodnie z przyjętą konwencją. Pozostałe zdjęcia z tej partii zostały usunięte po zatwierdzeniu selekcji. Filmy nie były objęte tą operacją.
+
+#### Zatwierdzone mapowanie nazw — 3 września
+
+Poniższe mapowanie zachowujemy do późniejszej selekcji materiałów na Facebooka. Przy wskazywaniu plików do publikacji używamy oryginalnych nazw z iPhone’a. Oryginalne nazwy zostały odtworzone z pola `originalFilename` zachowanego w metadanych wersji plików na Google Drive.
+
+| Nazwa oryginalna | Nazwa archiwalna |
+|---|---|
+| `IMG_1575.HEIC` | `2026-09-03-102021-kapiel-w-basenie-hotelowym.heic` |
+| `IMG_1578.HEIC` | `2026-09-03-104748-odpoczynek-z-napojem-przy-basenie.heic` |
+| `IMG_1588.HEIC` | `2026-09-03-133305-krem-warzywny-z-grzanka.heic` |
+| `IMG_1589.HEIC` | `2026-09-03-133311-lunch-nuggetsy-frytki-i-warzywa.heic` |
+| `IMG_1594.HEIC` | `2026-09-03-141103-hotelowa-dekoracja-z-ubran.heic` |
+| `IMG_1602.HEIC` | `2026-09-03-175616-widok-z-plazy-na-morze-i-palmy.heic` |
+| `IMG_1605.HEIC` | `2026-09-03-191055-krewetki-i-malz-w-sosie.heic` |
+| `IMG_1609.HEIC` | `2026-09-03-193417-lody-na-deser.heic` |'''
+
+          if old not in text:
+              raise SystemExit('Nie znaleziono dokładnego starego wpisu — przerwano bez zmian.')
+          if '#### Zatwierdzone mapowanie nazw — 3 września' in text:
+              raise SystemExit('Sekcja już istnieje — przerwano bez zmian.')
+
+          updated = text.replace(old, new, 1)
+          path.write_text(updated, encoding='utf-8')
+
+      - name: Zapisz zmianę
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add techniczne/dziennik-podrozy.md
+          git diff --cached --check
+          git commit -m "Dodaj mapowanie zdjęć z 3 września"
+          git push
