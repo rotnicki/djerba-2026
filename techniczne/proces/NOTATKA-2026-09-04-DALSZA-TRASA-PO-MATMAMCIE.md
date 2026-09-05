@@ -12,12 +12,26 @@ Po opuszczeniu ostatniego punktu w rejonie Matmaty – najprawdopodobniej postoj
 
 - do hotelu pozostawało ponad 170 km;
 - przejazd miał trwać ponad dwie godziny;
-- kierowca na dłuższych odcinkach jechał bardzo szybko; pomiary wykonywane przez Mikołaja wskazywały chwilami około 110 km/h;
+- kierowca na dłuższych odcinkach jechał bardzo szybko; Mikołaj mierzył jego prędkość telefonem;
 - rozważano jeszcze postój w miejscu, w którym grupa była również rano – prawdopodobnie przy restauracji lub podobnym obiekcie – ale przewodnik, pilot i kierowca ostatecznie z niego zrezygnowali, uznając, że trasę można przejechać jednym ciągiem;
 - podczas długiej drogi powrotnej wykonano niewiele zdjęć;
 - późniejsza seria powinna dokumentować ponowny dojazd w rejon El Kantara / grobli rzymskiej, z niskim słońcem i intensywnym blaskiem przed pojazdem.
 
-Powyższe jest relacją uczestnika i wymaga konfrontacji z EXIF/GPS oraz lokalnym OSM. Nie należy na jej podstawie dopisywać niepotwierdzonych nazw dróg ani miejsca niedoszłego postoju.
+## Etap kontrolny 1 – zachowany pomiar prędkości
+
+`IMG_1861.PNG` został sprawdzony wizualnie. Jest to zrzut ekranu aplikacji **GPS Speed** wykonany podczas jazdy powrotnej. Na ekranie widnieje:
+
+- aktualna prędkość: **108 km/h**;
+- średnia: **89 km/h**;
+- maksimum: **108 km/h**;
+- kierunek: **E** (wschód);
+- wysokość: **114 m**;
+- dokładność GPS: **4,6 m**;
+- jednostka: km/h.
+
+To jest bezpośrednie źródłowe potwierdzenie wcześniejszej relacji Mikołaja, że kierowca na dłuższych odcinkach dochodził do około 110 km/h. Nie jest to już tylko wspomnienie uczestnika.
+
+Sam zrzut PNG nie zawiera użytecznego EXIF czasu wykonania w taki sposób jak zdjęcia z aparatu, dlatego jego dokładne umiejscowienie czasowe trzeba ustalić na podstawie sąsiednich plików (`IMG_1860.MOV`, `IMG_1862.HEIC`) i chronologii biblioteki.
 
 ## Pierwsze ustalone punkty po Dar Taoufik Matmata
 
@@ -44,7 +58,7 @@ Na obecnym etapie jest to najbardziej prawdopodobny ostatni postój przed długi
 - zdjęcie wykonano z pojazdu i przedstawia drogę, drzewa oraz niską zabudowę;
 - położenie znajduje się już daleko na wschód od Matmaty, w korytarzu powrotu ku El Kantara / Dżerbie.
 
-Między około 14:53 a 16:54 występuje zatem około dwugodzinny odcinek odpowiadający relacji o długiej jeździe bez postoju i z bardzo małą liczbą zdjęć. Dokładny przebieg wymaga jeszcze rekonstrukcji po lokalnym OSM oraz sprawdzenia `IMG_1854–1861`, w tym `IMG_1860.MOV` i `IMG_1861.PNG`.
+Między około 14:53 a 16:54 występuje zatem około dwugodzinny odcinek odpowiadający relacji o długiej jeździe bez postoju i z bardzo małą liczbą zdjęć. Zrzut `IMG_1861.PNG` potwierdza jazdę na wschód z chwilową prędkością 108 km/h i średnią 89 km/h dla pomiaru w aplikacji.
 
 ## Powrót do hotelu i wieczór
 
@@ -54,11 +68,11 @@ Między około 14:53 a 16:54 występuje zatem około dwugodzinny odcinek odpowia
 
 ## Robocza sekwencja po 14:20
 
-**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52 → bezpośredni długi przejazd powrotny, bez potwierdzonego postoju → około 16:54 rejon południowego podejścia do Dżerby → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
+**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52 → bezpośredni długi przejazd powrotny → pomiar GPS Speed: 108 km/h, kierunek E → około 16:54 rejon południowego podejścia do Dżerby → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
 
 ## Następny etap kontrolny
 
-1. ustalić metadane i zawartość `IMG_1854–1861`;
-2. odnaleźć pierwsze zdjęcia rejonu El Kantara i ich dokładne czasy/GPS;
-3. dopiero następnie wyznaczyć ciąg dróg Matmata → El Kantara w lokalnym OSM;
-4. po każdym z tych etapów zapisać wynik w repozytorium przed przejściem dalej.
+1. sprawdzić `IMG_1860.MOV` i dokładnie umiejscowić pomiar `IMG_1861.PNG`;
+2. sprawdzić kolejne pliki `IMG_1862–1868` i znaleźć serię El Kantara / zachodzącego słońca;
+3. zapisać wynik;
+4. dopiero następnie wyznaczyć ciąg dróg Matmata → El Kantara w lokalnym OSM.
