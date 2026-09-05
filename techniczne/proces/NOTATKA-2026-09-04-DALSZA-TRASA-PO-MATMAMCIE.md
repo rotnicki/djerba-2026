@@ -61,12 +61,24 @@ To pierwsze ujęcie odpowiadające wspomnieniu o „drodze ku słońcu”.
 - kadr przedstawia otwartą wodę, bardzo silne odbicie słońca oraz barierę/element konstrukcji drogi na pierwszym planie;
 - para `IMG_1863–1864` jednoznacznie dokumentuje jazdę drogą biegnącą bezpośrednio przez lub wzdłuż akwenu w rejonie El Kantara.
 
-Wniosek: **16:55:23–16:55:25** to już właściwa seria przejazdu przy wodzie związana z powrotem przez El Kantara / Chaussée Romaine. `IMG_1864` jest znacznie lepszą kotwicą GPS niż `IMG_1863`. Dokładne przypisanie punktu do konkretnego odcinka geometrii RR117 zostanie wykonane przy składaniu całej serii `1863–1868` z lokalnym OSM.
+Wniosek: **16:55:23–16:55:25** to już właściwa seria przejazdu przy wodzie związana z powrotem przez El Kantara / Chaussée Romaine. `IMG_1864` jest znacznie lepszą kotwicą GPS niż `IMG_1863`.
+
+## Etap kontrolny 7 – `IMG_1865`: dalszy przejazd tym samym odcinkiem
+
+`IMG_1865.HEIC` sprawdzono jako kolejny osobny mikrokrok.
+
+- czas wykonania: **16:55:39**;
+- GPS około **33.629825 N, 10.943542 E**;
+- zapisany `GPSHPositioningError` około **4,75 m**, czyli bardzo dobra dokładność;
+- plik powstał **14 sekund po `IMG_1864`**;
+- pozycja przesuwa się dalej na północny zachód względem `IMG_1864`, zgodnie z ciągłym przejazdem tym samym korytarzem drogowym przy wodzie.
+
+Wniosek: `IMG_1864–1865` tworzą dwie bardzo dobre kotwice GPS w odstępie 14 sekund i potwierdzają ciągłość przejazdu przez odcinek El Kantara / Route Romaine. Przy końcowym zestawieniu z OSM należy użyć przede wszystkim tych dwóch punktów, a `IMG_1863` traktować pomocniczo ze względu na jego duży błąd GPS.
 
 ## Robocza sekwencja powrotu
 
-**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:25 przejazd bezpośrednio przy wodzie w rejonie El Kantara, z intensywnym blaskiem słońca → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
+**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:39 przejazd bezpośrednio przy wodzie w rejonie El Kantara, z intensywnym blaskiem słońca → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
 
 ## Następny mikrokrok
 
-Sprawdzić wyłącznie `IMG_1865`, zapisać wynik i dopiero potem przejść do `IMG_1866`.
+Sprawdzić wyłącznie `IMG_1866`, zapisać wynik i dopiero potem przejść do `IMG_1867`.
