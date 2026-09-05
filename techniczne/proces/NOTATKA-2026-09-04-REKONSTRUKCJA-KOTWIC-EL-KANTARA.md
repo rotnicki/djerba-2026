@@ -14,7 +14,7 @@ Status: robocza rekonstrukcja geometrii przejazdu na podstawie najlepszych kotwi
 - `surface=asphalt`;
 - odległość punktu GPS od geometrii tej drogi w projekcji UTM: około **3,8 m**.
 
-Wniosek: `IMG_1864` jest bardzo mocną kotwicą potwierdzającą, że o 16:55:25 autokar znajdował się bezpośrednio na osi **RR117 / Route Romaine Djerba–Zarzis / Chaussée Romaine**. Zgodność GPS z geometrią OSM jest bardzo wysoka i mieści się wyraźnie w deklarowanym błędzie pomiaru zdjęcia.
+Wniosek: `IMG_1864` jest bardzo mocną kotwicą potwierdzającą, że o 16:55:25 autokar znajdował się bezpośrednio na osi **RR117 / Route Romaine Djerba–Zarzis / Chaussée Romaine**.
 
 ## Mikrokrok 2 – `IMG_1865`
 
@@ -25,37 +25,25 @@ Wniosek: `IMG_1864` jest bardzo mocną kotwicą potwierdzającą, że o 16:55:25
 - `ref=RR117`, `alt_name=Chaussée Romaine`, `highway=secondary`, `surface=asphalt`;
 - odległość punktu GPS od geometrii RR117 wynosi tylko około **1,3 m**.
 
-Wniosek: `IMG_1865` jest jeszcze mocniejszą kotwicą niż `IMG_1864`. Dwa zdjęcia wykonane w odstępie 14 sekund leżą odpowiednio około 3,8 m i 1,3 m od **tej samej geometrii OSM RR117 / Chaussée Romaine**. Potwierdza to ciągły przejazd autokaru tą drogą, a nie przypadkowe sąsiedztwo osi drogowej.
+Wniosek: `IMG_1865` jest jeszcze mocniejszą kotwicą niż `IMG_1864` i potwierdza ciągły przejazd tą samą RR117.
 
 ## Mikrokrok 3 – `IMG_1867`
 
 - czas zdjęcia: **16:58:51**;
 - GPS zdjęcia: około **33.66223 N, 10.92280 E**;
 - deklarowany błąd GPS: około **10,58 m**;
-- najbliższą linią dowolnego typu w lokalnym OSM jest `natural=coastline`, w odległości około **1,0 m** od punktu;
-- po ograniczeniu analizy do obiektów drogowych najbliższa geometria leży około **14,4 m** od punktu;
-- jest oznaczona `highway=construction`, `construction=primary`, `oneway=yes`, OSM ID `1326350355`;
-- odległość około 14,4 m jest nieco większa od deklarowanego błędu GPS zdjęcia 10,58 m, dlatego tego dopasowania nie należy traktować tak jednoznacznie jak `IMG_1864–1865`;
-- jednocześnie położenie niemal dokładnie na geometrii linii brzegowej jest zgodne z obrazem zdjęcia: akwen, łódź i bariera/konstrukcja przy drodze.
+- najbliższą linią dowolnego typu w lokalnym OSM jest `natural=coastline`, około **1,0 m** od punktu;
+- najbliższy obiekt drogowy to odcinek `highway=construction`, `construction=primary`, około **14,4 m** od punktu;
+- czynna **RR117 / Route Romaine / Chaussée Romaine** biegnie jednak równolegle w tym samym korytarzu i znajduje się około **24,8 m** od punktu `IMG_1867`;
+- czynny odcinek ma `highway=secondary`, `ref=RR117`, `surface=asphalt`, `oneway=no`;
+- geometria czynnej RR117 łączy się ciągle z wcześniejszym odcinkiem OSM `198577348` przez krótki mostowy segment `198577347` (`bridge=yes`) i dalej przez odcinek `31360290`.
 
-Wniosek: `IMG_1867` potwierdza przestrzennie dojście serii do strefy linii brzegowej, ale lokalny OSM przedstawia w tym miejscu bardziej złożoną sytuację niż przy `1864–1865`: linia brzegowa przebiega praktycznie przez punkt GPS, a najbliższa geometria drogowa jest oznaczona jako odcinek drogi głównej w budowie. Nie wolno jeszcze utożsamiać tej geometrii w budowie z faktycznie używaną jezdnią bez sprawdzenia sąsiednich obiektów OSM i ciągłości RR117.
+Wniosek: nie ma podstaw, by uznawać, że autokar jechał drogą w budowie. Lokalny OSM zawiera równoległą geometrię nowego odcinka w budowie, ale **czynna RR117 nadal tworzy ciągłą, przejezdną oś drogową dokładnie w tym samym korytarzu**. `IMG_1867` należy więc wiązać z przejazdem czynną RR117, z przesunięciem GPS około 24,8 m względem osi drogi, co jest większe od deklarowanego błędu pojedynczego pomiaru, ale pozostaje zgodne z ciągłością trasy, obrazem brzegu i sąsiednim układem OSM.
 
-## Stan po trzech kotwicach
+## Punkt kontrolny – rozstrzygnięcie sąsiedztwa `IMG_1867`
 
-- `IMG_1864` i `IMG_1865` bardzo mocno i bezpośrednio potwierdzają **RR117 / Chaussée Romaine**;
-- `IMG_1867`, 3 min 12 s po `IMG_1865`, znajduje się już praktycznie na odwzorowanej linii brzegowej i przy bardziej złożonym układzie drogowym;
-- wizualna ciągłość zdjęć oraz kierunek przemieszczania wskazują na przejazd południowym połączeniem Dżerby, ale dokładny przebieg pomiędzy `1865` i `1867` wymaga teraz analizy ciągłości geometrii OSM.
+Niejasność dotycząca `IMG_1867` została rozstrzygnięta: obok czynnej RR117 biegnie równoległy obiekt oznaczony jako droga w budowie. Do rekonstrukcji przejazdu należy używać **czynnej RR117**, a geometrię budowy traktować jako obiekt sąsiedni, nie trasę autokaru.
 
-## Stan etapu – punkt kontrolny
+## Następny krok
 
-Trzy główne kotwice zostały już rozpoznane i zapisane. Etap identyfikacji samych kotwic można uznać za zakończony. Do zamknięcia rekonstrukcji odcinka El Kantara pozostaje teraz wyłącznie:
-
-1. ustalenie, gdzie dokładnie biegnie czynna jezdnia w sąsiedztwie `IMG_1867`;
-2. połączenie `IMG_1865 → IMG_1867` w jeden ciąg drogi;
-3. zapis końcowego wniosku dla całej serii `IMG_1862–1868`.
-
-Dopiero po tych trzech małych krokach będzie można zamknąć analizę El Kantara i przejść do końcowego złożenia całej drogi powrotnej Matmata → A1 → RR117 → El Kantara → hotel.
-
-## Następny mikrokrok
-
-Sprawdzić wyłącznie sąsiednie geometrie drogowe wokół `IMG_1867` i ustalić, gdzie w lokalnym OSM biegnie w tym miejscu przejezdna RR117 / Route Romaine. Wynik zapisać przed łączeniem `IMG_1865 → IMG_1867` w jeden przebieg.
+Połączyć `IMG_1865 → IMG_1867` po ciągłej geometrii czynnej RR117 i policzyć długość oraz średnią prędkość między kotwicami.
