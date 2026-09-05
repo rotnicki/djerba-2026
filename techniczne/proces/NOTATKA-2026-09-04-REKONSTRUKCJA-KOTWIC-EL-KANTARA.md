@@ -46,6 +46,16 @@ Wniosek: `IMG_1867` potwierdza przestrzennie dojście serii do strefy linii brze
 - `IMG_1867`, 3 min 12 s po `IMG_1865`, znajduje się już praktycznie na odwzorowanej linii brzegowej i przy bardziej złożonym układzie drogowym;
 - wizualna ciągłość zdjęć oraz kierunek przemieszczania wskazują na przejazd południowym połączeniem Dżerby, ale dokładny przebieg pomiędzy `1865` i `1867` wymaga teraz analizy ciągłości geometrii OSM.
 
+## Stan etapu – punkt kontrolny
+
+Trzy główne kotwice zostały już rozpoznane i zapisane. Etap identyfikacji samych kotwic można uznać za zakończony. Do zamknięcia rekonstrukcji odcinka El Kantara pozostaje teraz wyłącznie:
+
+1. ustalenie, gdzie dokładnie biegnie czynna jezdnia w sąsiedztwie `IMG_1867`;
+2. połączenie `IMG_1865 → IMG_1867` w jeden ciąg drogi;
+3. zapis końcowego wniosku dla całej serii `IMG_1862–1868`.
+
+Dopiero po tych trzech małych krokach będzie można zamknąć analizę El Kantara i przejść do końcowego złożenia całej drogi powrotnej Matmata → A1 → RR117 → El Kantara → hotel.
+
 ## Następny mikrokrok
 
 Sprawdzić wyłącznie sąsiednie geometrie drogowe wokół `IMG_1867` i ustalić, gdzie w lokalnym OSM biegnie w tym miejscu przejezdna RR117 / Route Romaine. Wynik zapisać przed łączeniem `IMG_1865 → IMG_1867` w jeden przebieg.
