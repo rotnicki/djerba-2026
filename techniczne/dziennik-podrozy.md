@@ -667,7 +667,7 @@ Przy basenie piłem najczęściej Sprite’a z ginem, whisky z colą albo bardzo
 
 Około 13:30 poszliśmy na lunch bezpośrednio znad basenu, prosto do hotelowej restauracji. Zjadłem jasną zupę krem podaną z grzankami i tartym serem. Na drugim talerzu były frytki, kawałki mięsa z kurczaka w rodzaju nuggetsów oraz grillowane warzywa, między innymi bakłażan i cukinia.
 
-Do posiłku piłem słodkie żółte napoje — sok ananasowy albo napój z owoców tropikalnych. Były przepyszne, chociaż przy częstszym piciu ich intensywna słodycz stawała się wyraźnie odczuwalna. Takie napoje wybierałem przede wszystkim podczas śniadań, obiadów i kolacji.
+Do posiłku piłem słodkie żółte napoje — sok ananasowy albo napój z owoców tropikalnych. Były przepyszne, chociaż przy częstszym piciu ich intensywna słodycz stawała się wyraźnie odczuwalna.
 
 Na deser były lody podane w kubeczku. W hotelu można było wybierać spośród wielu smaków, między innymi czekoladowego, bananowego, pomarańczowego, pistacjowego i śmietankowego.
 
