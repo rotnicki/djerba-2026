@@ -6,36 +6,118 @@ Status: robocza analiza techniczna do późniejszego scalenia z `ANALIZA-MATERIA
 
 Odtworzyć dokładniej początek jednodniowej wycieczki na Saharę: od wyjazdu z Club Palm Azur, przez opuszczenie Dżerby i przejazd na południe, po postoje krajobrazowe poprzedzające Ksar Ghilane. Lokalizacje konfrontujemy z metadanymi GPS oraz lokalnym plikiem OpenStreetMap `tunisia-260822.osm.pbf`.
 
-## Potwierdzone punkty
+## Wynik gęstszego przeglądu serii `IMG_1621–1694`
 
-| Plik | Czas | GPS | Ustalenie |
-| --- | --- | --- | --- |
-| `IMG_1621.HEIC` | 05:56:16 | ok. 33.76311 N, 11.02011 E | zdjęcie przed hotelem / przy wyjeździe; Mikołaj z plecakiem i białą laską, otoczenie hotelowe; mocny punkt początku dnia |
-| `IMG_1634.HEIC` | 06:14:19 | ok. 33.68070 N, 10.91637 E | zdjęcie z pojazdu przy wschodzie słońca; GPS wypada w rejonie El Kantara (القنطرة), przy południowym wyjeździe z Dżerby. Lokalny OSM pokazuje w tym rejonie miejscowość/lokalność El Kantara oraz przebieg drogi prowadzącej ku grobli/połączeniu ze stałym lądem. Jest to zgodne z relacją o przejeździe tzw. groblą rzymską, ale dokładne miejsce samego wjazdu na groblę należy jeszcze przypisać na podstawie pełnej serii 1622–1644. |
-| `IMG_1645.HEIC` | 08:01:26 | ok. 33.26043 N, 10.27591 E | wyraźny postój panoramiczny wysoko nad rozległym suchym, górzystym krajobrazem; widać doliny, grzbiety i krętą drogę. To nie jest zdjęcie z jadącego pojazdu, lecz materiał wykonany z punktu widokowego. |
-| `IMG_1654.HEIC` | 08:02:46 | ok. 33.26040 N, 10.27596 E | portret Mikołaja z białą laską przy kamiennym murku na tym samym punkcie widokowym; w tle szeroka panorama i serpentyny drogi. |
-| `IMG_1667.HEIC` | 08:08:20 | ok. 33.26025 N, 10.27629 E | selfie Mikołaja na tym samym punkcie; potwierdza, że postój trwał co najmniej około 7 minut. |
-| `IMG_1676.HEIC` | 09:02:53 | ok. 33.08874 N, 9.89544 E | drugi, odrębny postój: piaszczysty teren; ujęcie piasku, śladów i białej laski. |
-| `IMG_1684.HEIC` | 09:04:50 | ok. 33.08874 N, 9.89545 E | Mikołaj kuca na piasku z białą laską; ten sam postój co `IMG_1676`. |
-| `IMG_1694.MOV` | ok. 09:05 | ok. 33.0887 N, 9.8955 E | film z tego samego postoju: Mikołaj na piaszczystym terenie, kuca i bierze/przesypuje piasek. Jest to najpewniej nagranie wspomniane w relacji jako film z przesypywaniem/wysypywaniem piachu. |
+Przegląd reprezentatywnych i granicznych zdjęć oraz ich EXIF pozwala podzielić początek dnia na kilka wyraźnych etapów, a nie jeden ogólny „przejazd na Saharę”.
 
-## Wstępna chronologia początku dnia
+### 1. Przygotowanie i wyjazd spod Club Palm Azur – 05:56–05:58
 
-1. **05:56** – Mikołaj jest już przygotowany przed hotelem; planowany wyjazd grupy o 06:00.
-2. **około 06:14** – przejazd przez rejon El Kantara na południu Dżerby. GPS i lokalny OSM są zgodne z trasą prowadzącą ku historycznemu połączeniu Dżerby ze stałym lądem, potocznie nazywanemu „groblą rzymską”. Pełną serię zdjęć z tego odcinka trzeba jeszcze przejrzeć przed zapisaniem dokładnej minuty przejazdu przez samą groblę.
-3. **08:01–08:08** – pierwszy wyraźny dłuższy postój krajobrazowy. Punkt około 33.2604 N, 10.2760 E. Rozległa panorama suchego, skalistego terenu z górami/dolinami i serpentynami drogi. Zdjęcia obejmują zarówno sam krajobraz, jak i portrety Mikołaja przy kamiennym murku.
-4. **09:02–09:05+** – drugi postój, już na piaszczystym terenie, około 33.08874 N, 9.89545 E. Powstaje seria zdjęć piasku i Mikołaja oraz film `IMG_1694.MOV`, na którym Mikołaj przesypuje piasek. Jest to osobny etap przed przyjazdem do Ksar Ghilane.
-5. **10:11** – późniejszy, już wcześniej potwierdzony etap w Ksar Ghilane (`IMG_1705.HEIC`, rejon Hot Spring / Diar Ghilane).
+- `IMG_1621` 05:56:16 – Mikołaj z plecakiem i białą laską przed hotelem;
+- `IMG_1622` 05:56:34 – dalsze ujęcie przed hotelem;
+- `IMG_1623` 05:57:00 – Mikołaj przy wejściu/arkadach hotelu;
+- `IMG_1624` 05:57:28 – czytelny napis **HOTEL PALM AZUR** nad wejściem;
+- `IMG_1625` 05:57:35 – kolejne ujęcie przed wejściem;
+- `IMG_1628` 05:58:11 – autokar stojący przed hotelem, bezpośrednio dokumentujący moment przed odjazdem.
 
-## Konfrontacja z lokalnym OpenStreetMap
+GPS tej serii skupia się około 33.7631 N, 11.0201 E. Materiał bardzo dobrze dokumentuje rzeczywisty start dnia tuż przed planowanym wyjazdem o 06:00.
 
-- Punkt `IMG_1634` leży w rejonie oznaczonym w lokalnym OSM jako **El Kantara / القنطرة**. W danych mapowych widoczny jest również przebieg głównego połączenia drogowego prowadzącego na południe. To mocno wspiera identyfikację tego fragmentu jako przejazdu w stronę grobli El Kantara, ale nie utożsamiamy jeszcze pojedynczego `IMG_1634` z dokładnym miejscem na grobli.
-- Punkt panoramiczny `IMG_1645`–`IMG_1667` leży około **33.2604 N, 10.2760 E**. W najbliższej okolicy lokalny OSM zawiera m.in. miejscowość **قصر الجؤامع** (Ksar/Jouamaa; zapis nazwy do dalszej weryfikacji), lokalności i elementy górskiego terenu. Najważniejszym dowodem pozostają tutaj GPS oraz jednoznaczna panorama widoczna na zdjęciach. Dokładną nazwę punktu widokowego trzeba jeszcze ustalić; nie należy jej zgadywać.
-- Punkt piaszczystego postoju około **33.08874 N, 9.89545 E** nie ma w najbliższym małym wycinku OSM jednoznacznie nazwanego punktu POI. Na tym etapie zapisujemy go jako **postój na piaszczystym terenie przed Ksar Ghilane**, bez wymyślania nazwy.
+### 2. Jazda przez południową Dżerbę i El Kantara – 06:08–06:24
 
-## Co dalej sprawdzić
+- `IMG_1629` 06:08:34 – wschód słońca nad płaskim nadmorskim terenem; GPS około 33.7486 N, 10.9664 E;
+- `IMG_1630` 06:13:15 – wschodzące słońce i płaski teren widziany z jadącego pojazdu; GPS około 33.6983 N, 10.9250 E;
+- `IMG_1633` 06:13:56 – Mikołaj w autokarze, za oknem światło wschodu słońca; GPS około 33.6813 N, 10.9170 E;
+- `IMG_1634` 06:14:19 – kolejne ujęcie z autokaru; GPS około **33.68070 N, 10.91637 E**;
+- `IMG_1636` 06:15:16 – słońce odbijające się w wodzie/płaskim mokrym terenie; GPS około 33.6759 N, 10.9165 E;
+- `IMG_1639` 06:24:04 – teren już po dalszym przejeździe na południe; GPS około 33.5767 N, 10.9444 E.
 
-- przejrzeć pełną serię `IMG_1622`–`IMG_1644`, aby odtworzyć przejazd od hotelu przez El Kantara i wskazać zdjęcia wykonane bezpośrednio na grobli;
-- przejrzeć całą serię `IMG_1645`–`IMG_1675`, aby ustalić początek i koniec postoju panoramicznego oraz wybrać najlepsze ujęcia dokumentacyjne;
-- przejrzeć `IMG_1676`–`IMG_1694.MOV`, aby dokładnie opisać drugi postój i potwierdzić, czy poza przesypywaniem piasku są tam jeszcze istotne ujęcia panoramy lub grupy;
-- porównać trasę punkt po punkcie z lokalnym OSM, a następnie scalić zweryfikowane ustalenia z główną analizą i kanonicznym dziennikiem.
+Najważniejsze ustalenie z lokalnego OSM: punkt `IMG_1634` wypada praktycznie dokładnie przy obiektach oznaczonych jako **El Kantara / القنطرة**. Lokalny OSM ma w tym miejscu m.in.:
+
+- `El Kantara` – tourism=attraction, angielska nazwa **El Kantara (Roman Causeway)**, francuska **El Kantara (chaussée romaine)**;
+- `Borj El Kantara` – stanowisko archeologiczne / fort;
+- lokalność `القنطرة` / El Kantara;
+- przystanek `القنطرة`.
+
+Odległość punktu GPS `IMG_1634` od mapowego punktu atrakcji **El Kantara (Roman Causeway)** jest rzędu około stu metrów. To znacznie wzmacnia wcześniejsze ustalenie: około **06:14 grupa przejeżdżała przez rejon północnego końca historycznej grobli El Kantara**, potocznie nazywanej groblą rzymską. Zdjęcia `1633–1636` dokumentują właśnie ten odcinek i poranny widok wody przy grobli. Nie należy jednak twierdzić, że każde z tych zdjęć zostało wykonane dokładnie na jednej konkretnej części konstrukcji – GPS telefonu podczas jazdy i położenie aparatu w autokarze nie dają takiej dokładności.
+
+### 3. Długi przejazd na stałym lądzie – 06:24–08:00
+
+Między `IMG_1639` z 06:24 a `IMG_1644` z 08:00 występuje długa przerwa w fotografowaniu. Jest to naturalny odcinek przejazdowy po opuszczeniu Dżerby. Nie należy sztucznie dopisywać tu postoju bez dodatkowego materiału.
+
+### 4. Pierwszy duży postój panoramiczny – 08:00–08:10
+
+- `IMG_1644` 08:00:41 – niewielka kamienna/ziemna budowla na otwartym, suchym terenie; ludzie przy punkcie widokowym;
+- `IMG_1645` 08:01:26 – szeroka panorama suchego górzystego krajobrazu z dolinami i drogą;
+- `IMG_1646` 08:01:30 – panorama z fragmentem kamiennego murku i osób przy punkcie;
+- `IMG_1648` 08:01:37 – szeroki widok na grzbiety i doliny;
+- `IMG_1650` 08:01:56 – Mikołaj na tle panoramy;
+- `IMG_1652` 08:02:35 – portret Mikołaja przy punkcie widokowym;
+- `IMG_1654` 08:02:46 – Mikołaj z białą laską przy kamiennym murku, szeroka panorama w tle;
+- `IMG_1656` 08:03:02 – kolejny portret na tle głębokiej doliny;
+- `IMG_1658` 08:04:20 – widok wzdłuż kamiennego murku i punktu widokowego;
+- `IMG_1667` 08:08:20 i `IMG_1668` 08:08:29 – selfie Mikołaja na tle panoramy;
+- `IMG_1669`–`IMG_1671` 08:08:59–08:09:06 – dalsze ujęcia rozległej doliny i charakterystycznego płaskiego grzbietu;
+- `IMG_1672` 08:10:19 – Mikołaj przy charakterystycznej małej budowli widocznej wcześniej w `IMG_1644`.
+
+GPS całej serii jest niezwykle stabilny, około **33.2603–33.2604 N, 10.2759–10.2763 E**, co jednoznacznie potwierdza postój, a nie fotografowanie z jadącego pojazdu. Materiał pokazuje około **9,5 minuty** aktywnego fotografowania na miejscu.
+
+Lokalny OSM nie nadaje samemu punktowi widokowemu jednoznacznej nazwy. W szerszym otoczeniu występują m.in. `Oum ez Ziana`, źródło `Tala`, szczyt `Kef el Aneba` oraz **Ksar Jouamaa / قصر الجؤامع** około 2 km od punktu. Na tym etapie **nie utożsamiamy punktu widokowego z Ksar Jouamaa**. Poprawny zapis roboczy to: „postój panoramiczny w górzystym terenie w rejonie Ksar Jouamaa”, dopóki nie znajdziemy wiarygodnej nazwy konkretnego miejsca.
+
+### 5. Ponowny przejazd – 08:10–09:00
+
+`IMG_1673` z 09:00:18 (GPS około 33.0892 N, 9.9245 E) pokazuje suchą drogę/teren widziany już w znacznie bardziej pustynnym krajobrazie. Jest to końcowa część dojazdu do następnego postoju.
+
+### 6. Drugi postój – pierwszy bezpośredni kontakt z piaskiem – 09:02–09:05+
+
+- `IMG_1674` 09:02:46 – aparat skierowany w dół na drobny piasek i buty;
+- `IMG_1675` 09:02:49 – piasek, buty i biała laska;
+- `IMG_1676` 09:02:53 – kolejne ujęcie faktury piasku i laski;
+- `IMG_1677` 09:02:57 – szerzej: piaszczysty teren, pojedynczy pojazd i skąpa roślinność;
+- `IMG_1679` 09:04:35, `IMG_1680` 09:04:37 i `IMG_1683` 09:04:43 – Mikołaj kuca na piasku z białą laską;
+- `IMG_1684` 09:04:50, `IMG_1686` 09:04:59, `IMG_1687` 09:05:06, `IMG_1689` 09:05:11, `IMG_1690` 09:05:14, `IMG_1692` i `IMG_1693` 09:05:16 – rozbudowana seria portretowa Mikołaja kucającego na piasku, dotykającego/biorącego piasek i pokazującego go na tle otwartego piaszczystego terenu;
+- `IMG_1694.MOV` – około 16,6 sekundy, nagrany bezpośrednio przy tej serii; Mikołaj kuca i bierze/przesypuje piasek. To odpowiada relacji o filmie z przesypywaniem/wysypywaniem piachu.
+
+GPS po zatrzymaniu stabilizuje się około **33.08874 N, 9.89545 E**. W bezpośrednim sąsiedztwie punktu lokalny OSM nie daje jednoznacznie nazwanego POI, dlatego nie wymyślamy nazwy. To **osobny postój na piaszczystym terenie przed Ksar Ghilane**, oddalony jeszcze od późniejszej oazy.
+
+Warto rozróżniać ten postój od późniejszego pieszego spaceru po pustyni w Ksar Ghilane. Tutaj około 09:02–09:05 mamy pierwszy udokumentowany kontakt Mikołaja z bardzo drobnym piaskiem i serię portretową; późniejszy spacer Mikołaja i Pawła około 10:15–10:40 jest innym wydarzeniem.
+
+## Chronologia robocza od hotelu do Ksar Ghilane
+
+1. **05:56–05:58** – zdjęcia przed Club Palm Azur, autokar czeka przed hotelem;
+2. **około 06:00** – wyjazd zgodnie z planem;
+3. **06:08–06:13** – jazda przez południową Dżerbę przy wschodzie słońca;
+4. **około 06:14–06:15** – rejon **El Kantara / Roman Causeway**, poranny widok wody i przejazd w stronę stałego lądu;
+5. **06:24–08:00** – dłuższy przejazd na południe po stałym lądzie;
+6. **08:00:41–08:10:19** – około 9,5 minuty fotografowania podczas dużego **postoju panoramicznego w górzystym terenie w rejonie Ksar Jouamaa**;
+7. **08:10–09:00** – dalsza jazda w stronę coraz bardziej pustynnego krajobrazu;
+8. **09:02:46–co najmniej 09:05** – osobny **postój na piaszczystym terenie**, seria z dotykaniem i przesypywaniem piasku oraz film `IMG_1694.MOV`;
+9. następnie dalszy dojazd;
+10. **10:11** – późniejszy, już wcześniej potwierdzony etap w **Ksar Ghilane**, `IMG_1705.HEIC`, rejon Hot Spring / Diar Ghilane.
+
+## Konfrontacja z lokalnym OpenStreetMap – najważniejsze wyniki
+
+### El Kantara
+
+GPS `IMG_1634` około 33.68070 N, 10.91637 E niemal pokrywa się z mapowymi obiektami El Kantara. W lokalnym OSM znajduje się tam wprost atrakcja nazwana **El Kantara (Roman Causeway)**. Jest to obecnie mocne potwierdzenie, że poranna seria około 06:14 dokumentuje przejazd przez rejon historycznej grobli.
+
+### Punkt panoramiczny
+
+GPS około 33.2604 N, 10.2760 E. Najbliższe nazwane elementy OSM nie pozwalają jeszcze bezpiecznie nadać punktowi własnej nazwy. Ksar Jouamaa znajduje się w szerszym sąsiedztwie, ale około 2 km od miejsca zdjęć. Dlatego nie zapisujemy „postój w Ksar Jouamaa” jako faktu, lecz **„postój panoramiczny w górzystym terenie w rejonie Ksar Jouamaa”**.
+
+### Postój na piasku
+
+GPS około 33.08874 N, 9.89545 E. Brak jednoznacznego nazwanego POI w bezpośrednim otoczeniu w lokalnym OSM. Zachowujemy opis funkcjonalny i współrzędne.
+
+## Ważne rozróżnienia do dziennika
+
+- poranna seria `IMG_1629–1639` dokumentuje przejazd przy wschodzie słońca i El Kantara;
+- `IMG_1644–1672` to rzeczywisty, dłuższy postój panoramiczny, a nie zdjęcia z drogi;
+- `IMG_1674–1694.MOV` to osobny postój na piasku około godzinę przed materiałem z Ksar Ghilane;
+- późniejszy spacer po pustyni w Ksar Ghilane (`IMG_1710–1731`) pozostaje oddzielnym, znacznie dłuższym doświadczeniem pieszym;
+- na tym etapie nie przypisujemy niepewnych nazw punktom tylko dlatego, że znajdują się w pobliżu znanej miejscowości.
+
+## Co jeszcze pozostaje do sprawdzenia
+
+- czy pomiędzy znanymi plikami istnieją dodatkowe fotografie/filmy z grobli lub postoju panoramicznego, których nie było w pobranej próbce;
+- czy lokalne OSM albo wiarygodne źródła zewnętrzne pozwolą zidentyfikować konkretną nazwę punktu panoramicznego przy 33.2604 N, 10.2760 E;
+- dokładny koniec postoju z piaskiem po `IMG_1694.MOV` i przebieg dalszej drogi do `IMG_1705` o 10:11;
+- pełna inwentaryzacja numerów i duplikatów pozostaje osobnym zadaniem; żadnych zdjęć ani filmów w ramach tej analizy nie usunięto ani nie przemianowano.
