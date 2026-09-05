@@ -81,6 +81,20 @@ Wniosek o wysokiej wiarygodności: o **16:54:24** grupa była już ponownie na *
 
 Nie należy jeszcze twierdzić, że `IMG_1862` przedstawia sam właściwy odcinek grobli nad wodą. Dokładne przejście przez El Kantara trzeba ustalić z `IMG_1863–1868`.
 
+## Etap kontrolny 5 – `IMG_1863.HEIC`: morze i niskie słońce podczas wjazdu ku El Kantara
+
+`IMG_1863.HEIC` został pobrany i sprawdzony osobno.
+
+- czas wykonania: **16:55:23**;
+- EXIF GPS: około **33.62670 N, 10.94928 E**;
+- `GPSHPositioningError` jest duży – około **332 m** – więc współrzędna ma znaczenie tylko orientacyjne;
+- zdjęcie wykonano przez szybę jadącego pojazdu;
+- w kadrze dominuje **morze oraz bardzo silny blask niskiego słońca odbijającego się od powierzchni wody**;
+- przy dolnej krawędzi widoczna jest infrastruktura drogowa/bariera, co potwierdza wykonywanie zdjęcia z trasy biegnącej przy wodzie;
+- czas jest tylko **59 sekund po `IMG_1862`**, więc oba zdjęcia tworzą jeden ciąg przejazdu ku El Kantara.
+
+To jest pierwsze zdjęcie z serii odpowiadające wspomnieniu Mikołaja o „drodze ku słońcu”: niski, intensywny blask znajduje się nad wodą podczas powrotu w stronę grobli. Ze względu na duży błąd GPS nie przypisuje się jeszcze `IMG_1863` do konkretnego metra grobli; ważniejsza jest zgodność czasu, kierunku podróży i obrazu.
+
 ## Pierwsze ustalone punkty po Dar Taoufik Matmata
 
 ### około 14:29–14:40 – Hotel Sidi Driss / plan zdjęciowy „Gwiezdnych wojen” w Matmacie
@@ -105,9 +119,10 @@ Na obecnym etapie jest to najbardziej prawdopodobny ostatni postój przed długi
 
 - `IMG_1860.MOV` – 15:42:20, GPS 33.6022 N, 10.2051 E, **autostrada A1 / TAH 1**;
 - `IMG_1861.PNG` – pomiar GPS Speed: 108 km/h, średnia 89 km/h, kierunek E;
-- `IMG_1862.HEIC` – 16:54:24, GPS około 33.62693 N, 10.94785 E, **RR117 / Route Romaine Djerba–Zarzis**.
+- `IMG_1862.HEIC` – 16:54:24, GPS około 33.62693 N, 10.94785 E, **RR117 / Route Romaine Djerba–Zarzis**;
+- `IMG_1863.HEIC` – 16:55:23, orientacyjny GPS 33.62670 N, 10.94928 E, widok morza i niskiego słońca przez szybę podczas dalszego przejazdu ku El Kantara.
 
-Pomiędzy 15:42 a 16:54 następuje dalszy wyraźny ruch na wschód: od A1 aż do korytarza RR117 prowadzącego ku El Kantara.
+Pomiędzy 15:42 a 16:55 następuje dalszy wyraźny ruch na wschód: od A1 aż do korytarza RR117 prowadzącego ku El Kantara, a następnie bezpośrednio przy wodzie.
 
 ## Powrót do hotelu i wieczór
 
@@ -117,11 +132,11 @@ Pomiędzy 15:42 a 16:54 następuje dalszy wyraźny ruch na wschód: od A1 aż do
 
 ## Robocza sekwencja po 14:20
 
-**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52–14:55 → bezpośredni długi przejazd powrotny → 15:42 autostrada A1 / TAH 1 przy 33.6022 N, 10.2051 E → pomiar GPS Speed 108 km/h, kierunek E → 16:54 RR117 / Route Romaine Djerba–Zarzis → właściwy przejazd El Kantara do ustalenia z kolejnych zdjęć → Club Palm Azur przed 19:08 → kolacja i deser.**
+**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52–14:55 → bezpośredni długi przejazd powrotny → 15:42 autostrada A1 / TAH 1 przy 33.6022 N, 10.2051 E → pomiar GPS Speed 108 km/h, kierunek E → 16:54 RR117 / Route Romaine Djerba–Zarzis → 16:55 widok morza i niskiego słońca podczas dalszego przejazdu ku El Kantara → właściwy przejazd groblą do doprecyzowania z kolejnych zdjęć → Club Palm Azur przed 19:08 → kolacja i deser.**
 
 ## Następny etap kontrolny
 
-1. sprawdzić `IMG_1863` i zapisać wynik;
-2. następnie kolejno `IMG_1864`, `1865`, `1866`, `1867`, `1868`, zapisując po każdym istotnym ustaleniu;
+1. sprawdzić `IMG_1864` i zapisać wynik;
+2. następnie kolejno `IMG_1865`, `1866`, `1867`, `1868`, zapisując po każdym istotnym ustaleniu;
 3. znaleźć dokładny moment przejazdu przez El Kantara / groblę rzymską;
 4. dopiero potem złożyć ciąg dróg Matmata → A1 → RR117 → El Kantara.
