@@ -95,10 +95,24 @@ Wniosek: obraz `IMG_1866` potwierdza, że kilka minut po serii `1863–1865` aut
 
 Wniosek: `IMG_1867` jest znacznie lepszą kotwicą przestrzenną niż `IMG_1866` i pokazuje, że o **16:58:51** grupa nadal znajdowała się na wodnym odcinku południowego wjazdu na Dżerbę. Przy składaniu geometrii przejazdu należy wykorzystać `IMG_1864`, `1865` i `1867` jako główne punkty o dobrej dokładności GPS, a `1863` i `1866` traktować pomocniczo.
 
+## Etap kontrolny 10 – `IMG_1868`: ostatnie ujęcie serii przy wodzie
+
+`IMG_1868.HEIC` sprawdzono jako osobny mikrokrok.
+
+- czas wykonania: **17:00:21**;
+- zapisany GPS około **33.66728 N, 10.92084 E**;
+- `GPSHPositioningError` wynosi około **1575 m**, więc współrzędna ma bardzo małą wartość do dokładnego wyznaczania drogi;
+- wizualnie widać nadal **szeroki akwen**, niskie słońce przesłonięte częściowo chmurami i wyraźne promienie oraz odbicie na wodzie;
+- na pierwszym planie znajduje się masywna bariera/rurowa konstrukcja przy drodze;
+- bardzo dobrze widoczna jest **mała łódź zacumowana blisko drogi**, a po prawej fragment drugiej łodzi;
+- zdjęcie wykonano **1 min 30 s po `IMG_1867`**.
+
+Wniosek: `IMG_1868` zamyka serię zdjęć wodnego odcinka powrotu. Obrazowo bardzo dobrze potwierdza dalszy przejazd wzdłuż akwenu i charakter infrastruktury przy drodze, ale własny GPS jest zbyt niedokładny, aby używać go jako głównej kotwicy przestrzennej. Do precyzyjnej rekonstrukcji geometrii serii `1862–1868` należy opierać się głównie na `IMG_1864`, `IMG_1865` i `IMG_1867`.
+
 ## Robocza sekwencja powrotu
 
-**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:39 seria bardzo dobrych kotwic przejazdu przy wodzie w rejonie El Kantara → 16:58:45 dalsze ujęcie akwenu z niedokładnym GPS → 16:58:51 dobra kotwica GPS nadal bezpośrednio przy wodzie → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
+**Matmata → ostatni punkt panoramiczny do około 14:55 → szybki przejazd bez postoju → 15:42 A1 / TAH 1 → pomiar 108 km/h → 16:54 RR117 → 16:55:23–16:55:39 seria dobrych kotwic przejazdu przy wodzie w rejonie El Kantara → 16:58:45–17:00:21 dalsze ujęcia akwenu i infrastruktury drogowej, z których `IMG_1867` ma dobrą dokładność GPS → dalszy wjazd na Dżerbę → Club Palm Azur przed 19:08.**
 
 ## Następny mikrokrok
 
-Sprawdzić wyłącznie `IMG_1868`, zapisać wynik, a dopiero potem zestawić całą serię `1862–1868` z lokalnym OSM.
+Zestawić wyłącznie trzy najlepsze kotwice `IMG_1864`, `IMG_1865` i `IMG_1867` z lokalnym OSM i zapisać wynik przed próbą odtworzenia pełnego przebiegu `IMG_1862–1868`.
