@@ -6,6 +6,8 @@ Status: robocza analiza techniczna na podstawie aktualnego kompletu materiałów
 
 Wcześniejsze luki `IMG_1798`, `IMG_1807` i `IMG_1808` zostały wypełnione. Sekwencja po `IMG_1810` sięga co najmniej `IMG_1875`. W folderze występują fizyczne duplikaty; na etapie analizy nie są usuwane.
 
+Ponowny bezpośredni listing folderu 5 września potwierdził obecność całej sekwencji `IMG_1854–1868`, w tym `IMG_1860.MOV` i `IMG_1861.PNG`. W tym zakresie nie ma luk numeracji.
+
 ## Ustalona relacja uczestnika – powrót z Matmaty
 
 Po opuszczeniu ostatniego punktu w rejonie Matmaty – najprawdopodobniej postoju panoramicznego dokumentowanego około 14:52 – przewodnik zapowiedział już zasadniczo bezpośrednią drogę powrotną do hotelu. Według pamięci Mikołaja:
@@ -29,9 +31,24 @@ Po opuszczeniu ostatniego punktu w rejonie Matmaty – najprawdopodobniej postoj
 - dokładność GPS: **4,6 m**;
 - jednostka: km/h.
 
-To jest bezpośrednie źródłowe potwierdzenie wcześniejszej relacji Mikołaja, że kierowca na dłuższych odcinkach dochodził do około 110 km/h. Nie jest to już tylko wspomnienie uczestnika.
+To jest bezpośrednie źródłowe potwierdzenie wcześniejszej relacji Mikołaja, że kierowca na dłuższych odcinkach dochodził do około 110 km/h.
 
-Sam zrzut PNG nie zawiera użytecznego EXIF czasu wykonania w taki sposób jak zdjęcia z aparatu, dlatego jego dokładne umiejscowienie czasowe trzeba ustalić na podstawie sąsiednich plików (`IMG_1860.MOV`, `IMG_1862.HEIC`) i chronologii biblioteki.
+## Etap kontrolny 2 – koniec postoju i pierwsza dalsza kotwica GPS
+
+Dodatkowo odczytano właściwe metadane EXIF/QuickTime z plików po punkcie panoramicznym:
+
+- `IMG_1854.HEIC` – **14:52:55**, GPS około **33.55285 N, 9.97195 E**, dokładność pozioma około 4,75 m; nadal praktycznie punkt panoramiczny;
+- `IMG_1855.HEIC` – **14:52:57**, GPS około **33.55284 N, 9.97194 E**, dokładność około 4,15 m; nadal ten sam punkt;
+- `IMG_1856.HEIC` – **14:54:44**, GPS około **33.55286 N, 9.97202 E**, dokładność około 6,8 m; nadal bez istotnego przemieszczenia, więc grupa była jeszcze przy końcu postoju lub dopiero ruszała;
+- `IMG_1860.MOV` – czas lokalny z metadanych QuickTime **15:42:20**, czas UTC w kontenerze 14:42:21Z; GPS **33.6022 N, 10.2051 E**, wysokość około 93 m, dokładność pozioma około 10,2 m; długość filmu około 7,07 s.
+
+To tworzy pierwszą bardzo mocną parę kotwic dla drogi powrotnej:
+
+**około 14:55 – ostatni materiał w praktycznie nieruchomym punkcie panoramicznym w Matmacie → 15:42 – pojazd jest już przy 33.6022 N, 10.2051 E, daleko na wschód od Matmaty.**
+
+Odstęp wynosi około 47,5 minuty. Jest zgodny z relacją o bezpośredniej szybkiej jeździe bez postoju.
+
+`IMG_1861.PNG` występuje chronologicznie bezpośrednio po `IMG_1860.MOV` w bibliotece, więc pomiar 108 km/h najprawdopodobniej należy do tego samego odcinka jazdy lub bezpośrednio kolejnego fragmentu. Dokładnego czasu PNG nie należy jednak zgadywać, ponieważ zrzut nie niesie równoważnego EXIF czasu wykonania.
 
 ## Pierwsze ustalone punkty po Dar Taoufik Matmata
 
@@ -44,21 +61,22 @@ Sam zrzut PNG nie zawiera użytecznego EXIF czasu wykonania w taki sposób jak z
 
 Seria dokumentuje Hotel Sidi Driss w Matmacie i dekoracje związane z „Gwiezdnymi wojnami”.
 
-### około 14:52–14:53 – krótki postój panoramiczny na północ od centrum Matmaty
+### około 14:52–14:55 – krótki postój panoramiczny na północ od centrum Matmaty
 
 - `IMG_1850.HEIC` – 14:52:35, GPS około 33.55285 N, 9.97193 E;
 - `IMG_1853.HEIC` – 14:52:51, praktycznie ten sam punkt;
+- `IMG_1854–1856` potwierdzają pozostawanie w tym samym miejscu co najmniej do 14:54:44;
 - zdjęcia pokazują suchy, silnie urzeźbiony i tarasowy krajobraz wzgórz wokół Matmaty.
 
 Na obecnym etapie jest to najbardziej prawdopodobny ostatni postój przed długim przejazdem powrotnym.
 
-## Powrót w stronę Dżerby – pierwsza kotwica po długiej przerwie
+## Powrót w stronę Dżerby – następne kotwice
 
-- `IMG_1862.HEIC` – 16:54:24, GPS około 33.62693 N, 10.94735 E;
-- zdjęcie wykonano z pojazdu i przedstawia drogę, drzewa oraz niską zabudowę;
-- położenie znajduje się już daleko na wschód od Matmaty, w korytarzu powrotu ku El Kantara / Dżerbie.
+- `IMG_1860.MOV` – 15:42:20, GPS 33.6022 N, 10.2051 E;
+- `IMG_1861.PNG` – pomiar GPS Speed: 108 km/h, średnia 89 km/h, kierunek E;
+- `IMG_1862.HEIC` – 16:54:24, GPS około 33.62693 N, 10.94735 E.
 
-Między około 14:53 a 16:54 występuje zatem około dwugodzinny odcinek odpowiadający relacji o długiej jeździe bez postoju i z bardzo małą liczbą zdjęć. Zrzut `IMG_1861.PNG` potwierdza jazdę na wschód z chwilową prędkością 108 km/h i średnią 89 km/h dla pomiaru w aplikacji.
+Pomiędzy 15:42 a 16:54 następuje dalszy wyraźny ruch na wschód, co jest zgodne z powrotem ku El Kantara / Dżerbie.
 
 ## Powrót do hotelu i wieczór
 
@@ -68,11 +86,11 @@ Między około 14:53 a 16:54 występuje zatem około dwugodzinny odcinek odpowia
 
 ## Robocza sekwencja po 14:20
 
-**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52 → bezpośredni długi przejazd powrotny → pomiar GPS Speed: 108 km/h, kierunek E → około 16:54 rejon południowego podejścia do Dżerby → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
+**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52–14:55 → bezpośredni długi przejazd powrotny → 15:42 kotwica GPS 33.6022 N, 10.2051 E → pomiar GPS Speed 108 km/h, kierunek E → 16:54 GPS 33.62693 N, 10.94735 E → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
 
 ## Następny etap kontrolny
 
-1. sprawdzić `IMG_1860.MOV` i dokładnie umiejscowić pomiar `IMG_1861.PNG`;
-2. sprawdzić kolejne pliki `IMG_1862–1868` i znaleźć serię El Kantara / zachodzącego słońca;
+1. sprawdzić zawartość filmu `IMG_1860.MOV` i dopasować jego punkt do lokalnego OSM;
+2. sprawdzić `IMG_1862–1868` i znaleźć dokładną serię El Kantara / niskiego słońca;
 3. zapisać wynik;
-4. dopiero następnie wyznaczyć ciąg dróg Matmata → El Kantara w lokalnym OSM.
+4. następnie wyznaczyć ciąg dróg Matmata → El Kantara w lokalnym OSM.
