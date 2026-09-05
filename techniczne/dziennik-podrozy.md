@@ -718,7 +718,22 @@ Jedzenie nadal oceniam dobrze. Zarówno lunch, jak i kolacja były urozmaicone, 
 - W potwierdzonym zakresie nie ma plików `IMG_1587`, `IMG_1596` i `IMG_1597`. Sam brak numerów nie przesądza jeszcze, czy materiały nie zostały wykonane, usunięte wcześniej czy tylko nie zostały przesłane.
 - W folderze znajdują się także dwa filmy o losowych nazwach, przesłane prawdopodobnie przez komunikator. Pokazują grupowe aktywności w hotelowym basenie, lecz nie zawierają wiarygodnej pierwotnej daty wykonania.
 - Materiał fotograficzny potwierdza kolejność głównych części dnia: basen około 10:20, odpoczynek przy basenie od 10:47 do około 12:30, lunch od 13:33, dekoracje w pokoju około 14:11, zdjęcia na plaży od 16:50 do 17:56 oraz kolację od 19:04.
-- Selekcja materiałów z 3 września nie została jeszcze zatwierdzona. Żaden plik z tej partii nie został na tym etapie przemianowany ani usunięty.
+- Selekcja zdjęć z 3 września została zakończona. Z 34 oryginalnych zdjęć z iPhone’a zachowano 8 reprezentatywnych ujęć i przemianowano je na Google Drive zgodnie z przyjętą konwencją. Pozostałe zdjęcia z tej partii zostały usunięte po zatwierdzeniu selekcji. Filmy nie były objęte tą operacją.
+
+#### Zatwierdzone mapowanie nazw — 3 września
+
+Poniższe mapowanie zachowujemy do późniejszej selekcji materiałów na Facebooka. Przy wskazywaniu plików do publikacji używamy oryginalnych nazw z iPhone’a. Oryginalne nazwy zostały odtworzone z pola `originalFilename` zachowanego w metadanych wersji plików na Google Drive.
+
+| Nazwa oryginalna | Nazwa archiwalna |
+|---|---|
+| `IMG_1575.HEIC` | `2026-09-03-102021-kapiel-w-basenie-hotelowym.heic` |
+| `IMG_1578.HEIC` | `2026-09-03-104748-odpoczynek-z-napojem-przy-basenie.heic` |
+| `IMG_1588.HEIC` | `2026-09-03-133305-krem-warzywny-z-grzanka.heic` |
+| `IMG_1589.HEIC` | `2026-09-03-133311-lunch-nuggetsy-frytki-i-warzywa.heic` |
+| `IMG_1594.HEIC` | `2026-09-03-141103-hotelowa-dekoracja-z-ubran.heic` |
+| `IMG_1602.HEIC` | `2026-09-03-175616-widok-z-plazy-na-morze-i-palmy.heic` |
+| `IMG_1605.HEIC` | `2026-09-03-191055-krewetki-i-malz-w-sosie.heic` |
+| `IMG_1609.HEIC` | `2026-09-03-193417-lody-na-deser.heic` |
 
 ## 4 września 2026
 
