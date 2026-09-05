@@ -61,7 +61,7 @@ Status: robocza analiza techniczna do dziennika podróży. Nie jest to jeszcze s
 14. po kąpieli `IMG_1737` pokazuje etap odpoczynku/rzeczy przy miejscu pobytu. Następnie grupa zjadła posiłek: jako pierwsze danie **brik** — chrupiący smażony placek z farszem, podobny do tego jedzonego dwa dni wcześniej; na `IMG_1739` widać go z drobno krojoną sałatką;
 15. drugie danie stanowił **kuskus z kurczakiem i warzywami**. `IMG_1741` potwierdza kuskus oraz warzywne dodatki w sosie, m.in. kawałki dyni; relacja uczestnika wskazuje również na kurczaka;
 16. na deser podano **melon**. `IMG_1743` pokazuje kawałki jasnego melona;
-17. do posiłku przysługiwała również **butelka wody 1,5 l na osobę**. Duża butelka wody jest widoczna przy deserze na `IMG_1743`;
+17. do posiłku przysługiwała **jedna butelka wody 1,5 l na trzy osoby**. Duża butelka wody jest widoczna przy deserze na `IMG_1743`;
 18. `IMG_1745` pokazuje jeszcze otoczenie oazy z palmami;
 19. od `IMG_1746`–`IMG_1748` materiał wyraźnie przechodzi do kolejnego etapu trasy, już w suchym skalistym krajobrazie poza oazą;
 20. około 13:39 – widok na suchy, górzysty krajobraz przed Matmatą;
@@ -82,7 +82,7 @@ Mikołaj i Paweł zamiast przejazdu wybrali piesze przejście przez fragment pus
 
 Po spacerze Mikołaj spędził około 20 minut w naturalnym ciepłym basenie źródłowym. Ten element jest potwierdzony zarówno relacją uczestnika, jak i serią `IMG_1732`–`IMG_1735`.
 
-Posiłek w Ksar Ghilane można obecnie opisać znacznie dokładniej dzięki relacji i zdjęciom: brik z drobną sałatką jako pierwsze danie, kuskus z kurczakiem i warzywami jako drugie danie, melon na deser oraz 1,5-litrowa butelka wody na osobę.
+Posiłek w Ksar Ghilane można obecnie opisać znacznie dokładniej dzięki relacji i zdjęciom: brik z drobną sałatką jako pierwsze danie, kuskus z kurczakiem i warzywami jako drugie danie, melon na deser oraz **jedna 1,5-litrowa butelka wody na trzy osoby**.
 
 Przewodnik określał długość przejazdu do fortu jako około 7 km. Ponieważ odległość w linii prostej między rejonem źródła a fortem wynosi około 3,1 km, zapis roboczy przyjmuje, że **około 7 km najprawdopodobniej dotyczy całego przejazdu tam i z powrotem lub długości rzeczywistej trasy terenowej**. Nie zapisujemy 7 km jako pewnej odległości w jedną stronę.
 
