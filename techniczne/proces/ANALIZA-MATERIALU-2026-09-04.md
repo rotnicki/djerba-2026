@@ -31,8 +31,9 @@ Status: robocza analiza techniczna do dziennika podróży. Nie jest to jeszcze s
 | `IMG_1732.HEIC` | po `IMG_1731` | początek wyraźnej serii kąpielowej w basenie zasilanym naturalnym źródłem w Ksar Ghilane |
 | `IMG_1733.HEIC`–`IMG_1735.HEIC` | po `IMG_1732` | osoby stojące i kąpiące się w wodzie; kontynuacja kąpieli |
 | `IMG_1737.HEIC` | po kąpieli | rzeczy/ubrania przy miejscu odpoczynku |
-| `IMG_1739.HEIC` i `IMG_1741.HEIC` | po kąpieli | posiłek |
-| `IMG_1743.HEIC` | po posiłku | deser/owoce |
+| `IMG_1739.HEIC` | po kąpieli | pierwsze danie: brik, czyli chrupiący smażony placek z farszem, podany z drobno krojoną sałatką z pomidora, ogórka i cebuli |
+| `IMG_1741.HEIC` | po pierwszym daniu | kuskus z kurczakiem i warzywami; na zdjęciu widać m.in. kawałki dyni i inne warzywa w sosie |
+| `IMG_1743.HEIC` | po drugim daniu | deser: kawałki jasnego melona; obok widoczna duża butelka wody |
 | `IMG_1745.HEIC` | 12:00:43 | otoczenie oazy z palmami; końcowa część pobytu w Ksar Ghilane |
 | `IMG_1746.HEIC`–`IMG_1748.HEIC` | po 12:00 | zmiana etapu: suchy, skalisty teren poza oazą; `IMG_1748` jest portretem Mikołaja na tle krajobrazu |
 | `IMG_1758.JPG` | 13:32:04 | ujęcie technicznie mało użyteczne, częściowo zasłonięte; ważne jako punkt czasu |
@@ -56,14 +57,18 @@ Status: robocza analiza techniczna do dziennika podróży. Nie jest to jeszcze s
 10. materiał fotograficzny pozwala obecnie umieścić pieszy epizod roboczo około **10:15–10:40**, a jego najbardziej jednoznacznie udokumentowaną część około **10:31–10:40**. `IMG_1716` oraz kolejne zdjęcia do `IMG_1731` pokazują otwarty piaszczysty teren, niewielkie wzniesienia i obniżenia oraz skąpą niską roślinność;
 11. relacja Mikołaja z pieszego odcinka: bardzo drobny, miękki i sypki piasek o konsystencji przypominającej mąkę, wsypujący się wszędzie; powtarzające się niewielkie „górki i dolinki”; piasek po horyzont i tylko miejscami niska roślinność. Ten opis należy zachować jako ważny element doświadczenia Sahary;
 12. **granica serii jest obecnie czytelna: `IMG_1731.HEIC` kończy pustynny etap, a `IMG_1732.HEIC` rozpoczyna serię kąpielową**;
-13. w oazie znajdował się basen zasilany naturalnym ciepłym źródłem. `IMG_1732`–`IMG_1735` dokumentują kąpiel. Przewodnik określał wodę jako siarkową. Do dziennika bezpieczniej zapisać ten szczegół jako relację przewodnika, dopóki skład wody nie zostanie potwierdzony w źródle pierwotnym;
-14. po kąpieli `IMG_1737` pokazuje etap odpoczynku/rzeczy przy miejscu pobytu, następnie `IMG_1739` i `IMG_1741` dokumentują posiłek, `IMG_1743` deser/owoce, a `IMG_1745` jeszcze otoczenie oazy z palmami;
-15. od `IMG_1746`–`IMG_1748` materiał wyraźnie przechodzi do kolejnego etapu trasy, już w suchym skalistym krajobrazie poza oazą;
-16. około 13:39 – widok na suchy, górzysty krajobraz przed Matmatą;
-17. około 14:02–14:20 – wizyta w tradycyjnym domu troglodyckim w Matmacie;
-18. `IMG_1800.HEIC` z 14:12:40 ma współrzędne około **33.54989 N, 9.94272 E**. W lokalnym OSM znajduje się obiekt **Dar Taoufik Matmata** przy około **33.54986 N, 9.94300 E**, czyli około **26 m** od miejsca wykonania zdjęcia. Oznacza to bardzo wysokie prawdopodobieństwo, że właśnie ten dom troglodycki odwiedziła grupa;
-19. `IMG_1783.HEIC` z 14:02:30 ma współrzędne około **33.54721 N, 9.95152 E**, około 840 m od Dar Taoufik Matmata, co odpowiada wcześniejszemu etapowi dojazdu lub początku tej wizyty;
-20. dalsza część dnia po `IMG_1810` pozostaje do odtworzenia po pojawieniu się / przejrzeniu kolejnych plików.
+13. po spacerze Mikołaj kąpał się w naturalnym ciepłym źródle przez około **20 minut**. Kąpiel była przez niego oceniona jako bardzo przyjemna. `IMG_1732`–`IMG_1735` dokumentują ten etap. Przewodnik określał wodę jako siarkową; do dziennika bezpieczniej zapisać: „naturalne ciepłe źródło; według przewodnika woda siarkowa”;
+14. po kąpieli `IMG_1737` pokazuje etap odpoczynku/rzeczy przy miejscu pobytu. Następnie grupa zjadła posiłek: jako pierwsze danie **brik** — chrupiący smażony placek z farszem, podobny do tego jedzonego dwa dni wcześniej; na `IMG_1739` widać go z drobno krojoną sałatką;
+15. drugie danie stanowił **kuskus z kurczakiem i warzywami**. `IMG_1741` potwierdza kuskus oraz warzywne dodatki w sosie, m.in. kawałki dyni; relacja uczestnika wskazuje również na kurczaka;
+16. na deser podano **melon**. `IMG_1743` pokazuje kawałki jasnego melona;
+17. do posiłku przysługiwała również **butelka wody 1,5 l na osobę**. Duża butelka wody jest widoczna przy deserze na `IMG_1743`;
+18. `IMG_1745` pokazuje jeszcze otoczenie oazy z palmami;
+19. od `IMG_1746`–`IMG_1748` materiał wyraźnie przechodzi do kolejnego etapu trasy, już w suchym skalistym krajobrazie poza oazą;
+20. około 13:39 – widok na suchy, górzysty krajobraz przed Matmatą;
+21. około 14:02–14:20 – wizyta w tradycyjnym domu troglodyckim w Matmacie;
+22. `IMG_1800.HEIC` z 14:12:40 ma współrzędne około **33.54989 N, 9.94272 E**. W lokalnym OSM znajduje się obiekt **Dar Taoufik Matmata** przy około **33.54986 N, 9.94300 E**, czyli około **26 m** od miejsca wykonania zdjęcia. Oznacza to bardzo wysokie prawdopodobieństwo, że właśnie ten dom troglodycki odwiedziła grupa;
+23. `IMG_1783.HEIC` z 14:02:30 ma współrzędne około **33.54721 N, 9.95152 E**, około 840 m od Dar Taoufik Matmata, co odpowiada wcześniejszemu etapowi dojazdu lub początku tej wizyty;
+24. dalsza część dnia po `IMG_1810` pozostaje do odtworzenia po pojawieniu się / przejrzeniu kolejnych plików.
 
 ## Identyfikacja miejsc – status
 
@@ -74,6 +79,10 @@ Identyfikacja Ksar Ghilane jest obecnie oparta nie tylko na programie i wyglądz
 Relacja uczestnika opisuje oazę z naturalnym ciepłym basenem kąpielowym, dromaderami i quadami. Część grupy wybrała przejazd na dromaderach, natomiast jeden uczestnik pojechał quadem w stronę rzymskiego fortu Tisavar / Qasr Ghilan.
 
 Mikołaj i Paweł zamiast przejazdu wybrali piesze przejście przez fragment pustyni. Szczegółowa relacja i powiązanie ze zdjęciami są zachowane także w `techniczne/proces/NOTATKA-KSAR-GHILANE-PIESZO.md`.
+
+Po spacerze Mikołaj spędził około 20 minut w naturalnym ciepłym basenie źródłowym. Ten element jest potwierdzony zarówno relacją uczestnika, jak i serią `IMG_1732`–`IMG_1735`.
+
+Posiłek w Ksar Ghilane można obecnie opisać znacznie dokładniej dzięki relacji i zdjęciom: brik z drobną sałatką jako pierwsze danie, kuskus z kurczakiem i warzywami jako drugie danie, melon na deser oraz 1,5-litrowa butelka wody na osobę.
 
 Przewodnik określał długość przejazdu do fortu jako około 7 km. Ponieważ odległość w linii prostej między rejonem źródła a fortem wynosi około 3,1 km, zapis roboczy przyjmuje, że **około 7 km najprawdopodobniej dotyczy całego przejazdu tam i z powrotem lub długości rzeczywistej trasy terenowej**. Nie zapisujemy 7 km jako pewnej odległości w jedną stronę.
 
