@@ -50,6 +50,21 @@ Odstęp wynosi około 47,5 minuty. Jest zgodny z relacją o bezpośredniej szybk
 
 `IMG_1861.PNG` występuje chronologicznie bezpośrednio po `IMG_1860.MOV` w bibliotece, więc pomiar 108 km/h najprawdopodobniej należy do tego samego odcinka jazdy lub bezpośrednio kolejnego fragmentu. Dokładnego czasu PNG nie należy jednak zgadywać, ponieważ zrzut nie niesie równoważnego EXIF czasu wykonania.
 
+## Etap kontrolny 3 – identyfikacja drogi na `IMG_1860.MOV`
+
+Film `IMG_1860.MOV` został sprawdzony wizualnie i porównany z lokalnym plikiem OSM `tunisia-260822.osm.pbf`.
+
+- kadr pokazuje jazdę szeroką, rozdzieloną barierami drogą szybkiego ruchu przez płaski, bardzo suchy teren;
+- punkt GPS filmu: **33.6022 N, 10.2051 E**;
+- najbliższe dwie nitki drogi w lokalnym OSM leżą około **7,7–8,2 m** od punktu GPS;
+- obie są oznaczone jako `highway=motorway`, `ref=A1`, `int_ref=TAH 1`;
+- OSM podaje dla tego odcinka `maxspeed=110`, `minspeed=60`, `lanes=2`, `oneway=yes`; na jednej z nitek także `surface=asphalt`;
+- zgodność GPS, obrazu i geometrii jest bardzo wysoka.
+
+Wniosek: o **15:42:20** autokar jechał **autostradą A1 / Trans-African Highway 1**, a nie zwykłą drogą regionalną. To jest pierwszy dokładnie zidentyfikowany odcinek drogi powrotnej po Matmacie.
+
+Wartość `maxspeed=110` z OSM jest dodatkowo zgodna z wykonanym chwilę później pomiarem 108 km/h, ale nie należy z tego automatycznie wnioskować, że zrzut `IMG_1861.PNG` wykonano dokładnie w tym samym miejscu.
+
 ## Pierwsze ustalone punkty po Dar Taoufik Matmata
 
 ### około 14:29–14:40 – Hotel Sidi Driss / plan zdjęciowy „Gwiezdnych wojen” w Matmacie
@@ -72,7 +87,7 @@ Na obecnym etapie jest to najbardziej prawdopodobny ostatni postój przed długi
 
 ## Powrót w stronę Dżerby – następne kotwice
 
-- `IMG_1860.MOV` – 15:42:20, GPS 33.6022 N, 10.2051 E;
+- `IMG_1860.MOV` – 15:42:20, GPS 33.6022 N, 10.2051 E, **autostrada A1 / TAH 1**;
 - `IMG_1861.PNG` – pomiar GPS Speed: 108 km/h, średnia 89 km/h, kierunek E;
 - `IMG_1862.HEIC` – 16:54:24, GPS około 33.62693 N, 10.94735 E.
 
@@ -86,11 +101,11 @@ Pomiędzy 15:42 a 16:54 następuje dalszy wyraźny ruch na wschód, co jest zgod
 
 ## Robocza sekwencja po 14:20
 
-**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52–14:55 → bezpośredni długi przejazd powrotny → 15:42 kotwica GPS 33.6022 N, 10.2051 E → pomiar GPS Speed 108 km/h, kierunek E → 16:54 GPS 33.62693 N, 10.94735 E → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
+**Dar Taoufik Matmata → Hotel Sidi Driss około 14:29–14:40 → punkt panoramiczny około 14:52–14:55 → bezpośredni długi przejazd powrotny → 15:42 autostrada A1 / TAH 1 przy 33.6022 N, 10.2051 E → pomiar GPS Speed 108 km/h, kierunek E → 16:54 GPS 33.62693 N, 10.94735 E → El Kantara / wjazd na wyspę do ustalenia → Club Palm Azur przed 19:08 → kolacja i deser.**
 
 ## Następny etap kontrolny
 
-1. sprawdzić zawartość filmu `IMG_1860.MOV` i dopasować jego punkt do lokalnego OSM;
-2. sprawdzić `IMG_1862–1868` i znaleźć dokładną serię El Kantara / niskiego słońca;
-3. zapisać wynik;
-4. następnie wyznaczyć ciąg dróg Matmata → El Kantara w lokalnym OSM.
+1. sprawdzić `IMG_1862.HEIC` i dopasować jego punkt do lokalnego OSM;
+2. zapisać wynik;
+3. następnie kolejno `IMG_1863–1868`, szukając dokładnej serii El Kantara / niskiego słońca;
+4. dopiero potem złożyć ciąg dróg Matmata → A1 → El Kantara.
