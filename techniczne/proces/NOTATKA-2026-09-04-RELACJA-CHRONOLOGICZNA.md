@@ -98,7 +98,11 @@ Paweł robił swoim telefonem zdjęcia obu grupom na dromaderach, a równocześn
 
 Mikołaj i Paweł nie skorzystali ani z dromaderów, ani z quada. Zamiast tego przeszli pieszo przez fragment otwartej pustyni. Dla Mikołaja okazało się to jednym z najlepszych doświadczeń całej wycieczki i znacznie ciekawszym sensorycznie niż przejażdżka na dromaderze.
 
-Teren tworzył serię niewielkich piaszczystych wzniesień i obniżeń — „**górka, dolinka, górka, dolinka**”. Można było bezpośrednio czuć pod stopami bardzo drobny, miękki i sypki piasek, poruszać się po wydmach i doświadczać skali pustyni nie z siodła ani z pojazdu, lecz własnym ciałem.
+Teren tworzył serię niewielkich piaszczystych wzniesień i obniżeń — „**górka, dolinka, górka, dolinka**”. Można było bezpośrednio czuć pod stopami niezwykle drobny, miękki i sypki piasek. Mikołaj zatrzymywał się, brał go do rąk i przesypywał między palcami; jego wyjątkowa miałkość była jednym z najmocniejszych wrażeń dotykowych tego dnia. Sam marsz wymagał jednocześnie wyczuwania podłoża i uważania na niewielkie wzniesienia, zagłębienia oraz nierówności terenu.
+
+Dla Mikołaja, jako osoby niewidomej z niewielkimi resztkami widzenia, było to szczególnie intensywne doświadczenie wielozmysłowe. Pustynię odbierał jednocześnie przez dotyk stóp i dłoni, temperaturę piasku i powietrza, ciepło słońca, suchy wiatr, dźwięki otwartej przestrzeni oraz to, co mógł jeszcze uchwycić wzrokiem. Zamiast oglądania pustyni wyłącznie z pojazdu czy z grzbietu dromadera mógł jej fizycznie doświadczać całym ciałem.
+
+Ogrom przestrzeni był wyraźny nawet przy bardzo ograniczonym widzeniu: wokół dominował piasek ciągnący się po horyzont. Gdzieś w oddali pozostawała zieleń oazy, a poza nią pojawiały się co najwyżej pojedyncze, niskie i wyschnięte fragmenty roślinności. Poza tym krajobraz był niemal całkowicie pustynny — piasek, wydmy i otwarta przestrzeń.
 
 Wrażenie robił nie tylko piasek, ale też **ogrom otwartej przestrzeni, mocne słońce oraz suchy wiatr**, który wyraźnie dawał się odczuć podczas marszu i targał ubraniem oraz chustą. Właśnie wtedy szczególnie przydała się kupiona wcześniej w Polsce chusta pustynna.
 
