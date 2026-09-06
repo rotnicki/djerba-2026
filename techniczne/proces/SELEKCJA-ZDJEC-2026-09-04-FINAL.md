@@ -18,6 +18,24 @@ Finalny zestaw został wybrany po osobnych porównaniach serii A–L oraz dodatk
 8. `IMG_1849.HEIC` — **punkt widokowy nad Matmatą**. Mikołaj, duży napis „MATMATA” i szeroka panorama. Jeden z najmocniejszych kadrów całego dnia.
 9. `IMG_1869.HEIC` — **Dolce Vita**. Wejście do włoskiej restauracji z czytelnym napisem i grupą wchodzącą do środka. Naturalne fotograficzne zamknięcie dnia.
 
+## Docelowe nazwy archiwalne
+
+Czasy poniżej zostały odczytane z osadzonych metadanych oryginalnych plików HEIC, a nie z czasu przesłania na Google Drive.
+
+| Oryginał | Czas wykonania | Docelowa nazwa |
+|---|---:|---|
+| `IMG_1654.HEIC` | 08:02:46 | `2026-09-04-080246-poranny-punkt-widokowy.heic` |
+| `IMG_1722.HEIC` | 10:34:14 | `2026-09-04-103414-dotyk-piasku-na-saharze.heic` |
+| `IMG_1729.HEIC` | 10:36:53 | `2026-09-04-103653-pieszo-przez-sahare.heic` |
+| `IMG_1732.HEIC` | 11:01:30 | `2026-09-04-110130-kapiel-w-cieplym-zrodle-ksar-ghilane.heic` |
+| `IMG_1768.HEIC` | 13:39:53 | `2026-09-04-133953-tamezret-panorama.heic` |
+| `IMG_1800.HEIC` | 14:12:40 | `2026-09-04-141240-dom-tofika-matmata.heic` |
+| `IMG_1829.HEIC` | 14:36:52 | `2026-09-04-143652-hotel-sidi-driss-luke-skywalker.heic` |
+| `IMG_1849.HEIC` | 14:51:07 | `2026-09-04-145107-matmata-napis-i-panorama.heic` |
+| `IMG_1869.HEIC` | 19:08:15 | `2026-09-04-190815-dolce-vita-wejscie.heic` |
+
+Nazwy zachowują dotychczasową konwencję: data, dokładny czas wykonania i krótki opis treści, bez wprowadzania niepotwierdzonych nazw miejsc.
+
 ## Dlaczego nie 10–12 zdjęć
 
 - `IMG_1633.HEIC` — bardzo dobry poranny kadr z autokaru i wschodu słońca, ale pierwszy punkt panoramiczny `IMG_1654` jest mocniejszym otwarciem wizualnym dnia. Przy minimalizmie rezygnujemy z dodatkowego zdjęcia samego rozpoczęcia podróży.
@@ -45,8 +63,7 @@ Nie zachowujemy osobnych zdjęć posiłków, przejazdów, kolejnych podobnych pa
 
 ## Następny krok
 
-1. odczytać oryginalny `DateTimeOriginal` każdego z 9 wybranych plików;
-2. przygotować docelowe nazwy zgodne z `RRRR-MM-DD-HHMMSS-opis.ext`;
-3. wskazać jedną fizyczną kopię każdego zdjęcia do zachowania, jeżeli na Google Drive są duplikaty;
-4. przygotować pełny wykaz pozostałych zdjęć i duplikatów do trwałego usunięcia;
-5. niczego nie usuwać bez osobnego zatwierdzenia użytkownika.
+1. wskazać jedną fizyczną kopię każdego z 9 zdjęć do zachowania, jeżeli na Google Drive są duplikaty;
+2. przygotować pełny wykaz pozostałych zdjęć i duplikatów do trwałego usunięcia;
+3. po zatwierdzeniu przemianować zachowywane kopie zgodnie z tabelą powyżej;
+4. niczego nie usuwać bez osobnego zatwierdzenia użytkownika.
