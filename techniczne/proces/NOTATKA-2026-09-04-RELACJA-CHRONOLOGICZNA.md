@@ -172,6 +172,32 @@ Na miejscu Tofik osobiście powitał grupę. Zrobił to kolejno w kilku językac
 
 Następnie zaprosił uczestników do rozległego, tradycyjnego domu troglodyckiego. Dom był **wykuty w skale i ziemi**, a jego centralnym elementem był duży, zagłębiony dziedziniec, wokół którego znajdowały się wejścia do kolejnych pomieszczeń. Już samo wejście do tak zbudowanego domu było ważnym elementem zwiedzania, bo pozwalało bezpośrednio zobaczyć i odczuć tradycyjny sposób budowania charakterystyczny dla rejonu Matmaty.
 
+### Swobodne zwiedzanie pomieszczeń i ręczne żarna
+
+Po wejściu do środka grupa mogła swobodnie zaglądać do kolejnych pomieszczeń rozmieszczonych wokół dziedzińca. Były to różne pokoje i części domu, które można było obejrzeć z bliska, zamiast zatrzymywać się wyłącznie na samym dziedzińcu.
+
+W jednym z pomieszczeń kobieta, być może żona Tofika — Mikołaj nie ma pewności co do jej relacji rodzinnej — pokazała tradycyjny sposób mielenia zboża na mąkę. Posługiwała się ręcznym urządzeniem obracanym korbką lub kołowrotkiem. Najbezpieczniej określić je jako **tradycyjne ręczne żarna / ręczny młynek do zboża**. Mikołaj uwiecznił ten pokaz na filmie. Podobne demonstracje ręcznego mielenia mąki są opisywane także przez innych odwiedzających domy troglodyckie w Matmacie, co dobrze odpowiada jego wspomnieniu.
+
+### Poczęstunek na dziedzińcu
+
+Na dziedzińcu gospodarze poczęstowali grupę własnym tradycyjnym chlebem. Można było samemu odrywać kawałki z większego placka i próbować go na kilka sposobów: **samego, z oliwą z oliwek, z miodem oraz z ostrym dodatkiem**.
+
+Chleb z oliwą i miodem jest dobrze udokumentowany jako tradycyjny poczęstunek dla gości odwiedzających domy w rejonie Matmaty. Ostry dodatek Mikołaj pamięta jako wyraźnie pikantny, ale nie zna jego nazwy. **Najbardziej prawdopodobna jest harissa**, bardzo typowa tunezyjska pasta z ostrych papryk, często podawana z chlebem i oliwą, jednak bez zdjęcia lub jednoznacznej relacji gospodarzy nie zapisujemy tej identyfikacji jako pewnej.
+
+Według przekazu na miejscu chleb, oliwa i miód były przygotowywane lub pozyskiwane przez gospodarzy. Dla Mikołaja sam sposób częstowania — wspólne odrywanie chleba i próbowanie kolejnych dodatków — był ważną częścią gościnnego charakteru wizyty.
+
+### Taniec, śpiew i bęben na dziedzińcu
+
+W czasie pobytu na dziedzińcu pojawiła się również **tańcząca para**. Towarzyszyły jej bardzo głośne, żywe śpiewy oraz rytm wybijany na bębnie. Mikołaj zapamiętał ten epizod jako coś przypominającego zainicjowany pokaz lub taniec o charakterze weselnym, ale nie ma pewności, jak dokładnie należałoby go nazwać, dlatego nie przypisujemy mu konkretnej tradycyjnej nazwy bez dodatkowej weryfikacji.
+
+Całość miała bardzo wesoły, spontaniczny i pozytywny charakter. Mikołaj również ten fragment nagrał. Wizyta trwała stosunkowo długo jak na pojedynczy punkt programu, ale pozwoliła nie tylko obejrzeć dom, lecz także usłyszeć muzykę i śpiew, spróbować lokalnego jedzenia oraz zobaczyć elementy codziennego życia gospodarzy.
+
+### Podziękowanie gospodarzom
+
+Przy końcu wizyty była możliwość pozostawienia dobrowolnego datku w przygotowanym koszyczku. Mikołaj wrzucił tam pozostałe drobne euro — według pamięci około **2,5 euro** — jako formę podziękowania i wsparcia dla gospodarzy.
+
+Ten gest był dla niego czymś więcej niż tylko symboliczną opłatą za zwiedzanie. Po przyjęciu grupy we własnym domu, poczęstunku, pokazach i wspólnie spędzonym czasie traktował pozostawienie pieniędzy jako naturalny sposób **odwdzięczenia się za gościnność**.
+
 ## Następny punkt do uzupełnienia
 
-**Dalsze zwiedzanie domu Tofika w Matmacie — kolejne pomieszczenia, wyposażenie i opowieści przewodnika / gospodarza.**
+**Dalszy przebieg wizyty w rejonie Matmaty po wyjściu z domu Tofika i kolejny punkt programu.**
