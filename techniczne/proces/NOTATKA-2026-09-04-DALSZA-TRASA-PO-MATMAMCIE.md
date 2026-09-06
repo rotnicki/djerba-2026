@@ -10,6 +10,8 @@ Sekwencja materiałów z 4 września sięga co najmniej `IMG_1875`. Bezpośredni
 
 Po ostatnim punkcie w rejonie Matmaty przewodnik zapowiedział zasadniczo bezpośrednią drogę powrotną do hotelu. Według pamięci Mikołaja pozostawało ponad 170 km i ponad dwie godziny jazdy. Rozważano jeszcze postój w miejscu odwiedzonym rano, ale z niego zrezygnowano. Kierowca na dłuższych odcinkach jechał szybko; Mikołaj mierzył prędkość telefonem. Późniejsza seria zdjęć dokumentuje ponowny dojazd do El Kantara z intensywnym blaskiem niskiego słońca.
 
+Mikołaj podaje z pamięci, że **powrót autokaru do Club Palm Azur nastąpił około 17:15**. Tę godzinę zapisujemy jako **relację uczestnika**, a nie czas wyprowadzony z metadanych zdjęcia. Jest ona spójna z ostatnią mocną kotwicą fotograficzną przy El Kantara o 17:00:21 i oznacza, że zdjęcie hotelowe `IMG_1869.HEIC` z 19:08:15 nie dokumentuje chwili powrotu, lecz dopiero późniejszy pobyt w hotelu.
+
 ## Koniec pobytu w Matmacie
 
 - `IMG_1854` – 14:52:55, około 33.55285 N, 9.97195 E;
@@ -94,24 +96,25 @@ Wniosek: seria `IMG_1862–1868` dokumentuje **ciągły przejazd na Dżerbę RR1
 
 ## Dalszy przejazd na wyspie i powrót do hotelu
 
-Po serii wodnej brak kolejnej mocnej kotwicy zdjęciowej aż do hotelu. Pierwszy pewny materiał hotelowy:
+Po serii wodnej brak kolejnej mocnej kotwicy zdjęciowej aż do hotelu. Pierwszy pewny późniejszy materiał hotelowy:
 
 - `IMG_1869.HEIC` – **19:08:15**, GPS około **33.76292 N, 11.02089 E**, wejście do `DOLCE VITA RESTAURANT` w Club Palm Azur.
 
-Oznacza to, że grupa wróciła do Club Palm Azur **przed 19:08**. Nie wolno z samego braku zdjęć ustalać dokładnej godziny przyjazdu.
+Nie jest to jednak godzina powrotu z wycieczki. Zgodnie z relacją Mikołaja autokar wrócił do Club Palm Azur **około 17:15**. Ostatnia kotwica przy El Kantara o 17:00:21 jest z takim wspomnieniem czasowo spójna. Dokładności co do pojedynczych minut nie należy wyprowadzać ze zdjęć; `17:15` pozostaje godziną orientacyjną podaną przez uczestnika.
 
 ## Końcowa rekonstrukcja drogi powrotnej
 
 Najlepiej udokumentowany przebieg to:
 
-**ostatni punkt panoramiczny w Matmacie do co najmniej 14:54:44 → wyjazd około 14:55 → RR107 → A1 / TAH1 → 15:42:20 pewna kotwica na A1 → szybka jazda, pomiar do 108 km/h → przejazd w kierunku Dżerby bez potwierdzonego postoju → 16:54:24 korytarz RR117 → 16:55–17:00 seria przejazdu przez wodny odcinek El Kantara / Chaussée Romaine → dalszy przejazd przez Dżerbę → Club Palm Azur przed 19:08.**
+**ostatni punkt panoramiczny w Matmacie do co najmniej 14:54:44 → wyjazd około 14:55 → RR107 → A1 / TAH1 → 15:42:20 pewna kotwica na A1 → szybka jazda, pomiar do 108 km/h → przejazd w kierunku Dżerby bez potwierdzonego postoju → 16:54:24 korytarz RR117 → 16:55–17:00 seria przejazdu przez wodny odcinek El Kantara / Chaussée Romaine → dalszy przejazd przez Dżerbę → według relacji Mikołaja powrót do Club Palm Azur około 17:15.**
 
 ### Poziomy pewności
 
-- **bardzo wysoka**: koniec postoju w Matmacie, kotwica A1, RR117/El Kantara, obecność w hotelu przed 19:08;
+- **bardzo wysoka**: koniec postoju w Matmacie, kotwica A1, RR117/El Kantara oraz późniejsza obecność w hotelu o 19:08;
 - **wysoka**: Matmata → RR107 → A1, ciągły przejazd RR117 przez El Kantara;
+- **relacja uczestnika**: powrót do Club Palm Azur około **17:15**;
 - **średnia**: dokładny przebieg między A1 a pierwszą kotwicą RR117, ponieważ lokalny graf OSM ma około 1,89 km luki topologicznej;
-- **nieustalona**: dokładna godzina przyjazdu do hotelu i każdy kilometr trasy na Dżerbie po 17:00, bo brak kolejnych kotwic zdjęciowych.
+- **nieustalona na podstawie samych metadanych**: dokładna minuta przyjazdu do hotelu i każdy kilometr trasy na Dżerbie po 17:00, bo brak kolejnych kotwic zdjęciowych.
 
 ## Status
 
