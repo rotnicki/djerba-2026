@@ -140,13 +140,27 @@ Po jedzeniu grupa zebrała się i przeszła z powrotem w stronę autokaru. Miko�
 
 Najbezpieczniej przyjąć więc, że autokar ruszył z Ksar Ghilane **krótko po 12:00**.
 
-## Około 12:00–13:40 – dłuższy przejazd w stronę Matmaty
+## Około 12:00–13:30 – dłuższy przejazd w stronę Tamezret i Matmaty
 
 Po wyjeździe z Ksar Ghilane przewodnik zapowiedział kolejny dłuższy odcinek jazdy — według pamięci Mikołaja około **półtorej godziny** — i ponownie zasugerował, że można ten czas wykorzystać na odpoczynek lub drzemkę.
 
-To wspomnienie dobrze zgadza się z materiałem. Po zdjęciach wykonanych tuż po 12:00 kolejną mocną kotwicą czasową jest `IMG_1768.HEIC` z **13:39:53**, pokazujące szeroki, suchy górsko-pustynny krajobraz przed kolejnym etapem zwiedzania. Oznacza to około **1 godz. 40 min** od wyjazdu z oazy do tego etapu trasy, a więc bardzo blisko zapowiadanych przez przewodnika około półtorej godziny.
+To wspomnienie dobrze zgadza się z materiałem: po zdjęciach wykonanych tuż po 12:00 następne użyteczne kotwice pojawiają się dopiero około 13:30. Oznacza to mniej więcej półtorej godziny ciągłej jazdy przez suchy, skalisty i górsko-pustynny krajobraz.
 
-Kolejnym właściwym punktem zwiedzania była **Matmata**. Seria zdjęć od `IMG_1783.HEIC` z **14:02:30** dokumentuje już tradycyjną zabudowę troglodycką. Późniejsza analiza GPS i lokalnego OpenStreetMap wskazuje z bardzo wysokim prawdopodobieństwem, że odwiedzanym domem był **Dar Taoufik Matmata**.
+## Około 13:30–13:50 – Tamezret: herbata, alfabet berberyjski i panorama z dachu
+
+Przed właściwym zwiedzaniem Matmaty grupa zatrzymała się na około **15–20 minut w Tamezret**, najprawdopodobniej przy kawiarni **Café Portail Sahara**. Identyfikację konkretnego lokalu traktujemy nadal jako bardzo prawdopodobną, ale nie jako stuprocentowo potwierdzoną wyłącznie z relacji uczestnika.
+
+Najbardziej zapamiętanym elementem postoju była dla Mikołaja **miejscowa herbata podana w bardzo małym szklanym kubeczku**. Była wyraźnie ziołowa — Mikołaj czuł w niej jakieś zioła, choć nie potrafił określić dokładnie jakie — i dość słodka. Kosztowała **1,5 euro**. Mimo niewielkiej porcji smakowała mu wyjątkowo dobrze. Ciepły, słodko-ziołowy napój okazał się paradoksalnie bardzo przyjemny i wręcz orzeźwiający w panującym upale; dobrze wpisał się w atmosferę tego krótkiego postoju.
+
+Mikołaj siedział przy stole obok ściany, na której znajdowała się **tablica przedstawiająca alfabet berberyjski / tifinagh**. Według jego pamięci przy znakach były również odpowiedniki lub objaśnienia w zapisie łacińskim i arabskim. Z tego miejsca zostało wykonane co najmniej jedno zdjęcie Mikołaja przy tablicy.
+
+W czasie postoju można było także wejść **na dach lub taras na dachu budynku**. Stamtąd otwierała się szeroka panorama okolicy. Mikołaj, słysząc i wiedząc, że autokar stoi poniżej, poprosił Pawła o zrobienie zdjęć w kilku kierunkach, tak aby uchwycić zarówno krajobraz, jak i zaparkowany autokar widziany z góry. Ten punkt wspomina jako bardzo przyjemne połączenie krótkiego odpoczynku, dobrej herbaty i szerokiego widoku na pustynno-górską okolicę.
+
+Materiał czasowy jest z tym zgodny: `IMG_1758.JPG` ma czas **13:32:04**, a `IMG_1768.HEIC` **13:39:53** i dokumentuje szeroki suchy krajobraz górsko-pustynny. Na tym etapie nie przypisujemy jednak konkretnego z tych zdjęć na sztywno do dachu bez ponownej analizy wizualnej całej serii.
+
+## Około 14:02 – Matmata
+
+Po krótkim postoju w Tamezret grupa pojechała dalej do **Matmaty**. Seria zdjęć od `IMG_1783.HEIC` z **14:02:30** dokumentuje już tradycyjną zabudowę troglodycką. Późniejsza analiza GPS i lokalnego OpenStreetMap wskazuje z bardzo wysokim prawdopodobieństwem, że odwiedzanym domem był **Dar Taoufik Matmata**.
 
 ## Następny punkt do uzupełnienia
 
