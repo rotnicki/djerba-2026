@@ -58,6 +58,18 @@ Około **08:00** autokar zatrzymał się tylko na chwilę przy punkcie widokowym
 
 Ten postój należy odróżnić od późniejszego piaszczystego przystanku: materiał fotograficzny i dane lokalizacyjne wskazują, że **punkt widokowy był około 08:00**, natomiast **piaszczysty postój związany z przesypującym się piaskiem nastąpił dopiero około 09:02–09:05**.
 
+## Około 09:02–09:05 – pierwszy kontakt z pustynnym piaskiem
+
+Późniejszy krótki postój na piaszczystej trasie był dla Mikołaja pierwszym wyraźnym momentem, kiedy znalazł się już na bardziej „prawdziwym” pustynnym piasku. Miejsce dawało także szerokie, atrakcyjne widoki na otaczający krajobraz.
+
+To właśnie wtedy Mikołaj zwrócił szczególną uwagę na sam piasek — chciał go dotknąć, przesypywać w dłoniach i poczuć jego strukturę. Poprosił również o zrobienie zdjęć i nagrań pokazujących ten kontakt z piaskiem. Było to jedno z pierwszych bardzo bezpośrednich, sensorycznych doświadczeń pustyni podczas tej wycieczki.
+
+Mikołaj miał już przy sobie własną chustę pustynną kupioną wcześniej w Polsce, więc nie potrzebował kupować jej na miejscu.
+
+### Sklepik z chustami – miejsce w chronologii niepewne
+
+Mikołaj pamięta, że przy jednym z porannych postojów grupa weszła także do niewielkiego sklepiku, gdzie część uczestników kupowała chusty na pustynię, jeśli nie miała ich wcześniej. Na tym etapie nie ma jednak pewności, czy sklepik znajdował się właśnie przy postoju około 09:02–09:05, czy przy innym wcześniejszym lub późniejszym zatrzymaniu. Dlatego nie łączymy go na razie na stałe z konkretnym punktem trasy.
+
 ## Następny punkt do uzupełnienia
 
-**Dalsza jazda po punkcie widokowym około 08:00 w kierunku Béni Khedech i Ksar Ghilane oraz późniejszy piaszczysty postój około 09:02–09:05.**
+**Dalszy dojazd do Ksar Ghilane: pojawienie się zieleni oazy około 09:42, wysiadanie z autokaru i przejście w stronę miejsca z wielbłądami / dromaderami.**
