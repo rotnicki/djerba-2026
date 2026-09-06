@@ -164,6 +164,8 @@ Materiał czasowy jest z tym zgodny: `IMG_1758.JPG` ma czas **13:32:04**, a `IMG
 
 Po krótkim postoju w Tamezret grupa pojechała dalej do **Matmaty**. Seria zdjęć od `IMG_1783.HEIC` z **14:02:30** dokumentuje już tradycyjną zabudowę troglodycką. Późniejsza analiza GPS i lokalnego OpenStreetMap wskazuje z bardzo wysokim prawdopodobieństwem, że odwiedzanym domem był **Dar Taoufik Matmata**.
 
+Przewodnik powiedział grupie, że właściciel odwiedzanego domu ma na imię **Tofik**. Zapisujemy to jako relację przewodnika. Jest to istotna wskazówka identyfikacyjna, ponieważ imię „Tofik” bardzo prawdopodobnie odpowiada francusko-łacińskiemu zapisowi **Taoufik**, co dodatkowo wzmacnia wcześniejszą identyfikację miejsca jako **Dar Taoufik Matmata**. Nie traktujemy jednak samego imienia jako samodzielnego, stuprocentowego dowodu nazwy obiektu.
+
 ## Następny punkt do uzupełnienia
 
 **Matmata — dojście i zwiedzanie tradycyjnego domu troglodyckiego, najprawdopodobniej Dar Taoufik Matmata, od około 14:02.**
