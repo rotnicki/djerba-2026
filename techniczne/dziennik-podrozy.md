@@ -865,7 +865,7 @@ Do Club Palm Azur wróciliśmy około 17:15. Od porannego wyjazdu minęło więc
 
 Po powrocie do hotelu mieliśmy jeszcze na 19:00 zarezerwowaną kolację w hotelowej restauracji włoskiej **Dolce Vita**. Była to kolacja à la carte, która przysługiwała nam w ramach pakietu all inclusive. Oficjalna strona hotelu potwierdza nazwę restauracji Dolce Vita i jej charakter jako miejsca przeznaczonego na kolacje.
 
-Już samo przejście do restauracji miało bardzo sympatyczny klimat. Prowadzący nas pracownicy zaczęli śpiewać fragment znanej włoskiej piosenki **„L’Italiano” Toto Cutugno**, z charakterystycznym refrenem o „prawdziwym Włochu”. To od razu rozluźniło atmosferę i pasowało do włoskiego charakteru miejsca.
+Gdy pracownicy obsługi prowadzili nas do restauracji, to właśnie oni zaczęli śpiewać znaną włoską piosenkę **„L’Italiano” Toto Cutugno**. My od razu podchwyciliśmy melodię i przez całą drogę do Dolce Vita śpiewaliśmy razem z nimi. Dało to bardzo wesoły początek kolacji i dobrze pasowało do włoskiego charakteru restauracji.
 
 Podczas kolacji miałem okazję spróbować kilku klasycznych włoskich dań: kawałka pizzy, spaghetti oraz lasagne. Obsługa była bardzo miła i serdeczna. Z całej kolacji mam także kilka zdjęć.
 
