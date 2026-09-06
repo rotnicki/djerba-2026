@@ -122,6 +122,24 @@ Basen był wykończony drobnymi kafelkami. Przy wejściu do wody trzeba było tr
 
 W relacji przewodnika źródło było określane jako siarkowe. Na tym etapie zapisujemy ostrożnie: **naturalne ciepłe źródło; według przewodnika woda siarkowa**.
 
+## Około 11:30 – posiłek w Ksar Ghilane
+
+Po kąpieli przeszliśmy na przygotowany dla naszej grupy posiłek. Mikołaj pamięta, że rozpoczął się on około **11:30**. Jedliśmy przy wcześniej przygotowanych stołach w zacienionym, osłoniętym miejscu; według pamięci Mikołaja w pomieszczeniu działała nawet lekka klimatyzacja, co po pobycie na pustyni dawało przyjemne wytchnienie od gorąca.
+
+Pierwszym daniem był **brik** — chrupiący smażony placek z farszem. Zdjęcie `IMG_1739.HEIC` pokazuje go również z drobno krojoną sałatką z pomidora, ogórka i cebuli.
+
+Drugie danie Mikołaj pamięta jako kawałek kurczaka, konkretnie udko lub nogę, z dodatkiem przypominającym ryż i warzywami. Analiza zdjęcia `IMG_1741.HEIC` wskazuje jednak, że dodatkiem był **kuskus**, nie ryż. Na zdjęciu widać też warzywa w sosie, w tym kawałki dyni. Do relacji przyjmujemy więc: **kuskus z kawałkiem kurczaka i warzywami**, z zaznaczeniem, że Mikołaj pamięta mięso jako udko lub nogę kurczaka.
+
+Na deser podano **kawałki jasnego melona**, co potwierdza `IMG_1743.HEIC`.
+
+Do posiłku przypadała **jedna butelka wody 1,5 l na trzy osoby**. Duża butelka jest widoczna również na zdjęciu deseru. Cały posiłek Mikołaj ocenia jako **całkiem smaczny i pożywny**, szczególnie po porannym wyjeździe, spacerze po pustyni i kąpieli.
+
+## Około 12:00 – koniec pobytu w oazie i wyjazd
+
+Po jedzeniu grupa zebrała się i przeszła z powrotem w stronę autokaru. Mikołaj pamięta wyjazd jako odbywający się około **12:00**. Materiał fotograficzny dobrze to zawęża: `IMG_1745.HEIC` z **12:00:43** pokazuje jeszcze otoczenie oazy z palmami, natomiast kolejne zdjęcia `IMG_1746.HEIC`–`IMG_1748.HEIC` pokazują już suchy, skalisty krajobraz poza oazą.
+
+Najbezpieczniej przyjąć więc, że autokar ruszył z Ksar Ghilane **krótko po 12:00**.
+
 ## Następny punkt do uzupełnienia
 
-**Posiłek w Ksar Ghilane po kąpieli — jego skład i kolejność są już częściowo rozpoznane w roboczych plikach technicznych, ale właściwa relacja użytkownika zostanie dopisana w następnym kroku.**
+**Dalszy przejazd po wyjeździe z Ksar Ghilane przez suchy, skalisty krajobraz w kierunku kolejnych punktów trasy i Matmaty.**
