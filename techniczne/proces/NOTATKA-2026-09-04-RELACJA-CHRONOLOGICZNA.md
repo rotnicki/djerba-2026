@@ -70,6 +70,42 @@ Mikołaj miał już przy sobie własną chustę pustynną kupioną wcześniej w 
 
 Mikołaj pamięta, że przy jednym z porannych postojów grupa weszła także do niewielkiego sklepiku, gdzie część uczestników kupowała chusty na pustynię, jeśli nie miała ich wcześniej. Na tym etapie nie ma jednak pewności, czy sklepik znajdował się właśnie przy postoju około 09:02–09:05, czy przy innym wcześniejszym lub późniejszym zatrzymaniu. Dlatego nie łączymy go na razie na stałe z konkretnym punktem trasy.
 
+## Około 09:42–10:10 – przyjazd do Ksar Ghilane i przygotowanie do atrakcji
+
+Po dalszym przejeździe przez pustynny teren autokar dotarł do oazy **Ksar Ghilane**. Z późniejszej analizy zdjęć wynika, że około **09:42** zaczęła być widoczna wyraźnie zielona część oazy z palmami, a przed 10:00 grupa była już poza autobusem i przechodziła przez zagospodarowaną część miejsca w stronę placu z dromaderami.
+
+Na miejscu były dwie główne fakultatywne atrakcje: przejazdy quadami oraz przejażdżki na dromaderach, w relacji potocznie nazywanych wielbłądami.
+
+### Quad – Robert
+
+Z naszej grupy na przejazd quadem zdecydował się tylko **Robert „od Beaty”**. Trasa prowadziła w kierunku pustynnego fortu — według późniejszej identyfikacji najprawdopodobniej chodziło o rzymski fort **Tisavar / Qasr Ghilan**. Mikołaj pamięta, że cały przejazd miał mieć około **7 km łącznie w obie strony** i trwać około **40 minut**. Te wartości zapisujemy jako orientacyjną relację uczestnika, a nie jako dokładnie zmierzony dystans i czas.
+
+### Dromadery – przejazd po pętli na pustyni
+
+Osoby, które chciały skorzystać z dromaderów, poszły w stronę miejsca, z którego rozpoczynały się przejazdy. Sama przejażdżka trwała orientacyjnie około **20–30 minut** i odbywała się po dużej pętli lub łuku po pustyni, z powrotem w okolice punktu startowego.
+
+Według pamięci Mikołaja skorzystało z niej około **siedmiu osób słabowidzących** z grupy oraz kilku przewodników.
+
+### Andrzej i Basia – opóźniony start
+
+Osobnym problemem organizacyjnym była sytuacja Andrzeja i Basi, obojga niewidomych. Z powodów organizacyjnych nie ruszyli z pierwszą grupą jadącą na dromaderach i wystartowali mniej więcej **20 minut później**.
+
+Mikołaj i Paweł początkowo częściowo podążali w ich kierunku, żeby mieć ich na oku. Po chwili Paweł zauważył jednak, że trasa dromaderów i tak prowadzi dużym łukiem, więc zaproponował, żeby zamiast iść dokładnie za zwierzętami przejść **na ukos przez pustynię**. Dzięki temu z dalszej perspektywy mieli jednocześnie widok zarówno na pierwszą grupę, która była już w dalszej części pętli i zbliżała się do końca przejazdu, jak i na później ruszających Andrzeja i Basię.
+
+Paweł robił swoim telefonem zdjęcia obu grupom na dromaderach, a równocześnie wykonał bardzo dużo zdjęć Mikołajowi podczas ich własnego pieszego przejścia przez pustynię.
+
+## Około 10:15–10:40 – pieszo przez Saharę zamiast dromadera
+
+Mikołaj i Paweł nie skorzystali ani z dromaderów, ani z quada. Zamiast tego przeszli pieszo przez fragment otwartej pustyni. Dla Mikołaja okazało się to jednym z najlepszych doświadczeń całej wycieczki i znacznie ciekawszym sensorycznie niż przejażdżka na dromaderze.
+
+Teren tworzył serię niewielkich piaszczystych wzniesień i obniżeń — „**górka, dolinka, górka, dolinka**”. Można było bezpośrednio czuć pod stopami bardzo drobny, miękki i sypki piasek, poruszać się po wydmach i doświadczać skali pustyni nie z siodła ani z pojazdu, lecz własnym ciałem.
+
+Wrażenie robił nie tylko piasek, ale też **ogrom otwartej przestrzeni, mocne słońce oraz suchy wiatr**, który wyraźnie dawał się odczuć podczas marszu i targał ubraniem oraz chustą. Właśnie wtedy szczególnie przydała się kupiona wcześniej w Polsce chusta pustynna.
+
+Na miejscu grupie towarzyszyła także tunezyjska przewodniczka z licencją. Według relacji Mikołaja obecność miejscowego licencjonowanego przewodnika była wymagana przy takim przejeździe autokarem. Tunezyjska przewodniczka wspólnie z polskim przewodnikiem pomagała wiązać chusty na głowach uczestników w charakterystyczny pustynny sposób, przypominający arabski turban. Chusty miały osoby jadące na dromaderach, ale również Mikołaj i Paweł przed swoim pieszym przejściem przez pustynię.
+
+To właśnie z tego etapu pochodzi wiele zdjęć Mikołaja na wydmach w chuście. Sam spacer po piasku, możliwość dotykania go, czucia kolejnych wzniesień i obniżeń oraz bezpośredniego wystawienia się na słońce i suchy wiatr były dla niego bardziej wartościowym kontaktem z Saharą niż bierna przejażdżka.
+
 ## Następny punkt do uzupełnienia
 
-**Dalszy dojazd do Ksar Ghilane: pojawienie się zieleni oazy około 09:42, wysiadanie z autokaru i przejście w stronę miejsca z wielbłądami / dromaderami.**
+**Powrót do oazy i kąpiel w naturalnym ciepłym źródle w Ksar Ghilane, bezpośrednio po pieszym epizodzie na pustyni.**
