@@ -128,7 +128,7 @@ Po kąpieli przeszliśmy na przygotowany dla naszej grupy posiłek. Mikołaj pam
 
 Pierwszym daniem był **brik** — chrupiący smażony placek z farszem. Zdjęcie `IMG_1739.HEIC` pokazuje go również z drobno krojoną sałatką z pomidora, ogórka i cebuli.
 
-Drugie danie Mikołaj pamięta jako kawałek kurczaka, konkretnie udko lub nogę, z dodatkiem przypominającym ryż i warzywami. Analiza zdjęcia `IMG_1741.HEIC` wskazuje jednak, że dodatkiem był **kuskus**, nie ryż. Na zdjęciu widać też warzywa w sosie, w tym kawałki dyni. Do relacji przyjmujemy więc: **kuskus z kawałkiem kurczaka i warzywami**, z zaznaczeniem, że Mikołaj pamięta mięso jako udko lub nogę kurczaka.
+Drugim daniem był **kuskus z kawałkiem kurczaka i warzywami**. Mikołaj potwierdza, że wcześniejsze określenie dodatku jako ryżu było pomyłką — był to kuskus. Mięso pamięta jako udko lub nogę kurczaka. Na zdjęciu `IMG_1741.HEIC` widać także warzywa w sosie, w tym kawałki dyni.
 
 Na deser podano **kawałki jasnego melona**, co potwierdza `IMG_1743.HEIC`.
 
@@ -140,6 +140,14 @@ Po jedzeniu grupa zebrała się i przeszła z powrotem w stronę autokaru. Miko�
 
 Najbezpieczniej przyjąć więc, że autokar ruszył z Ksar Ghilane **krótko po 12:00**.
 
+## Około 12:00–13:40 – dłuższy przejazd w stronę Matmaty
+
+Po wyjeździe z Ksar Ghilane przewodnik zapowiedział kolejny dłuższy odcinek jazdy — według pamięci Mikołaja około **półtorej godziny** — i ponownie zasugerował, że można ten czas wykorzystać na odpoczynek lub drzemkę.
+
+To wspomnienie dobrze zgadza się z materiałem. Po zdjęciach wykonanych tuż po 12:00 kolejną mocną kotwicą czasową jest `IMG_1768.HEIC` z **13:39:53**, pokazujące szeroki, suchy górsko-pustynny krajobraz przed kolejnym etapem zwiedzania. Oznacza to około **1 godz. 40 min** od wyjazdu z oazy do tego etapu trasy, a więc bardzo blisko zapowiadanych przez przewodnika około półtorej godziny.
+
+Kolejnym właściwym punktem zwiedzania była **Matmata**. Seria zdjęć od `IMG_1783.HEIC` z **14:02:30** dokumentuje już tradycyjną zabudowę troglodycką. Późniejsza analiza GPS i lokalnego OpenStreetMap wskazuje z bardzo wysokim prawdopodobieństwem, że odwiedzanym domem był **Dar Taoufik Matmata**.
+
 ## Następny punkt do uzupełnienia
 
-**Dalszy przejazd po wyjeździe z Ksar Ghilane przez suchy, skalisty krajobraz w kierunku kolejnych punktów trasy i Matmaty.**
+**Matmata — dojście i zwiedzanie tradycyjnego domu troglodyckiego, najprawdopodobniej Dar Taoufik Matmata, od około 14:02.**
