@@ -48,6 +48,16 @@ Po zjeździe z Dżerby przewodnik zapowiedział, że przed grupą jest teraz dł
 
 Przybliżony przedział **około 06:30–08:00** dobrze zgadza się z późniejszą rekonstrukcją trasy ze zdjęć i danych lokalizacyjnych: po opuszczeniu rejonu El Kantara materiał fotograficzny jest bardzo skąpy aż do kolejnego postoju około 08:00.
 
+### Możliwy dodatkowy postój toaletowy – czas nieustalony
+
+Mikołaj pamięta także krótki postój przy niewielkim przydrożnym barze lub restauracji, wykorzystany przede wszystkim na skorzystanie z toalety. Na tym etapie nie da się pewnie ustalić, czy było to jeszcze przed punktem widokowym około 08:00, czy w innym miejscu tego porannego odcinka. Możliwe, że Mikołaj nie zrobił tam żadnych zdjęć, dlatego brak wyraźnej kotwicy fotograficznej. Zdarzenie zachowujemy jako **pewne wspomnienie o postoju, ale z nieustaloną lokalizacją i godziną**.
+
+## Około 08:00 – krótki postój widokowy przy RR113
+
+Około **08:00** autokar zatrzymał się tylko na chwilę przy punkcie widokowym na górzystej trasie w rejonie Ksar Jouamaa / RR113. Przewodnik wyjaśnił, że chodzi przede wszystkim o możliwość zrobienia zdjęć ładnej panoramy. Większość uczestników wysiadła lub wykorzystała krótki postój właśnie na fotografowanie krajobrazu.
+
+Ten postój należy odróżnić od późniejszego piaszczystego przystanku: materiał fotograficzny i dane lokalizacyjne wskazują, że **punkt widokowy był około 08:00**, natomiast **piaszczysty postój związany z przesypującym się piaskiem nastąpił dopiero około 09:02–09:05**.
+
 ## Następny punkt do uzupełnienia
 
-**Pierwszy poranny postój około 08:00 przy górzystej trasie w rejonie Ksar Jouamaa / RR113: wyjście z autokaru, krajobraz i to, co mówił przewodnik.**
+**Dalsza jazda po punkcie widokowym około 08:00 w kierunku Béni Khedech i Ksar Ghilane oraz późniejszy piaszczysty postój około 09:02–09:05.**
