@@ -34,6 +34,20 @@ Ta cecha przewijała się później przez właściwie całą wycieczkę. Przewod
 
 W porównaniu z przewodniczką prowadzącą wcześniejszą wycieczkę po Dżerbie wypadał pod tym względem słabiej: tamta relacja była bardziej uporządkowana, spójna i łatwiejsza do śledzenia, nawet jeśli ten przewodnik również potrafił przekazywać ciekawe informacje.
 
+## Przejazd przez El Kantara / drogę rzymską
+
+Przy przejeździe przez groblę przewodnik opowiadał o jej historii i znaczeniu. Według jego relacji pierwotna przeprawa miała zostać zbudowana przez Rzymian w około rok. Zestawiał to żartobliwie z budową drugiej nitki współczesnej drogi, która — jak mówił — trwa już około ośmiu lat i nadal nie wiadomo, kiedy zostanie ukończona. Tę informację zapisujemy jako **relację przewodnika**, a nie jako zweryfikowany fakt historyczny.
+
+Wyjaśniał także, że El Kantara jest zasadniczo jedynym stałym drogowym połączeniem Dżerby z kontynentem. Drugą możliwością jest przeprawa promowa w innym rejonie wyspy, używana między innymi przez mieszkańców, lecz czas oczekiwania na prom potrafi być długi.
+
+Przewodnik zwrócił również uwagę na punkty kontrolne przy wjeździe i wyjeździe z przeprawy. Autokary zwykle przejeżdżają przez nie bez zatrzymywania, ale służą one do monitorowania ruchu, w tym ruchu turystycznego i przejazdów autokarów.
+
+## Około 06:30–08:00 – dłuższy przejazd i drzemka
+
+Po zjeździe z Dżerby przewodnik zapowiedział, że przed grupą jest teraz dłuższy odcinek jazdy, mniej więcej półtorej godziny, i że można ten czas wykorzystać na odpoczynek. Większość uczestników rzeczywiście się zdrzemnęła; Mikołaj również spał przez znaczną część tego odcinka.
+
+Przybliżony przedział **około 06:30–08:00** dobrze zgadza się z późniejszą rekonstrukcją trasy ze zdjęć i danych lokalizacyjnych: po opuszczeniu rejonu El Kantara materiał fotograficzny jest bardzo skąpy aż do kolejnego postoju około 08:00.
+
 ## Następny punkt do uzupełnienia
 
-**Sam przejazd przez El Kantara / drogę rzymską i dalszy wyjazd z Dżerby na kontynent.**
+**Pierwszy poranny postój około 08:00 przy górzystej trasie w rejonie Ksar Jouamaa / RR113: wyjście z autokaru, krajobraz i to, co mówił przewodnik.**
