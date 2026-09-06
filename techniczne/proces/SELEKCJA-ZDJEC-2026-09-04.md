@@ -41,9 +41,9 @@ Każda seria otrzyma trzy krótkie listy:
 
 Nazwy docelowe nadajemy dopiero kandydatom, którzy przetrwają porównanie globalne całego dnia. Dzięki temu nie przemianowujemy wielu zdjęć, które później mogłyby odpaść w finalnym minimalizmie.
 
-## Seria G — Tamezret: herbata i panorama
+## Seria G — Tamezret: herbata, alfabet i panorama
 
-Przejrzane porównawczo: `IMG_1752`, `IMG_1753`, `IMG_1755`–`IMG_1769`, `IMG_1770`, `IMG_1771` oraz technicznie słaby `IMG_1758.JPG`.
+Przejrzane porównawczo: `IMG_1752`–`IMG_1771`, w tym `IMG_1754.HEIC` z tablicą alfabetu oraz technicznie słaby `IMG_1758.JPG`.
 
 ### Zachować — kandydaci
 
@@ -51,6 +51,7 @@ Przejrzane porównawczo: `IMG_1752`, `IMG_1753`, `IMG_1755`–`IMG_1769`, `IMG_1
 
 ### Do porównania w finale
 
+- `IMG_1754.HEIC` — tablica z alfabetem berberyjskim / tifinagh i odpowiednikami innych zapisów. Unikalny dokument jednego z charakterystycznych elementów postoju w Tamezret; nie zastępuje osobistego i krajobrazowego `IMG_1768`, ale nie należy go odrzucać przed globalnym finałem;
 - `IMG_1753.HEIC` — dobre osobiste ujęcie Mikołaja pijącego miejscową herbatę. Świetnie dokumentuje charakterystyczny szczegół relacji, ale samo tło jest bardzo neutralne i zdjęcie słabiej pokazuje Tamezret jako miejsce;
 - `IMG_1763.HEIC` — szeroka, estetyczna panorama zabudowy i suchego terenu; dobra jakość, lecz mniej osobista niż `IMG_1768`;
 - `IMG_1766.HEIC` — Mikołaj na tarasie z autokarem widocznym poniżej; wartościowe dokumentacyjnie, ale kompozycyjnie słabsze od `IMG_1768`.
@@ -63,7 +64,7 @@ Przejrzane porównawczo: `IMG_1752`, `IMG_1753`, `IMG_1755`–`IMG_1769`, `IMG_1
 - `IMG_1761`, `IMG_1762`, `IMG_1764`, `IMG_1765`, `IMG_1767`, `IMG_1769`–`IMG_1771.HEIC` — kolejne panoramy lub portrety z tego samego krótkiego postoju, słabsze albo bardziej powtarzalne od `IMG_1768` i głównych rezerw;
 - `IMG_1758.JPG` — kadr niemal całkowicie zasłonięty palcem, bez wartości archiwalnej.
 
-W przejrzanej serii nie odnaleziono użytecznego zdjęcia tablicy z alfabetem tifinagh, mimo że sama tablica pozostaje ważnym elementem relacji tekstowej. Nie zachowujemy słabszego zdjęcia tylko po to, aby sztucznie reprezentować każdy szczegół narracji.
+Korekta po wskazaniu Mikołaja: wcześniejsze stwierdzenie, że w zachowanej serii nie ma zdjęcia tablicy z alfabetem, było błędne. Tablica znajduje się na `IMG_1754.HEIC` i zdjęcie zostało ponownie włączone do selekcji jako kandydat dokumentacyjny.
 
 ## Seria H — Matmata: dom Tofika
 
