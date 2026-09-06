@@ -1,6 +1,6 @@
 # Finalna selekcja zdjęć – 4 września 2026
 
-Status: finalny wybór reprezentatywnych zdjęć do zachowania. Nie oznacza jeszcze zgody na trwałe usuwanie pozostałych plików z Google Drive.
+Status: finalny wybór reprezentatywnych zdjęć do zachowania. **Wszystkie 9 zachowywanych kopii zostało przemianowanych na Google Drive zgodnie z przyjętą konwencją.** Trwałe usuwanie pozostałych zdjęć nie zostało wykonane i nadal wymaga osobnej zgody użytkownika.
 
 ## Zasada
 
@@ -18,11 +18,11 @@ Finalny zestaw został wybrany po osobnych porównaniach serii A–L oraz dodatk
 8. `IMG_1849.HEIC` — **punkt widokowy nad Matmatą**. Mikołaj, duży napis „MATMATA” i szeroka panorama. Jeden z najmocniejszych kadrów całego dnia.
 9. `IMG_1869.HEIC` — **Dolce Vita**. Wejście do włoskiej restauracji z czytelnym napisem i grupą wchodzącą do środka. Naturalne fotograficzne zamknięcie dnia.
 
-## Docelowe nazwy archiwalne
+## Nazwy archiwalne — wykonane na Google Drive
 
-Czasy poniżej zostały odczytane z osadzonych metadanych oryginalnych plików HEIC, a nie z czasu przesłania na Google Drive.
+Czasy poniżej zostały odczytane z osadzonych metadanych oryginalnych plików HEIC, a nie z czasu przesłania na Google Drive. Wszystkie poniższe nazwy zostały już nadane zachowywanym kopiom.
 
-| Oryginał | Czas wykonania | Docelowa nazwa |
+| Oryginał | Czas wykonania | Nazwa archiwalna |
 |---|---:|---|
 | `IMG_1654.HEIC` | 08:02:46 | `2026-09-04-080246-poranny-punkt-widokowy.heic` |
 | `IMG_1722.HEIC` | 10:34:14 | `2026-09-04-103414-dotyk-piasku-na-saharze.heic` |
@@ -61,9 +61,13 @@ Zestaw 9 zdjęć obejmuje:
 
 Nie zachowujemy osobnych zdjęć posiłków, przejazdów, kolejnych podobnych panoram ani kilku wariantów tej samej sceny.
 
-## Następny krok
+## Stan operacyjny
 
-1. wskazać jedną fizyczną kopię każdego z 9 zdjęć do zachowania, jeżeli na Google Drive są duplikaty;
-2. przygotować pełny wykaz pozostałych zdjęć i duplikatów do trwałego usunięcia;
-3. po zatwierdzeniu przemianować zachowywane kopie zgodnie z tabelą powyżej;
-4. niczego nie usuwać bez osobnego zatwierdzenia użytkownika.
+- analiza serii A–L: zakończona;
+- globalna selekcja: zakończona;
+- finalny zestaw: 9 zdjęć;
+- odczyt czasów wykonania: zakończony;
+- przemianowanie zachowywanych kopii na Google Drive: zakończone;
+- manifest zdjęć do usunięcia: przygotowany w `techniczne/proces/SELEKCJA-ZDJEC-2026-09-04-DO-USUNIECIA.md`;
+- trwałe usuwanie: **nie rozpoczęto — wymaga osobnej zgody użytkownika**;
+- filmy: poza operacją i nietknięte.
