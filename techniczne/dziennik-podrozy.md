@@ -861,17 +861,17 @@ Po opuszczeniu punktu widokowego zaczęła się już bezpośrednia droga powrotn
 
 Do Club Palm Azur wróciliśmy około 17:15. Od porannego wyjazdu minęło więc ponad jedenaście godzin.
 
-#### Około 19:00–20:30 — kolacja à la carte w Dolce Vita
+#### Kolacja à la carte w Dolce Vita
 
-Po powrocie do hotelu mieliśmy jeszcze na 19:00 zarezerwowaną kolację w hotelowej restauracji włoskiej **Dolce Vita**. Była to kolacja à la carte, która przysługiwała nam w ramach pakietu all inclusive. Oficjalna strona hotelu potwierdza nazwę restauracji Dolce Vita i jej charakter jako miejsca przeznaczonego na kolacje.
+Po powrocie do hotelu mieliśmy jeszcze wieczorem zarezerwowaną kolację w hotelowej restauracji włoskiej **Dolce Vita**. Była to kolacja à la carte, która przysługiwała nam w ramach pakietu all inclusive.
 
 Gdy pracownicy obsługi prowadzili nas do restauracji, to właśnie oni zaczęli śpiewać znaną włoską piosenkę **„L’Italiano” Toto Cutugno**. My od razu podchwyciliśmy melodię i przez całą drogę do Dolce Vita śpiewaliśmy razem z nimi. Dało to bardzo wesoły początek kolacji i dobrze pasowało do włoskiego charakteru restauracji.
 
-Podczas kolacji miałem okazję spróbować kilku klasycznych włoskich dań: kawałka pizzy, spaghetti oraz lasagne. Obsługa była bardzo miła i serdeczna. Z całej kolacji mam także kilka zdjęć.
+Podczas kolacji miałem okazję spróbować kilku klasycznych włoskich dań: kawałka pizzy, spaghetti oraz lasagne. Obsługa była bardzo miła i serdeczna.
 
 Na zakończenie pracownicy zostali przez naszą grupę obdarowani polskimi słodyczami — krówkami — a z tego, co pamiętam, także prawdopodobnie butelką Żubrówki. Był to kolejny drobny, sympatyczny gest między naszą grupą a obsługą hotelu.
 
-W restauracji spędziliśmy około półtorej godziny, mniej więcej do 20:30. Po tak długim dniu nie planowaliśmy już dalszych atrakcji. Wróciliśmy do pokoju i poszliśmy spać.
+Kolacja trwała mniej więcej półtorej godziny. Po tak długim dniu nie planowaliśmy już dalszych atrakcji. Wróciliśmy do pokoju i poszliśmy spać.
 
 ### Wrażenia i obserwacje
 
@@ -903,13 +903,13 @@ Cały dzień był długi i intensywny, ale bardzo udany. Jednodniowy wariant Sah
 - Hotel Sidi Driss — krótka wizyta w miejscu związanym z „Gwiezdnymi wojnami”, muzyka Johna Williamsa, filmowe dekoracje i figura Yody.
 - Punkt widokowy nad Matmatą — panorama, nierówne kamienne stopnie i duży napis „MATMATA”.
 - Droga powrotna — bezpośredni przejazd przez El Kantarę na Dżerbę i do Club Palm Azur.
-- Restauracja Dolce Vita — od około 19:00 do 20:30 kolacja włoska à la carte w ramach all inclusive, pizza, spaghetti i lasagne oraz bardzo sympatyczna obsługa.
+- Restauracja Dolce Vita — kolacja włoska à la carte w ramach all inclusive, pizza, spaghetti i lasagne oraz bardzo sympatyczna obsługa.
 
 ### Zdjęcia, nagrania i materiały
 
 Materiał fotograficzny i filmowy z 4 września jest obszerny i dobrze dokumentuje kolejne etapy wycieczki. Zdjęcia zostały wykorzystane pomocniczo do uporządkowania chronologii, ale szczegółowa analiza czasu, lokalizacji i przebiegu trasy pozostaje w osobnych notatkach technicznych, a nie w głównej relacji.
 
-Selekcja reprezentatywnych zdjęć z tego dnia, ich docelowe przemianowanie oraz decyzja o usunięciu niewybranych fotografii nie zostały jeszcze zakończone. Filmy obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu. Kilka zdjęć dokumentuje także wieczorną kolację w restauracji Dolce Vita.
+Selekcja reprezentatywnych zdjęć z tego dnia, ich docelowe przemianowanie oraz decyzja o usunięciu niewybranych fotografii nie zostały jeszcze zakończone. Filmy obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu.
 
 ## 5 września 2026
 
