@@ -18,6 +18,12 @@ Tak wcześnie wybór jedzenia był jednak bardzo ograniczony. Do zjedzenia dost�
 
 Śniadanie było więc bardzo proste i szybkie, bardziej symbolicznym posiłkiem przed długą wycieczką niż pełnym hotelowym bufetem. Na całość mieliśmy mniej niż pół godziny przed dalszym przygotowaniem do wyjazdu.
 
+## Około 06:00 – zbiórka i wyjazd z Club Palm Azur
+
+Autokar przyjechał punktualnie. Wycieczkę prowadził inny polski przewodnik/rezydent niż podczas wcześniejszego zwiedzania Dżerby. Jego imię Mikołaj pamięta jako **prawdopodobnie Krzysztof**, ale nie ma co do tego stuprocentowej pewności, dlatego na tym etapie nie zapisujemy imienia jako potwierdzonego faktu.
+
+Przed wejściem do autokaru był jeszcze moment na wykonanie kilku zdjęć przed hotelem. Następnie grupa zajęła miejsca i ruszyła zasadniczo zgodnie z planem, około **06:00**.
+
 ## Następny punkt do uzupełnienia
 
-**Wyjście ze śniadania, przejście na zbiórkę i wejście do autokaru przed planowanym wyjazdem około 06:00.**
+**Pierwszy odcinek jazdy po opuszczeniu hotelu: przejazd przez południową część Dżerby w stronę El Kantara i drogi rzymskiej.**
