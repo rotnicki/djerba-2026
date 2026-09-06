@@ -166,6 +166,12 @@ Po krótkim postoju w Tamezret grupa pojechała dalej do **Matmaty**. Seria zdj�
 
 Przewodnik powiedział grupie, że właściciel odwiedzanego domu ma na imię **Tofik**. Zapisujemy to jako relację przewodnika. Jest to istotna wskazówka identyfikacyjna, ponieważ imię „Tofik” bardzo prawdopodobnie odpowiada francusko-łacińskiemu zapisowi **Taoufik**, co dodatkowo wzmacnia wcześniejszą identyfikację miejsca jako **Dar Taoufik Matmata**. Nie traktujemy jednak samego imienia jako samodzielnego, stuprocentowego dowodu nazwy obiektu.
 
+### Powitanie przez Tofika i wejście do domu
+
+Na miejscu Tofik osobiście powitał grupę. Zrobił to kolejno w kilku językach — **po arabsku, francusku, berberyjsku i polsku** — co od razu nadało spotkaniu bardzo gościnny i charakterystyczny ton.
+
+Następnie zaprosił uczestników do rozległego, tradycyjnego domu troglodyckiego. Dom był **wykuty w skale i ziemi**, a jego centralnym elementem był duży, zagłębiony dziedziniec, wokół którego znajdowały się wejścia do kolejnych pomieszczeń. Już samo wejście do tak zbudowanego domu było ważnym elementem zwiedzania, bo pozwalało bezpośrednio zobaczyć i odczuć tradycyjny sposób budowania charakterystyczny dla rejonu Matmaty.
+
 ## Następny punkt do uzupełnienia
 
-**Matmata — dojście i zwiedzanie tradycyjnego domu troglodyckiego, najprawdopodobniej Dar Taoufik Matmata, od około 14:02.**
+**Dalsze zwiedzanie domu Tofika w Matmacie — kolejne pomieszczenia, wyposażenie i opowieści przewodnika / gospodarza.**
