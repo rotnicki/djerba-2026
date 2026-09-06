@@ -41,6 +41,30 @@ Każda seria otrzyma trzy krótkie listy:
 
 Nazwy docelowe nadajemy dopiero kandydatom, którzy przetrwają porównanie globalne całego dnia. Dzięki temu nie przemianowujemy wielu zdjęć, które później mogłyby odpaść w finalnym minimalizmie.
 
+## Seria G — Tamezret: herbata i panorama
+
+Przejrzane porównawczo: `IMG_1752`, `IMG_1753`, `IMG_1755`–`IMG_1769`, `IMG_1770`, `IMG_1771` oraz technicznie słaby `IMG_1758.JPG`.
+
+### Zachować — kandydaci
+
+- `IMG_1768.HEIC` — najmocniejszy reprezentant Tamezret: Mikołaj na pierwszym planie, a za nim szeroki, suchy i pofałdowany krajobraz. Łączy osobiste wspomnienie postoju z bardzo czytelnym kontekstem miejsca i ma dobrą jakość fotograficzną.
+
+### Do porównania w finale
+
+- `IMG_1753.HEIC` — dobre osobiste ujęcie Mikołaja pijącego miejscową herbatę. Świetnie dokumentuje charakterystyczny szczegół relacji, ale samo tło jest bardzo neutralne i zdjęcie słabiej pokazuje Tamezret jako miejsce;
+- `IMG_1763.HEIC` — szeroka, estetyczna panorama zabudowy i suchego terenu; dobra jakość, lecz mniej osobista niż `IMG_1768`;
+- `IMG_1766.HEIC` — Mikołaj na tarasie z autokarem widocznym poniżej; wartościowe dokumentacyjnie, ale kompozycyjnie słabsze od `IMG_1768`.
+
+### Odrzucić — kandydaci
+
+- `IMG_1752.HEIC` — sama szklanka herbaty; detal bez wystarczającego kontekstu;
+- `IMG_1755`–`IMG_1757.HEIC` — powtarzalne warianty portretu przy herbacie; z tej serii ewentualnie wystarcza `IMG_1753`;
+- `IMG_1759`–`IMG_1760.HEIC` — pusta szklanka i migdały; dokumentacyjny detal bez znaczenia dla minimalnego zestawu;
+- `IMG_1761`, `IMG_1762`, `IMG_1764`, `IMG_1765`, `IMG_1767`, `IMG_1769`–`IMG_1771.HEIC` — kolejne panoramy lub portrety z tego samego krótkiego postoju, słabsze albo bardziej powtarzalne od `IMG_1768` i głównych rezerw;
+- `IMG_1758.JPG` — kadr niemal całkowicie zasłonięty palcem, bez wartości archiwalnej.
+
+W przejrzanej serii nie odnaleziono użytecznego zdjęcia tablicy z alfabetem tifinagh, mimo że sama tablica pozostaje ważnym elementem relacji tekstowej. Nie zachowujemy słabszego zdjęcia tylko po to, aby sztucznie reprezentować każdy szczegół narracji.
+
 ## Seria H — Matmata: dom Tofika
 
 Przejrzane porównawczo: `IMG_1791`, `IMG_1797`, `IMG_1800`, `IMG_1807`, `IMG_1809`.
@@ -145,8 +169,8 @@ Dopiero po zatwierdzeniu finalnego zestawu przygotowujemy:
 ## Stan
 
 - metodologia i podział na serie: gotowe;
-- analiza wizualna serii H–L: wykonana wstępnie;
-- analiza wizualna serii A–G: do wykonania;
+- analiza wizualna serii G–L: wykonana wstępnie;
+- analiza wizualna serii A–F: do wykonania;
 - finalna selekcja: do wykonania;
 - przemianowanie: nie rozpoczęto;
 - usuwanie: nie rozpoczęto.
