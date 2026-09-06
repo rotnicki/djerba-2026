@@ -24,6 +24,16 @@ Autokar przyjechał punktualnie. Wycieczkę prowadził inny polski przewodnik/re
 
 Przed wejściem do autokaru był jeszcze moment na wykonanie kilku zdjęć przed hotelem. Następnie grupa zajęła miejsca i ruszyła zasadniczo zgodnie z planem, około **06:00**.
 
+## Pierwszy odcinek jazdy – w stronę El Kantara
+
+Po wyjeździe z hotelu było już wyraźnie jasno i poranny świt szybko się wzmacniał. Autokar jechał na południe wyspy w kierunku grobli El Kantara i drogi rzymskiej. Na początku przejazdu przewodnik opowiadał ogólnie o tym, jak będzie wyglądała całodniowa wycieczka i czego można się spodziewać na dalszej trasie.
+
+### Ogólna obserwacja dotycząca przewodnika
+
+Ta cecha przewijała się później przez właściwie całą wycieczkę. Przewodnik mówił bardzo dużo i część jego opowieści była ciekawa, ale często wchodził w rozbudowane dygresje. Zdarzało mu się odchodzić daleko od głównego tematu, przechodzić do historii dotyczących innych krajów albo do własnych prywatnych doświadczeń, a potem mieć trudność z płynnym powrotem do pierwotnego wątku. W efekcie przekaz bywał mniej uporządkowany i trudniejszy do śledzenia.
+
+W porównaniu z przewodniczką prowadzącą wcześniejszą wycieczkę po Dżerbie wypadał pod tym względem słabiej: tamta relacja była bardziej uporządkowana, spójna i łatwiejsza do śledzenia, nawet jeśli ten przewodnik również potrafił przekazywać ciekawe informacje.
+
 ## Następny punkt do uzupełnienia
 
-**Pierwszy odcinek jazdy po opuszczeniu hotelu: przejazd przez południową część Dżerby w stronę El Kantara i drogi rzymskiej.**
+**Sam przejazd przez El Kantara / drogę rzymską i dalszy wyjazd z Dżerby na kontynent.**
