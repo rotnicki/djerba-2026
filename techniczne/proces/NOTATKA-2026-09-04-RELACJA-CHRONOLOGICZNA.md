@@ -110,6 +110,18 @@ Na miejscu grupie towarzyszyła także tunezyjska przewodniczka z licencją. Wed
 
 To właśnie z tego etapu pochodzi wiele zdjęć Mikołaja na wydmach w chuście. Sam spacer po piasku, możliwość dotykania go, czucia kolejnych wzniesień i obniżeń oraz bezpośredniego wystawienia się na słońce i suchy wiatr były dla niego bardziej wartościowym kontaktem z Saharą niż bierna przejażdżka.
 
+## Około 20–25 minut – kąpiel w ciepłym źródle w Ksar Ghilane
+
+Po pieszym przejściu przez pustynię grupa wróciła do zagospodarowanej części oazy. Kolejną atrakcją była kąpiel w basenie zasilanym naturalnym ciepłym źródłem.
+
+Przy basenie znajdowało się lekkie zadaszenie i miejsce, gdzie można było szybko się przebrać, korzystając z krzesełek i osłony. Na krótką kąpiel zdecydowało się kilka osób z grupy, w tym — według pamięci Mikołaja — **Radek, Beata, Robert i Mikołaj**.
+
+Kąpiel trwała orientacyjnie około **20–25 minut**. Woda była wyraźnie ciepła i sama kąpiel okazała się bardzo przyjemna po wcześniejszym spacerze po pustyni.
+
+Basen był wykończony drobnymi kafelkami. Przy wejściu do wody trzeba było trochę uważać, ponieważ zejście było nietypowe: prowadziło po specjalnych schodkach, a brzegi i część obrzeża basenu były również wyłożone drobnymi płytkami. Po wejściu do wody można już było spokojnie odpocząć i popływać lub po prostu zanurzyć się w ciepłej wodzie.
+
+W relacji przewodnika źródło było określane jako siarkowe. Na tym etapie zapisujemy ostrożnie: **naturalne ciepłe źródło; według przewodnika woda siarkowa**.
+
 ## Następny punkt do uzupełnienia
 
-**Powrót do oazy i kąpiel w naturalnym ciepłym źródle w Ksar Ghilane, bezpośrednio po pieszym epizodzie na pustyni.**
+**Posiłek w Ksar Ghilane po kąpieli — jego skład i kolejność są już częściowo rozpoznane w roboczych plikach technicznych, ale właściwa relacja użytkownika zostanie dopisana w następnym kroku.**
