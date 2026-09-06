@@ -41,6 +41,26 @@ Każda seria otrzyma trzy krótkie listy:
 
 Nazwy docelowe nadajemy dopiero kandydatom, którzy przetrwają porównanie globalne całego dnia. Dzięki temu nie przemianowujemy wielu zdjęć, które później mogłyby odpaść w finalnym minimalizmie.
 
+## Seria H — Matmata: dom Tofika
+
+Przejrzane porównawczo: `IMG_1791`, `IMG_1797`, `IMG_1800`, `IMG_1807`, `IMG_1809`.
+
+### Zachować — kandydaci
+
+- `IMG_1800.HEIC` — najmocniejszy reprezentant domu Tofika: Mikołaj jest wyraźnie obecny w kadrze, a za nim dobrze widać wykute w ziemi i skale wejścia do pomieszczeń oraz charakterystyczną formę zagłębionego domu. Zdjęcie łączy wartość osobistą z czytelnym pokazaniem miejsca.
+
+### Do porównania w finale
+
+- `IMG_1797.HEIC` — dobre, ostre selfie Mikołaja na tle wykutych wejść; jest osobiste, ale pokazuje mniej architektury niż `IMG_1800`;
+- `IMG_1791.HEIC` — ciekawe ujęcie tradycyjnego wnętrza z niszą, dywanem i wyposażeniem. Ma wartość dokumentacyjną, ale przy bardzo małej selekcji może przegrać z kadrem łączącym Mikołaja i bryłę domu.
+
+### Odrzucić — kandydaci
+
+- `IMG_1807.HEIC` — efektowne zdjęcie opuncji i palmy na tle zabudowy, ale roślinność dominuje nad właściwą historią wizyty;
+- `IMG_1809.HEIC` — portret Mikołaja przy opuncji; sympatyczny, lecz słabszy reprezentacyjnie dla domu Tofika niż `IMG_1800`.
+
+Filmy dokumentujące między innymi ręczne mielenie zboża oraz śpiew, taniec i bęben pozostają poza tą selekcją zdjęć i nie są przeznaczone do usuwania.
+
 ## Seria I — Hotel Sidi Driss / „Gwiezdne wojny”
 
 Przejrzane porównawczo: `IMG_1829`, `IMG_1833`, `IMG_1835`, `IMG_1841`, `IMG_1844`.
@@ -125,8 +145,8 @@ Dopiero po zatwierdzeniu finalnego zestawu przygotowujemy:
 ## Stan
 
 - metodologia i podział na serie: gotowe;
-- analiza wizualna serii I–L: wykonana wstępnie;
-- analiza wizualna serii A–H: do wykonania;
+- analiza wizualna serii H–L: wykonana wstępnie;
+- analiza wizualna serii A–G: do wykonania;
 - finalna selekcja: do wykonania;
 - przemianowanie: nie rozpoczęto;
 - usuwanie: nie rozpoczęto.
