@@ -2,6 +2,8 @@
 
 Status: robocza relacja użytkownika, zapisywana etapami przed końcowym scaleniem z `techniczne/dziennik-podrozy.md`.
 
+**Koszt całej jednodniowej wycieczki na Saharę: 70 euro od osoby.** Wycieczka została zorganizowana indywidualnie przez rezydentkę Coral Travel jako krótsza alternatywa dla standardowego programu dwudniowego.
+
 ## Około 04:45 – pobudka i przygotowania w pokoju
 
 Wstaliśmy około **04:45**, żeby mieć trochę czasu przed śniadaniem na umycie się, ubranie, spakowanie potrzebnych rzeczy i spokojne przygotowanie do całodniowego wyjazdu.
@@ -198,6 +200,32 @@ Przy końcu wizyty była możliwość pozostawienia dobrowolnego datku w przygot
 
 Ten gest był dla niego czymś więcej niż tylko symboliczną opłatą za zwiedzanie. Po przyjęciu grupy we własnym domu, poczęstunku, pokazach i wspólnie spędzonym czasie traktował pozostawienie pieniędzy jako naturalny sposób **odwdzięczenia się za gościnność**.
 
+## Około 14:36–14:43 – Hotel Sidi Driss / „Gwiezdne wojny”
+
+Po wyjściu z domu Tofika grupa przejechała autokarem tylko krótki odcinek do **Hotelu Sidi Driss w Matmacie**, znanego z wykorzystania jako plan filmowy „Gwiezdnych wojen”.
+
+Mikołaj początkowo pamiętał tę wizytę jako trwającą być może około 20 minut, jednak materiał zdjęciowy wskazuje, że była ona wyraźnie krótsza. Pierwsze pewne zdjęcie z hotelowego dziedzińca, `IMG_1829.HEIC`, ma czas **14:36:52**, natomiast `IMG_1844.HEIC` z figurą Yody przy wyjściu ma czas **14:43:27**. Już `IMG_1845.HEIC` z **14:47:44** pokazuje kolejne skaliste miejsce po opuszczeniu hotelu. Oznacza to, że udokumentowany pobyt trwał co najmniej około **6,5 minuty**, a cały postój najprawdopodobniej około **7–10 minut**, nie około 20.
+
+Według informacji przekazanej przez przewodnika **wstęp do hotelu był już uwzględniony w cenie całej wycieczki** i grupa nie musiała na miejscu kupować osobnych biletów.
+
+### Dziedziniec i postacie z „Gwiezdnych wojen”
+
+Głównym miejscem krótkiego zwiedzania był charakterystyczny dziedziniec. Rozstawiono tam wysokie **prostokątne pojemniki lub postumenty**, przypominające duże skrzynie, na których namalowano postacie z „Gwiezdnych wojen”. Mikołaj zrobił sobie zdjęcia przy wielu z nich.
+
+Zdjęcia pozwalają potwierdzić między innymi postumenty z podpisami i wizerunkami: **Luke Skywalker, Jawa, Chewbacca, Han Solo, Yoda, Darth Vader i R2-D2**. `IMG_1841.HEIC` pokazuje szerszy widok dziedzińca z kilkoma takimi obiektami ustawionymi wokół przestrzeni.
+
+Grupa zaglądała też do pomieszczeń związanych z filmową tematyką, gdzie znajdowały się plakaty, dekoracje i różnego rodzaju elementy nawiązujące do „Gwiezdnych wojen”. Zwiedzanie miało szybki charakter — przede wszystkim przejście przez najciekawsze miejsca i wykonanie zdjęć.
+
+### Muzyka i atmosfera
+
+Od wejścia słychać było muzykę z „Gwiezdnych wojen”. Mikołaj pamięta, że rozpoznawał charakterystyczną muzykę Johna Williamsa, między innymi **„The Imperial March”**, a filmowe motywy muzyczne były odtwarzane w kółko podczas wizyty. Zapisujemy to jako relację uczestnika z tego, co słyszał na miejscu.
+
+Dla Mikołaja był to bardzo przyjemny, choć krótki punkt programu — szczególnie atrakcyjny dla fanów „Gwiezdnych wojen”. Połączenie oryginalnej scenerii, muzyki, dekoracji i możliwości zrobienia wielu zdjęć tworzyło wyraźnie filmową atmosferę.
+
+### Yoda przy wyjściu
+
+Przed hotelem znajdowała się także duża figura **Mistrza Yody**. Mikołaj pamięta ją jako witającą odwiedzających słowem **„Welcome”**. Zdjęcie `IMG_1844.HEIC` z **14:43:27** potwierdza obecność tej figury bezpośrednio przy końcowej części wizyty.
+
 ## Następny punkt do uzupełnienia
 
-**Dalszy przebieg wizyty w rejonie Matmaty po wyjściu z domu Tofika i kolejny punkt programu.**
+**Dalszy przebieg trasy po wyjeździe z Hotelu Sidi Driss — kolejny krótki punkt w rejonie Matmaty.**
