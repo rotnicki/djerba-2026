@@ -743,22 +743,168 @@ Publikacja: do rozważenia
 
 #### Jednodniowa wycieczka na Saharę
 
-- wycieczka uzgodniona indywidualnie z rezydentką Coral Travel jako krótsza alternatywa dla standardowej wycieczki dwudniowej;
+- organizator/oferta: Coral Travel, wariant uzgodniony indywidualnie z rezydentką jako krótsza alternatywa dla standardowej wycieczki dwudniowej;
 - uczestnicy z grupy: 15 osób;
 - cena: 70 euro od osoby;
-- wstępnie zapowiedziane elementy: miejsca związane z „Gwiezdnymi wojnami”, wielbłądy i przejazdy jeepami na Saharze;
 - śniadanie przed wyjazdem: 05:30;
-- wyjazd z hotelu: 06:00;
-- szczegółowy dalszy program i godziny: do uzupełnienia.
+- wyjazd z hotelu: około 06:00;
+- powrót do hotelu: około 17:15;
+- główne punkty trasy: El Kantara, górsko-pustynna trasa na południe Tunezji, Ksar Ghilane, Tamezret, Matmata, dom troglodycki Dar Taoufik, Hotel Sidi Driss związany z „Gwiezdnymi wojnami” oraz punkt widokowy nad Matmatą.
 
 ### Przebieg dnia
 
+#### Bardzo wczesny poranek i szybkie śniadanie
+
+Wstaliśmy z Pawłem około 04:45, żeby spokojnie się umyć, ubrać i przygotować wszystko na całodniowy wyjazd. Już na początku wydarzył się drobny wypadek. Sięgając po wodę z lodówki, zahaczyłem o stojącą tam butelkę wódki Pawła. Butelka spadła, rozbiła się i cała zawartość wylała się na podłogę. Trzeba było jeszcze pozbierać szkło i uporządkować pokój, więc część zapasu czasu przed śniadaniem szybko zniknęła.
+
+O 05:30 zeszliśmy do restauracji. Mimo wcześniejszej zapowiedzi, że będzie wtedy otwarta dla naszej grupy, w chwili naszego przyjścia była jeszcze zamknięta. Po krótkiej chwili obsługa wpuściła nas do środka i zapaliła światła. Wybór był bardzo ograniczony: praktycznie tylko słodkie rogaliki typu croissant, trochę soku i prawdopodobnie kawa. Zjedliśmy szybko po kilka rogalików, a część osób zabrała coś również na drogę.
+
+#### Około 06:00 — wyjazd i przejazd przez El Kantarę
+
+Autokar przyjechał punktualnie i około 06:00 ruszyliśmy z Club Palm Azur. Wycieczkę prowadził inny polski przewodnik niż pani Katarzyna podczas wcześniejszego zwiedzania Dżerby. Jego imię pamiętam jako prawdopodobnie Krzysztof, ale nie mam co do tego pełnej pewności.
+
+Po wyjeździe było już wyraźnie jasno. Pojechaliśmy na południe wyspy w stronę El Kantary i stałego drogowego połączenia Dżerby z kontynentem. Według opowieści przewodnika pierwotna przeprawa miała zostać zbudowana przez Rzymian mniej więcej w rok. Zestawiał to żartobliwie z budową drugiej nitki współczesnej drogi, która — jak mówił — ciągnie się już około ośmiu lat i wciąż nie wiadomo, kiedy się zakończy. Tę historię traktuję jako relację przewodnika, a nie samodzielnie zweryfikowany fakt historyczny.
+
+Przewodnik zwracał także uwagę na punkty kontrolne przy przeprawie i na to, że El Kantara jest podstawowym stałym połączeniem drogowym wyspy z kontynentem; alternatywą jest przeprawa promowa po innej stronie Dżerby.
+
+Po zjeździe z wyspy czekał nas długi odcinek jazdy. Przewodnik zapowiedział około półtorej godziny, więc większość grupy wykorzystała ten czas na sen. Ja również przespałem sporą część trasy. Pamiętam także krótki postój przy niewielkim przydrożnym barze lub restauracji, przede wszystkim na skorzystanie z toalety, ale nie potrafię już pewnie umieścić go w dokładnej godzinie i miejscu.
+
+#### Około 08:00 — pierwszy punkt widokowy
+
+Około 08:00 zatrzymaliśmy się na bardzo krótko przy punkcie widokowym na górzystej trasie w rejonie RR113 i Ksar Jouamaa. Chodziło przede wszystkim o wyjście z autokaru i zrobienie kilku zdjęć panoramy. Był to jeszcze skalisty, górski krajobraz, a nie właściwy piaszczysty przystanek na pustyni.
+
+#### Około 09:02 — pierwszy wyraźny kontakt z pustynnym piaskiem
+
+Kolejny krótki postój nastąpił około 09:02–09:05. Tutaj pojawił się już drobny pustynny piasek i pierwszy wyraźny moment, kiedy mogłem bezpośrednio go dotknąć, wziąć do ręki i przesypywać między palcami. Poprosiłem też o zdjęcia i nagrania pokazujące ten kontakt z piaskiem.
+
+Miałem ze sobą własną jasną chustę pustynną kupioną wcześniej w Polsce, więc nie musiałem kupować jej na miejscu. Pamiętam, że przy którymś z porannych postojów był także niewielki sklepik z chustami dla osób, które ich nie miały, ale nie potrafię już pewnie przypisać go do konkretnego zatrzymania.
+
+#### Ksar Ghilane — oaza, dromadery i quad
+
+Około 09:42 zaczęła być wyraźnie widoczna zielona część oazy Ksar Ghilane z palmami. Przed 10:00 byliśmy już poza autokarem i przechodziliśmy przez zagospodarowaną część oazy w stronę miejsca z dromaderami.
+
+Na miejscu można było skorzystać z dwóch głównych dodatkowych atrakcji: przejazdu quadem albo przejażdżki na dromaderze, potocznie nazywanym przez nas wielbłądem. Z naszej grupy na quad zdecydował się tylko Robert. Pojechał w stronę pustynnego fortu, według późniejszej identyfikacji najprawdopodobniej Tisavar / Qasr Ghilan. Pamiętam ten przejazd jako około 7 km łącznie w obie strony i mniej więcej 40 minut, ale traktuję te wartości orientacyjnie.
+
+Na dromadery zdecydowała się większa część zainteresowanych — według mojej pamięci około siedmiu osób słabowidzących z grupy oraz kilku przewodników. Przejazd trwał mniej więcej 20–30 minut i prowadził po dużym łuku przez pustynię z powrotem w okolice punktu startowego.
+
+Andrzej i Basia, oboje niewidomi, z powodów organizacyjnych nie ruszyli z pierwszą grupą i wystartowali mniej więcej 20 minut później. Początkowo z Pawłem szliśmy w ich kierunku, żeby mieć ich na oku. Paweł szybko zauważył jednak, że trasa dromaderów tworzy duży łuk, dlatego zamiast iść dokładnie za nimi przeszliśmy na ukos przez pustynię. Z dalszej perspektywy mogliśmy dzięki temu obserwować zarówno pierwszą grupę, która była już blisko końca pętli, jak i później ruszających Andrzeja i Basię.
+
+#### Około 10:15–10:40 — pieszo przez Saharę
+
+My z Pawłem nie skorzystaliśmy ani z dromaderów, ani z quada. Zamiast tego przeszliśmy pieszo przez fragment otwartej pustyni. Dla mnie okazało się to jednym z najmocniejszych i najlepszych doświadczeń całego dnia.
+
+Teren układał się w serię niewielkich piaszczystych wzniesień i obniżeń — „górka, dolinka, górka, dolinka”. Piasek był wyjątkowo drobny, miękki i sypki, niemal jak mąka. Brałem go do rąk, przesypywałem między palcami i celowo zwracałem uwagę na jego strukturę. Pod stopami cały czas trzeba było wyczuwać niewielkie grzbiety, zagłębienia i nierówności.
+
+Dla mnie, jako osoby niewidomej z niewielkimi resztkami widzenia, ten spacer był znacznie bogatszym doświadczeniem niż bierna przejażdżka. Pustynię odbierałem jednocześnie przez dotyk stóp i dłoni, temperaturę piasku i powietrza, mocne słońce, suchy wiatr, dźwięki otwartej przestrzeni oraz to, co mogłem jeszcze uchwycić wzrokiem. Nawet przy bardzo ograniczonym widzeniu wyraźnie czuło się ogrom przestrzeni. Wokół dominował piasek ciągnący się po horyzont, pojedyncze niskie fragmenty suchej roślinności i gdzieś w oddali zieleń oazy.
+
+Paweł zrobił mi w tym czasie bardzo dużo zdjęć, a także fotografował z dystansu obie grupy jadące na dromaderach. Na miejscu towarzyszyła nam również tunezyjska licencjonowana przewodniczka. Razem z polskim przewodnikiem pomagała uczestnikom wiązać chusty na głowie w pustynny sposób. Własna chusta bardzo mi się wtedy przydała — przede wszystkim przy mocnym słońcu i suchym wietrze.
+
+#### Kąpiel w ciepłym źródle
+
+Po spacerze wróciliśmy do zagospodarowanej części oazy. Kolejną atrakcją była krótka kąpiel w basenie zasilanym naturalnym ciepłym źródłem. Według przewodnika woda była siarkowa; zapisuję to jako jego informację, bez osobnego potwierdzenia.
+
+Na kąpiel zdecydowało się kilka osób, w tym Radek, Beata, Robert i ja. Woda była wyraźnie ciepła i bardzo przyjemna po wcześniejszym spacerze. Basen był wyłożony drobnymi kafelkami, a przy wejściu trzeba było trochę uważać na nietypowe stopnie prowadzące do wody. Obok znajdowało się lekkie zadaszenie, krzesła i miejsce, gdzie można było szybko się przebrać z pewnym poczuciem osłony. Sama kąpiel trwała około 20–25 minut.
+
+#### Około 11:30 — obiad w Ksar Ghilane
+
+Około 11:30 przeszliśmy na przygotowany dla grupy posiłek. Jedliśmy przy stołach w zacienionym i osłoniętym miejscu; pamiętam, że w środku działała nawet lekka klimatyzacja.
+
+Na początek dostaliśmy brik — chrupiące smażone ciasto z farszem — podany z drobno krojoną sałatką. Drugim daniem był kuskus z kawałkiem kurczaka i warzywami, między innymi dynią. Wcześniej w roboczych notatkach pojawił się błędny opis ryżu, ale po ponownym sprawdzeniu zdjęć i własnej pamięci potwierdziłem, że był to kuskus. Na deser podano kawałki jasnego melona.
+
+Do posiłku przypadała jedna butelka wody 1,5 litra na trzy osoby. Całość była całkiem smaczna i pożywna, szczególnie po spacerze po pustyni i kąpieli.
+
+Tuż po 12:00 zebraliśmy się i ruszyliśmy dalej. Zdjęcie wykonane o 12:00:43 pokazuje jeszcze palmy oazy, a kolejne ujęcia już suchy i skalisty krajobraz poza Ksar Ghilane, więc wyjazd nastąpił krótko po 12:00.
+
+#### Tamezret — słodka herbata i panorama z dachu
+
+Po mniej więcej półtoragodzinnym przejeździe zatrzymaliśmy się około 13:30 w Tamezret, najprawdopodobniej przy Café Portail Sahara. Sam postój trwał mniej więcej 15–20 minut.
+
+Najbardziej zapamiętałem niewielką szklaneczkę miejscowej herbaty. Była wyraźnie ziołowa i dość słodka, choć nie potrafię wskazać dokładnego zestawu ziół. Kosztowała 1,5 euro i smakowała naprawdę bardzo dobrze. Mimo upału ciepły napój był zaskakująco przyjemny i orzeźwiający.
+
+Sympatycznym detalem był sprzedawca, który znał kilka polskich słów. Kiedy próbowałem pytać go o napój po francusku lub angielsku, odpowiadał po polsku: „herbata, herbata”. Był to kolejny podczas wyjazdu przykład tego, jak osoby pracujące przy turystyce uczą się pojedynczych polskich słów.
+
+Przy jednym ze stołów znajdowała się tablica pokazująca alfabet berberyjski, czyli tifinagh, z odpowiednikami lub objaśnieniami w innych zapisach. Mam także zdjęcie przy tej tablicy.
+
+Można było wejść na dach lub taras na dachu budynku. Stamtąd rozciągała się szeroka panorama górsko-pustynnego krajobrazu. Wiedząc, że autokar stoi poniżej, poprosiłem Pawła o zrobienie zdjęć w kilku kierunkach, także tak, żeby uchwycić autobus widziany z góry. Ten krótki postój wspominam jako bardzo przyjemne połączenie odpoczynku, dobrej herbaty i widoków.
+
+#### Matmata — dom troglodycki Tofika
+
+Po Tamezret pojechaliśmy dalej do Matmaty. Około 14:02 byliśmy już przy tradycyjnym domu troglodyckim. Dane GPS i późniejsza analiza lokalizacji bardzo mocno wskazują, że był to Dar Taoufik Matmata. Dodatkowym potwierdzeniem jest informacja przewodnika, że właściciel domu ma na imię Tofik, co odpowiada zapisowi Taoufik.
+
+Tofik osobiście powitał nas kolejno po arabsku, francusku, berberyjsku i polsku, a następnie zaprosił do rozległego domu wykutego w skale i ziemi. Jego centralnym elementem był duży zagłębiony dziedziniec, wokół którego znajdowały się wejścia do kolejnych pomieszczeń. Mogliśmy swobodnie wchodzić do różnych pokoi i oglądać wnętrza.
+
+W jednym z pomieszczeń kobieta, być może żona Tofika, pokazała tradycyjne ręczne żarna lub ręczny młynek do zboża. Obracała urządzenie kołowrotkiem, demonstrując sposób mielenia ziarna na mąkę. Ten pokaz mam nagrany na filmie.
+
+Na dziedzińcu gospodarze częstowali własnym chlebem. Można było samemu odrywać kawałki i próbować go bez dodatków, z oliwą, z miodem oraz z ostrym dodatkiem, najprawdopodobniej harissą. Chleb, oliwa i miód były przedstawiane jako produkty przygotowywane lub pozyskiwane przez gospodarzy.
+
+W pewnym momencie na dziedzińcu pojawiła się tańcząca para. Towarzyszyły jej bardzo głośne, żywe śpiewy i rytm bębna. Całość przypominała mi zainicjowany pokaz lub coś o charakterze weselnym, ale nie znam jego właściwej tradycyjnej nazwy. Atmosfera była bardzo wesoła, bezpośrednia i pełna pozytywnej energii. Ten fragment również mam nagrany.
+
+Na koniec można było zostawić dobrowolny datek. Wrzuciłem do przygotowanego koszyczka pozostałe drobne euro — według pamięci około 2,5 euro. Traktowałem to jako naturalne podziękowanie i wsparcie dla ludzi, którzy przyjęli nas we własnym domu, częstowali i pokazali fragment swojego sposobu życia.
+
+#### Hotel Sidi Driss — krótka wizyta w świecie „Gwiezdnych wojen”
+
+Po domu Tofika przejechaliśmy tylko krótki odcinek do Hotelu Sidi Driss w Matmacie, znanego z wykorzystania jako plan filmowy „Gwiezdnych wojen”. Według przewodnika wstęp był już wliczony w cenę całej wycieczki.
+
+Wizyta była bardzo krótka. Początkowo pamiętałem ją jako około 20 minut, ale zdjęcia pokazują, że na hotelowym dziedzińcu byliśmy od co najmniej 14:36:52 do około 14:43:27, a kilka minut później znajdowaliśmy się już w następnym miejscu. Najbardziej prawdopodobnie cały postój trwał więc około 7–10 minut.
+
+Na dziedzińcu ustawiono wysokie prostokątne bryły lub postumenty z namalowanymi postaciami z „Gwiezdnych wojen”. Mam zdjęcia między innymi z Luke’em Skywalkerem, Jawą, Chewbaccą, Hanem Solo, Yodą, Darthem Vaderem i R2-D2. Zaglądaliśmy także do pomieszczeń z plakatami, dekoracjami i elementami nawiązującymi do filmów.
+
+Od wejścia słychać było muzykę Johna Williamsa. Szczególnie zapamiętałem „The Imperial March”; filmowe motywy były odtwarzane w kółko i od razu budowały odpowiedni klimat. Przy wyjściu znajdowała się także duża figura Mistrza Yody z angielskim powitaniem „Welcome”. Dla fana „Gwiezdnych wojen” był to bardzo fajny, choć zdecydowanie za krótki punkt programu.
+
+#### Około 14:52–14:55 — punkt widokowy nad Matmatą
+
+Ostatnim punktem przed drogą powrotną był krótki postój panoramiczny nad Matmatą. Wszedłem tam z Pawłem. Trzeba było iść bardzo ostrożnie, bo dojście prowadziło po nierównych kamiennych stopniach i skalistym podłożu — zarówno w górę, jak i później z powrotem w dół. Z perspektywy osoby niewidomej z niewielkimi resztkami widzenia każdy stopień wymagał uwagi i spokojnego tempa.
+
+Z góry rozciągała się szeroka panorama suchego, mocno pofałdowanego krajobrazu Matmaty. Zrobiliśmy kilka zdjęć. Jedno z nich mam na tle dużego napisu „MATMATA” ustawionego na wzniesieniu. Z miejsca, w którym stałem, litery były widoczne od tyłu, ponieważ właściwa strona napisu była skierowana w przeciwną stronę. Luźno skojarzyło mi się to z napisem Hollywood — oczywiście nie pod względem skali, tylko samego pomysłu umieszczenia dużej nazwy miejscowości na wzgórzu.
+
+Po kilku minutach ostrożnie zeszliśmy i wróciliśmy do autokaru.
+
+#### Około 14:55–17:15 — bezpośrednia droga powrotna
+
+Od tego momentu zaczęła się już zasadniczo bezpośrednia droga do hotelu, bez kolejnych postojów. Przewodnik zapowiadał około dwóch godzin jazdy i ponad 170 km. Z późniejszej rekonstrukcji GPS oraz zdjęć wynika, że z rejonu Matmaty jechaliśmy najprawdopodobniej przez RR107 na autostradę A1 / TAH1, a następnie dalej w kierunku Dżerby.
+
+O 15:42:20 mamy mocną kotwicę na A1. Na długich odcinkach kierowca jechał szybko. Sprawdzałem prędkość telefonem; zachowany zrzut aplikacji GPS Speed pokazuje 108 km/h prędkości bieżącej i maksymalnej oraz średnią 89 km/h.
+
+O 16:54 byliśmy już w korytarzu RR117 prowadzącym do El Kantary. Między 16:55 a 17:00 zrobiłem serię zdjęć podczas przejazdu przez groblę: widać wodę, infrastrukturę przeprawy i niskie popołudniowe słońce. Ostatnie ujęcie z tej serii ma czas 17:00:21.
+
+Po ponownym wjeździe na Dżerbę jechaliśmy już bez zatrzymywania przez wyspę do Club Palm Azur. Według mojej pamięci wróciliśmy około 17:15. Od porannego wyjazdu minęło więc ponad jedenaście godzin.
+
 ### Wrażenia i obserwacje
+
+Najmocniejszym doświadczeniem całego dnia był dla mnie pieszy kontakt z Saharą. Zrezygnowanie z dromadera okazało się bardzo dobrym wyborem. Zamiast oglądać pustynię z jednego miejsca mogłem bezpośrednio poczuć jej podłoże, drobny piasek, niewielkie wzniesienia i zagłębienia, ciepło, suchy wiatr i ogrom otwartej przestrzeni. Jako osoba niewidoma z niewielkimi resztkami widzenia odbierałem ten fragment przede wszystkim całym ciałem, a nie tylko wzrokiem.
+
+Ksar Ghilane miało przez to dla mnie kilka różnych warstw: najpierw zielona oaza wyrastająca z suchego krajobrazu, później pustynia, następnie bardzo przyjemna kąpiel w ciepłym źródle i na koniec smaczny obiad. Był to zdecydowanie najbogatszy w bezpośrednie doznania fragment wycieczki.
+
+Bardzo dobrze wspominam także Tamezret. Mała, słodka i ziołowa herbata za 1,5 euro była jednym z prostych, ale wyjątkowo przyjemnych smaków tego dnia. Sprzedawca odpowiadający po polsku „herbata, herbata” dobrze wpisał się w obserwowany przez cały pobyt fenomen pojedynczych polskich słów używanych przez ludzi pracujących przy turystyce.
+
+W Matmacie najbardziej zapamiętałem gościnność Tofika i jego rodziny lub domowników. Możliwość wejścia do pomieszczeń domu, zobaczenia ręcznego mielenia zboża, spróbowania chleba z oliwą, miodem i ostrym dodatkiem oraz wysłuchania śpiewu i bębna sprawiła, że miejsce nie było tylko kolejnym punktem do sfotografowania. Dobrowolny datek w koszyczku był dla mnie naturalnym sposobem podziękowania za to przyjęcie.
+
+Hotel Sidi Driss był z kolei krótkim, ale bardzo sympatycznym akcentem dla fana „Gwiezdnych wojen”. Muzyka Johna Williamsa, filmowe dekoracje i Yoda przy wyjściu natychmiast tworzyły charakterystyczną atmosferę, choć czasu na spokojne oglądanie było niewiele.
+
+Pod względem dostępności dzień był bardzo różnorodny. Pustynny spacer był wymagający, ale jednocześnie niezwykle wartościowy sensorycznie. Z kolei kamienne stopnie przy ostatnim punkcie widokowym w Matmacie wymagały bardzo dużej ostrożności i pomocy Pawła. Sam punkt nie był miejscem łatwym dla osoby niewidomej lub słabowidzącej, ale spokojne tempo pozwoliło bezpiecznie wejść i zejść.
+
+Wycieczkę prowadził przewodnik, który mówił bardzo dużo i przekazywał sporo ciekawych informacji, ale często wchodził w długie dygresje, czasem gubił główny wątek i wracał do niego dopiero po dłuższym czasie. W porównaniu z panią Katarzyną prowadzącą wcześniejsze zwiedzanie Dżerby jego opowieść była dla mnie mniej uporządkowana i trudniejsza do śledzenia, choć nadal zawierała wiele interesujących szczegółów.
+
+Cały dzień był długi i intensywny, ale bardzo udany. W przeciwieństwie do dwudniowej wersji Sahary ten jednodniowy wariant pozwolił zobaczyć i przeżyć bardzo dużo, a jednocześnie wrócić do hotelu jeszcze przed wieczorem.
 
 ### Miejsca i wydarzenia
 
+- Club Palm Azur — pobudka około 04:45, bardzo proste śniadanie o 05:30, wyjazd około 06:00 i powrót około 17:15.
+- El Kantara — poranny wyjazd z Dżerby przez groblę i ponowny przejazd w drodze powrotnej około 16:55–17:00.
+- Rejon RR113 / Ksar Jouamaa — krótki punkt widokowy około 08:00.
+- Pustynna trasa — krótki postój około 09:02–09:05 i pierwszy bezpośredni kontakt z drobnym pustynnym piaskiem.
+- Ksar Ghilane — przyjazd do zielonej oazy około 09:42; dromadery i quad, pieszy spacer po Saharze około 10:15–10:40, kąpiel w ciepłym źródle oraz obiad około 11:30.
+- Tamezret — około 13:30–13:50, słodka ziołowa herbata, tablica z alfabetem tifinagh i panorama z dachu lub tarasu; lokal najprawdopodobniej Café Portail Sahara.
+- Matmata / Dar Taoufik — od około 14:02, zwiedzanie tradycyjnego domu troglodyckiego, powitanie przez Tofika, pokaz ręcznego mielenia zboża, poczęstunek chlebem oraz taniec i śpiew na dziedzińcu.
+- Hotel Sidi Driss — około 14:36–14:43, krótka wizyta w miejscu związanym z „Gwiezdnymi wojnami”, muzyka Johna Williamsa, filmowe dekoracje i figura Yody.
+- Punkt widokowy nad Matmatą — około 14:52–14:55, panorama, nierówne kamienne stopnie i duży napis „MATMATA”.
+- Droga powrotna — około 14:55–17:15 bez kolejnych postojów; ogólny przebieg zrekonstruowany jako RR107 → A1 / TAH1 → dalej w kierunku RR117 → El Kantara → Dżerba → Club Palm Azur.
+
 ### Zdjęcia, nagrania i materiały
 
+- Materiał z 4 września został szeroko wykorzystany do rekonstrukcji chronologii, ale **selekcja reprezentatywnych zdjęć, ich docelowe przemianowanie i usunięcie niewybranych fotografii nie zostały jeszcze zakończone**. Do czasu odrębnej decyzji nie usuwamy materiałów tylko dlatego, że są podobne lub występują w kilku kopiach.
+- Najważniejsze kotwice czasowe wykorzystane przy redakcji wpisu to między innymi: pojawienie się zielonej oazy Ksar Ghilane około 09:42; seria spaceru po pustyni około 10:15–10:40; zdjęcia posiłku w Ksar Ghilane; `IMG_1745.HEIC` z 12:00:43 jeszcze w oazie; materiały z Tamezret około 13:32–13:40; początek serii domu troglodyckiego `IMG_1783.HEIC` z 14:02:30; Hotel Sidi Driss od `IMG_1829.HEIC` z 14:36:52 do figury Yody `IMG_1844.HEIC` z 14:43:27; punkt widokowy `IMG_1854–1856` około 14:52–14:54 oraz ostatnie ujęcie przy El Kantara `IMG_1868` z 17:00:21.
+- Filmy dokumentują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu. Filmów nie usuwamy w ramach obecnego etapu pracy.
 - Podczas kontroli folderu 5 września usunięto pojedynczy dodatkowy plik JPG o losowej nazwie `789a0e32-caca-4890-b61a-b7673ce76ac6.JPG`, rozpoznany wcześniej jako materiał z przygotowań do wyjazdu na Saharę. Plik nie był uporządkowany zgodnie z konwencją archiwalną. Filmów nie ruszano.
 
 ## 5 września 2026
