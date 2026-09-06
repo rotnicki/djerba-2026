@@ -75,6 +75,33 @@ Przejrzane porównawczo: `IMG_1849`, `IMG_1854`.
 
 - pozostałe bardzo podobne panoramy i warianty z tego samego punktu, jeżeli nie okażą się technicznie wyraźnie lepsze od `IMG_1854`; wstępnie nie ma potrzeby zachowywać kilku podobnych pejzaży tego miejsca.
 
+## Seria K — droga powrotna / El Kantara
+
+Przejrzany kandydat: `IMG_1868`.
+
+### Do porównania w finale
+
+- `IMG_1868.HEIC` — ciekawy, nastrojowy kadr z wodą, małą łodzią i słońcem przebijającym zza chmur. Ma wartość artystyczną i dobrze kojarzy się z powrotem na Dżerbę, ale dolną część zdjęcia przecinają ciemne elementy infrastruktury przy drodze/oknie. Nie jest niezbędny dla narracji dnia i powinien zostać tylko wtedy, jeżeli w finalnym zestawie pozostanie miejsce na dodatkowy kadr krajobrazowy.
+
+### Odrzucić — kandydaci
+
+- pozostałe techniczne lub podobne ujęcia z samej drogi powrotnej, jeżeli nie wnoszą wyraźnie lepszej jakości fotograficznej niż `IMG_1868`.
+
+## Seria L — kolacja à la carte w Dolce Vita
+
+Przejrzane porównawczo: `IMG_1869`–`IMG_1875`.
+
+### Zachować — kandydaci
+
+- `IMG_1869.HEIC` — zdecydowanie najlepszy reprezentant wieczoru: wejście do restauracji z dużym, czytelnym napisem „DOLCE VITA” oraz grupa wchodząca do środka. Zdjęcie daje kontekst miejsca i naturalnie zamyka chronologię dnia.
+
+### Odrzucić — kandydaci
+
+- `IMG_1870.HEIC` — pizza; czytelne zdjęcie potrawy, ale przy minimalizmie nie wymaga osobnego zachowania;
+- `IMG_1871.HEIC`–`IMG_1873.HEIC` — warianty spaghetti; powtarzalne i słabsze narracyjnie niż zdjęcie wejścia;
+- `IMG_1874.HEIC` — lasagne; dokumentuje potrawę, ale nie wnosi osobnej historii;
+- `IMG_1875.HEIC` — deser; detal posiłku bez większej wartości dla reprezentacji całego dnia.
+
 ## Selekcja globalna
 
 Po zakończeniu serii A–L wykonujemy jeszcze jeden przebieg wyłącznie po krótkiej liście kandydatów. Finalny zestaw ma możliwie najmniejszą liczbą zdjęć pokazać:
@@ -98,8 +125,8 @@ Dopiero po zatwierdzeniu finalnego zestawu przygotowujemy:
 ## Stan
 
 - metodologia i podział na serie: gotowe;
-- analiza wizualna serii I–J: wykonana wstępnie;
-- analiza wizualna pozostałych serii: do wykonania;
+- analiza wizualna serii I–L: wykonana wstępnie;
+- analiza wizualna serii A–H: do wykonania;
 - finalna selekcja: do wykonania;
 - przemianowanie: nie rozpoczęto;
 - usuwanie: nie rozpoczęto.
