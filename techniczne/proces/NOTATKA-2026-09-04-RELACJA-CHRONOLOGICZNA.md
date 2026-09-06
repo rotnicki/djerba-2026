@@ -226,6 +226,22 @@ Dla Mikołaja był to bardzo przyjemny, choć krótki punkt programu — szczeg�
 
 Przed hotelem znajdowała się także duża figura **Mistrza Yody**. Mikołaj pamięta ją jako witającą odwiedzających słowem **„Welcome”**. Zdjęcie `IMG_1844.HEIC` z **14:43:27** potwierdza obecność tej figury bezpośrednio przy końcowej części wizyty.
 
+## Około 14:52–14:55 – punkt widokowy nad Matmatą
+
+Po wyjeździe z Hotelu Sidi Driss autokar podjechał jeszcze do ostatniego krótkiego punktu panoramicznego w rejonie Matmaty. Techniczne kotwice są tu bardzo mocne: `IMG_1854` z **14:52:55**, `IMG_1855` z **14:52:57** oraz `IMG_1856` z **14:54:44** mają praktycznie tę samą lokalizację, około **33.55285 N, 9.97195 E**. Oznacza to, że postój trwał co najmniej do 14:54:44, a wyjazd nastąpił około **14:55 lub chwilę później**.
+
+Mikołaj wszedł na punkt razem z Pawłem. Samo dojście wymagało ostrożności, ponieważ prowadziło po **nierównych kamiennych stopniach i skalistym podłożu**, zarówno w górę, jak i później w dół. Z perspektywy osoby niewidomej z niewielkimi resztkami widzenia trzeba było iść powoli i bardzo uważać na każdy stopień, szczególnie przy wejściu i zejściu.
+
+Z góry rozciągała się szeroka panorama charakterystycznego, suchego i silnie pofałdowanego krajobrazu Matmaty. Mikołaj wspomina widok jako bardzo atrakcyjny i wykorzystał krótki postój przede wszystkim na zrobienie kilku zdjęć.
+
+### Duży napis „MATMATA”
+
+Na punkcie znajdował się również **duży napis „MATMATA”**, ustawiony na zboczu lub wzniesieniu. Mikołaj ma zdjęcie wykonane na jego tle od strony odwrotnej — litery były skierowane tak, aby właściwie odczytywały je osoby patrzące z przeciwnej strony, dlatego z miejsca fotografowania widoczny był ich tył.
+
+Według wrażenia Mikołaja były to duże litery, mniej więcej około metrowej wysokości. Skojarzenie z napisem „Hollywood” jest wyłącznie jego obrazowym porównaniem sposobu umieszczenia nazwy miejscowości na wzniesieniu, a nie sugestią podobnej skali czy konstrukcji.
+
+Po wykonaniu kilku zdjęć Mikołaj i Paweł ostrożnie zeszli z punktu po tych samych nierównych kamiennych stopniach i wrócili do autokaru.
+
 ## Następny punkt do uzupełnienia
 
-**Dalszy przebieg trasy po wyjeździe z Hotelu Sidi Driss — kolejny krótki punkt w rejonie Matmaty.**
+**Około 14:55 – rozpoczęcie zasadniczo bezpośredniej drogi powrotnej z Matmaty do Club Palm Azur.**
