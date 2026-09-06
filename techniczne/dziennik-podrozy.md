@@ -861,6 +861,18 @@ Po opuszczeniu punktu widokowego zaczęła się już bezpośrednia droga powrotn
 
 Do Club Palm Azur wróciliśmy około 17:15. Od porannego wyjazdu minęło więc ponad jedenaście godzin.
 
+#### Około 19:00–20:30 — kolacja à la carte w Dolce Vita
+
+Po powrocie do hotelu mieliśmy jeszcze na 19:00 zarezerwowaną kolację w hotelowej restauracji włoskiej **Dolce Vita**. Była to kolacja à la carte, która przysługiwała nam w ramach pakietu all inclusive. Oficjalna strona hotelu potwierdza nazwę restauracji Dolce Vita i jej charakter jako miejsca przeznaczonego na kolacje.
+
+Już samo przejście do restauracji miało bardzo sympatyczny klimat. Prowadzący nas pracownicy zaczęli śpiewać fragment znanej włoskiej piosenki **„L’Italiano” Toto Cutugno**, z charakterystycznym refrenem o „prawdziwym Włochu”. To od razu rozluźniło atmosferę i pasowało do włoskiego charakteru miejsca.
+
+Podczas kolacji miałem okazję spróbować kilku klasycznych włoskich dań: kawałka pizzy, spaghetti oraz lasagne. Obsługa była bardzo miła i serdeczna. Z całej kolacji mam także kilka zdjęć.
+
+Na zakończenie pracownicy zostali przez naszą grupę obdarowani polskimi słodyczami — krówkami — a z tego, co pamiętam, także prawdopodobnie butelką Żubrówki. Był to kolejny drobny, sympatyczny gest między naszą grupą a obsługą hotelu.
+
+W restauracji spędziliśmy około półtorej godziny, mniej więcej do 20:30. Po tak długim dniu nie planowaliśmy już dalszych atrakcji. Wróciliśmy do pokoju i poszliśmy spać.
+
 ### Wrażenia i obserwacje
 
 Najmocniejszym doświadczeniem całego dnia był dla mnie pieszy kontakt z Saharą. Zrezygnowanie z dromadera okazało się bardzo dobrym wyborem. Zamiast oglądać pustynię z jednego miejsca mogłem bezpośrednio poczuć jej podłoże, drobny piasek, niewielkie wzniesienia i zagłębienia, ciepło, suchy wiatr i ogrom otwartej przestrzeni. Jako osoba niewidoma z niewielkimi resztkami widzenia odbierałem ten fragment przede wszystkim całym ciałem, a nie tylko wzrokiem.
@@ -877,7 +889,7 @@ Pod względem dostępności dzień był bardzo różnorodny. Pustynny spacer by�
 
 Wycieczkę prowadził przewodnik, który mówił bardzo dużo i przekazywał sporo ciekawych informacji, ale często wchodził w długie dygresje, czasem gubił główny wątek i wracał do niego dopiero po dłuższym czasie. W porównaniu z panią Katarzyną prowadzącą wcześniejsze zwiedzanie Dżerby jego opowieść była dla mnie mniej uporządkowana i trudniejsza do śledzenia, choć nadal zawierała wiele interesujących szczegółów.
 
-Cały dzień był długi i intensywny, ale bardzo udany. W przeciwieństwie do dwudniowej wersji Sahary ten jednodniowy wariant pozwolił zobaczyć i przeżyć bardzo dużo, a jednocześnie wrócić do hotelu jeszcze przed wieczorem.
+Cały dzień był długi i intensywny, ale bardzo udany. Jednodniowy wariant Sahary pozwolił zobaczyć i przeżyć bardzo dużo, a spokojna włoska kolacja w Dolce Vita była przyjemnym zakończeniem dnia po powrocie do hotelu.
 
 ### Miejsca i wydarzenia
 
@@ -891,12 +903,13 @@ Cały dzień był długi i intensywny, ale bardzo udany. W przeciwieństwie do d
 - Hotel Sidi Driss — krótka wizyta w miejscu związanym z „Gwiezdnymi wojnami”, muzyka Johna Williamsa, filmowe dekoracje i figura Yody.
 - Punkt widokowy nad Matmatą — panorama, nierówne kamienne stopnie i duży napis „MATMATA”.
 - Droga powrotna — bezpośredni przejazd przez El Kantarę na Dżerbę i do Club Palm Azur.
+- Restauracja Dolce Vita — od około 19:00 do 20:30 kolacja włoska à la carte w ramach all inclusive, pizza, spaghetti i lasagne oraz bardzo sympatyczna obsługa.
 
 ### Zdjęcia, nagrania i materiały
 
 Materiał fotograficzny i filmowy z 4 września jest obszerny i dobrze dokumentuje kolejne etapy wycieczki. Zdjęcia zostały wykorzystane pomocniczo do uporządkowania chronologii, ale szczegółowa analiza czasu, lokalizacji i przebiegu trasy pozostaje w osobnych notatkach technicznych, a nie w głównej relacji.
 
-Selekcja reprezentatywnych zdjęć z tego dnia, ich docelowe przemianowanie oraz decyzja o usunięciu niewybranych fotografii nie zostały jeszcze zakończone. Filmy obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu.
+Selekcja reprezentatywnych zdjęć z tego dnia, ich docelowe przemianowanie oraz decyzja o usunięciu niewybranych fotografii nie zostały jeszcze zakończone. Filmy obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu. Kilka zdjęć dokumentuje także wieczorną kolację w restauracji Dolce Vita.
 
 ## 5 września 2026
 
