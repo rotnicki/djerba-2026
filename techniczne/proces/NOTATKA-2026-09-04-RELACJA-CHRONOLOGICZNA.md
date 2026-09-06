@@ -242,6 +242,18 @@ Według wrażenia Mikołaja były to duże litery, mniej więcej około metrowej
 
 Po wykonaniu kilku zdjęć Mikołaj i Paweł ostrożnie zeszli z punktu po tych samych nierównych kamiennych stopniach i wrócili do autokaru.
 
-## Następny punkt do uzupełnienia
+## Około 14:55–17:15 – bezpośrednia droga powrotna do Club Palm Azur
 
-**Około 14:55 – rozpoczęcie zasadniczo bezpośredniej drogi powrotnej z Matmaty do Club Palm Azur.**
+Po powrocie z punktu widokowego do autokaru rozpoczęła się już zasadniczo **bezpośrednia droga powrotna do hotelu, bez kolejnych postojów**. Według pamięci Mikołaja przewodnik zapowiadał około dwóch godzin jazdy; wcześniej mówił również o dystansie przekraczającym 170 km. W praktyce czas od wyjazdu z rejonu Matmaty około 14:55 do powrotu do hotelu około 17:15 wyniósł mniej więcej **2 godziny i 20 minut**.
+
+Szczegółowa rekonstrukcja techniczna wykonana wcześniej na podstawie GPS, zdjęć, filmu i lokalnego OpenStreetMap potwierdza ogólny przebieg tej drogi. Z rejonu Matmaty autokar pojechał najprawdopodobniej trasą **RR107 → A1 / TAH1**, a następnie dalej w kierunku Dżerby. O **15:42:20** materiał daje mocną kotwicę już na autostradzie **A1 / TAH1**.
+
+Na długim odcinku autokar jechał szybko. Mikołaj sprawdzał prędkość telefonem; zachowany zrzut aplikacji GPS Speed pokazuje **108 km/h prędkości bieżącej i maksymalnej oraz średnią 89 km/h**. Zapis ten dobrze pasuje do przejazdu autostradą, choć nie przypisujemy go do jednej konkretnej sekundy lub punktu na trasie.
+
+Dalej przejazd prowadził w stronę południowego połączenia Dżerby z kontynentem. Dokładnego mikroprzebiegu pomiędzy A1 a RR117 nie dało się wcześniej odtworzyć co do każdej ulicy ze względu na lukę w danych OSM, ale kolejne pewne kotwice pokazują, że o **16:54:24** autokar znajdował się już w korytarzu **RR117 / Route Romaine Djerba–Zarzis / Chaussée Romaine**.
+
+Między **16:55 a 17:00** wykonano serię zdjęć podczas przejazdu przez rejon **El Kantara**. Widać na nich wodę, infrastrukturę przeprawy oraz niskie popołudniowe słońce. Ostatnie z tej serii, `IMG_1868`, ma czas **17:00:21**. Był to ponowny przejazd przez groblę, którą grupa przekraczała rano w przeciwnym kierunku.
+
+Po wjeździe na Dżerbę autokar jechał już dalej przez wyspę bez kolejnego udokumentowanego postoju. Według relacji Mikołaja **powrót do Club Palm Azur nastąpił około 17:15**. Ta orientacyjna godzina jest czasowo zgodna z ostatnią mocną kotwicą przy El Kantara o 17:00:21.
+
+W ten sposób całodniowa wycieczka na Saharę — rozpoczęta wyjazdem z hotelu około 06:00 — zakończyła się po ponad jedenastu godzinach ponownym przyjazdem do Club Palm Azur.
