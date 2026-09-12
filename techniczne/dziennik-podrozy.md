@@ -909,7 +909,7 @@ Cały dzień był długi i intensywny, ale bardzo udany. Jednodniowy wariant Sah
 
 Materiał fotograficzny i filmowy z 4 września jest obszerny i dobrze dokumentuje kolejne etapy wycieczki. Zdjęcia zostały wykorzystane pomocniczo do uporządkowania chronologii, ale szczegółowa analiza czasu, lokalizacji i przebiegu trasy pozostaje w osobnych notatkach technicznych, a nie w głównej relacji.
 
-Selekcja reprezentatywnych zdjęć z tego dnia, ich docelowe przemianowanie oraz decyzja o usunięciu niewybranych fotografii nie zostały jeszcze zakończone. Filmy obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu.
+Selekcja reprezentatywnych zdjęć z 4 września została zakończona. Po porównaniu serii A–L i selekcji globalnej zachowano 9 reprezentatywnych zdjęć, a wszystkie zachowywane kopie zostały przemianowane na Google Drive zgodnie z przyjętą konwencją nazw. Przygotowano również manifest pozostałych zdjęć do usunięcia, ale trwałe usuwanie nie zostało jeszcze wykonane i wymaga osobnej zgody. Filmy nie były objęte tą operacją; obejmują między innymi pokaz ręcznego mielenia zboża w domu Tofika oraz śpiew, taniec i bęben na dziedzińcu.
 
 ## 5 września 2026
 
