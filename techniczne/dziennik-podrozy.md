@@ -917,11 +917,37 @@ Publikacja: do rozważenia
 
 ### Przebieg dnia
 
+#### Spokojny dzień w hotelu
+
+Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był ponownie spokojnym dniem spędzanym w hotelu, bez zwiedzania i bez wyjazdów. Rytmem przypominał 3 września: późniejszy poranek, śniadanie, basen i lunch.
+
+#### Poranek i śniadanie
+
+Obudziliśmy się bez pośpiechu, orientacyjnie około 09:00. Po przygotowaniu poszliśmy na śniadanie do hotelowej restauracji. Na tym etapie nie zapisuję dokładnej godziny ani szczegółów posiłku, ponieważ pamiętam je tylko orientacyjnie.
+
+#### Przedpołudnie przy basenie
+
+Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszliśmy na hotelowy basen. Usiedliśmy tam na leżakach i odpoczywaliśmy. Ja również trochę popływałem.
+
+Był to spokojny, typowo basenowy fragment dnia, bez żadnego dodatkowego programu. Po intensywnym poprzednim dniu taki wolniejszy rytm był naturalnym odpoczynkiem.
+
+#### Lunch
+
+Między 12:00 a 13:00, raczej bliżej 13:00, zeszliśmy znad basenu do hotelowej restauracji na lunch. Dokładny przebieg posiłku i potrawy uzupełnię później, jeżeli uda się je odtworzyć z pamięci albo materiałów z tego dnia.
+
 ### Wrażenia i obserwacje
+
+Początek dnia był bardzo podobny do 3 września: bez pośpiechu, bez wycieczki i z większością czasu spędzoną przy hotelowym basenie. Różnica polegała przede wszystkim na tym, że 5 września był dniem odpoczynku bezpośrednio po długiej i intensywnej wycieczce na Saharę.
 
 ### Miejsca i wydarzenia
 
+- Club Palm Azur — spokojny dzień bez opuszczania hotelu w pierwszej części dnia.
+- Restauracja hotelowa — śniadanie po pobudce około 09:00 oraz lunch między 12:00 a 13:00, raczej bliżej 13:00.
+- Basen hotelowy — pobyt rozpoczęty orientacyjnie między 10:00 a 11:00, raczej bliżej 11:00; odpoczynek na leżakach i pływanie.
+
 ### Zdjęcia, nagrania i materiały
+
+Materiały z 5 września nie zostały jeszcze przeanalizowane pod kątem chronologii i selekcji reprezentatywnych zdjęć.
 
 ## 6 września 2026
 
