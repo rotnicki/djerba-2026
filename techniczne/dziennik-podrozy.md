@@ -955,7 +955,7 @@ Po kolacji większą grupą poszliśmy w kierunku plaży. Usiedliśmy na jej skr
 
 Tego dnia były imieniny Beaty, więc wieczór zamienił się w małe imieninowe świętowanie. Siedzieliśmy razem, rozmawialiśmy, śpiewaliśmy i wznieśliśmy toast za Beatę. Atmosfera była bardzo swobodna i sympatyczna.
 
-Zostaliśmy tam do późnego wieczora. Nocne palmy, piasek i morze tworzyły bardzo przyjemne tło dla końcówki dnia.
+Spotkanie przeciągnęło się poza północ, więc formalnie weszło już w 6 września. Nocne palmy, piasek i morze tworzyły bardzo przyjemne tło, a nad hotelową plażą widać było wyraźny sierp księżyca między palmami i słomianymi parasolami.
 
 Po zakończeniu spotkania ustaliliśmy, że następnego dnia, w niedzielę rano, chętni pójdą wspólnie na wschód słońca. Była to ostatnia taka możliwość podczas naszego pobytu, ponieważ w poniedziałek wracaliśmy już do Polski.
 
@@ -973,7 +973,7 @@ Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie p
 - Restauracja hotelowa — śniadanie około 09:00, hotelowe koty, lunch około 13:30 oraz kolacja około 20:00.
 - Basen hotelowy — odpoczynek na leżakach, pływanie oraz pomarańczowy sorbet z drobnym lodem.
 - Plaża hotelowa — popołudniowy pobyt i wspólna kąpiel dużej części grupy w bardzo ciepłym morzu; słońce było już nisko i chyliło się ku zachodowi.
-- Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast; po spotkaniu ustaliliśmy niedzielne wyjście dla chętnych na wschód słońca.
+- Nadmorska część hotelu — wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast; spotkanie trwało po północy, a po jego zakończeniu ustaliliśmy niedzielne wyjście dla chętnych na wschód słońca.
 
 ### Zdjęcia, nagrania i materiały
 
@@ -987,11 +987,18 @@ Ponowny odczyt metadanych i zawartości pozwolił uporządkować serię z 5 wrze
 - `IMG_1903.HEIC` i `IMG_1904.HEIC` — dwie porcje lodów po lunchu, około 13:54–14:00;
 - `IMG_1916.HEIC`–`IMG_1919.HEIC` — napoje, pizza i czekoladowe lody podczas kolacji, około 19:58–20:18;
 - `IMG_1921.HEIC`–`IMG_1923.HEIC` — wspólne wieczorne spotkanie przy plaży, około 21:53–22:02;
-- `IMG_1925.HEIC`–`IMG_1927.HEIC` — nocne palmy, plaża i końcowe selfie, około 22:55–23:00.
+- `IMG_1925.HEIC`–`IMG_1927.HEIC` — nocne palmy, plaża i końcowe selfie, około 22:55–23:00;
+- `IMG_1929.MOV` i `IMG_1931.MOV` — dwa krótkie nagrania dalszego ciągu spotkania na plaży, wykonane już 6 września o 00:25:26 i 00:28:01 czasu miejscowego;
+- `IMG_1932.HEIC` — sierp księżyca widoczny nisko między oświetlonymi palmami, 6 września o 00:34:50;
+- `IMG_1938.HEIC` i `IMG_1939.HEIC` — sierp księżyca między palmami i słomianymi parasolami nad pustymi leżakami, 6 września o 00:55:56 i 00:56:13. `IMG_1938.HEIC` jest ujęciem szerszym, a `IMG_1939.HEIC` ciaśniejszym.
 
 Dwa filmy przesłane przez WhatsApp — `b6f82643-e765-42d7-9c92-4f840ca99807.MP4` i `b9ec6810-4d4a-4ad9-85a0-74f3c5840a43.MP4` — pokazują grupową kąpiel w morzu. Film `e9ae491b-1f27-4def-b60c-9d3c76a2ec0e.MP4` przedstawia hotelową plażę i palmy w niskim, wieczornym słońcu. WhatsApp usunął z tych plików wiarygodny czas wykonania, dlatego przypisanie opiera się na zgodności treści z relacją oraz z pozostałymi materiałami dnia.
 
-Kontrola metadanych potwierdziła również, że `IMG_1870.HEIC`–`IMG_1875.HEIC` pochodzą z wieczora 4 września, a nie z 5 września. Część zdjęć i filmów z 5 września występuje na Dysku w zdublowanych kopiach. Ostateczna minimalistyczna selekcja, nazwanie materiałów i ewentualne usunięcie duplikatów pozostają do osobnego zatwierdzenia.
+Oryginalne metadane nowych materiałów potwierdzają kontynuację tego samego spotkania po północy. Filmy mają lokalny czas QuickTime 00:25 i 00:28, a zdjęcia czas EXIF od 00:34 do 00:56 oraz przesunięcie strefowe `+01:00`. GPS wszystkich pięciu materiałów wskazuje nadmorską część Club Palm Azur, około 33,7616–33,7618 N i 11,0218–11,0222 E. Mimo formalnej daty 6 września materiały należą narracyjnie do wieczoru rozpoczętego 5 września.
+
+Kontrola metadanych potwierdziła również, że `IMG_1870.HEIC`–`IMG_1875.HEIC` pochodzą z wieczora 4 września, a nie z 5 września. Część zdjęć i filmów z 5 września występuje na Dysku w zdublowanych kopiach. Pięć nowych, różnych materiałów zostało przesłanych jako 14 plików: oba filmy po dwa razy, `IMG_1932.HEIC` i `IMG_1938.HEIC` po trzy razy, a `IMG_1939.HEIC` cztery razy. Porównanie zawartości potwierdziło, że kopie w każdej z tych pięciu grup są identyczne bajt w bajt, co daje dziewięć nadmiarowych kopii. Nie zostały usunięte.
+
+Nowe zdjęcia wpływają na proponowaną selekcję: szersze i najbardziej reprezentatywne `IMG_1938.HEIC` powinno zastąpić wcześniej rozważane `IMG_1926.HEIC` jako główne nocne ujęcie plaży. `IMG_1939.HEIC` jest efektownym, ciaśniejszym wariantem tej samej sceny, a `IMG_1932.HEIC` ujęciem wcześniejszym i słabszym kompozycyjnie. Ostateczna minimalistyczna selekcja, nazwanie materiałów i ewentualne usunięcie duplikatów pozostają do osobnego zatwierdzenia.
 
 ## 6 września 2026
 
