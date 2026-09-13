@@ -923,7 +923,7 @@ Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był sp
 
 #### Poranek i śniadanie
 
-Obudziliśmy się bez pośpiechu, około 09:00. Po przygotowaniu poszliśmy na śniadanie do hotelowej restauracji. Był to spokojny początek dnia, bez pośpiechu i bez planu wyjazdowego.
+Obudziliśmy się około 09:00 i bez pośpiechu poszliśmy na śniadanie do hotelowej restauracji. Był to swobodny początek dnia, bez żadnego planu wyjazdowego.
 
 #### Przedpołudnie przy basenie
 
@@ -939,7 +939,7 @@ Około 13:30 zeszliśmy znad basenu do hotelowej restauracji. Zjadłem rybę z r
 
 Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. Tym razem do morza weszła duża część naszej grupy i kąpaliśmy się razem. Woda była bardzo ciepła, a popołudniowe słońce było już znacznie niżej i powoli chyliło się ku zachodowi, co nadawało tej kąpieli spokojny, kończący dzień charakter.
 
-Dla mnie była to zasadniczo ostatnia właściwa kąpiel w morzu podczas tego wyjazdu. Tym bardziej zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
+Była to moja ostatnia dłuższa kąpiel w morzu podczas tego wyjazdu, dlatego szczególnie zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
 
 #### Około 20:00 — kolacja
 
@@ -953,9 +953,11 @@ Tego dnia były imieniny Beaty, więc wieczór zamienił się w małe imieninowe
 
 Zostaliśmy tam do późnego wieczora. Nocne palmy, piasek i morze tworzyły bardzo przyjemne tło dla końcówki dnia.
 
+Po zakończeniu spotkania ustaliliśmy, że następnego dnia, w niedzielę rano, chętni pójdą wspólnie na wschód słońca. Była to ostatnia taka możliwość podczas naszego pobytu, ponieważ w poniedziałek wracaliśmy już do Polski.
+
 ### Wrażenia i obserwacje
 
-5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, spokojny lunch, trochę odpoczynku i późniejsza wspólna kąpiel w bardzo ciepłym morzu pozwoliły zwolnić tempo i naprawdę wypocząć. Była to zarazem moja ostatnia zasadnicza kąpiel w morzu podczas wyjazdu.
+5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, lunch, popołudniowa plaża i wspólna kąpiel w bardzo ciepłym morzu pozwoliły zwolnić tempo i naprawdę wypocząć.
 
 Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie przy palmach na skraju plaży, rozmowy, śpiewanie i świętowanie imienin Beaty stworzyły bardzo swobodną i ciepłą atmosferę.
 
@@ -964,8 +966,8 @@ Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie p
 - Club Palm Azur — cały dzień bez wyjazdów poza teren hotelu.
 - Restauracja hotelowa — śniadanie około 09:00, lunch około 13:30 oraz kolacja około 20:00.
 - Basen hotelowy — odpoczynek na leżakach i pływanie do lunchu.
-- Plaża hotelowa — popołudniowy pobyt i wspólna kąpiel dużej części grupy w bardzo ciepłym morzu; słońce było już nisko i chyliło się ku zachodowi. Dla mnie była to ostatnia zasadnicza kąpiel w morzu podczas wyjazdu.
-- Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast.
+- Plaża hotelowa — popołudniowy pobyt i wspólna kąpiel dużej części grupy w bardzo ciepłym morzu; słońce było już nisko i chyliło się ku zachodowi.
+- Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast; po spotkaniu ustaliliśmy niedzielne wyjście dla chętnych na wschód słońca.
 
 ### Zdjęcia, nagrania i materiały
 
