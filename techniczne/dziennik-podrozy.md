@@ -919,7 +919,7 @@ Publikacja: do rozważenia
 
 #### Spokojny dzień w hotelu
 
-Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był spokojnym dniem spędzonym w Club Palm Azur, bez zwiedzania i bez wyjazdów. Większość dnia upłynęła na odpoczynku przy basenie i na plaży, a wieczór zakończyliśmy wspólnym spotkaniem przy palmach na skraju plaży.
+Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był spokojnym dniem spędzonym w Club Palm Azur, bez zwiedzania i bez wyjazdów. Większość dnia upłynęła na odpoczynku przy basenie i na plaży, a wieczór przeszedł we wspólne spotkanie przy palmach na skraju plaży, które przeciągnęło się poza północ.
 
 #### Poranek i śniadanie
 
@@ -957,7 +957,7 @@ Tego dnia były imieniny Beaty, więc wieczór zamienił się w małe imieninowe
 
 Spotkanie przeciągnęło się poza północ, więc formalnie weszło już w 6 września. Nocne palmy, piasek i morze tworzyły bardzo przyjemne tło, a nad hotelową plażą widać było wyraźny sierp księżyca między palmami i słomianymi parasolami.
 
-Po zakończeniu spotkania ustaliliśmy, że następnego dnia, w niedzielę rano, chętni pójdą wspólnie na wschód słońca. Była to ostatnia taka możliwość podczas naszego pobytu, ponieważ w poniedziałek wracaliśmy już do Polski.
+Po zakończeniu spotkania ustaliliśmy, że w niedzielę o świcie chętni pójdą wspólnie na wschód słońca. Była to ostatnia taka możliwość podczas naszego pobytu, ponieważ w poniedziałek wracaliśmy już do Polski.
 
 ### Wrażenia i obserwacje
 
@@ -998,7 +998,7 @@ Oryginalne metadane nowych materiałów potwierdzają kontynuację tego samego s
 
 Kontrola metadanych potwierdziła również, że `IMG_1870.HEIC`–`IMG_1875.HEIC` pochodzą z wieczora 4 września, a nie z 5 września. Część zdjęć i filmów z 5 września występuje na Dysku w zdublowanych kopiach. Pięć nowych, różnych materiałów zostało przesłanych jako 14 plików: oba filmy po dwa razy, `IMG_1932.HEIC` i `IMG_1938.HEIC` po trzy razy, a `IMG_1939.HEIC` cztery razy. Porównanie zawartości potwierdziło, że kopie w każdej z tych pięciu grup są identyczne bajt w bajt, co daje dziewięć nadmiarowych kopii. Nie zostały usunięte.
 
-Nowe zdjęcia wpływają na proponowaną selekcję: szersze i najbardziej reprezentatywne `IMG_1938.HEIC` powinno zastąpić wcześniej rozważane `IMG_1926.HEIC` jako główne nocne ujęcie plaży. `IMG_1939.HEIC` jest efektownym, ciaśniejszym wariantem tej samej sceny, a `IMG_1932.HEIC` ujęciem wcześniejszym i słabszym kompozycyjnie. Ostateczna minimalistyczna selekcja, nazwanie materiałów i ewentualne usunięcie duplikatów pozostają do osobnego zatwierdzenia.
+Nowe zdjęcia wpływają na proponowaną selekcję: szersze i najbardziej reprezentatywne `IMG_1938.HEIC` powinno zastąpić wcześniej rozważane `IMG_1926.HEIC` jako główne nocne ujęcie plaży. `IMG_1939.HEIC` jest efektownym, ciaśniejszym wariantem tej samej sceny, a `IMG_1932.HEIC` ujęciem wcześniejszym i słabszym kompozycyjnie. Dwa nowe filmy są bardzo krótkie, ciemne i wizualnie powtarzają wcześniejszy zapis spotkania, dlatego nie zmieniają podstawowej selekcji; warto je zachować do czasu ustalenia, czy ścieżka dźwiękowa zawiera unikalny toast, śpiew albo inną ważną wypowiedź. Ostateczna minimalistyczna selekcja, nazwanie materiałów i ewentualne usunięcie duplikatów pozostają do osobnego zatwierdzenia.
 
 ## 6 września 2026
 
