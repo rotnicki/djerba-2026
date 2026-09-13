@@ -937,7 +937,9 @@ Około 13:30 zeszliśmy znad basenu do hotelowej restauracji. Zjadłem rybę z r
 
 #### Odpoczynek i popołudnie na plaży
 
-Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. Spędziliśmy tam spokojną część popołudnia, bez żadnego dodatkowego programu.
+Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. Tym razem do morza weszła duża część naszej grupy i kąpaliśmy się razem. Woda była bardzo ciepła, a popołudniowe słońce było już znacznie niżej i powoli chyliło się ku zachodowi, co nadawało tej kąpieli spokojny, kończący dzień charakter.
+
+Dla mnie była to zasadniczo ostatnia właściwa kąpiel w morzu podczas tego wyjazdu. Tym bardziej zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
 
 #### Około 20:00 — kolacja
 
@@ -953,7 +955,7 @@ Zostaliśmy tam do późnego wieczora. Nocne palmy, piasek i morze tworzyły bar
 
 ### Wrażenia i obserwacje
 
-5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, spokojny lunch, trochę odpoczynku i późniejsza plaża pozwoliły zwolnić tempo i naprawdę wypocząć.
+5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, spokojny lunch, trochę odpoczynku i późniejsza wspólna kąpiel w bardzo ciepłym morzu pozwoliły zwolnić tempo i naprawdę wypocząć. Była to zarazem moja ostatnia zasadnicza kąpiel w morzu podczas wyjazdu.
 
 Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie przy palmach na skraju plaży, rozmowy, śpiewanie i świętowanie imienin Beaty stworzyły bardzo swobodną i ciepłą atmosferę.
 
@@ -962,7 +964,7 @@ Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie p
 - Club Palm Azur — cały dzień bez wyjazdów poza teren hotelu.
 - Restauracja hotelowa — śniadanie około 09:00, lunch około 13:30 oraz kolacja około 20:00.
 - Basen hotelowy — odpoczynek na leżakach i pływanie do lunchu.
-- Plaża hotelowa — spokojny pobyt po odpoczynku po lunchu.
+- Plaża hotelowa — popołudniowy pobyt i wspólna kąpiel dużej części grupy w bardzo ciepłym morzu; słońce było już nisko i chyliło się ku zachodowi. Dla mnie była to ostatnia zasadnicza kąpiel w morzu podczas wyjazdu.
 - Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast.
 
 ### Zdjęcia, nagrania i materiały
