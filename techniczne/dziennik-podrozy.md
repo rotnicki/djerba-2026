@@ -941,9 +941,9 @@ Około 13:30 poszliśmy do hotelowej restauracji na lunch. Zjadłem grillowaną 
 
 #### Odpoczynek i popołudnie na plaży
 
-Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. Tym razem do morza weszła duża część naszej grupy i kąpaliśmy się razem. Woda była bardzo ciepła, a popołudniowe słońce było już znacznie niżej i powoli chyliło się ku zachodowi, co nadawało tej kąpieli spokojny, kończący dzień charakter.
+Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. Tym razem do bardzo ciepłego morza weszła duża część naszej grupy. Trzymaliśmy się razem niedaleko brzegu, rozmawialiśmy, żartowaliśmy i machaliśmy do osoby nagrywającej. Niewielkie fale przyjemnie kołysały wodą, a popołudniowe słońce było już nisko i nie grzało tak ostro jak wcześniej.
 
-Była to moja ostatnia dłuższa kąpiel w morzu podczas tego wyjazdu, dlatego szczególnie zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
+Kąpiel miała swobodną, radosną atmosferę i była moją ostatnią dłuższą kąpielą w morzu podczas tego wyjazdu. Szczególnie zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
 
 #### Kolacja
 
