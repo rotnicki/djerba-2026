@@ -923,17 +923,21 @@ Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był sp
 
 #### Poranek i śniadanie
 
-Obudziliśmy się około 09:00 i bez pośpiechu poszliśmy na śniadanie do hotelowej restauracji. Był to swobodny początek dnia, bez żadnego planu wyjazdowego.
+Obudziliśmy się około 09:00 i bez pośpiechu poszliśmy na śniadanie do hotelowej restauracji. Na talerzu miałem pieczywo, pokrojoną różową wędlinę oraz ciepłe danie z jajek i pomidorów. Był to swobodny początek dnia, bez żadnego planu wyjazdowego.
+
+W restauracji kręciło się kilka hotelowych kotów i ich obecność szybko stała się zupełnie naturalnym elementem posiłków. Chodziły między stolikami, łasiły się do gości, czasem bawiły się albo kłóciły ze sobą, głośno miaucząc i urządzając krótkie kocie awantury. Innym razem po prostu układały się gdzieś obok i odpoczywały. Tego ranka rudy pręgowany kot leżał wyciągnięty na tapicerowanej ławie przy stolikach.
 
 #### Przedpołudnie przy basenie
 
-Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszliśmy na hotelowy basen. Usiedliśmy na leżakach i odpoczywaliśmy, a ja również trochę popływałem.
+Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszliśmy na hotelowy basen. Usiedliśmy na leżakach pod parasolami i odpoczywaliśmy, a ja również trochę popływałem.
 
-Przy basenie zostaliśmy aż do lunchu. Po intensywnym poprzednim dniu taki wolniejszy rytm był bardzo potrzebny.
+W pewnym momencie wziąłem z hotelowego baru pomarańczowy sorbet. Był mocno zmrożony, pełen drobnych kawałków lodu, słodki i bardzo orzeźwiający — po prostu pyszny. Szczególnie dobrze smakował podczas odpoczynku na leżaku w upalny dzień.
+
+Przy basenie zostaliśmy niemal do lunchu. Po intensywnym poprzednim dniu taki wolniejszy rytm był bardzo potrzebny.
 
 #### Lunch
 
-Około 13:30 zeszliśmy znad basenu do hotelowej restauracji. Zjadłem rybę z ryżem i sałatką z warzyw. Na deser były lody.
+Około 13:30 poszliśmy do hotelowej restauracji na lunch. Zjadłem grillowaną rybę podaną w całości, ryż oraz sałatkę z warzyw. Na deser były lody; na zdjęciach zachowały się dwie porcje — różowa i jasnozielona.
 
 #### Odpoczynek i popołudnie na plaży
 
@@ -957,21 +961,37 @@ Po zakończeniu spotkania ustaliliśmy, że następnego dnia, w niedzielę rano,
 
 ### Wrażenia i obserwacje
 
-5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, lunch, popołudniowa plaża i wspólna kąpiel w bardzo ciepłym morzu pozwoliły zwolnić tempo i naprawdę wypocząć.
+5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, pomarańczowy sorbet z drobnym lodem, lunch, popołudniowa plaża i wspólna kąpiel w bardzo ciepłym morzu pozwoliły zwolnić tempo i naprawdę wypocząć.
+
+Codziennym, swojskim tłem hotelowej restauracji były koty. Raz łasiły się i spokojnie leżały w pobliżu stolików, innym razem bawiły się, kłóciły i głośno miauczały. Ich swobodna obecność w restauracji stała się jednym z charakterystycznych obrazów pobytu.
 
 Najbardziej charakterystycznym momentem dnia był wieczór. Wspólne siedzenie przy palmach na skraju plaży, rozmowy, śpiewanie i świętowanie imienin Beaty stworzyły bardzo swobodną i ciepłą atmosferę.
 
 ### Miejsca i wydarzenia
 
 - Club Palm Azur — cały dzień bez wyjazdów poza teren hotelu.
-- Restauracja hotelowa — śniadanie około 09:00, lunch około 13:30 oraz kolacja około 20:00.
-- Basen hotelowy — odpoczynek na leżakach i pływanie do lunchu.
+- Restauracja hotelowa — śniadanie około 09:00, hotelowe koty, lunch około 13:30 oraz kolacja około 20:00.
+- Basen hotelowy — odpoczynek na leżakach, pływanie oraz pomarańczowy sorbet z drobnym lodem.
 - Plaża hotelowa — popołudniowy pobyt i wspólna kąpiel dużej części grupy w bardzo ciepłym morzu; słońce było już nisko i chyliło się ku zachodowi.
 - Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm, imieniny Beaty, rozmowy, śpiewanie i toast; po spotkaniu ustaliliśmy niedzielne wyjście dla chętnych na wschód słońca.
 
 ### Zdjęcia, nagrania i materiały
 
-Z 5 września zachowała się seria zdjęć i filmów dokumentujących między innymi posiłki oraz wieczór spędzony w nadmorskiej części hotelu. Ostateczna selekcja reprezentatywnych materiałów pozostaje jeszcze do wykonania.
+Ponowny odczyt metadanych i zawartości pozwolił uporządkować serię z 5 września:
+
+- `IMG_1888.HEIC` i `IMG_1889.HEIC` — śniadanie, około 09:09;
+- `IMG_1890.HEIC` — rudy pręgowany kot odpoczywający na tapicerowanej ławie w restauracji, około 09:42;
+- `IMG_1894.HEIC`–`IMG_1898.HEIC` — leżaki, otoczenie basenu i pomarańczowy sorbet z drobnym lodem, około 11:03–11:37;
+- `IMG_1899.HEIC` — krótki powrót do pokoju przed lunchem, około 12:50;
+- `IMG_1900.HEIC`–`IMG_1902.HEIC` — lunch z rybą, ryżem i sałatką, około 13:33;
+- `IMG_1903.HEIC` i `IMG_1904.HEIC` — dwie porcje lodów po lunchu, około 13:54–14:00;
+- `IMG_1916.HEIC`–`IMG_1919.HEIC` — napoje, pizza i czekoladowe lody podczas kolacji, około 19:58–20:18;
+- `IMG_1921.HEIC`–`IMG_1923.HEIC` — wspólne wieczorne spotkanie przy plaży, około 21:53–22:02;
+- `IMG_1925.HEIC`–`IMG_1927.HEIC` — nocne palmy, plaża i końcowe selfie, około 22:55–23:00.
+
+Dwa filmy przesłane przez WhatsApp — `b6f82643-e765-42d7-9c92-4f840ca99807.MP4` i `b9ec6810-4d4a-4ad9-85a0-74f3c5840a43.MP4` — pokazują grupową kąpiel w morzu. Film `e9ae491b-1f27-4def-b60c-9d3c76a2ec0e.MP4` przedstawia hotelową plażę i palmy w niskim, wieczornym słońcu. WhatsApp usunął z tych plików wiarygodny czas wykonania, dlatego przypisanie opiera się na zgodności treści z relacją oraz z pozostałymi materiałami dnia.
+
+Kontrola metadanych potwierdziła również, że `IMG_1870.HEIC`–`IMG_1875.HEIC` pochodzą z wieczora 4 września, a nie z 5 września. Część zdjęć i filmów z 5 września występuje na Dysku w zdublowanych kopiach. Ostateczna minimalistyczna selekcja, nazwanie materiałów i ewentualne usunięcie duplikatów pozostają do osobnego zatwierdzenia.
 
 ## 6 września 2026
 
