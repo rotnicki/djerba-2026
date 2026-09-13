@@ -931,7 +931,7 @@ Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszli
 
 Przy basenie zostaliśmy aż do lunchu. Po intensywnym poprzednim dniu taki wolniejszy rytm był bardzo potrzebny.
 
-#### Około 13:30 — lunch
+#### Lunch
 
 Około 13:30 zeszliśmy znad basenu do hotelowej restauracji. Zjadłem rybę z ryżem i sałatką z warzyw. Na deser były lody.
 
@@ -941,7 +941,7 @@ Po lunchu trochę odpoczęliśmy, a później poszliśmy na hotelową plażę. T
 
 Była to moja ostatnia dłuższa kąpiel w morzu podczas tego wyjazdu, dlatego szczególnie zapamiętałem ją jako przyjemne, wspólne zakończenie naszych morskich kąpieli na Dżerbie.
 
-#### Około 20:00 — kolacja
+#### Kolacja
 
 Wieczorem poszliśmy na kolację do hotelowej restauracji. Zjadłem między innymi pizzę, a na deser czekoladowe lody.
 
