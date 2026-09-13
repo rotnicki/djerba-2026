@@ -919,35 +919,72 @@ Publikacja: do rozważenia
 
 #### Spokojny dzień w hotelu
 
-Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był ponownie spokojnym dniem spędzanym w hotelu, bez zwiedzania i bez wyjazdów. Rytmem przypominał 3 września: późniejszy poranek, śniadanie, basen i lunch.
+Po bardzo intensywnej wycieczce na Saharę poprzedniego dnia 5 września był spokojnym dniem spędzonym w Club Palm Azur, bez zwiedzania i bez wyjazdów. Większość dnia upłynęła na odpoczynku przy basenie i na plaży, a wieczór zakończyliśmy wspólnym spotkaniem przy palmach na skraju plaży.
 
 #### Poranek i śniadanie
 
-Obudziliśmy się bez pośpiechu, orientacyjnie około 09:00. Po przygotowaniu poszliśmy na śniadanie do hotelowej restauracji. Na tym etapie nie zapisuję dokładnej godziny ani szczegółów posiłku, ponieważ pamiętam je tylko orientacyjnie.
+Obudziliśmy się bez pośpiechu, orientacyjnie około 09:00. Po przygotowaniu poszliśmy na śniadanie do hotelowej restauracji. Nie pamiętam już dokładnie, co tego dnia jadłem na śniadanie, dlatego na razie pozostawiam ten fragment bez szczegółowego opisu potraw.
 
 #### Przedpołudnie przy basenie
 
-Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszliśmy na hotelowy basen. Usiedliśmy tam na leżakach i odpoczywaliśmy. Ja również trochę popływałem.
+Po śniadaniu, mniej więcej między 10:00 a 11:00, raczej bliżej 11:00, poszliśmy na hotelowy basen. Usiedliśmy na leżakach i odpoczywaliśmy, a ja również trochę popływałem.
 
-Był to spokojny, typowo basenowy fragment dnia, bez żadnego dodatkowego programu. Po intensywnym poprzednim dniu taki wolniejszy rytm był naturalnym odpoczynkiem.
+Przy basenie zostaliśmy aż do lunchu. Było to spokojne przedpołudnie bez dodatkowego programu, po prostu odpoczynek po długim i intensywnym poprzednim dniu.
 
-#### Lunch
+#### Około 13:30 — lunch
 
-Między 12:00 a 13:00, raczej bliżej 13:00, zeszliśmy znad basenu do hotelowej restauracji na lunch. Dokładny przebieg posiłku i potrawy uzupełnię później, jeżeli uda się je odtworzyć z pamięci albo materiałów z tego dnia.
+Około 13:30 zeszliśmy znad basenu do hotelowej restauracji. Pierwsze zdjęcia posiłku powstały około 13:33, dlatego wcześniejsze przybliżenie godziny lunchu można już skorygować.
+
+Na posiłek miałem między innymi rybę, ryż i sałatkę z warzyw. Na deser były lody. Zdjęcia deseru powstały około 13:53 i 14:00, więc lunch zakończył się mniej więcej w tym czasie.
+
+#### Odpoczynek i popołudnie na plaży
+
+Po lunchu trochę odpoczęliśmy. Później poszliśmy na hotelową plażę, gdzie spędziliśmy spokojną część popołudnia. Nie mam obecnie zdjęcia, które pozwalałoby pewnie ustalić godzinę tego wyjścia, dlatego nie próbuję jej doprecyzowywać.
+
+#### Około 20:00 — kolacja
+
+Wieczorem poszliśmy na kolację do hotelowej restauracji. Zdjęcia z tej części dnia zaczynają się około 19:58, więc kolację można umieścić około 20:00.
+
+Zjadłem między innymi pizzę. Na deser były czekoladowe lody. Przy stole mieliśmy również napoje, ale na podstawie zachowanych materiałów nie chcę zgadywać ich dokładnego rodzaju.
+
+#### Wieczór przy plaży i imieniny Beaty
+
+Po kolacji większą grupą poszliśmy w kierunku plaży. Usiedliśmy na jej skraju, wśród palm rosnących pomiędzy właściwym terenem hotelowym a piaszczystą plażą — w miejscu, które można roboczo nazwać palmowym „zagajnikiem”.
+
+Tego dnia były imieniny Beaty, dlatego spotkanie miało również charakter małego imieninowego świętowania. Siedzieliśmy razem, rozmawialiśmy, śpiewaliśmy i wznosiliśmy toast za Beatę. Był to bardzo swobodny, grupowy wieczór na świeżym powietrzu.
+
+Około 21:53–22:02 powstały zdjęcia pokazujące nasze wspólne siedzenie przy stolikach i leżakach w tej nadmorskiej części hotelu. Później, około 22:55–23:00, fotografowane były jeszcze nocna plaża i palmy. Oznacza to, że wieczór w tej części hotelu trwał co najmniej do około 23:00.
 
 ### Wrażenia i obserwacje
 
-Początek dnia był bardzo podobny do 3 września: bez pośpiechu, bez wycieczki i z większością czasu spędzoną przy hotelowym basenie. Różnica polegała przede wszystkim na tym, że 5 września był dniem odpoczynku bezpośrednio po długiej i intensywnej wycieczce na Saharę.
+5 września był przede wszystkim dniem odpoczynku po bardzo intensywnej wycieczce na Saharę. Basen, spokojny lunch, trochę odpoczynku i późniejsza plaża pozwoliły zwolnić tempo i naprawdę wypocząć.
+
+Najbardziej charakterystycznym elementem dnia okazał się jednak wieczór. Wspólne siedzenie przy palmach na skraju plaży, rozmowy, śpiewanie i świętowanie imienin Beaty stworzyły bardzo swobodną i sympatyczną atmosferę. Nocne palmy i plaża były naturalnym tłem dla końcówki tego spokojnego hotelowego dnia.
 
 ### Miejsca i wydarzenia
 
-- Club Palm Azur — spokojny dzień bez opuszczania hotelu w pierwszej części dnia.
-- Restauracja hotelowa — śniadanie po pobudce około 09:00 oraz lunch między 12:00 a 13:00, raczej bliżej 13:00.
-- Basen hotelowy — pobyt rozpoczęty orientacyjnie między 10:00 a 11:00, raczej bliżej 11:00; odpoczynek na leżakach i pływanie.
+- Club Palm Azur — cały dzień bez wyjazdów poza teren hotelu.
+- Restauracja hotelowa — śniadanie po pobudce około 09:00, lunch około 13:30 oraz kolacja około 20:00.
+- Basen hotelowy — pobyt rozpoczęty orientacyjnie między 10:00 a 11:00, raczej bliżej 11:00; odpoczynek na leżakach i pływanie aż do lunchu.
+- Lunch — ryba, ryż i sałatka z warzyw oraz lody na deser.
+- Plaża hotelowa — spokojny pobyt po krótkim odpoczynku po lunchu; dokładnej godziny nie ustalono.
+- Kolacja — pizza oraz czekoladowe lody na deser.
+- Nadmorska część hotelu — wieczorne wspólne siedzenie wśród palm na skraju plaży; imieniny Beaty, rozmowy, śpiewanie i toast.
+- Około 22:55–23:00 — nocne zdjęcia plaży i palm.
 
 ### Zdjęcia, nagrania i materiały
 
-Materiały z 5 września nie zostały jeszcze przeanalizowane pod kątem chronologii i selekcji reprezentatywnych zdjęć.
+Materiały z 5 września zostały częściowo przeanalizowane i pozwalają uporządkować chronologię drugiej części dnia. Rozpoznana seria oryginalnych zdjęć z iPhone’a obejmuje między innymi pliki `IMG_1900.HEIC`–`IMG_1927.HEIC`, z przerwami w numeracji. W folderze znajdują się również filmy, między innymi `IMG_1920.MOV`, `IMG_1924.MOV` i `IMG_1928.MOV`.
+
+Najważniejsze punkty chronologiczne wynikające z dotychczasowej analizy:
+
+- około 13:33 — lunch;
+- około 13:53–14:00 — deser po lunchu;
+- około 19:58–20:18 — kolacja;
+- około 21:53–22:02 — wspólne wieczorne siedzenie przy plaży i palmach;
+- około 22:55–23:00 — nocna plaża i palmy.
+
+Nie ma obecnie jednoznacznego zdjęcia dokumentującego popołudniowy pobyt na plaży, dlatego jego godziny pozostają bez doprecyzowania. Seria z 5 września nie została jeszcze poddana ostatecznej minimalistycznej selekcji ani przemianowaniu zgodnie z archiwalną konwencją.
 
 ## 6 września 2026
 
