@@ -40,6 +40,7 @@ Indeks będzie uzupełniany po dodaniu każdej transkrypcji. Dla każdego nagran
 ### Dodane transkrypcje
 
 - [`nagranie20260902_1.mp3`](nagranie20260902_1.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; objazd wyspy w stronę Guellali i postój przy meczecie.
+- [`nagranie20260902_2.mp3`](nagranie20260902_2.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; przejazd przez Guellalę i wizyta w showroomie ceramicznym.
 
 ## Szablon transkrypcji
 
