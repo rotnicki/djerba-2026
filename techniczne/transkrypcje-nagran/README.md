@@ -43,6 +43,7 @@ Indeks będzie uzupełniany po dodaniu każdej transkrypcji. Dla każdego nagran
 - [`nagranie20260902_2.mp3`](nagranie20260902_2.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; przejazd przez Guellalę i wizyta w showroomie ceramicznym.
 - [`nagranie20260902_3.mp3`](nagranie20260902_3.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; dojazd do Muzeum Guellala i opis panoramy wyspy.
 - [`nagranie20260902_4.mp3`](nagranie20260902_4.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; zwiedzanie Muzeum Guellala i ekspozycji dotyczącej życia rodzinnego, ślubów, religii oraz warunków społecznych.
+- [`nagranie20260902_5.mp3`](nagranie20260902_5.md) — 2 września 2026, godzina nieustalona; źródło: Beata; transkrypcja surowa, niezweryfikowana; przejazd do synagogi Al-Ghariba i informacje o społeczności żydowskiej, wierzeniach oraz życiu społecznym.
 
 ## Szablon transkrypcji
 
